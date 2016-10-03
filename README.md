@@ -10,6 +10,7 @@ A place where i upload my daily practice on Data Structure and Algorithm problem
 
 
 ###Leet code Problems
-| Problem | Solution |
-| :------------ | :----------: |
-| [1. Two Sum](https://leetcode.com/problems/two-sum/)| [#1 - Two Sum.playground](leet_code_problems/%231 - Two Sum.playground/Contents.swift)|
+
+| # | Title | Solution | Language | Difficulty |
+|---| ----- | -------- | ---------- | ---------- |
+|01| [Two Sum](https://leetcode.com/problems/two-sum/)| [#1 - Two Sum.playground](leet_code_problems/%231 - Two Sum.playground/Contents.swift)|Swift|Easy|
