@@ -14,3 +14,4 @@ A place where i upload my daily practice on Data Structure and Algorithm problem
 | # | Title | Solution | Language | Difficulty |
 |---| ----- | -------- | ---------- | ---------- |
 |01| [Two Sum](https://leetcode.com/problems/two-sum/)| [#1 - Two Sum.playground](leet_code_problems/%231 - Two Sum.playground/Contents.swift)|Swift|Easy|
+|02| [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)| [#2 - Add Two Numbers.playground](leet_code_problems/%232 - Add Two Numbers.playground/Contents.swift)|Swift|Medium|
