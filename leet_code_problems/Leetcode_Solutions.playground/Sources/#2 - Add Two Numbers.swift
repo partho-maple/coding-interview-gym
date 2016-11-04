@@ -18,8 +18,14 @@ public class ListNode {
 }
 
 
-class Solution_2 {
-    func addTwoNumbers(_ l1: ListNode?, _ l2: ListNode?) -> ListNode? {
+public class Solution_2 {
+    
+    public init() {
+        
+    }
+    
+    
+    public func addTwoNumbers(_ l1: ListNode?, _ l2: ListNode?) -> ListNode? {
         var dummyHead = ListNode(0)
         var p:ListNode? = l1
         var q:ListNode? = l2

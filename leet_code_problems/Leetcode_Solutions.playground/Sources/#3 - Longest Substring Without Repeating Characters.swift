@@ -14,8 +14,14 @@ extension Array where Element: Equatable {
     }
 }
 
-class Solution_3 {
-    func lengthOfLongestSubstring(_ s: String) -> Int {
+public class Solution_3 {
+    
+    public init() {
+        
+    }
+    
+    
+    public func lengthOfLongestSubstring(_ s: String) -> Int {
         let length = s.characters.count
         var stringArray:[Character] = Array(s.characters) as [Character]
         var traversedArray:[Character] = []

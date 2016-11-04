@@ -6,8 +6,14 @@ import UIKit
 
 
 
-class Solution_1 {
-    func twoSum(_ nums: [Int], _ target: Int) -> [Int] {
+public class Solution_1 {
+    
+    public init() {
+    
+    }
+    
+    
+    public func twoSum(_ nums: [Int], _ target: Int) -> [Int] {
         var firstIndex = 0
         var secondIndex = 0
         var resultArr = [0, 0]
@@ -34,9 +40,12 @@ class Solution_1 {
 }
 
 
-//let inputArr = [0,4,3,0]
-//let target = 0
-//var solution1 = Solution1()
-//    solution1.twoSum(inputArr, target)
 
 
+/*
+// Solution test code for: #1 - Two Sum
+let inputArr = [0,4,3,0]
+let target = 0
+var solution_1 : Solution_1 = Solution_1()
+solution_1.twoSum(inputArr, target)
+*/
