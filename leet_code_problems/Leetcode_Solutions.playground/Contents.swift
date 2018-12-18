@@ -5,26 +5,33 @@ import Foundation
 
 
 
-let n = 15
 
-var stringArr: [String] = []
+var inputArr: [Int] = [1,1,0,1,1,1]
+var count = 0
+var arrOfOnes: [Int] = []
 
-for index in 1...n {
-    if ((index % 3) == 0) && ((index % 5) == 0) {
-        stringArr.append("FizzBuzz")
-        print("FizzBuzz")
-    } else if ((index % 3) == 0) {
-        stringArr.append("Fizz")
-        print("Fizz")
-    } else if ((index % 5) == 0) {
-        stringArr.append("Buzz")
-        print("Buzz")
+for index in 0..<inputArr.count {
+    print(index)
+    print(inputArr[index])
+    
+
+    if inputArr[index] == 1 {
+        count += 1
+        
+        if index == (inputArr.count - 1) {
+            arrOfOnes.append(count)
+        }
     } else {
-        stringArr.append(String(index))
-        print(index)
+        arrOfOnes.append(count)
+        count = 0
     }
+    
+    print(count)
+    print("\n")
 }
+print(arrOfOnes)
 
+// Now sort arrOfOnes and get the biggest number. Use quicksort or merge sort.
 
 
 
