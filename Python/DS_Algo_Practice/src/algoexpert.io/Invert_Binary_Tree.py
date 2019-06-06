@@ -31,6 +31,7 @@ class BinaryTree:
 
 
 # Using iteration
+# O(n) time | O(n) space
 def invert_binary_tree(tree):
     queue = [tree]
     while len(queue):
@@ -40,6 +41,15 @@ def invert_binary_tree(tree):
         swap_left_and_right(current)
         queue.append(current.left)
         queue.append(current.right)
+
+# Using recursion
+# O(n) time | O(d) space
+def invert_binary_tree(tree):
+    if tree is None:
+        return
+    swap_left_and_right(tree)
+    invert_binary_tree(tree.left)
+    invert_binary_tree(tree.right)
 
 def swap_left_and_right(tree):
     tree.left, tree.right = tree.right, tree.left
