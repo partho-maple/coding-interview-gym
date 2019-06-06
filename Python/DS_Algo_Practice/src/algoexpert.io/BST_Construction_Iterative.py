@@ -51,7 +51,7 @@ class BST:
                 currentNode = currentNode.right
             else:
                 if currentNode.left is not None and currentNode.right is not None:
-                    currentNode.value = currentNode.right.getMinValue()
+                    currentNode.value = currentNode.right.getMinValue()  # currentNode.value = smallest value of the right subtree
                     currentNode.right.remove(currentNode.value, currentNode)
                 elif parentNode is None:
                     if currentNode.left is not None:

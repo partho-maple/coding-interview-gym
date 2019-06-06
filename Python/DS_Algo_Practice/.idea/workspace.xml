@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="159e3cc1-3e72-4af6-9247-cc14668f9fa9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/algoexpert.io/BST_Construction_Iterative.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/algoexpert.io/BST_Construction_Recursive.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/algoexpert.io/Invert_Binary_Tree.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/algoexpert.io/BST_Construction_Iterative.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/algoexpert.io/BST_Construction_Iterative.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -14,27 +14,22 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/algoexpert.io/BST_Construction_Recursive.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="12" selection-end-line="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/algoexpert.io/BST_Construction_Iterative.py">
+        <entry file="file://$PROJECT_DIR$/src/algoexpert.io/Invert_Binary_Tree.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="667">
-              <caret line="71" column="8" selection-start-line="71" selection-start-column="8" selection-end-line="71" selection-end-column="8" />
+            <state relative-caret-position="70">
+              <caret line="49" selection-start-line="49" selection-end-line="49" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/miscellaneous/BST_Search.py">
-          <provider selected="true" editor-type-id="text-editor" />
+        <entry file="file:///usr/local/Cellar/python/3.7.1/Frameworks/Python.framework/Versions/3.7/lib/python3.7/unittest/case.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="184">
+              <caret line="691" selection-start-line="691" selection-end-line="691" />
+            </state>
+          </provider>
         </entry>
       </file>
     </leaf>
@@ -58,6 +53,7 @@
         <option value="$PROJECT_DIR$/src/algoexpert.io/Smallest Difference.py" />
         <option value="$PROJECT_DIR$/src/algoexpert.io/BST_Construction.py" />
         <option value="$PROJECT_DIR$/src/algoexpert.io/BST_Construction_Iterative.py" />
+        <option value="$PROJECT_DIR$/src/algoexpert.io/Invert_Binary_Tree.py" />
       </list>
     </option>
   </component>
@@ -108,7 +104,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -122,8 +118,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Three_Number_Sum">
-    <configuration name="Find_Closest_Value_in_BST" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.Invert_Binary_Tree">
+    <configuration name="Invert_Binary_Tree" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="DS_Algo_Practice" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -135,28 +131,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/algoexpert.io/Find_Closest_Value_in_BST.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Nth_Fibonacci" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="DS_Algo_Practice" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/algoexpert.io" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/algoexpert.io/Nth_Fibonacci.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/algoexpert.io/Invert_Binary_Tree.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -207,12 +182,41 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="Unittests for Invert_Binary_Tree.TestProgram.test_case_6" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="DS_Algo_Practice" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/algoexpert.io" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;Invert_Binary_Tree.TestProgram.test_case_6&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests in Invert_Binary_Tree.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="DS_Algo_Practice" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/algoexpert.io" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/src/algoexpert.io/Invert_Binary_Tree.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Invert_Binary_Tree" />
+        <item itemvalue="Python tests.Unittests for Invert_Binary_Tree.TestProgram.test_case_6" />
+        <item itemvalue="Python tests.Unittests in Invert_Binary_Tree.py" />
         <item itemvalue="Python.Three_Number_Sum" />
         <item itemvalue="Python.Recursion_Practice" />
-        <item itemvalue="Python.Find_Closest_Value_in_BST" />
-        <item itemvalue="Python.Nth_Fibonacci" />
       </list>
     </recent_temporary>
   </component>
@@ -229,17 +233,28 @@
     </task>
     <servers />
   </component>
+  <component name="TestHistory">
+    <history-entry file="Unittests_in_Invert_Binary_Tree_py - 2019.06.06 at 20h 38m 35s.xml">
+      <configuration name="Unittests in Invert_Binary_Tree.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_Invert_Binary_Tree_py - 2019.06.06 at 20h 39m 29s.xml">
+      <configuration name="Unittests in Invert_Binary_Tree.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_Invert_Binary_Tree_TestProgram_test_case_6 - 2019.06.06 at 20h 39m 45s.xml">
+      <configuration name="Unittests for Invert_Binary_Tree.TestProgram.test_case_6" configurationId="tests" />
+    </history-entry>
+  </component>
   <component name="ToolWindowManager">
     <frame x="832" y="23" width="848" height="986" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2490931" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.2490931" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32997763" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39932886" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32997763" />
+      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.39932886" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -251,6 +266,22 @@
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/src/algoexpert.io/Invert_Binary_Tree.py</url>
+          <line>56</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/src/algoexpert.io/Invert_Binary_Tree.py</url>
+          <line>49</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/algoexpert.io/Nth_Fibonacci.py">
@@ -307,20 +338,41 @@
     <entry file="file://$PROJECT_DIR$/src/algoexpert.io/Binary_Search.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/miscellaneous/BST_Search.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/algoexpert.io/BST_Construction_Recursive.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="12" selection-end-line="1" />
+        <state relative-caret-position="262">
+          <caret line="36" column="14" lean-forward="true" selection-start-line="36" selection-start-column="14" selection-end-line="36" selection-end-column="14" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/algoexpert.io/BST_Construction_Iterative.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="667">
-          <caret line="71" column="8" selection-start-line="71" selection-start-column="8" selection-end-line="71" selection-end-column="8" />
+        <state relative-caret-position="352">
+          <caret line="50" column="45" selection-start-line="50" selection-start-column="45" selection-end-line="50" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/miscellaneous/BST_Search.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/algoexpert.io/Depth_First_Search.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="20" lean-forward="true" selection-start-line="14" selection-start-column="20" selection-end-line="14" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/local/Cellar/python/3.7.1/Frameworks/Python.framework/Versions/3.7/lib/python3.7/unittest/case.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="691" selection-start-line="691" selection-end-line="691" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/algoexpert.io/Invert_Binary_Tree.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="70">
+          <caret line="49" selection-start-line="49" selection-end-line="49" />
         </state>
       </provider>
     </entry>
