@@ -76,3 +76,6 @@ class BST:
         while currentNode.left is not None:
             currentNode = currentNode.left
         return currentNode.value
+
+
+

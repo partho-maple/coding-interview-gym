@@ -3,6 +3,8 @@
 
 import math
 
+# Iterative Solution
+# O(log(n)) time | O(1) space
 def binary_search(input_array, start_index, end_index, target_number):
 
     while end_index >=1:

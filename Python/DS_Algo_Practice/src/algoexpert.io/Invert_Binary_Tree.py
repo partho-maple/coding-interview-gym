@@ -33,6 +33,8 @@ class BinaryTree:
 # Using iteration
 # O(n) time | O(n) space
 def invert_binary_tree(tree):
+    # Here the parameter 'tree' is not likely the whole tree.
+    # It's the root node of the whole tree
     queue = [tree]
     while len(queue):
         current = queue.pop(0)
@@ -43,7 +45,7 @@ def invert_binary_tree(tree):
         queue.append(current.right)
 
 # Using recursion
-# O(n) time | O(d) space
+# O(n) time | O(d) space , here d = depth of the tree
 def invert_binary_tree(tree):
     if tree is None:
         return

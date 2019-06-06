@@ -1,3 +1,5 @@
+
+# O(n) time | O(1) space
 def find_three_largest_number(array):
     three_largest_number = [None, None, None]
     for num in array:
@@ -25,3 +27,5 @@ def shift_and_update(three_largest_number, number, index):
 given_numbers = [141, 1, 17, -7, -17, -27, 18, 541, 8, 7, 7]
 largest_numbers = find_three_largest_number(given_numbers)
 print("Largest numbers are: ", largest_numbers)
+
+

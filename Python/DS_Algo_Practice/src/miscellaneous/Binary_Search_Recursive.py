@@ -3,6 +3,8 @@
 
 import math
 
+# Recursive solution
+# O(log(n)) time | O(log(n)) space
 def binary_search(input_array, start_index, end_index, target_number):
 
     if end_index >= 1:

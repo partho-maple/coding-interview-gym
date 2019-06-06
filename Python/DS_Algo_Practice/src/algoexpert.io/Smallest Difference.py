@@ -1,6 +1,6 @@
 # https://www.algoexpert.io/questions/Smallest%20Difference
 
-
+# O(nlog(n) + mlon(m)) time | O(n) space
 def smallest_difference(array_one, array_two):
     array_one.sort()
     array_two.sort()

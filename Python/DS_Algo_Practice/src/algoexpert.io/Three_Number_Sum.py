@@ -1,5 +1,6 @@
 # https://www.algoexpert.io/questions/Three%20Number%20Sum
 
+# O(n^2) time | O(n) space
 def three_number_sum(array, targetSum):
     array.sort()
     triplates = []

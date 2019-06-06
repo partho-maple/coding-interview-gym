@@ -1,4 +1,9 @@
 
+
+
+# Best: O(n) time | O(1) space
+# Avarage: O(n^2) time | O(1) space
+# Worst: O(n^2) time | O(1) space
 def insersion_sort(array):
     for i in range(1, len(array)):
         j = i

@@ -1,4 +1,6 @@
 # https://www.algoexpert.io/questions/Linked%20List%20Construction
+# Write a class for a Doubly Linked List.
+
 class DoublyLinkedList:
 
     def __init__(self):
@@ -20,6 +22,7 @@ class DoublyLinkedList:
             return
         self.insert_after(self.tail, node)
 
+    # O(1) time | O(1) space
     def insert_before(self, node, node_to_insert):
         if node_to_insert == self.head and node_to_insert == self.tail:
             return
@@ -32,6 +35,7 @@ class DoublyLinkedList:
             node.prev.next = node_to_insert
         node.prev = node_to_insert
 
+    # O(1) time | O(1) space
     def insert_after(self, node, node_to_insert):
         if node_to_insert == self.head and node_to_insert == self.tail:
             return
@@ -44,6 +48,7 @@ class DoublyLinkedList:
             node.next.prev = node_to_insert
         node.next = node_to_insert
 
+    # O(p) time | O(1) space
     def insert_at_position(self, position, node_to_insert):
         if position == 1:
             self.set_head(node_to_insert)
@@ -58,6 +63,7 @@ class DoublyLinkedList:
         else:
             self.set_tail(node)
 
+    # O(n) time | O(1) space
     def remove_nodes_with_value(self, value):
         node = self.head
         while node is not None:
@@ -66,6 +72,7 @@ class DoublyLinkedList:
             if node_to_remove.value == value:
                 self.remove(node_to_remove)
 
+    # O(1) time | O(1) space
     def remove(self, node):
         if node == self.head:
             self.head = self.head.next
@@ -86,3 +93,7 @@ class DoublyLinkedList:
             node.next.prev = node.prev
         node.next = None
         node.prev = None
+
+
+
+

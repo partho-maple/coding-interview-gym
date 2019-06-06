@@ -1,6 +1,6 @@
 
-class BST:
 
+class BST:
     def __init__(self, value):
         self.value = value
         self.left = None
@@ -20,26 +20,29 @@ class BST:
         return self
 
 
-
 def findClosestValueInBst(tree, target):
     return findClosestValueInBstHelper(tree, target, float("inf"))
 
 # Solution 1 starts here
-# def findClosestValueInBstHelper(tree, target, closest):
-#     if tree is None:
-#         return closest
-#     if abs(target - closest) > abs(tree.value - target):
-#         closest = tree.value
-#     if target < tree.value:
-#         return findClosestValueInBstHelper(tree.left, target, closest)
-#     elif target > tree.value:
-#         return findClosestValueInBstHelper(tree.right, target, closest)
-#     else:
-#         return closest
+# Avarage: O(log(n)) time | O(log(n)) space
+# Worst: O(n) time | O(n) space
+def findClosestValueInBstHelper(tree, target, closest):
+    if tree is None:
+        return closest
+    if abs(target - closest) > abs(tree.value - target):
+        closest = tree.value
+    if target < tree.value:
+        return findClosestValueInBstHelper(tree.left, target, closest)
+    elif target > tree.value:
+        return findClosestValueInBstHelper(tree.right, target, closest)
+    else:
+        return closest
 # Solution 1 ends here
 
 # Solution 2 starts here
-def findClosestValueInBstHelper(tree, target, closest):
+# Avarage: O(log(n)) time | O(1) space
+# Worst: O(n) time | O() space
+def findClosestValueInBstHelper_2(tree, target, closest):
     current_node = tree
     while current_node is not None:
         if abs(target - closest) > abs(target - current_node.value):

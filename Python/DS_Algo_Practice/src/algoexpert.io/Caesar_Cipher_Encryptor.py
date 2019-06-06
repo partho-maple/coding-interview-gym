@@ -1,7 +1,7 @@
 # https://www.algoexpert.io/questions/Caesar%20Cipher%20Encryptor
 
 # Solution 1
-
+# O(n) time | O(n) space
 def caesar_cipher_encryptor(string, key):
     new_letters = []
     new_key = key % 26
@@ -12,3 +12,5 @@ def caesar_cipher_encryptor(string, key):
 def get_new_letter(letter, key):
     newLetterCode = ord(letter) + key
     return chr(newLetterCode) if newLetterCode <= 122 else chr(96 + newLetterCode % 122)
+
+

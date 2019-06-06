@@ -1,3 +1,4 @@
+
 class Node:
 
     def __init__(self, name):
@@ -8,6 +9,7 @@ class Node:
         self.children.append(Node(name))
         return self
 
+    # O(v + e) time | O(v) space
     def depth_first_search(self, array):
         array.append(self.name)
         for child in self.children:

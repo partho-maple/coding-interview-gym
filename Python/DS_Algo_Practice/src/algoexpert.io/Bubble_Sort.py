@@ -1,4 +1,7 @@
 
+# Best: O(n) time | O(1) space
+# Avarage: O(n^2) time | O(1) space
+# Worst: O(n^2) time | O(1) space
 def bubblesort(input_array):
     is_sorted = False
     counter = 0
@@ -14,3 +17,5 @@ def bubblesort(input_array):
 
 def swap(i, j, array):
     array[i], array[j] = array[j], array[i]
+
+
