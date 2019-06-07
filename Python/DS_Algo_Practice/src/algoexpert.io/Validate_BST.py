@@ -28,17 +28,34 @@ class BST:
 
 
 # Here the parameter 'tree' is the root node, not the whole tree
+# O(n) time | O(d) space , where 'd' is the depth of the tree.
 def validate_bst(tree):
     return validate_bst_helper(tree, float("-inf"), float("inf"))
 
 
 def validate_bst_helper(tree, min_value, max_value):
-    if tree is None:
+    if tree is None or tree.value is None:
         return True
-    if tree.value < min_value or tree.value >= max_value:
+
+    # Both of the following logic are correct.
+    # The main point here is,  min_value <= node.value < max_value
+    # if tree.value < min_value or tree.value >= max_value:
+    #     return False
+    if tree.value >= min_value or tree.value < max_value:
+        return True
+    else:
         return False
-    left_is_valid = validate_bst_helper(tree.left, min_value, tree.value)
-    right_is_valid = validate_bst_helper(tree.right, tree.value, max_value)
+
+    if tree.left is None:
+        left_is_valid = True
+    else:
+        left_is_valid = validate_bst_helper(tree.left, min_value, tree.value)
+
+    if tree.right is None:
+        right_is_valid = True
+    else:
+        right_is_valid = validate_bst_helper(tree.right, tree.value, max_value)
+
     return left_is_valid and right_is_valid
 
 
