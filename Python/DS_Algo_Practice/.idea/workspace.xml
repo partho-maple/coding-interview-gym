@@ -2,21 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="159e3cc1-3e72-4af6-9247-cc14668f9fa9" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/algoexpert.io/BST_Construction_Iterative.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/algoexpert.io/BST_Construction_Iterative.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/algoexpert.io/Bubble_Sort.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/algoexpert.io/Bubble_Sort.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/algoexpert.io/Caesar_Cipher_Encryptor.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/algoexpert.io/Caesar_Cipher_Encryptor.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/algoexpert.io/Depth_First_Search.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/algoexpert.io/Depth_First_Search.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/algoexpert.io/Find_Closest_Value_in_BST.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/algoexpert.io/Find_Closest_Value_in_BST.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/algoexpert.io/Find_Three_Largest_Number.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/algoexpert.io/Find_Three_Largest_Number.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/algoexpert.io/Insertion_Sort.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/algoexpert.io/Insertion_Sort.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/algoexpert.io/Invert_Binary_Tree.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/algoexpert.io/Invert_Binary_Tree.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/algoexpert.io/Linked_List_Construction.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/algoexpert.io/Linked_List_Construction.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/algoexpert.io/Smallest Difference.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/algoexpert.io/Smallest Difference.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/algoexpert.io/Three_Number_Sum.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/algoexpert.io/Three_Number_Sum.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/algoexpert.io/Two_Number_Sum.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/algoexpert.io/Two_Number_Sum.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/miscellaneous/Binary_Search_Iterative.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/miscellaneous/Binary_Search_Iterative.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/miscellaneous/Binary_Search_Recursive.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/miscellaneous/Binary_Search_Recursive.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/algoexpert.io/Selection_Sort.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/algoexpert.io/Selection_Sort.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -26,20 +12,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/miscellaneous/Binary_Search_Recursive.py">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/algoexpert.io/Selection_Sort.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="19" column="17" lean-forward="true" selection-start-line="19" selection-start-column="17" selection-end-line="19" selection-end-column="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/algoexpert.io/Find_Three_Largest_Number.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="465">
-              <caret line="31" selection-start-line="31" selection-end-line="31" />
+            <state relative-caret-position="210">
+              <caret line="14" column="29" lean-forward="true" selection-start-line="14" selection-start-column="29" selection-end-line="14" selection-end-column="29" />
             </state>
           </provider>
         </entry>
@@ -47,67 +24,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/algoexpert.io/Bubble_Sort.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
-              <caret line="1" selection-start-line="1" selection-end-line="3" selection-end-column="33" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/algoexpert.io/Insertion_Sort.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="16" column="15" selection-start-line="16" selection-start-column="15" selection-end-line="16" selection-end-column="15" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/algoexpert.io/Palindrom_Check.py">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/algoexpert.io/Caesar_Cipher_Encryptor.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="16" selection-start-line="16" selection-end-line="16" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/algoexpert.io/Three_Number_Sum.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="375">
-              <caret line="25" column="14" lean-forward="true" selection-start-line="25" selection-start-column="14" selection-end-line="25" selection-end-column="14" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/algoexpert.io/Smallest Difference.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="19" lean-forward="true" selection-start-column="19" selection-end-column="19" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/algoexpert.io/BST_Construction_Iterative.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="40" column="42" lean-forward="true" selection-start-line="40" selection-start-column="42" selection-end-line="40" selection-end-column="42" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/algoexpert.io/BST_Construction_Recursive.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="540">
-              <caret line="36" column="14" lean-forward="true" selection-start-line="36" selection-start-column="14" selection-end-line="36" selection-end-column="14" />
+            <state relative-caret-position="255">
+              <caret line="17" selection-start-line="17" selection-end-line="18" selection-end-column="43" />
             </state>
           </provider>
         </entry>
@@ -144,6 +62,7 @@
         <option value="$PROJECT_DIR$/src/algoexpert.io/Three_Number_Sum.py" />
         <option value="$PROJECT_DIR$/src/algoexpert.io/Smallest Difference.py" />
         <option value="$PROJECT_DIR$/src/algoexpert.io/BST_Construction_Iterative.py" />
+        <option value="$PROJECT_DIR$/src/algoexpert.io/Selection_Sort.py" />
       </list>
     </option>
   </component>
@@ -338,7 +257,7 @@
     <frame x="833" y="23" width="847" height="986" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.2490931" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24818403" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -448,13 +367,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/algoexpert.io/Bubble_Sort.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" selection-start-line="1" selection-end-line="3" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/algoexpert.io/Insertion_Sort.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
@@ -496,7 +408,21 @@
     <entry file="file://$PROJECT_DIR$/src/algoexpert.io/BST_Construction_Iterative.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
-          <caret line="40" column="42" lean-forward="true" selection-start-line="40" selection-start-column="42" selection-end-line="40" selection-end-column="42" />
+          <caret line="40" column="22" lean-forward="true" selection-start-line="40" selection-start-column="22" selection-end-line="40" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/algoexpert.io/Bubble_Sort.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" selection-start-line="17" selection-end-line="18" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/algoexpert.io/Selection_Sort.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="29" lean-forward="true" selection-start-line="14" selection-start-column="29" selection-end-line="14" selection-end-column="29" />
         </state>
       </provider>
     </entry>
