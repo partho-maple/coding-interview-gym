@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="159e3cc1-3e72-4af6-9247-cc14668f9fa9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/algoexpert.io/BST_Traversal.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/algoexpert.io/Maximum_Subset_Sum_With_No_Adjacent_Element.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/algoexpert.io/Validate_BST.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/algoexpert.io/Validate_BST.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -14,47 +13,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/algoexpert.io/Validate_BST.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="423">
-              <caret line="66" selection-start-line="61" selection-end-line="66" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/algoexpert.io/BST_Traversal.py">
+        <entry file="file://$PROJECT_DIR$/src/algoexpert.io/Maximum_Subset_Sum_With_No_Adjacent_Element.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="684">
-              <caret line="46" selection-start-line="46" selection-end-line="46" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/algoexpert.io/BST_Construction_Iterative.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-361">
-              <caret line="8" selection-start-line="8" selection-end-line="25" selection-end-column="19" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/algoexpert.io/BST_Construction_Recursive.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" column="4" selection-start-line="8" selection-start-column="4" selection-end-line="19" selection-end-column="19" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/algoexpert.io/Find_Closest_Value_in_BST.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1">
-              <caret line="18" column="4" lean-forward="true" selection-start-line="18" selection-start-column="4" selection-end-line="18" selection-end-column="4" />
+            <state relative-caret-position="180">
+              <caret line="12" column="57" selection-start-line="12" selection-start-column="57" selection-end-line="12" selection-end-column="57" />
             </state>
           </provider>
         </entry>
@@ -94,6 +57,7 @@
         <option value="$PROJECT_DIR$/src/algoexpert.io/Selection_Sort.py" />
         <option value="$PROJECT_DIR$/src/algoexpert.io/Validate_BST.py" />
         <option value="$PROJECT_DIR$/src/algoexpert.io/BST_Traversal.py" />
+        <option value="$PROJECT_DIR$/src/algoexpert.io/Maximum_Subset_Sum_With_No_Adjacent_Element.py" />
       </list>
     </option>
   </component>
@@ -466,8 +430,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/algoexpert.io/BST_Traversal.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="684">
-          <caret line="46" selection-start-line="46" selection-end-line="46" />
+        <state relative-caret-position="129">
+          <caret line="9" column="29" selection-start-line="9" selection-start-column="29" selection-end-line="9" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/algoexpert.io/Maximum_Subset_Sum_With_No_Adjacent_Element.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="57" selection-start-line="12" selection-start-column="57" selection-end-line="12" selection-end-column="57" />
         </state>
       </provider>
     </entry>
