@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="159e3cc1-3e72-4af6-9247-cc14668f9fa9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/algoexpert.io/Number_Of_Ways_To_Make_Changes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/algoexpert.io/Minimum_Number_Of_Coins_For_Change.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/algoexpert.io/Number_Of_Ways_To_Make_Changes.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/algoexpert.io/Number_Of_Ways_To_Make_Changes.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -13,11 +14,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/algoexpert.io/Number_Of_Ways_To_Make_Changes.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
-              <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+            <state relative-caret-position="45">
+              <caret line="3" selection-start-line="3" selection-end-line="4" selection-end-column="56" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/algoexpert.io/Minimum_Number_Of_Coins_For_Change.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="10" column="19" selection-start-line="10" selection-start-column="19" selection-end-line="10" selection-end-column="19" />
             </state>
           </provider>
         </entry>
@@ -59,13 +69,14 @@
         <option value="$PROJECT_DIR$/src/algoexpert.io/BST_Traversal.py" />
         <option value="$PROJECT_DIR$/src/algoexpert.io/Maximum_Subset_Sum_With_No_Adjacent_Element.py" />
         <option value="$PROJECT_DIR$/src/algoexpert.io/Number_Of_Ways_To_Make_Changes.py" />
+        <option value="$PROJECT_DIR$/src/algoexpert.io/Minimum_Number_Of_Coins_For_Change.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="833" />
+    <option name="x" value="852" />
     <option name="y" value="23" />
-    <option name="width" value="847" />
+    <option name="width" value="828" />
     <option name="height" value="986" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -109,6 +120,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RunDashboard">
@@ -123,7 +135,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Validate_BST">
+  <component name="RunManager" selected="Python.Minimum_Number_Of_Coins_For_Change">
     <configuration name="Invert_Binary_Tree" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="DS_Algo_Practice" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -137,6 +149,27 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/algoexpert.io/Invert_Binary_Tree.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Minimum_Number_Of_Coins_For_Change" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="DS_Algo_Practice" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/algoexpert.io" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/algoexpert.io/Minimum_Number_Of_Coins_For_Change.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -201,27 +234,13 @@
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Unittests in Invert_Binary_Tree.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
-      <module name="DS_Algo_Practice" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/algoexpert.io" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;$PROJECT_DIR$/src/algoexpert.io/Invert_Binary_Tree.py&quot;" />
-      <option name="_new_targetType" value="&quot;PATH&quot;" />
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Minimum_Number_Of_Coins_For_Change" />
         <item itemvalue="Python.Validate_BST" />
         <item itemvalue="Python.Two_Number_Sum" />
         <item itemvalue="Python.Invert_Binary_Tree" />
         <item itemvalue="Python tests.Unittests for Invert_Binary_Tree.TestProgram.test_case_6" />
-        <item itemvalue="Python tests.Unittests in Invert_Binary_Tree.py" />
       </list>
     </recent_temporary>
   </component>
@@ -250,16 +269,16 @@
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="833" y="23" width="847" height="986" extended-state="0" />
+    <frame x="852" y="23" width="828" height="986" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24818403" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24783148" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3053961" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39932886" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3053961" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39839265" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -279,6 +298,11 @@
           <url>file://$PROJECT_DIR$/src/algoexpert.io/Invert_Binary_Tree.py</url>
           <line>63</line>
           <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/src/algoexpert.io/Minimum_Number_Of_Coins_For_Change.py</url>
+          <line>3</line>
+          <option name="timeStamp" value="6" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
@@ -445,8 +469,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/algoexpert.io/Number_Of_Ways_To_Make_Changes.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+        <state relative-caret-position="45">
+          <caret line="3" selection-start-line="3" selection-end-line="4" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/algoexpert.io/Minimum_Number_Of_Coins_For_Change.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="19" selection-start-line="10" selection-start-column="19" selection-end-line="10" selection-end-column="19" />
         </state>
       </provider>
     </entry>
