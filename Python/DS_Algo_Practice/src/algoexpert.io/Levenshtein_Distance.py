@@ -33,7 +33,7 @@ def levenshtein_distance(str1, str2):
             previous_edits = odd_edits
         current_edits[0] = i
         for j in range(1, len(big) + 1):
-            if big[i - 1] == small[j - 1]
+            if big[i - 1] == small[j - 1]:
                 current_edits[j] = previous_edits[j - 1]
             else:
                 current_edits[j] = 1 + min(previous_edits[j - 1], previous_edits[j], current_edits[j - 1])
