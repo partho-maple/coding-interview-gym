@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="159e3cc1-3e72-4af6-9247-cc14668f9fa9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/algoexpert.io/Levenshtein_Distance.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/algoexpert.io/Levenshtein_Distance.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/algoexpert.io/Levenshtein_Distance.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -34,8 +33,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/algoexpert.io/Levenshtein_Distance.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="4" selection-start-line="2" selection-start-column="4" selection-end-line="2" selection-end-column="4" />
+            <state relative-caret-position="407">
+              <caret line="39" column="64" selection-start-line="39" selection-start-column="64" selection-end-line="39" selection-end-column="64" />
             </state>
           </provider>
         </entry>
@@ -286,7 +285,7 @@
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3053961" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3053961" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39839265" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -492,8 +491,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/algoexpert.io/Levenshtein_Distance.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="4" selection-start-line="2" selection-start-column="4" selection-end-line="2" selection-end-column="4" />
+        <state relative-caret-position="407">
+          <caret line="39" column="64" selection-start-line="39" selection-start-column="64" selection-end-line="39" selection-end-column="64" />
         </state>
       </provider>
     </entry>
