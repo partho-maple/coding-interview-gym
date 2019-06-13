@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="159e3cc1-3e72-4af6-9247-cc14668f9fa9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/algoexpert.io/Single_Cycle_Check.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/algoexpert.io/Breadth_First_Search.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/algoexpert.io/Single_Cycle_Check.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/algoexpert.io/Single_Cycle_Check.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -11,13 +12,25 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FavoritesManager">
+    <favorites_list name="DS_Algo_Practice" />
+  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/algoexpert.io/Single_Cycle_Check.py">
+        <entry file="file://$PROJECT_DIR$/src/algoexpert.io/Breadth_First_Search.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+            <state relative-caret-position="225">
+              <caret line="15" column="98" selection-start-line="15" selection-start-column="98" selection-end-line="15" selection-end-column="98" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/algoexpert.io/Depth_First_Search.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="11" column="3" lean-forward="true" selection-start-line="11" selection-start-column="3" selection-end-line="11" selection-end-column="32" />
             </state>
           </provider>
         </entry>
@@ -63,13 +76,14 @@
         <option value="$PROJECT_DIR$/src/algoexpert.io/Levenshtein_Distance.py" />
         <option value="$PROJECT_DIR$/src/algoexpert.io/Kadane's_Algorithm.py" />
         <option value="$PROJECT_DIR$/src/algoexpert.io/Single_Cycle_Check.py" />
+        <option value="$PROJECT_DIR$/src/algoexpert.io/Breadth_First_Search.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="1014" />
+    <option name="x" value="667" />
     <option name="y" value="23" />
-    <option name="width" value="666" />
+    <option name="width" value="1013" />
     <option name="height" value="986" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -269,15 +283,15 @@
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="1014" y="23" width="666" height="986" extended-state="0" />
+    <frame x="667" y="23" width="1013" height="986" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.24651162" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.3125" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info id="Favorites" order="2" side_tool="true" weight="0.32919255" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.29621124" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.29621124" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39839265" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -481,13 +495,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/algoexpert.io/Depth_First_Search.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="27" selection-start-line="15" selection-start-column="27" selection-end-line="15" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/algoexpert.io/BST_Traversal.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-70">
@@ -497,8 +504,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/algoexpert.io/Single_Cycle_Check.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+        <state relative-caret-position="309">
+          <caret line="24" column="23" lean-forward="true" selection-start-line="24" selection-start-column="23" selection-end-line="24" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/algoexpert.io/Depth_First_Search.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="3" lean-forward="true" selection-start-line="11" selection-start-column="3" selection-end-line="11" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/algoexpert.io/Breadth_First_Search.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="98" selection-start-line="15" selection-start-column="98" selection-end-line="15" selection-end-column="98" />
         </state>
       </provider>
     </entry>
