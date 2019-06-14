@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="159e3cc1-3e72-4af6-9247-cc14668f9fa9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/algoexpert.io/River_Sizes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/algoexpert.io/Youngest_Common_Ancestor.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -16,11 +16,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/algoexpert.io/River_Sizes.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="3" column="26" selection-start-line="3" selection-start-column="26" selection-end-line="3" selection-end-column="26" />
+            <state relative-caret-position="570">
+              <caret line="38" column="15" selection-start-line="38" selection-start-column="15" selection-end-line="38" selection-end-column="15" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/algoexpert.io/Youngest_Common_Ancestor.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="9" column="9" lean-forward="true" selection-start-line="9" selection-start-column="9" selection-end-line="9" selection-end-column="9" />
             </state>
           </provider>
         </entry>
@@ -68,13 +77,14 @@
         <option value="$PROJECT_DIR$/src/algoexpert.io/Single_Cycle_Check.py" />
         <option value="$PROJECT_DIR$/src/algoexpert.io/Breadth_First_Search.py" />
         <option value="$PROJECT_DIR$/src/algoexpert.io/River_Sizes.py" />
+        <option value="$PROJECT_DIR$/src/algoexpert.io/Youngest_Common_Ancestor.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="715" />
+    <option name="x" value="913" />
     <option name="y" value="23" />
-    <option name="width" value="965" />
+    <option name="width" value="767" />
     <option name="height" value="986" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -274,7 +284,7 @@
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="927" y="23" width="753" height="986" extended-state="0" />
+    <frame x="913" y="23" width="767" height="986" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" weight="0.3125" />
@@ -282,7 +292,7 @@
       <window_info id="Favorites" order="2" side_tool="true" weight="0.32919255" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.29621124" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.29621124" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39839265" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -516,8 +526,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/algoexpert.io/River_Sizes.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="26" selection-start-line="3" selection-start-column="26" selection-end-line="3" selection-end-column="26" />
+        <state relative-caret-position="570">
+          <caret line="38" column="15" selection-start-line="38" selection-start-column="15" selection-end-line="38" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/algoexpert.io/Youngest_Common_Ancestor.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="9" lean-forward="true" selection-start-line="9" selection-start-column="9" selection-end-line="9" selection-end-column="9" />
         </state>
       </provider>
     </entry>
