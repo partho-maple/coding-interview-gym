@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="159e3cc1-3e72-4af6-9247-cc14668f9fa9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/algoexpert.io/Permutations.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/algoexpert.io/Powerset.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -16,11 +16,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/algoexpert.io/Permutations.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" column="14" selection-start-line="8" selection-start-column="14" selection-end-line="8" selection-end-column="14" />
+            <state relative-caret-position="105">
+              <caret line="7" column="21" lean-forward="true" selection-start-line="7" selection-start-column="21" selection-end-line="7" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/algoexpert.io/Powerset.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="435">
+              <caret line="29" selection-start-line="29" selection-end-line="29" />
             </state>
           </provider>
         </entry>
@@ -72,13 +81,14 @@
         <option value="$PROJECT_DIR$/src/algoexpert.io/Min_Heap_Construction.py" />
         <option value="$PROJECT_DIR$/src/algoexpert.io/Remove_Kth_Node_From_End.py" />
         <option value="$PROJECT_DIR$/src/algoexpert.io/Permutations.py" />
+        <option value="$PROJECT_DIR$/src/algoexpert.io/Powerset.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="1057" />
+    <option name="x" value="781" />
     <option name="y" value="23" />
-    <option name="width" value="623" />
+    <option name="width" value="899" />
     <option name="height" value="986" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -88,7 +98,31 @@
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
-    <panes />
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="DS_Algo_Practice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DS_Algo_Practice" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DS_Algo_Practice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DS_Algo_Practice" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DS_Algo_Practice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DS_Algo_Practice" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="algoexpert.io" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
@@ -248,10 +282,10 @@
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="1057" y="23" width="623" height="986" extended-state="0" />
+    <frame x="781" y="23" width="899" height="986" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.31233245" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3120729" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" weight="0.32919255" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -518,8 +552,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/algoexpert.io/Permutations.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="14" selection-start-line="8" selection-start-column="14" selection-end-line="8" selection-end-column="14" />
+        <state relative-caret-position="105">
+          <caret line="7" column="21" lean-forward="true" selection-start-line="7" selection-start-column="21" selection-end-line="7" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/algoexpert.io/Powerset.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="29" selection-start-line="29" selection-end-line="29" />
         </state>
       </provider>
     </entry>
