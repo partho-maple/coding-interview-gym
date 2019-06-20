@@ -13,11 +13,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/algoexpert.io/Longest_Palindromic_Substring.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="620">
-              <caret line="44" column="43" selection-start-line="44" selection-start-column="43" selection-end-line="44" selection-end-column="43" />
+            <state relative-caret-position="164">
+              <caret line="12" column="18" lean-forward="true" selection-start-line="12" selection-start-column="18" selection-end-line="12" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/algoexpert.io/Suffix_Trie_Construction.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="315">
+              <caret line="21" column="31" selection-start-line="21" selection-start-column="31" selection-end-line="21" selection-end-column="31" />
             </state>
           </provider>
         </entry>
@@ -74,13 +83,14 @@
         <option value="$PROJECT_DIR$/src/algoexpert.io/Min_Max_Stack_Construction.py" />
         <option value="$PROJECT_DIR$/src/algoexpert.io/Balanced_Bracket.py" />
         <option value="$PROJECT_DIR$/src/algoexpert.io/Longest_Palindromic_Substring.py" />
+        <option value="$PROJECT_DIR$/src/algoexpert.io/Suffix_Trie_Construction.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="795" />
+    <option name="x" value="1044" />
     <option name="y" value="23" />
-    <option name="width" value="885" />
+    <option name="width" value="636" />
     <option name="height" value="986" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -274,10 +284,10 @@
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="1071" y="23" width="609" height="986" extended-state="0" />
+    <frame x="1044" y="23" width="636" height="986" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.30952382" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.43842363" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" weight="0.32919255" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -579,8 +589,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/algoexpert.io/Longest_Palindromic_Substring.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="620">
-          <caret line="44" column="43" selection-start-line="44" selection-start-column="43" selection-end-line="44" selection-end-column="43" />
+        <state relative-caret-position="164">
+          <caret line="12" column="18" lean-forward="true" selection-start-line="12" selection-start-column="18" selection-end-line="12" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/algoexpert.io/Suffix_Trie_Construction.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="31" selection-start-line="21" selection-start-column="31" selection-end-line="21" selection-end-column="31" />
         </state>
       </provider>
     </entry>
