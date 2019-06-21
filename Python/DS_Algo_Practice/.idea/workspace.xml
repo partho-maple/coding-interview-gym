@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="159e3cc1-3e72-4af6-9247-cc14668f9fa9" name="Default Changelist" comment="" />
+    <list default="true" id="159e3cc1-3e72-4af6-9247-cc14668f9fa9" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/src/algoexpert.io/Suffix_Trie_Construction.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/algoexpert.io/Suffix_Trie_Construction.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,8 +27,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/algoexpert.io/Suffix_Trie_Construction.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="21" column="31" selection-start-line="21" selection-start-column="31" selection-end-line="21" selection-end-column="31" />
+            <state relative-caret-position="260">
+              <caret line="21" column="1" lean-forward="true" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -88,9 +90,9 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="1044" />
+    <option name="x" value="498" />
     <option name="y" value="23" />
-    <option name="width" value="636" />
+    <option name="width" value="1182" />
     <option name="height" value="986" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -284,10 +286,9 @@
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="1044" y="23" width="636" height="986" extended-state="0" />
-    <editor active="true" />
+    <frame x="498" y="23" width="1182" height="986" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.43842363" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.43841517" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" weight="0.32919255" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -596,8 +597,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/algoexpert.io/Suffix_Trie_Construction.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="21" column="31" selection-start-line="21" selection-start-column="31" selection-end-line="21" selection-end-column="31" />
+        <state relative-caret-position="260">
+          <caret line="21" column="1" lean-forward="true" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
         </state>
       </provider>
     </entry>
