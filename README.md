@@ -3,7 +3,7 @@
 A place where I upload my daily practice on Data Structure and Algorithm problems. All are written on Swift and Python.
 
 
-###LeetCode.com Problems
+######  LeetCode.com Problems
 
 | # | Problem | Code |
 |---| ----- | -------- |
@@ -12,15 +12,15 @@ A place where I upload my daily practice on Data Structure and Algorithm problem
 |03| [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)| [Swift](leetcode.com/swift/%233%20-%20Longest%20Substring%20Without%20Repeating%20Characters.swift)|
 
 
-###AlgoExpert.io Problems
+######   AlgoExpert.io Problems
 | # | Problem | Code |
 |---| ----- | -------- |
-|01| [Balanced Bracket]()| [Python](algoexpert.io/python/Balanced_Bracket.py)|
+|01| Balanced Bracket| [Python](algoexpert.io/python/Balanced_Bracket.py)|
 
 
-###Miscellaneous Problems
+######   Miscellaneous Problems
 | # | Problem | Code |
 |---| ----- | -------- |
-|01| [BST Search]()| [Python](miscellaneous/python/BST_Search.py)|
+|01| BST Search| [Python](miscellaneous/python/BST_Search.py)|
 
 
