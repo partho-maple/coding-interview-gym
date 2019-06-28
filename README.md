@@ -1,22 +1,26 @@
 ## Data Structure and Algorithms Problems Using Swift and Python
 
-A place where i upload my daily practice on Data Structure and Algorithm problems. All are written on Swift Playground and Python.
-
-<center>
-
-![alt tag](https://raw.githubusercontent.com/mandliya/algorithms_and_ds_playground/master/image.jpg)
-
-</center>
+A place where I upload my daily practice on Data Structure and Algorithm problems. All are written on Swift and Python.
 
 
-###LeetCode Problems
+###LeetCode.com Problems
 
-| # | Title | Solution | Language | Difficulty |
-|---| ----- | -------- | ---------- | ---------- |
-|01| [Two Sum](https://leetcode.com/problems/two-sum/)| [#1 - Two Sum.swift](leet_code_problems/Leetcode_Solutions.playground/Sources/%231 - Two Sum.swift)|Swift|Easy|
-|02| [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)| [#2 - Add Two Numbers.swift](leet_code_problems/Leetcode_Solutions.playground/Sources/%232 - Add Two Numbers.swift)|Swift|Medium|
-|03| [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)| [#3 - Longest Substring Without Repeating Characters](leet_code_problems/Leetcode_Solutions.playground/Sources/%232 - Longest Substring Without Repeating Characters)|Swift|Medium|
+| # | Problem | Code |
+|---| ----- | -------- |
+|01| [Two Sum](https://leetcode.com/problems/two-sum/)| [Python](leetcode.com/python/%231%20-%20Two%20Sum.py), [Swift](leetcode.com/swift/%231%20-%20Two%20Sum.swift)|
+|02| [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)| [Swift](leetcode.com/swift/%232%20-%20Add%20Two%20Numbers.swift)|
+|03| [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)| [Swift](leetcode.com/swift/%233%20-%20Longest%20Substring%20Without%20Repeating%20Characters.swift)|
 
 
 ###AlgoExpert.io Problems
+| # | Problem | Code |
+|---| ----- | -------- |
+|01| [Balanced Bracket]()| [Python](algoexpert.io/python/Balanced_Bracket.py)|
+
+
+###Miscellaneous Problems
+| # | Problem | Code |
+|---| ----- | -------- |
+|01| [BST Search]()| [Python](miscellaneous/python/BST_Search.py)|
+
 
