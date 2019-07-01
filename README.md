@@ -7,20 +7,91 @@ A place where I upload my daily practice on Data Structure and Algorithm problem
 
 | # | Problem | Code |
 |---| ----- | -------- |
-|01| [Two Sum](https://leetcode.com/problems/two-sum/)| [Python](leetcode.com/python/%231%20-%20Two%20Sum.py), [Swift](leetcode.com/swift/%231%20-%20Two%20Sum.swift)|
-|02| [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)| [Swift](leetcode.com/swift/%232%20-%20Add%20Two%20Numbers.swift)|
-|03| [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)| [Swift](leetcode.com/swift/%233%20-%20Longest%20Substring%20Without%20Repeating%20Characters.swift)|
+|01| [#1 - Two Sum.swift](https://leetcode.com/problems/two-sum/)| [Python](leetcode.com/python/%231%20-%20Two%20Sum.py), [Swift](leetcode.com/swift/%231%20-%20Two%20Sum.swift)|
+|02| [#2 - Add Two Numbers.swift](https://leetcode.com/problems/add-two-numbers/)| [Swift](leetcode.com/swift/%232%20-%20Add%20Two%20Numbers.swift)|
+|03| [#3 - Longest Substring Without Repeating Characters.swift](https://leetcode.com/problems/longest-substring-without-repeating-characters/)| [Swift](leetcode.com/swift/%233%20-%20Longest%20Substring%20Without%20Repeating%20Characters.swift)|
+|04| [#485 - Max Consecutive Ones.swift](https://leetcode.com/problems/max-consecutive-ones/)| [Swift](leetcode.com/swift/%23485%20-%20Max%20Consecutive%20Ones.swift)|
+|05| [#476 - Number Complement.swift](https://leetcode.com/problems/number-complement/)| [Swift](leetcode.com/swift/%23476%20-%20Number%20Complement.swift)|
+|06| [#461 - Hamming Distance.swift](https://leetcode.com/problems/hamming-distance/)| [Swift](leetcode.com/swift/%23461%20-%20Hamming%20Distance.swift)|
+|07| [#412 - Fizz Buzz.swift](https://leetcode.com/problems/fizz-buzz/)| [Swift](leetcode.com/swift/%23412%20-%20Fizz%20Buzz.swift)|
+|08| [#937 - Reorder Log Files](https://leetcode.com/problems/reorder-log-files/)| [Python](leetcode.com/python/%23937%20-%20Reorder%20Log%20Files.py)|
+|09| [#929 - Unique Email Addresses]()| [Python](leetcode.com/python/%23929%20-%20Unique%20Email%20Addresses.py)|
+|10| [#9 - Palindrome Number]()| [Python](leetcode.com/python/%239%20-%20Palindrome%20Number.py)|
+|11| [#88 - Merge Sorted Array]()| [Python](leetcode.com/python/%2388%20-%20Merge%20Sorted%20Array.py)|
+|12| [#811 - Subdomain Visit Count]()| [Python](leetcode.com/python/%23811%20-%20Subdomain%20Visit%20Count.py)|
+|13| [#771 - Jewels and Stones]()| [Python](leetcode.com/python/%23771%20-%20Jewels%20and%20Stones.py)|
+|14| [#707 - Design Linked List]()| [Python](leetcode.com/python/%23707%20-%20Design%20Linked%20List.py)|
+|15| [#704 - Binary Search]()| [Python](leetcode.com/python/%23704%20-%20Binary%20Search.py)|
+|16| [#701 - Insert into a Binary Search Tree]()| [Python](leetcode.com/python/%23701%20-%20Insert%20into%20a%20Binary%20Search%20Tree.py)|
+|17| [#700 - Search in a Binary Search Tree]()| [Python](leetcode.com/python/%23700%20-%20Search%20in%20a%20Binary%20Search%20Tree.py)|
+|18| [#7 - Reverse Integer]()| [Python](leetcode.com/python/%237%20-%20Reverse%20Integer.py)|
+|19| [#509 - Fibonacci Number]()| [Python](leetcode.com/python/%23509%20-%20Fibonacci%20Number.py)|
+|20| [#414 - Third Maximum Number]()| [Python](leetcode.com/python/%23414%20-%20Third%20Maximum%20Number.py)|
+|21| [#309 - Best Time to Buy and Sell Stock with Cooldown]()| [Python](leetcode.com/python/%23309%20-%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20with%20Cooldown.py)|
+|22| [#270 - Closest Binary Search Tree Value]()| [Python](leetcode.com/python/%23270%20-%20Closest%20Binary%20Search%20Tree%20Value.py)|
+|23| [#259 - 3Sum Smaller]()| [Python](leetcode.com/python/%23259%20-%203Sum%20Smaller.py)|
+|24| [#21 - Merge Two Sorted Lists]()| [Python](leetcode.com/python/%2321%20-%20Merge%20Two%20Sorted%20Lists.py)|
+|25| [#206 - Reverse Linked List]()| [Python](leetcode.com/python/%23206%20-%20Reverse%20Linked%20List.py)|
+|26| [#20 - Valid Parentheses]()| [Python](leetcode.com/python/%2320%20-%20Valid%20Parentheses.py)|
+|27| [#16 - 3Sum Closest]()| [Python](leetcode.com/python/%2316%20-%203Sum%20Closest.py)|
+|28| [#155 - Min Stack]()| [Python](leetcode.com/python/%23155%20-%20Min%20Stack.py)|
+|29| [#15 - 3Sum]()| [Python](leetcode.com/python/%2315%20-%203Sum.py)|
+|30| [#13 - Roman to Integer]()| [Python](leetcode.com/python/%2313%20-%20Roman%20to%20Integer.py)|
+|31| [#125 - Valid Palindrome]()| [Python](leetcode.com/python/%23125%20-%20Valid%20Palindrome.py)|
+|32| [#122 - Best Time to Buy and Sell Stock II]()| [Python](leetcode.com/python/%23122%20-%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20II.py)|
+|33| [#121 - Best Time to Buy and Sell Stock]()| [Python](leetcode.com/python/%23121%20-%20Best%20Time%20to%20Buy%20and%20Sell%20Stock.py)|
+
 
 
 ######   AlgoExpert.io Problems
 | # | Problem | Code |
 |---| ----- | -------- |
-|01| Balanced Bracket| [Python](algoexpert.io/python/Balanced_Bracket.py)|
+|01| Balanced_Bracket| [Python](algoexpert.io/python/Balanced_Bracket.py)|
+|02| Two_Number_Sum| [Swift](algoexpert.io/swift/Two_Number_Sum.swift), [Python](algoexpert.io/python/Two_Number_Sum.py)|
+|03| BST_Construction_Iterative | [Python](algoexpert.io/python/BST_Construction_Iterative.py)|
+|04| Youngest_Common_Ancestor | [Python](algoexpert.io/python/Youngest_Common_Ancestor.py)|
+|05| Validate_BST | [Python](algoexpert.io/python/Validate_BST.py)|
+|06| Three_Number_Sum | [Python](algoexpert.io/python/Three_Number_Sum.py)|
+|07| Suffix_Trie_Construction | [Python](algoexpert.io/python/Suffix_Trie_Construction.py)|
+|08| Smallest Difference | [Python](algoexpert.io/python/Smallest Difference.py)|
+|09| Single_Cycle_Check | [Python](algoexpert.io/python/Single_Cycle_Check.py)|
+|10| Selection_Sort | [Python](algoexpert.io/python/Selection_Sort.py)|
+|11| Search_In_Sorted_Matrix | [Python](algoexpert.io/python/Search_In_Sorted_Matrix.py)|
+|12| River_Sizes | [Python](algoexpert.io/python/River_Sizes.py)|
+|13| Remove_Kth_Node_From_End | [Python](algoexpert.io/python/Remove_Kth_Node_From_End.py)|
+|14| Powerset | [Python](algoexpert.io/python/Powerset.py)|
+|15| Permutations | [Python](algoexpert.io/python/Permutations.py)|
+|16| Palindrom_Check | [Python](algoexpert.io/python/Palindrom_Check.py)|
+|17| Number_Of_Ways_To_Make_Changes | [Python](algoexpert.io/python/Number_Of_Ways_To_Make_Changes.py)|
+|18| Nth_Fibonacci | [Python](algoexpert.io/python/Nth_Fibonacci.py)|
+|19| Minimum_Number_Of_Coins_For_Change | [Python](algoexpert.io/python/Minimum_Number_Of_Coins_For_Change.py)|
+|20| Min_Max_Stack_Construction | [Python](algoexpert.io/python/Min_Max_Stack_Construction.py)|
+|21| Longest_Palindromic_Substring | [Python](algoexpert.io/python/Longest_Palindromic_Substring.py)|
+|22| Linked_List_Construction | [Python](algoexpert.io/python/Linked_List_Construction.py)|
+|24| Levenshtein_Distance | [Python](algoexpert.io/python/Levenshtein_Distance.py)|
+|25| Kadane's_Algorithm | [Python](algoexpert.io/python/Kadane's_Algorithm.py)|
+|26| Invert_Binary_Tree | [Python](algoexpert.io/python/Invert_Binary_Tree.py)|
+|27| Insertion_Sort | [Python](algoexpert.io/python/Insertion_Sort.py)|
+|28| Find_Three_Largest_Number | [Python](algoexpert.io/python/Find_Three_Largest_Number.py)|
+|29| Find_Closest_Value_in_BST | [Python](algoexpert.io/python/Find_Closest_Value_in_BST.py)|
+|30| Depth_First_Search | [Python](algoexpert.io/python/Depth_First_Search.py)|
+|31| Caesar_Cipher_Encryptor | [Python](algoexpert.io/python/Caesar_Cipher_Encryptor.py)|
+|32| Bubble_Sort | [Python](algoexpert.io/python/Bubble_Sort.py)|
+|33| Breadth_First_Search | [Python](algoexpert.io/python/Breadth_First_Search.py)|
+|34| Binary_Search | [Python](algoexpert.io/python/Binary_Search.py)|
+|35| BST_Traversal | [Python](algoexpert.io/python/BST_Traversal.py)|
+|36| BST_Construction_Recursive | [Python](algoexpert.io/python/BST_Construction_Recursive.py)|
+
 
 
 ######   Miscellaneous Problems
 | # | Problem | Code |
 |---| ----- | -------- |
 |01| BST Search| [Python](miscellaneous/python/BST_Search.py)|
+|02| Binary Search Iterative | [Python](miscellaneous/python/Binary_Search_Iterative.py)|
+|03| Binary Search Recursive | [Python](miscellaneous/python/Binary_Search_Recursive.py)|
+|04| DFS Iterative | [Python](miscellaneous/python/DFS_Iterative.py)|
+|05| DFS Recursive | [Python](miscellaneous/python/DFS_Recursive.py)|
+
 
 
