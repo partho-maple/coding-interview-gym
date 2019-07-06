@@ -47,7 +47,7 @@ class BST:
                 parentNode = currentNode
                 currentNode = currentNode.left
             elif value > currentNode.value:
-                parentNode = currentNode
+                paretNode = currentNode
                 currentNode = currentNode.right
             else:
                 if currentNode.left is not None and currentNode.right is not None:
