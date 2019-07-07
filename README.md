@@ -44,6 +44,7 @@ A place where I upload my daily practice on Data Structure and Algorithm problem
 |35| [#98 - Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/solution/)| [Python](leetcode.com/python/%2398%20-%20Validate%20Binary%20Search%20Tree.py)|
 |36| [#94 - Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)| [Python](leetcode.com/python/%2394%20-%20Binary%20Tree%20Inorder%20Traversal.py)|
 |37| [#144 - Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/)| [Python](leetcode.com/python/%23144%20-%20Binary%20Tree%20Preorder%20Traversal.py)|
+|38| [#145 - Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/)| [Python](leetcode.com/python/%23145%20-%20Binary%20Tree%20Postorder%20Traversal.py)|
 
 
 
