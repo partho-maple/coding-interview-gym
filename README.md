@@ -42,6 +42,7 @@ A place where I upload my daily practice on Data Structure and Algorithm problem
 |33| [#121 - Best Time to Buy and Sell Stock]()| [Python](leetcode.com/python/%23121%20-%20Best%20Time%20to%20Buy%20and%20Sell%20Stock.py)|
 |34| [#450 - Delete Node in a BST](https://leetcode.com/problems/delete-node-in-a-bst/solution/)| [Python](leetcode.com/python/%23450%20-%20Delete%20Node%20in%20a%20BST.py)|
 |35| [#98 - Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/solution/)| [Python](leetcode.com/python/%2398%20-%20Validate%20Binary%20Search%20Tree.py)|
+|36| [#94 - Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)| [Python](leetcode.com/python/%2394%20-%20Binary%20Tree%20Inorder%20Traversal.py)|
 
 
 
