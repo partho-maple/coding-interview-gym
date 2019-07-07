@@ -43,6 +43,7 @@ A place where I upload my daily practice on Data Structure and Algorithm problem
 |34| [#450 - Delete Node in a BST](https://leetcode.com/problems/delete-node-in-a-bst/solution/)| [Python](leetcode.com/python/%23450%20-%20Delete%20Node%20in%20a%20BST.py)|
 |35| [#98 - Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/solution/)| [Python](leetcode.com/python/%2398%20-%20Validate%20Binary%20Search%20Tree.py)|
 |36| [#94 - Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)| [Python](leetcode.com/python/%2394%20-%20Binary%20Tree%20Inorder%20Traversal.py)|
+|37| [#144 - Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/)| [Python](leetcode.com/python/%23144%20-%20Binary%20Tree%20Preorder%20Traversal.py)|
 
 
 
