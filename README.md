@@ -1,6 +1,8 @@
 ## Data Structure and Algorithms Problems Using Swift and Python
 
-A place where I upload my daily practice on Data Structure and Algorithm problems. All are written on Swift and Python.
+A place where I upload my daily practice on Data Structure and Algorithm problems. All are written on Swift and Python. Contains the solutions to the problems mainly from the following sites.
+1. leetcode.com
+2. algoexpert.io
 
 
 ######  LeetCode.com Problems
