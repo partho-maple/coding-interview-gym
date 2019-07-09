@@ -56,7 +56,7 @@ A place where I upload my daily practice on Data Structure and Algorithm problem
 ######   AlgoExpert.io Problems
 | # | Problem | Code |
 |---| ----- | -------- |
-|01| Balanced_Bracket| [Python](algoexpert.io/python/Balanced_Bracket.py)|
+|01| [Balanced Bracket](algoexpert.io/questions/Balanced_Bracket.md)| [Python](algoexpert.io/python/Balanced_Bracket.py)|
 |02| Two_Number_Sum| [Swift](algoexpert.io/swift/Two_Number_Sum.swift), [Python](algoexpert.io/python/Two_Number_Sum.py)|
 |03| BST_Construction_Iterative | [Python](algoexpert.io/python/BST_Construction_Iterative.py)|
 |04| Youngest_Common_Ancestor | [Python](algoexpert.io/python/Youngest_Common_Ancestor.py)|
