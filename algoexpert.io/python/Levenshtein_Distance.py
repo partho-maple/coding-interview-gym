@@ -4,8 +4,8 @@
 # O(nm) time | O(nm) space
 def levenshtein_distance(str1, str2):
     # Here, rows count is 'len(str2) + 1' and column count is 'len(str1) + 1'
-    # And first row initialises like [0, 1, 2, 3, 4, ...]
     edits = [[x for x in range(len(str1) + 1)] for y in range(len(str2) + 1)]
+    # And first column initialises like [0, 1, 2, 3, 4, ...]
     for i in range(1, len(str2) + 1):
         edits[i][0] = edits[i - 1][0] + 1
     for i in range(1, len(str2) + 1):

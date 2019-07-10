@@ -38,7 +38,7 @@ class Solution(object):
 
 
 
-# Top-Down approach. But solution has been accepted
+# Top-Down approach (Recursive). But solution has been accepted
 class Solution(object):
     def coinChange(self, coins, amount):
         """
@@ -76,7 +76,7 @@ class Solution(object):
 
 
 
-# Bottom-Up approach. But solution has been accepted
+# Bottom-Up approach (Iterative). But solution has been accepted
 class Solution(object):
     def coinChange(self, coins, amount):
         """
