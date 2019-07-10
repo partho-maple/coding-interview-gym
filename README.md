@@ -50,7 +50,7 @@ A place where I upload my daily practice on Data Structure and Algorithm problem
 |39| [#226 - Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/solution/)| [Python](leetcode.com/python/%23226%20-%20Invert%20Binary%20Tree.py)|
 |40| [#53 - Maximum Subarray](https://leetcode.com/problems/maximum-subarray/submissions/)| [Python](leetcode.com/python/%2353%20-%20Maximum%20Subarray.py)|
 |41| [#518 - Coin Change 2](https://leetcode.com/problems/coin-change-2/)| [Python](leetcode.com/python/%23518%20-%20Coin%20Change%202.py)|
-|42| [#322 - Coin Change](https://leetcode.com/problems/coin-change/solution/)| [Python](leetcode.com/python/%23518%20-%20Coin%20Change%202.py)|
+|42| [#322 - Coin Change](https://leetcode.com/problems/coin-change/solution/)| [Python](leetcode.com/python/%23322%20-%20Coin%20Change.py)|
 
 
 
