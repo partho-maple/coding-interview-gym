@@ -52,7 +52,7 @@ A place where I upload my daily practice on Data Structure and Algorithm problem
 |41| [#518 - Coin Change 2](https://leetcode.com/problems/coin-change-2/)| [Python](leetcode.com/python/%23518%20-%20Coin%20Change%202.py)|
 |42| [#322 - Coin Change](https://leetcode.com/problems/coin-change/solution/)| [Python](leetcode.com/python/%23322%20-%20Coin%20Change.py)|
 |43| [#72 - Edit Distance](https://leetcode.com/problems/edit-distance/)| [Python](leetcode.com/python/%2372%20-%20Edit%20Distance.py)|
-|44| [#161 - One Edit Distance](https://leetcode.com/problems/one-edit-distance/)| [Python](leetcode.com/python/%2372%20-%20Edit%20Distance.py)|
+|44| [#161 - One Edit Distance](https://leetcode.com/problems/one-edit-distance/)| [Python](leetcode.com/python/%23161%20-%20One%20Edit%20Distance.py)|
 
 
 
