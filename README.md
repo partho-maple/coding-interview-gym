@@ -7,8 +7,8 @@ A place where I upload my daily practice on Data Structure and Algorithm problem
 
 ######  LeetCode.com Problems
 
-| # | Problem | Code |
-|---| ----- | -------- |
+| # | Problem | Code | Explanations |
+|---| ----- | -------- | -------- |
 |01| [#1 - Two Sum.swift](https://leetcode.com/problems/two-sum/)| [Python](leetcode.com/python/%231%20-%20Two%20Sum.py), [Swift](leetcode.com/swift/%231%20-%20Two%20Sum.swift)|
 |02| [#2 - Add Two Numbers.swift](https://leetcode.com/problems/add-two-numbers/)| [Swift](leetcode.com/swift/%232%20-%20Add%20Two%20Numbers.swift)|
 |03| [#3 - Longest Substring Without Repeating Characters.swift](https://leetcode.com/problems/longest-substring-without-repeating-characters/)| [Swift](leetcode.com/swift/%233%20-%20Longest%20Substring%20Without%20Repeating%20Characters.swift)|
@@ -29,7 +29,7 @@ A place where I upload my daily practice on Data Structure and Algorithm problem
 |18| [#7 - Reverse Integer]()| [Python](leetcode.com/python/%237%20-%20Reverse%20Integer.py)|
 |19| [#509 - Fibonacci Number]()| [Python](leetcode.com/python/%23509%20-%20Fibonacci%20Number.py)|
 |20| [#414 - Third Maximum Number]()| [Python](leetcode.com/python/%23414%20-%20Third%20Maximum%20Number.py)|
-|21| [#309 - Best Time to Buy and Sell Stock with Cooldown]()| [Python](leetcode.com/python/%23309%20-%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20with%20Cooldown.py)|
+|21| [#309 - Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/)| [Python](leetcode.com/python/%23309%20-%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20with%20Cooldown.py)|
 |22| [#270 - Closest Binary Search Tree Value]()| [Python](leetcode.com/python/%23270%20-%20Closest%20Binary%20Search%20Tree%20Value.py)|
 |23| [#259 - 3Sum Smaller]()| [Python](leetcode.com/python/%23259%20-%203Sum%20Smaller.py)|
 |24| [#21 - Merge Two Sorted Lists]()| [Python](leetcode.com/python/%2321%20-%20Merge%20Two%20Sorted%20Lists.py)|
@@ -40,8 +40,8 @@ A place where I upload my daily practice on Data Structure and Algorithm problem
 |29| [#15 - 3Sum]()| [Python](leetcode.com/python/%2315%20-%203Sum.py)|
 |30| [#13 - Roman to Integer]()| [Python](leetcode.com/python/%2313%20-%20Roman%20to%20Integer.py)|
 |31| [#125 - Valid Palindrome]()| [Python](leetcode.com/python/%23125%20-%20Valid%20Palindrome.py)|
-|32| [#122 - Best Time to Buy and Sell Stock II]()| [Python](leetcode.com/python/%23122%20-%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20II.py)|
-|33| [#121 - Best Time to Buy and Sell Stock]()| [Python](leetcode.com/python/%23121%20-%20Best%20Time%20to%20Buy%20and%20Sell%20Stock.py)|
+|32| [#122 - Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)| [Python](leetcode.com/python/%23122%20-%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20II.py)| [Youtube Video 01](https://www.youtube.com/watch?v=blUwDD6JYaE)|
+|33| [#121 - Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)| [Python](leetcode.com/python/%23121%20-%20Best%20Time%20to%20Buy%20and%20Sell%20Stock.py)|
 |34| [#450 - Delete Node in a BST](https://leetcode.com/problems/delete-node-in-a-bst/solution/)| [Python](leetcode.com/python/%23450%20-%20Delete%20Node%20in%20a%20BST.py)|
 |35| [#98 - Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/solution/)| [Python](leetcode.com/python/%2398%20-%20Validate%20Binary%20Search%20Tree.py)|
 |36| [#94 - Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)| [Python](leetcode.com/python/%2394%20-%20Binary%20Tree%20Inorder%20Traversal.py)|
@@ -51,7 +51,7 @@ A place where I upload my daily practice on Data Structure and Algorithm problem
 |40| [#53 - Maximum Subarray](https://leetcode.com/problems/maximum-subarray/submissions/)| [Python](leetcode.com/python/%2353%20-%20Maximum%20Subarray.py)|
 |41| [#518 - Coin Change 2](https://leetcode.com/problems/coin-change-2/)| [Python](leetcode.com/python/%23518%20-%20Coin%20Change%202.py)|
 |42| [#322 - Coin Change](https://leetcode.com/problems/coin-change/solution/)| [Python](leetcode.com/python/%23322%20-%20Coin%20Change.py)|
-|43| [#72 - Edit Distance](https://leetcode.com/problems/edit-distance/)| [Python](leetcode.com/python/%2372%20-%20Edit%20Distance.py)|
+|43| [#72 - Edit Distance](https://leetcode.com/problems/edit-distance/)| [Python](leetcode.com/python/%2372%20-%20Edit%20Distance.py)| [Youtube Video 01](https://tinyurl.com/y4a7ohay)|
 |44| [#161 - One Edit Distance](https://leetcode.com/problems/one-edit-distance/)| [Python](leetcode.com/python/%23161%20-%20One%20Edit%20Distance.py)|
 
 
