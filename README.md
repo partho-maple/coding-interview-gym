@@ -67,7 +67,7 @@ A place where I upload my daily practice on Data Structure and Algorithm problem
 |06| Three_Number_Sum | [Python](algoexpert.io/python/Three_Number_Sum.py)|
 |07| Suffix_Trie_Construction | [Python](algoexpert.io/python/Suffix_Trie_Construction.py)|
 |08| Smallest Difference | [Python](algoexpert.io/python/Smallest%20Difference.py)|
-|09| Single_Cycle_Check | [Python](algoexpert.io/python/Single_Cycle_Check.py)|
+|09| [Single_Cycle_Check](algoexpert.io/questions/Single_Cycle_Check.md) | [Python](algoexpert.io/python/Single_Cycle_Check.py)|
 |10| Selection_Sort | [Python](algoexpert.io/python/Selection_Sort.py)|
 |11| Search_In_Sorted_Matrix | [Python](algoexpert.io/python/Search_In_Sorted_Matrix.py)|
 |12| River_Sizes | [Python](algoexpert.io/python/River_Sizes.py)|
