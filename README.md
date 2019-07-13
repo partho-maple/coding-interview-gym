@@ -54,6 +54,7 @@ A place where I upload my daily practice on Data Structure and Algorithm problem
 |43| [#72 - Edit Distance](https://leetcode.com/problems/edit-distance/)| [Python](leetcode.com/python/%2372%20-%20Edit%20Distance.py)| [Youtube Video 01](https://tinyurl.com/y4a7ohay)|
 |44| [#161 - One Edit Distance](https://leetcode.com/problems/one-edit-distance/)| [Python](leetcode.com/python/%23161%20-%20One%20Edit%20Distance.py)|
 |45| [#101 - Symmetric Tree](https://leetcode.com/problems/symmetric-tree/)| [Python](leetcode.com/python/%23101%20-%20Symmetric%20Tree.py)|
+|46| [#102 - Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/solution/)| [Python](leetcode.com/python/%23101%20-%20Symmetric%20Tree.py)|
 
 
 
