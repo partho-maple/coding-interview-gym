@@ -60,7 +60,7 @@ A place where I upload my daily practice on Data Structure and Algorithm problem
 |49| [#1118 - Number of Days in a Month](https://leetcode.com/problems/number-of-days-in-a-month/)| [Python](leetcode.com/python/%231118%20-Number%20of%20Days%20in%20a%20Month.py)|
 |50| [#1119 - Remove Vowels from a String](https://leetcode.com/problems/remove-vowels-from-a-string/)| [Python](leetcode.com/python/%231119%20-%20Remove%20Vowels%20from%20a%20String.py)|
 |51| [#200 - Number of Islands](https://leetcode.com/problems/number-of-islands/)| [Python](leetcode.com/python/%23200%20-%20Number%20of%20Islands.py)|
-|52| [#695 - Max Area of Island](https://leetcode.com/problems/max-area-of-island/)| [Python](leetcode.com/python/%23200%20-%20Number%20of%20Islands.py)|
+|52| [#695 - Max Area of Island](https://leetcode.com/problems/max-area-of-island/)| [Python](leetcode.com/python/%23695%20-%20Max%20Area%20of%20Island.py)|
 
 
 
