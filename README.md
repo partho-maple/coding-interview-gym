@@ -59,7 +59,7 @@ A place where I upload my daily practice on Data Structure and Algorithm problem
 |48| [#103 - Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/)| [Python](leetcode.com/python/%23103%20-%20Binary%20Tree%20Zigzag%20Level%20Order%20Traversal.py)|
 |49| [#1118 - Number of Days in a Month](https://leetcode.com/problems/number-of-days-in-a-month/)| [Python](leetcode.com/python/%231118%20-Number%20of%20Days%20in%20a%20Month.py)|
 |50| [#1119 - Remove Vowels from a String](https://leetcode.com/problems/remove-vowels-from-a-string/)| [Python](leetcode.com/python/%231119%20-%20Remove%20Vowels%20from%20a%20String.py)|
-|51| [#200 - Number of Islands](https://leetcode.com/problems/number-of-islands/)| [Python](leetcode.com/python/%231119%20-%20Remove%20Vowels%20from%20a%20String.py)|
+|51| [#200 - Number of Islands](https://leetcode.com/problems/number-of-islands/)| [Python](leetcode.com/python/%23200%20-%20Number%20of%20Islands.py)|
 
 
 
