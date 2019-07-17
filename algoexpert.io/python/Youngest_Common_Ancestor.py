@@ -6,9 +6,9 @@ def get_youngest_common_ancestor(top_ancestor, descendant_one, descendant_two):
     depth_one = get_descendant_depth(descendant_one, top_ancestor)
     depth_two = get_descendant_depth(descendant_two, top_ancestor)
     if depth_one > depth_two:
-        return backtrack_ancestral_tree()
+        return backtrack_ancestral_tree(descendant_one, descendant_two, depth_one - depth_two)
     else:
-        return backtrack_ancestral_tree()
+        return backtrack_ancestral_tree(descendant_two, descendant_one, depth_two - depth_one)
 
 
 def get_descendant_depth(descendant, top_ancestor):
