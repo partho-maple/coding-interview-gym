@@ -18,7 +18,7 @@ A place where I upload my daily practice on Data Structure and Algorithm problem
 |07| [#412 - Fizz Buzz.swift](https://leetcode.com/problems/fizz-buzz/)| [Swift](leetcode.com/swift/%23412%20-%20Fizz%20Buzz.swift)|
 |08| [#937 - Reorder Log Files](https://leetcode.com/problems/reorder-log-files/)| [Python](leetcode.com/python/%23937%20-%20Reorder%20Log%20Files.py)|
 |09| [#929 - Unique Email Addresses](https://leetcode.com/problems/unique-email-addresses/)| [Python](leetcode.com/python/%23929%20-%20Unique%20Email%20Addresses.py)|
-|10| [#9 - Palindrome Number]()| [Python](leetcode.com/python/%239%20-%20Palindrome%20Number.py)|
+|10| [#9 - Palindrome Number](https://leetcode.com/problems/palindrome-number/)| [Python](leetcode.com/python/%239%20-%20Palindrome%20Number.py)|
 |11| [#88 - Merge Sorted Array]()| [Python](leetcode.com/python/%2388%20-%20Merge%20Sorted%20Array.py)|
 |12| [#811 - Subdomain Visit Count]()| [Python](leetcode.com/python/%23811%20-%20Subdomain%20Visit%20Count.py)|
 |13| [#771 - Jewels and Stones]()| [Python](leetcode.com/python/%23771%20-%20Jewels%20and%20Stones.py)|
