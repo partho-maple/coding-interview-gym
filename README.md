@@ -20,9 +20,9 @@ A place where I upload my daily practice on Data Structure and Algorithm problem
 |09| [#929 - Unique Email Addresses](https://leetcode.com/problems/unique-email-addresses/)| [Python](leetcode.com/python/%23929%20-%20Unique%20Email%20Addresses.py)|
 |10| [#9 - Palindrome Number](https://leetcode.com/problems/palindrome-number/)| [Python](leetcode.com/python/%239%20-%20Palindrome%20Number.py)|
 |11| [#88 - Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)| [Python](leetcode.com/python/%2388%20-%20Merge%20Sorted%20Array.py)|
-|12| [#811 - Subdomain Visit Count]()| [Python](leetcode.com/python/%23811%20-%20Subdomain%20Visit%20Count.py)|
-|13| [#771 - Jewels and Stones]()| [Python](leetcode.com/python/%23771%20-%20Jewels%20and%20Stones.py)|
-|14| [#707 - Design Linked List]()| [Python](leetcode.com/python/%23707%20-%20Design%20Linked%20List.py)|
+|12| [#811 - Subdomain Visit Count](https://leetcode.com/problems/subdomain-visit-count/)| [Python](leetcode.com/python/%23811%20-%20Subdomain%20Visit%20Count.py)|
+|13| [#771 - Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/)| [Python](leetcode.com/python/%23771%20-%20Jewels%20and%20Stones.py)|
+|14| [#707 - Design Linked List](https://leetcode.com/problems/design-linked-list/)| [Python](leetcode.com/python/%23707%20-%20Design%20Linked%20List.py)|
 |15| [#704 - Binary Search]()| [Python](leetcode.com/python/%23704%20-%20Binary%20Search.py)|
 |16| [#701 - Insert into a Binary Search Tree]()| [Python](leetcode.com/python/%23701%20-%20Insert%20into%20a%20Binary%20Search%20Tree.py)|
 |17| [#700 - Search in a Binary Search Tree]()| [Python](leetcode.com/python/%23700%20-%20Search%20in%20a%20Binary%20Search%20Tree.py)|
