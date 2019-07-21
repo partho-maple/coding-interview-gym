@@ -27,11 +27,11 @@ A place where I upload my daily practice on Data Structure and Algorithm problem
 |16| [#701 - Insert into a Binary Search Tree](https://leetcode.com/problems/insert-into-a-binary-search-tree/)| [Python](leetcode.com/python/%23701%20-%20Insert%20into%20a%20Binary%20Search%20Tree.py)|
 |17| [#700 - Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/)| [Python](leetcode.com/python/%23700%20-%20Search%20in%20a%20Binary%20Search%20Tree.py)|
 |18| [#7 - Reverse Integer](https://leetcode.com/problems/reverse-integer/)| [Python](leetcode.com/python/%237%20-%20Reverse%20Integer.py)|
-|19| [#509 - Fibonacci Number]()| [Python](leetcode.com/python/%23509%20-%20Fibonacci%20Number.py)|
-|20| [#414 - Third Maximum Number]()| [Python](leetcode.com/python/%23414%20-%20Third%20Maximum%20Number.py)|
+|19| [#509 - Fibonacci Number](https://leetcode.com/problems/fibonacci-number/)| [Python](leetcode.com/python/%23509%20-%20Fibonacci%20Number.py)|
+|20| [#414 - Third Maximum Number](https://leetcode.com/problems/third-maximum-number/)| [Python](leetcode.com/python/%23414%20-%20Third%20Maximum%20Number.py)|
 |21| [#309 - Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/)| [Python](leetcode.com/python/%23309%20-%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20with%20Cooldown.py)|
-|22| [#270 - Closest Binary Search Tree Value]()| [Python](leetcode.com/python/%23270%20-%20Closest%20Binary%20Search%20Tree%20Value.py)|
-|23| [#259 - 3Sum Smaller]()| [Python](leetcode.com/python/%23259%20-%203Sum%20Smaller.py)|
+|22| [#270 - Closest Binary Search Tree Value](https://leetcode.com/problems/closest-binary-search-tree-value/)| [Python](leetcode.com/python/%23270%20-%20Closest%20Binary%20Search%20Tree%20Value.py)|
+|23| [#259 - 3Sum Smaller](https://leetcode.com/problems/3sum-smaller/)| [Python](leetcode.com/python/%23259%20-%203Sum%20Smaller.py)|
 |24| [#21 - Merge Two Sorted Lists]()| [Python](leetcode.com/python/%2321%20-%20Merge%20Two%20Sorted%20Lists.py)|
 |25| [#206 - Reverse Linked List]()| [Python](leetcode.com/python/%23206%20-%20Reverse%20Linked%20List.py)|
 |26| [#20 - Valid Parentheses]()| [Python](leetcode.com/python/%2320%20-%20Valid%20Parentheses.py)|
