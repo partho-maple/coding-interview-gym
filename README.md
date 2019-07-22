@@ -32,10 +32,10 @@ A place where I upload my daily practice on Data Structure and Algorithm problem
 |21| [#309 - Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/)| [Python](leetcode.com/python/%23309%20-%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20with%20Cooldown.py)|
 |22| [#270 - Closest Binary Search Tree Value](https://leetcode.com/problems/closest-binary-search-tree-value/)| [Python](leetcode.com/python/%23270%20-%20Closest%20Binary%20Search%20Tree%20Value.py)|
 |23| [#259 - 3Sum Smaller](https://leetcode.com/problems/3sum-smaller/)| [Python](leetcode.com/python/%23259%20-%203Sum%20Smaller.py)|
-|24| [#21 - Merge Two Sorted Lists]()| [Python](leetcode.com/python/%2321%20-%20Merge%20Two%20Sorted%20Lists.py)|
-|25| [#206 - Reverse Linked List]()| [Python](leetcode.com/python/%23206%20-%20Reverse%20Linked%20List.py)|
-|26| [#20 - Valid Parentheses]()| [Python](leetcode.com/python/%2320%20-%20Valid%20Parentheses.py)|
-|27| [#16 - 3Sum Closest]()| [Python](leetcode.com/python/%2316%20-%203Sum%20Closest.py)|
+|24| [#21 - Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)| [Python](leetcode.com/python/%2321%20-%20Merge%20Two%20Sorted%20Lists.py)|
+|25| [#206 - Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)| [Python](leetcode.com/python/%23206%20-%20Reverse%20Linked%20List.py)|
+|26| [#20 - Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)| [Python](leetcode.com/python/%2320%20-%20Valid%20Parentheses.py)|
+|27| [#16 - 3Sum Closest](https://leetcode.com/problems/3sum-closest/)| [Python](leetcode.com/python/%2316%20-%203Sum%20Closest.py)|
 |28| [#155 - Min Stack]()| [Python](leetcode.com/python/%23155%20-%20Min%20Stack.py)|
 |29| [#15 - 3Sum]()| [Python](leetcode.com/python/%2315%20-%203Sum.py)|
 |30| [#13 - Roman to Integer]()| [Python](leetcode.com/python/%2313%20-%20Roman%20to%20Integer.py)|
