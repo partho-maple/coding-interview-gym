@@ -61,6 +61,7 @@ A place where I upload my daily practice on Data Structure and Algorithm problem
 |50| [#1119 - Remove Vowels from a String](https://leetcode.com/problems/remove-vowels-from-a-string/)| [Python](leetcode.com/python/%231119%20-%20Remove%20Vowels%20from%20a%20String.py)|
 |51| [#200 - Number of Islands](https://leetcode.com/problems/number-of-islands/)| [Python](leetcode.com/python/%23200%20-%20Number%20of%20Islands.py)|
 |52| [#695 - Max Area of Island](https://leetcode.com/problems/max-area-of-island/)| [Python](leetcode.com/python/%23695%20-%20Max%20Area%20of%20Island.py)|
+|53| [#344 - Reverse String](https://leetcode.com/problems/reverse-string/)| [Python](leetcode.com/python/%23344%20-%20Reverse%20String.py)|
 
 
 
