@@ -64,7 +64,8 @@ A place where I upload my daily practice on Data Structure and Algorithm problem
 |53| [#344 - Reverse String](https://leetcode.com/problems/reverse-string/)| [Python](leetcode.com/python/%23344%20-%20Reverse%20String.py)|
 |54| [#24 - Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)| [Python](leetcode.com/python/%2324%20-%20Swap%20Nodes%20in%20Pairs.py)|
 |55| [#118 - Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/)| [Python](leetcode.com/python/%23118%20-%20Pascal's%20Triangle.py)|
-|56| [#589 - N-ary Tree Preorder Traversal](https://leetcode.com/problems/n-ary-tree-preorder-traversal/)| [Python](leetcode.com/python/%23118%20-%20Pascal's%20Triangle.py)|
+|56| [#589 - N-ary Tree Preorder Traversal](https://leetcode.com/problems/n-ary-tree-preorder-traversal/)| [Python](leetcode.com/python/%23589%20-%20N-ary%20Tree%20Preorder%20Traversal.py)|
+|56| [#208 - Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/)| [Python](leetcode.com/python/%23589%20-%20N-ary%20Tree%20Preorder%20Traversal.py)|
 
 
 
