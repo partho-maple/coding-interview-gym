@@ -63,7 +63,8 @@ A place where I upload my daily practice on Data Structure and Algorithm problem
 |52| [#695 - Max Area of Island](https://leetcode.com/problems/max-area-of-island/)| [Python](leetcode.com/python/%23695%20-%20Max%20Area%20of%20Island.py)|
 |53| [#344 - Reverse String](https://leetcode.com/problems/reverse-string/)| [Python](leetcode.com/python/%23344%20-%20Reverse%20String.py)|
 |54| [#24 - Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)| [Python](leetcode.com/python/%2324%20-%20Swap%20Nodes%20in%20Pairs.py)|
-|54| [#118 - Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/)| [Python](leetcode.com/python/%2324%20-%20Swap%20Nodes%20in%20Pairs.py)|
+|55| [#118 - Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/)| [Python](leetcode.com/python/%23118%20-%20Pascal's%20Triangle.py)|
+|56| [#589 - N-ary Tree Preorder Traversal](https://leetcode.com/problems/n-ary-tree-preorder-traversal/)| [Python](leetcode.com/python/%23118%20-%20Pascal's%20Triangle.py)|
 
 
 
