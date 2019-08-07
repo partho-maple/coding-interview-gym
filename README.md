@@ -67,6 +67,7 @@ A place where I upload my daily practice on Data Structure and Algorithm problem
 |56| [#589 - N-ary Tree Preorder Traversal](https://leetcode.com/problems/n-ary-tree-preorder-traversal/)| [Python](leetcode.com/python/%23589%20-%20N-ary%20Tree%20Preorder%20Traversal.py)|
 |57| [#208 - Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/)| [Python](leetcode.com/python/%23208%20-%20Implement%20Trie%20(Prefix%20Tree).py)|
 |58| [#119 - Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/)| [Python](leetcode.com/python/%23119%20-%20Pascal's%20Triangle%20II.py)|
+|59| [#70 - Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)| [Python](leetcode.com/python/%23119%20-%20Pascal's%20Triangle%20II.py)|
 
 
 
