@@ -68,8 +68,8 @@ A place where I upload my daily practice on Data Structure and Algorithm problem
 |57| [#208 - Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/)| [Python](leetcode.com/python/%23208%20-%20Implement%20Trie%20(Prefix%20Tree).py)|
 |58| [#119 - Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/)| [Python](leetcode.com/python/%23119%20-%20Pascal's%20Triangle%20II.py)|
 |59| [#70 - Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)| [Python](leetcode.com/python/%2370%20-%20Climbing%20Stairs.py)|
-|60| [#50 - Pow(x, n)](https://leetcode.com/problems/powx-n/)| [Python](leetcode.com/python/%2370%20-%20Climbing%20Stairs.py)|
-|61| [#104 - Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)| [Python](leetcode.com/python/%2370%20-%20Climbing%20Stairs.py)|
+|60| [#50 - Pow(x, n)](https://leetcode.com/problems/powx-n/)| [Python](leetcode.com/python/%2350%20-%20Pow(x%2C%20n).py)|
+|61| [#104 - Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)| [Python](leetcode.com/python/%23104%20-%20Maximum%20Depth%20of%20Binary%20Tree.py)|
 
 
 
