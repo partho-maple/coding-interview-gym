@@ -70,6 +70,7 @@ A place where I upload my daily practice on Data Structure and Algorithm problem
 |59| [#70 - Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)| [Python](leetcode.com/python/%2370%20-%20Climbing%20Stairs.py)|
 |60| [#50 - Pow(x, n)](https://leetcode.com/problems/powx-n/)| [Python](leetcode.com/python/%2350%20-%20Pow(x%2C%20n).py)|
 |61| [#104 - Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)| [Python](leetcode.com/python/%23104%20-%20Maximum%20Depth%20of%20Binary%20Tree.py)|
+|62| [#590 - N-ary Tree Postorder Traversal](https://leetcode.com/problems/n-ary-tree-postorder-traversal/)| [Python](leetcode.com/python/%23104%20-%20Maximum%20Depth%20of%20Binary%20Tree.py)|
 
 
 
