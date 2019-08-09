@@ -69,6 +69,7 @@ A place where I upload my daily practice on Data Structure and Algorithm problem
 |58| [#119 - Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/)| [Python](leetcode.com/python/%23119%20-%20Pascal's%20Triangle%20II.py)|
 |59| [#70 - Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)| [Python](leetcode.com/python/%2370%20-%20Climbing%20Stairs.py)|
 |60| [#50 - Pow(x, n)](https://leetcode.com/problems/powx-n/)| [Python](leetcode.com/python/%2370%20-%20Climbing%20Stairs.py)|
+|61| [#104 - Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)| [Python](leetcode.com/python/%2370%20-%20Climbing%20Stairs.py)|
 
 
 
