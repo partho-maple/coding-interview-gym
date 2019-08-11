@@ -72,6 +72,7 @@ A place where I upload my daily practice on Data Structure and Algorithm problem
 |61| [#104 - Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)| [Python](leetcode.com/python/%23104%20-%20Maximum%20Depth%20of%20Binary%20Tree.py)|
 |62| [#590 - N-ary Tree Postorder Traversal](https://leetcode.com/problems/n-ary-tree-postorder-traversal/)| [Python](leetcode.com/python/%23590%20-%20N-ary%20Tree%20Postorder%20Traversal.py)|
 |63| [#429 - N-ary Tree Level Order Traversal](https://leetcode.com/problems/n-ary-tree-level-order-traversal/)| [Python](leetcode.com/python/%23429%20-%20N-ary%20Tree%20Level%20Order%20Traversal.py)|
+|64| [#912 - Sort an Array (Merge Sort)](https://leetcode.com/problems/sort-an-array/)| [Python](leetcode.com/python/%23429%20-%20N-ary%20Tree%20Level%20Order%20Traversal.py)|
 
 
 
