@@ -69,7 +69,7 @@ A place where I upload my daily practice on Data Structure and Algorithm problem
 |58| [#119 - Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/)| [Python](leetcode.com/python/%23119%20-%20Pascal's%20Triangle%20II.py)|
 |59| [#70 - Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)| [Python](leetcode.com/python/%2370%20-%20Climbing%20Stairs.py)|
 |60| [#50 - Pow(x, n)](https://leetcode.com/problems/powx-n/)| [Python](leetcode.com/python/%2350%20-%20Pow(x%2C%20n).py)|
-|61| [#104 - Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)| [Python](leetcode.com/python/%23104%20-%20Maximum%20Depth%20of%20Binary%20Tree.py)|
+|61| [#104 - Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)| [Python](leetcode.com/python/%23104%20-%20Maximum%20Depth%20of%20Binary%20Tree.py)| [Explanation](https://leetcode.com/explore/learn/card/data-structure-tree/17/solve-problems-recursively/534/) |
 |62| [#590 - N-ary Tree Postorder Traversal](https://leetcode.com/problems/n-ary-tree-postorder-traversal/)| [Python](leetcode.com/python/%23590%20-%20N-ary%20Tree%20Postorder%20Traversal.py)|
 |63| [#429 - N-ary Tree Level Order Traversal](https://leetcode.com/problems/n-ary-tree-level-order-traversal/)| [Python](leetcode.com/python/%23429%20-%20N-ary%20Tree%20Level%20Order%20Traversal.py)|
 |64| [#912 - Sort an Array (Merge Sort)](https://leetcode.com/problems/sort-an-array/)| [Python](leetcode.com/python/%23912%20-%20Sort%20an%20Array%20(Merge%20%20Sort).py)|
