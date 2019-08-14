@@ -75,7 +75,7 @@ A place where I upload my daily practice on Data Structure and Algorithm problem
 |64| [#912 - Sort an Array (Merge Sort)](https://leetcode.com/problems/sort-an-array/)| [Python](leetcode.com/python/%23912%20-%20Sort%20an%20Array%20(Merge%20%20Sort).py)|
 |65| [#96 - Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/)| [Python](leetcode.com/python/%2396%20-%20Unique%20Binary%20Search%20Trees.py)| [Youtube Video 01](https://www.youtube.com/watch?v=GgP75HAvrlY), [Youtube Video 02](https://www.youtube.com/watch?v=JrTKVvYhT_k)|
 |66| [#95 - Unique Binary Search Trees II](https://leetcode.com/problems/unique-binary-search-trees-ii/)| [Python](leetcode.com/python/%2395%20-%20Unique%20Binary%20Search%20Trees%20II.py)|
-|67| [#559 - Maximum Depth of N-ary Tree](https://leetcode.com/problems/maximum-depth-of-n-ary-tree/)| [Python](leetcode.com/python/%2395%20-%20Unique%20Binary%20Search%20Trees%20II.py)|
+|67| [#559 - Maximum Depth of N-ary Tree](https://leetcode.com/problems/maximum-depth-of-n-ary-tree/)| [Python](leetcode.com/python/%23559%20-%20Maximum%20Depth%20of%20N-ary%20Tree.py)|
 
 
 
