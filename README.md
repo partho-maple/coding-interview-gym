@@ -76,7 +76,8 @@ A place where I upload my daily practice on Data Structure and Algorithm problem
 |65| [#96 - Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/)| [Python](leetcode.com/python/%2396%20-%20Unique%20Binary%20Search%20Trees.py)| [Youtube Video 01](https://www.youtube.com/watch?v=GgP75HAvrlY), [Youtube Video 02](https://www.youtube.com/watch?v=JrTKVvYhT_k)|
 |66| [#95 - Unique Binary Search Trees II](https://leetcode.com/problems/unique-binary-search-trees-ii/)| [Python](leetcode.com/python/%2395%20-%20Unique%20Binary%20Search%20Trees%20II.py)|
 |67| [#559 - Maximum Depth of N-ary Tree](https://leetcode.com/problems/maximum-depth-of-n-ary-tree/)| [Python](leetcode.com/python/%23559%20-%20Maximum%20Depth%20of%20N-ary%20Tree.py)|
-|68| [#431 - Encode N-ary Tree to Binary Tree](https://leetcode.com/problems/encode-n-ary-tree-to-binary-tree/submissions/)| [Python](leetcode.com/python/%23559%20-%20Maximum%20Depth%20of%20N-ary%20Tree.py)| [Explanation](https://leetcode.com/explore/learn/card/n-ary-tree/131/recursion/922/) |
+|68| [#431 - Encode N-ary Tree to Binary Tree](https://leetcode.com/problems/encode-n-ary-tree-to-binary-tree/submissions/)| [Python](leetcode.com/python/%23431%20-%20Encode%20N-ary%20Tree%20to%20Binary%20Tree.py)| [Explanation](https://leetcode.com/explore/learn/card/n-ary-tree/131/recursion/922/) |
+|67| [#428 - Serialize and Deserialize N-ary Tree](https://leetcode.com/problems/serialize-and-deserialize-n-ary-tree/)| [Python](leetcode.com/python/%23559%20-%20Maximum%20Depth%20of%20N-ary%20Tree.py)|
 
 
 
