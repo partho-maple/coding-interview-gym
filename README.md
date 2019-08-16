@@ -79,6 +79,7 @@ A place where I upload my daily practice on Data Structure and Algorithm problem
 |68| [#431 - Encode N-ary Tree to Binary Tree](https://leetcode.com/problems/encode-n-ary-tree-to-binary-tree/submissions/)| [Python](leetcode.com/python/%23431%20-%20Encode%20N-ary%20Tree%20to%20Binary%20Tree.py)| [Explanation](https://leetcode.com/explore/learn/card/n-ary-tree/131/recursion/922/) |
 |69| [#428 - Serialize and Deserialize N-ary Tree](https://leetcode.com/problems/serialize-and-deserialize-n-ary-tree/)| [Python](leetcode.com/python/%23428%20-%20Serialize%20and%20Deserialize%20N-ary%20Tree.py)|
 |70| [#211 - Add and Search Word - Data structure design](https://leetcode.com/problems/add-and-search-word-data-structure-design/)| [Python](leetcode.com/python/%23211%20-%20Add%20and%20Search%20Word%20-%20Data%20structure%20design.py)| [Youtube Video 01](https://www.youtube.com/watch?v=qi2ohSEyyDw), [Youtube Video 02](https://www.youtube.com/watch?v=neb_2UK5Kuo&t=13s)|
+|71| [#238 - Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/solution/)| [Python](leetcode.com/python/%23428%20-%20Serialize%20and%20Deserialize%20N-ary%20Tree.py)|
 
 
 
