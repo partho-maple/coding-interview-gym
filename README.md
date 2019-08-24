@@ -81,7 +81,7 @@ A place where I upload my daily practice on Data Structure and Algorithm problem
 |70| [#211 - Add and Search Word - Data structure design](https://leetcode.com/problems/add-and-search-word-data-structure-design/)| [Python](leetcode.com/python/%23211%20-%20Add%20and%20Search%20Word%20-%20Data%20structure%20design.py)| [Youtube Video 01](https://www.youtube.com/watch?v=qi2ohSEyyDw), [Youtube Video 02](https://www.youtube.com/watch?v=neb_2UK5Kuo&t=13s)|
 |71| [#238 - Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/solution/)| [Python](leetcode.com/python/%23238%20-%20Product%20of%20Array%20Except%20Self.py)|
 |72| [#240 - Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/solution/)| [Python](leetcode.com/python/%23240%20-%20Search%20a%202D%20Matrix%20II.py)| [Youtube Video 01](https://www.youtube.com/watch?v=FOa55B9Ikfg), [Youtube Video 02](https://www.youtube.com/watch?v=DHSyS72BvOQ)|
-|73| [#74 - Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)| [Python](leetcode.com/python/%23240%20-%20Search%20a%202D%20Matrix%20II.py)| [Youtube Video 01](https://www.youtube.com/watch?v=FOa55B9Ikfg), [Youtube Video 02](https://www.youtube.com/watch?v=DHSyS72BvOQ)|
+|73| [#74 - Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)| [Python](leetcode.com/python/%2374%20-%20Search%20a%202D%20Matrix.py)| [Youtube Video 01](https://www.youtube.com/watch?v=FOa55B9Ikfg), [Youtube Video 02](https://www.youtube.com/watch?v=DHSyS72BvOQ)|
 
 
 
