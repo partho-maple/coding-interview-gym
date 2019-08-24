@@ -80,6 +80,7 @@ A place where I upload my daily practice on Data Structure and Algorithm problem
 |69| [#428 - Serialize and Deserialize N-ary Tree](https://leetcode.com/problems/serialize-and-deserialize-n-ary-tree/)| [Python](leetcode.com/python/%23428%20-%20Serialize%20and%20Deserialize%20N-ary%20Tree.py)|
 |70| [#211 - Add and Search Word - Data structure design](https://leetcode.com/problems/add-and-search-word-data-structure-design/)| [Python](leetcode.com/python/%23211%20-%20Add%20and%20Search%20Word%20-%20Data%20structure%20design.py)| [Youtube Video 01](https://www.youtube.com/watch?v=qi2ohSEyyDw), [Youtube Video 02](https://www.youtube.com/watch?v=neb_2UK5Kuo&t=13s)|
 |71| [#238 - Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/solution/)| [Python](leetcode.com/python/%23238%20-%20Product%20of%20Array%20Except%20Self.py)|
+|72| [#240 - Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/solution/)| [Python](leetcode.com/python/%23211%20-%20Add%20and%20Search%20Word%20-%20Data%20structure%20design.py)| [Youtube Video 01](https://www.youtube.com/watch?v=FOa55B9Ikfg), [Youtube Video 02](https://www.youtube.com/watch?v=DHSyS72BvOQ)|
 
 
 
