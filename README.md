@@ -86,8 +86,8 @@ A place where I upload my daily practice on Data Structure and Algorithm problem
 
 
 ######   AlgoExpert.io Problems
-| # | Problem | Code |
-|---| ----- | -------- |
+| # | Problem | Code | Explanations |
+|---| ----- | -------- | -------- |
 |01| [Balanced Bracket](algoexpert.io/questions/Balanced_Bracket.md)| [Python](algoexpert.io/python/Balanced_Bracket.py)|
 |02| [Two_Number_Sum](algoexpert.io/questions/Two_Number_Sum.md)| [Swift](algoexpert.io/swift/Two_Number_Sum.swift), [Python](algoexpert.io/python/Two_Number_Sum.py)|
 |03| [BST_Construction_Iterative](algoexpert.io/questions/BST_Construction_Iterative.md) | [Python](algoexpert.io/python/BST_Construction_Iterative.py)|
@@ -123,7 +123,7 @@ A place where I upload my daily practice on Data Structure and Algorithm problem
 |34| [Binary_Search](algoexpert.io/questions/Binary_Search.md) | [Python](algoexpert.io/python/Binary_Search.py)|
 |35| [BST_Traversal](algoexpert.io/questions/BST_Traversal.md) | [Python](algoexpert.io/python/BST_Traversal.py)|
 |36| [BST_Construction_Recursive](algoexpert.io/questions/BST_Construction_Recursive.md) | [Python](algoexpert.io/python/BST_Construction_Recursive.py)|
-|37| [Quick_Sort](algoexpert.io/questions/Quick_Sort.md) | [Python](algoexpert.io/python/Quick_Sort.py)|
+|37| [Quick_Sort](algoexpert.io/questions/Quick_Sort.md) | [Python](algoexpert.io/python/Quick_Sort.py) | [Youtube Video 01](https://www.youtube.com/watch?v=uXBnyYuwPe8&t=302s)|
 
 
 
