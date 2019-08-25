@@ -123,6 +123,7 @@ A place where I upload my daily practice on Data Structure and Algorithm problem
 |34| [Binary_Search](algoexpert.io/questions/Binary_Search.md) | [Python](algoexpert.io/python/Binary_Search.py)|
 |35| [BST_Traversal](algoexpert.io/questions/BST_Traversal.md) | [Python](algoexpert.io/python/BST_Traversal.py)|
 |36| [BST_Construction_Recursive](algoexpert.io/questions/BST_Construction_Recursive.md) | [Python](algoexpert.io/python/BST_Construction_Recursive.py)|
+|37| [Quick_Sort](algoexpert.io/questions/Quick_Sort.md) | [Python](algoexpert.io/python/Quick_Sort.py)|
 
 
 
