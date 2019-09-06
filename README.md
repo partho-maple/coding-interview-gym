@@ -84,6 +84,7 @@ A place where I upload my daily practice on Data Structure and Algorithm problem
 |73| [#74 - Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)| [Python](leetcode.com/python/%2374%20-%20Search%20a%202D%20Matrix.py)| [Youtube Video 01](https://www.youtube.com/watch?v=FOa55B9Ikfg), [Youtube Video 02](https://www.youtube.com/watch?v=DHSyS72BvOQ)|
 |74| [#37 - Sudoku Solver](https://leetcode.com/problems/sudoku-solver/)| [Python](leetcode.com/python/%2337%20-%20Sudoku%20Solver.py)| [Youtube Video 01](https://www.youtube.com/watch?v=JzONv5kaPJM), [Youtube Video 02](https://www.youtube.com/watch?v=Zq4upTEaQyM&list=PLiQ766zSC5jM2OKVr8sooOuGgZkvnOCTI)|
 |75| [#52 - N-Queens II](https://leetcode.com/problems/n-queens-ii/)| [Python](leetcode.com/python/%2352%20-%20N-Queens%20II.py)| [Youtube Video 01](https://www.youtube.com/watch?v=xFv_Hl4B83A), [Youtube Video 02](https://www.youtube.com/watch?v=xouin83ebxE)|
+|76| [#100 - Same Tree](https://leetcode.com/problems/same-tree/)| [Python](leetcode.com/python/%2352%20-%20N-Queens%20II.py)| [Youtube Video 01](https://www.youtube.com/watch?v=xFv_Hl4B83A), [Youtube Video 02](https://www.youtube.com/watch?v=xouin83ebxE)|
 
 
 
