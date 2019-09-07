@@ -86,6 +86,7 @@ A place where I upload my daily practice on Data Structure and Algorithm problem
 |75| [#52 - N-Queens II](https://leetcode.com/problems/n-queens-ii/)| [Python](leetcode.com/python/%2352%20-%20N-Queens%20II.py)| [Youtube Video 01](https://www.youtube.com/watch?v=xFv_Hl4B83A), [Youtube Video 02](https://www.youtube.com/watch?v=xouin83ebxE)|
 |76| [#100 - Same Tree](https://leetcode.com/problems/same-tree/)| [Python](leetcode.com/python/%23100%20-%20Same%20Tree.py)| |
 |77| [#724 - Find Pivot Index](https://leetcode.com/problems/find-pivot-index/)| [Python](leetcode.com/python/%23100%20-%20Same%20Tree.py)| |
+|78| [#747 - Largest Number At Least Twice of Others](https://leetcode.com/problems/largest-number-at-least-twice-of-others/)| [Python](leetcode.com/python/%23100%20-%20Same%20Tree.py)| |
 
 
 
