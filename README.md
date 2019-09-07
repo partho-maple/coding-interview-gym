@@ -85,8 +85,8 @@ A place where I upload my daily practice on Data Structure and Algorithm problem
 |74| [#37 - Sudoku Solver](https://leetcode.com/problems/sudoku-solver/)| [Python](leetcode.com/python/%2337%20-%20Sudoku%20Solver.py)| [Youtube Video 01](https://www.youtube.com/watch?v=JzONv5kaPJM), [Youtube Video 02](https://www.youtube.com/watch?v=Zq4upTEaQyM&list=PLiQ766zSC5jM2OKVr8sooOuGgZkvnOCTI)|
 |75| [#52 - N-Queens II](https://leetcode.com/problems/n-queens-ii/)| [Python](leetcode.com/python/%2352%20-%20N-Queens%20II.py)| [Youtube Video 01](https://www.youtube.com/watch?v=xFv_Hl4B83A), [Youtube Video 02](https://www.youtube.com/watch?v=xouin83ebxE)|
 |76| [#100 - Same Tree](https://leetcode.com/problems/same-tree/)| [Python](leetcode.com/python/%23100%20-%20Same%20Tree.py)| |
-|77| [#724 - Find Pivot Index](https://leetcode.com/problems/find-pivot-index/)| [Python](leetcode.com/python/%23100%20-%20Same%20Tree.py)| |
-|78| [#747 - Largest Number At Least Twice of Others](https://leetcode.com/problems/largest-number-at-least-twice-of-others/)| [Python](leetcode.com/python/%23100%20-%20Same%20Tree.py)| |
+|77| [#724 - Find Pivot Index](https://leetcode.com/problems/find-pivot-index/)| [Python](leetcode.com/python/%23724%20-%20Find%20Pivot%20Index.py)| |
+|78| [#747 - Largest Number At Least Twice of Others](https://leetcode.com/problems/largest-number-at-least-twice-of-others/)| [Python](leetcode.com/python/%23747%20-%20Largest%20Number%20At%20Least%20Twice%20of%20Others.py)| |
 
 
 
