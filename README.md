@@ -134,6 +134,7 @@ A place where I upload my daily practice on Data Structure and Algorithm problem
 |38| [Min_Number_Of_Jumps](algoexpert.io/questions/Min_Number_Of_Jumps.md) | [Python](algoexpert.io/python/Min_Number_Of_Jumps.py) | [Youtube Video 01](https://www.youtube.com/watch?v=cETfFsSTGJI)|
 |39| [Four_Number_Sum](algoexpert.io/questions/Four_Number_Sum.md) | [Python](algoexpert.io/python/Four_Number_Sum.py) |
 |40| [Subarray_Sort](algoexpert.io/questions/Subarray_Sort.md) | [Python](algoexpert.io/python/Subarray_Sort.py) |
+|41| [Largest_Range](algoexpert.io/questions/Largest_Range.md) | [Python](algoexpert.io/python/Largest_Range.py) |
 
 
 
