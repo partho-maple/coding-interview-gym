@@ -88,6 +88,8 @@ A place where I upload my daily practice on Data Structure and Algorithm problem
 |77| [#724 - Find Pivot Index](https://leetcode.com/problems/find-pivot-index/)| [Python](leetcode.com/python/%23724%20-%20Find%20Pivot%20Index.py)| |
 |78| [#747 - Largest Number At Least Twice of Others](https://leetcode.com/problems/largest-number-at-least-twice-of-others/)| [Python](leetcode.com/python/%23747%20-%20Largest%20Number%20At%20Least%20Twice%20of%20Others.py)| |
 |79| [#581 - Shortest Unsorted Continuous Subarray](https://leetcode.com/problems/shortest-unsorted-continuous-subarray/solution/)| [Python](leetcode.com/python/%23581%20-%20Shortest%20Unsorted%20Continuous%20Subarray.py)| |
+|80| [#482 - License Key Formatting](https://leetcode.com/problems/license-key-formatting/)| [Python](leetcode.com/python/%23482%20-%20License%20Key%20Formatting.py)| |
+|81| [#904 - Fruit Into Baskets](https://leetcode.com/problems/fruit-into-baskets/solution/)| [Python](leetcode.com/python/%23904%20-%20Fruit%20Into%20Baskets.py)| [Article](https://www.educative.io/courses/grokking-the-coding-interview/Bn2KLlOR0lQ), [Video 1](https://www.youtube.com/watch?v=s_zu2dOkq80), [Video 2](https://www.youtube.com/watch?v=za2YuucS0tw)|
 
 
 
@@ -135,6 +137,7 @@ A place where I upload my daily practice on Data Structure and Algorithm problem
 |39| [Four_Number_Sum](algoexpert.io/questions/Four_Number_Sum.md) | [Python](algoexpert.io/python/Four_Number_Sum.py) |
 |40| [Subarray_Sort](algoexpert.io/questions/Subarray_Sort.md) | [Python](algoexpert.io/python/Subarray_Sort.py) |
 |41| [Largest_Range](algoexpert.io/questions/Largest_Range.md) | [Python](algoexpert.io/python/Largest_Range.py) |
+|42| [Min_Rewards](algoexpert.io/questions/Min_Rewards.md) | [Python](algoexpert.io/python/Min_Rewards.py) |
 
 
 
