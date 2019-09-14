@@ -138,6 +138,7 @@ A place where I upload my daily practice on Data Structure and Algorithm problem
 |40| [Subarray_Sort](algoexpert.io/questions/Subarray_Sort.md) | [Python](algoexpert.io/python/Subarray_Sort.py) |
 |41| [Largest_Range](algoexpert.io/questions/Largest_Range.md) | [Python](algoexpert.io/python/Largest_Range.py) |
 |42| [Min_Rewards](algoexpert.io/questions/Min_Rewards.md) | [Python](algoexpert.io/python/Min_Rewards.py) |
+|43| [Zigzag_Traverse](algoexpert.io/questions/Zigzag_Traverse.md) | [Python](algoexpert.io/python/Zigzag_Traverse.py) |
 
 
 
