@@ -139,6 +139,7 @@ A place where I upload my daily practice on Data Structure and Algorithm problem
 |41| [Largest_Range](algoexpert.io/questions/Largest_Range.md) | [Python](algoexpert.io/python/Largest_Range.py) |
 |42| [Min_Rewards](algoexpert.io/questions/Min_Rewards.md) | [Python](algoexpert.io/python/Min_Rewards.py) |
 |43| [Zigzag_Traverse](algoexpert.io/questions/Zigzag_Traverse.md) | [Python](algoexpert.io/python/Zigzag_Traverse.py) |
+|44| [Max_Path_Sum_In_Binary_Tree](algoexpert.io/questions/Max_Path_Sum_In_Binary_Tree.md) | [Python](algoexpert.io/python/Max_Path_Sum_In_Binary_Tree.py) |
 
 
 
