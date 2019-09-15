@@ -15,6 +15,7 @@ def findMaxSum(tree):
 
     value = tree.value
     maxSumAsBranch = max(maxChildSumAsBranch + value, value)
+    # max path sum for triangle path which includes root as node
     maxSumAsRootNode = max(leftMaxSumAsBranch + value + rightMaxSumAsBranch, maxSumAsBranch)
     maxPathSum = max(leftMaxPathSum, rightMaxPathSum, maxSumAsRootNode)
 
