@@ -142,6 +142,7 @@ A place where I upload my daily practice on Data Structure and Algorithm problem
 |44| [Max_Path_Sum_In_Binary_Tree](algoexpert.io/questions/Max_Path_Sum_In_Binary_Tree.md) | [Python](algoexpert.io/python/Max_Path_Sum_In_Binary_Tree.py) |
 |45| [Max_Sum_Increasing_Subsequence](algoexpert.io/questions/Max_Sum_Increasing_Subsequence.md) | [Python](algoexpert.io/python/Max_Sum_Increasing_Subsequence.py) |
 |46| [Longest_Common_Subsequence](algoexpert.io/questions/Longest_Common_Subsequence.md) | [Python](algoexpert.io/python/Longest_Common_Subsequence.py) |
+|47| [Water_Area](algoexpert.io/questions/Water_Area.md) | [Python](algoexpert.io/python/Water_Area.py) |
 
 
 
