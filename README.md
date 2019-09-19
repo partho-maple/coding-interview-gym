@@ -145,7 +145,7 @@ A place where I upload my daily practice on Data Structure and Algorithm problem
 |47| [Water_Area](algoexpert.io/questions/Water_Area.md) | [Python](algoexpert.io/python/Water_Area.py) |
 |48| [Knapsack_Problem](algoexpert.io/questions/Knapsack_Problem.md) | [Python](algoexpert.io/python/Knapsack_Problem.py) |
 |49| [Disk_Stacking](algoexpert.io/questions/Disk_Stacking.md) | [Python](algoexpert.io/python/Disk_Stacking.py) |
-|49| [Numbers_In_Pi](algoexpert.io/questions/Numbers_In_Pi.md) | [Python](algoexpert.io/python/Numbers_In_Pi.py) |
+|50| [Numbers_In_Pi](algoexpert.io/questions/Numbers_In_Pi.md) | [Python](algoexpert.io/python/Numbers_In_Pi.py) |
 
 
 
