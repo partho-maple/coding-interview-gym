@@ -144,6 +144,7 @@ A place where I upload my daily practice on Data Structure and Algorithm problem
 |46| [Longest_Common_Subsequence](algoexpert.io/questions/Longest_Common_Subsequence.md) | [Python](algoexpert.io/python/Longest_Common_Subsequence.py) |
 |47| [Water_Area](algoexpert.io/questions/Water_Area.md) | [Python](algoexpert.io/python/Water_Area.py) |
 |48| [Knapsack_Problem](algoexpert.io/questions/Knapsack_Problem.md) | [Python](algoexpert.io/python/Knapsack_Problem.py) |
+|49| [Disk_Stacking](algoexpert.io/questions/Disk_Stacking.md) | [Python](algoexpert.io/python/Disk_Stacking.py) |
 
 
 
