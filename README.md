@@ -39,7 +39,10 @@ Constructive criticisms or code reviews of any kind are very much welcome.
 If you have any questions about the solutions you can find here, feel free to contact me **partho.maple@gmail.com**.
 
 
-##  LeetCode.com Problems
+----
+
+
+##  LeetCode.com (81 Problems)
 
 | Count | Title | Solution | Tutorial | Notes |
 |---| ----- | -------- | -------- | -------- |
@@ -126,6 +129,7 @@ If you have any questions about the solutions you can find here, feel free to co
 |81| [#904 - Fruit Into Baskets](https://leetcode.com/problems/fruit-into-baskets/solution/)| [Python](leetcode.com/python/%23904%20-%20Fruit%20Into%20Baskets.py)| [Article](https://www.educative.io/courses/grokking-the-coding-interview/Bn2KLlOR0lQ), [Video 1](https://www.youtube.com/watch?v=s_zu2dOkq80), [Video 2](https://www.youtube.com/watch?v=za2YuucS0tw)|
 
 
+----
 
 
 ##   AlgoExpert.io (54 Problems)
