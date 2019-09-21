@@ -39,10 +39,10 @@ Constructive criticisms or code reviews of any kind are very much welcome.
 If you have any questions about the solutions you can find here, feel free to contact me **partho.maple@gmail.com**.
 
 
-######  LeetCode.com Problems
+##  LeetCode.com Problems
 
-| # | Problem | Code | Explanations |
-|---| ----- | -------- | -------- |
+| Count | Title | Solution | Tutorial | Notes |
+|---| ----- | -------- | -------- | -------- |
 |01| [#1 - Two Sum.swift](https://leetcode.com/problems/two-sum/)| [Python](leetcode.com/python/%231%20-%20Two%20Sum.py), [Swift](leetcode.com/swift/%231%20-%20Two%20Sum.swift)|
 |02| [#2 - Add Two Numbers.swift](https://leetcode.com/problems/add-two-numbers/)| [Swift](leetcode.com/swift/%232%20-%20Add%20Two%20Numbers.swift)|
 |03| [#3 - Longest Substring Without Repeating Characters.swift](https://leetcode.com/problems/longest-substring-without-repeating-characters/)| [Swift](leetcode.com/swift/%233%20-%20Longest%20Substring%20Without%20Repeating%20Characters.swift)|
@@ -128,62 +128,132 @@ If you have any questions about the solutions you can find here, feel free to co
 
 
 
-######   AlgoExpert.io Problems
-| # | Problem | Code | Explanations |
-|---| ----- | -------- | -------- |
+##   AlgoExpert.io (54 Problems)
+
+
+### Arrays
+| Count | Title | Solution | Tutorial | Notes |
+|---| ----- | -------- | -------- | -------- |
+|01| [Two_Number_Sum](algoexpert.io/questions/Two_Number_Sum.md)| [Swift](algoexpert.io/swift/Two_Number_Sum.swift), [Python](algoexpert.io/python/Two_Number_Sum.py)|
+|02| [Three_Number_Sum](algoexpert.io/questions/Three_Number_Sum.md) | [Python](algoexpert.io/python/Three_Number_Sum.py)|
+|03| [Smallest_Difference](algoexpert.io/questions/Smallest_Difference.md) | [Python](algoexpert.io/python/Smallest%20Difference.py)|
+|04| [Four_Number_Sum](algoexpert.io/questions/Four_Number_Sum.md) | [Python](algoexpert.io/python/Four_Number_Sum.py) |
+|05| [Subarray_Sort](algoexpert.io/questions/Subarray_Sort.md) | [Python](algoexpert.io/python/Subarray_Sort.py) |
+|06| [Largest_Range](algoexpert.io/questions/Largest_Range.md) | [Python](algoexpert.io/python/Largest_Range.py) |
+|07| [Min_Rewards](algoexpert.io/questions/Min_Rewards.md) | [Python](algoexpert.io/python/Min_Rewards.py) |
+|08| [Zigzag_Traverse](algoexpert.io/questions/Zigzag_Traverse.md) | [Python](algoexpert.io/python/Zigzag_Traverse.py) |
+
+
+### Binary Search Tree
+| Count | Title | Solution | Tutorial | Notes |
+|---| ----- | -------- | -------- | -------- |
+|01| [BST_Construction_Iterative](algoexpert.io/questions/BST_Construction_Iterative.md) | [Python](algoexpert.io/python/BST_Construction_Iterative.py)|
+|02| [BST_Construction_Recursive](algoexpert.io/questions/BST_Construction_Recursive.md) | [Python](algoexpert.io/python/BST_Construction_Recursive.py)|
+|03| [Validate_BST](algoexpert.io/questions/Validate_BST.md) | [Python](algoexpert.io/python/Validate_BST.py)|
+|04| [Find_Closest_Value_in_BST](algoexpert.io/questions/Find_Closest_Value_in_BST.md) | [Python](algoexpert.io/python/Find_Closest_Value_in_BST.py)|
+|05| [BST_Traversal](algoexpert.io/questions/BST_Traversal.md) | [Python](algoexpert.io/python/BST_Traversal.py)|
+
+
+### Binary Tree
+| Count | Title | Solution | Tutorial | Notes |
+|---| ----- | -------- | -------- | -------- |
+|01| [Invert_Binary_Tree](algoexpert.io/questions/Invert_Binary_Tree.md) | [Python](algoexpert.io/python/Invert_Binary_Tree.py)|
+|02| [Max_Path_Sum_In_Binary_Tree](algoexpert.io/questions/Max_Path_Sum_In_Binary_Tree.md) | [Python](algoexpert.io/python/Max_Path_Sum_In_Binary_Tree.py) |
+
+
+### Dynamic Programming
+| Count | Title | Solution | Tutorial | Notes |
+|---| ----- | -------- | -------- | -------- |
+|01| [Number_Of_Ways_To_Make_Changes](algoexpert.io/questions/Number_Of_Ways_To_Make_Changes.md) | [Python](algoexpert.io/python/Number_Of_Ways_To_Make_Changes.py)|
+|02| [Minimum_Number_Of_Coins_For_Change](algoexpert.io/questions/Minimum_Number_Of_Coins_For_Change.md) | [Python](algoexpert.io/python/Minimum_Number_Of_Coins_For_Change.py)|
+|03| [Levenshtein_Distance](algoexpert.io/questions/Levenshtein_Distance.md) | [Python](algoexpert.io/python/Levenshtein_Distance.py)|
+|04| [Min_Number_Of_Jumps](algoexpert.io/questions/Min_Number_Of_Jumps.md) | [Python](algoexpert.io/python/Min_Number_Of_Jumps.py) | [Youtube Video 01](https://www.youtube.com/watch?v=cETfFsSTGJI)|
+|05| [Max_Sum_Increasing_Subsequence](algoexpert.io/questions/Max_Sum_Increasing_Subsequence.md) | [Python](algoexpert.io/python/Max_Sum_Increasing_Subsequence.py) |
+|06| [Longest_Common_Subsequence](algoexpert.io/questions/Longest_Common_Subsequence.md) | [Python](algoexpert.io/python/Longest_Common_Subsequence.py) |
+|07| [Water_Area](algoexpert.io/questions/Water_Area.md) | [Python](algoexpert.io/python/Water_Area.py) |
+|08| [Knapsack_Problem](algoexpert.io/questions/Knapsack_Problem.md) | [Python](algoexpert.io/python/Knapsack_Problem.py) |
+|09| [Disk_Stacking](algoexpert.io/questions/Disk_Stacking.md) | [Python](algoexpert.io/python/Disk_Stacking.py) |
+|10| [Numbers_In_Pi](algoexpert.io/questions/Numbers_In_Pi.md) | [Python](algoexpert.io/python/Numbers_In_Pi.py) |
+|11| [Maximum_Subset_Sum_With_No_Adjacent_Element](algoexpert.io/questions/Maximum_Subset_Sum_With_No_Adjacent_Element.md) | [Python](algoexpert.io/python/Maximum_Subset_Sum_With_No_Adjacent_Element.py) |
+
+
+### Famous Algorithm
+| Count | Title | Solution | Tutorial | Notes |
+|---| ----- | -------- | -------- | -------- |
+|01| [Kadane's_Algorithm](algoexpert.io/questions/Kadanes_Algorithm.md) | [Python](algoexpert.io/python/Kadane's_Algorithm.py)|
+|02| [Topological_Sort](algoexpert.io/questions/Topological_Sort.md) | [Python](algoexpert.io/python/Topological_Sort.py) |
+
+
+### Graphs
+| Count | Title | Solution | Tutorial | Notes |
+|---| ----- | -------- | -------- | -------- |
+|01| [Youngest_Common_Ancestor](algoexpert.io/questions/Youngest_Common_Ancestor.md) | [Python](algoexpert.io/python/Youngest_Common_Ancestor.py)|
+|02| [Single_Cycle_Check](algoexpert.io/questions/Single_Cycle_Check.md) | [Python](algoexpert.io/python/Single_Cycle_Check.py)|
+|03| [River_Sizes](algoexpert.io/questions/River_Sizes.md) | [Python](algoexpert.io/python/River_Sizes.py)|
+|04| [Depth_First_Search](algoexpert.io/questions/Depth_First_Search.md) | [Python](algoexpert.io/python/Depth_First_Search.py)|
+|05| [Breadth_First_Search](algoexpert.io/questions/Breadth_First_Search.md) | [Python](algoexpert.io/python/Breadth_First_Search.py)|
+|06| [Boggle_Board](algoexpert.io/questions/Boggle_Board.md) | [Python](algoexpert.io/python/Boggle_Board.py) |
+
+
+### Heaps
+| Count | Title | Solution | Tutorial | Notes |
+|---| ----- | -------- | -------- | -------- |
+|01| [Min_Heap_Construction](algoexpert.io/questions/Min_Heap_Construction.md) | [Python](algoexpert.io/python/Min_Heap_Construction.py) |
+|02| [Continuous_Median](algoexpert.io/questions/Continuous_Median.md) | [Python](algoexpert.io/python/Continuous_Median.py) |
+
+
+### Linked List
+| Count | Title | Solution | Tutorial | Notes |
+|---| ----- | -------- | -------- | -------- |
+|01| [Remove_Kth_Node_From_End](algoexpert.io/questions/Remove_Kth_Node_From_End.md) | [Python](algoexpert.io/python/Remove_Kth_Node_From_End.py)|
+|02| [Linked_List_Construction](algoexpert.io/questions/Linked_List_Construction.md) | [Python](algoexpert.io/python/Linked_List_Construction.py)|
+
+
+### Recursion
+| Count | Title | Solution | Tutorial | Notes |
+|---| ----- | -------- | -------- | -------- |
+|01| [Powerset](algoexpert.io/questions/Powerset.md) | [Python](algoexpert.io/python/Powerset.py)|
+|02| [Permutations](algoexpert.io/questions/Permutations.md) | [Python](algoexpert.io/python/Permutations.py)|
+|03| [Nth_Fibonacci](algoexpert.io/questions/Nth_Fibonacci.md) | [Python](algoexpert.io/python/Nth_Fibonacci.py)|
+|04| [Product_Sum](algoexpert.io/questions/Product_Sum.md) | [Python](algoexpert.io/python/Product_Sum.py) |
+
+
+### Searching
+| Count | Title | Solution | Tutorial | Notes |
+|---| ----- | -------- | -------- | -------- |
+|01| [Search_In_Sorted_Matrix](algoexpert.io/questions/Search_In_Sorted_Matrix.md) | [Python](algoexpert.io/python/Search_In_Sorted_Matrix.py)|
+|02| [Find_Three_Largest_Number](algoexpert.io/questions/Find_Three_Largest_Number.md) | [Python](algoexpert.io/python/Find_Three_Largest_Number.py)|
+|03| [Binary_Search](algoexpert.io/questions/Binary_Search.md) | [Python](algoexpert.io/python/Binary_Search.py)|
+
+
+### Sorting
+| Count | Title | Solution | Tutorial | Notes |
+|---| ----- | -------- | -------- | -------- |
+|01| [Selection_Sort](algoexpert.io/questions/Selection_Sort.md) | [Python](algoexpert.io/python/Selection_Sort.py)|
+|02| [Insertion_Sort](algoexpert.io/questions/Insertion_Sort.md) | [Python](algoexpert.io/python/Insertion_Sort.py)|
+|03| [Bubble_Sort](algoexpert.io/questions/Bubble_Sort.md) | [Python](algoexpert.io/python/Bubble_Sort.py)|
+|04| [Quick_Sort](algoexpert.io/questions/Quick_Sort.md) | [Python](algoexpert.io/python/Quick_Sort.py) | [Youtube Video 01](https://www.youtube.com/watch?v=uXBnyYuwPe8&t=302s)|
+
+
+### Stacks
+| Count | Title | Solution | Tutorial | Notes |
+|---| ----- | -------- | -------- | -------- |
 |01| [Balanced Bracket](algoexpert.io/questions/Balanced_Bracket.md)| [Python](algoexpert.io/python/Balanced_Bracket.py)|
-|02| [Two_Number_Sum](algoexpert.io/questions/Two_Number_Sum.md)| [Swift](algoexpert.io/swift/Two_Number_Sum.swift), [Python](algoexpert.io/python/Two_Number_Sum.py)|
-|03| [BST_Construction_Iterative](algoexpert.io/questions/BST_Construction_Iterative.md) | [Python](algoexpert.io/python/BST_Construction_Iterative.py)|
-|04| [Youngest_Common_Ancestor](algoexpert.io/questions/Youngest_Common_Ancestor.md) | [Python](algoexpert.io/python/Youngest_Common_Ancestor.py)|
-|05| [Validate_BST](algoexpert.io/questions/Validate_BST.md) | [Python](algoexpert.io/python/Validate_BST.py)|
-|06| [Three_Number_Sum](algoexpert.io/questions/Three_Number_Sum.md) | [Python](algoexpert.io/python/Three_Number_Sum.py)|
-|07| [Suffix_Trie_Construction](algoexpert.io/questions/Suffix_Trie_Construction.md) | [Python](algoexpert.io/python/Suffix_Trie_Construction.py)|
-|08| [Smallest_Difference](algoexpert.io/questions/Smallest_Difference.md) | [Python](algoexpert.io/python/Smallest%20Difference.py)|
-|09| [Single_Cycle_Check](algoexpert.io/questions/Single_Cycle_Check.md) | [Python](algoexpert.io/python/Single_Cycle_Check.py)|
-|10| [Selection_Sort](algoexpert.io/questions/Selection_Sort.md) | [Python](algoexpert.io/python/Selection_Sort.py)|
-|11| [Search_In_Sorted_Matrix](algoexpert.io/questions/Search_In_Sorted_Matrix.md) | [Python](algoexpert.io/python/Search_In_Sorted_Matrix.py)|
-|12| [River_Sizes](algoexpert.io/questions/River_Sizes.md) | [Python](algoexpert.io/python/River_Sizes.py)|
-|13| [Remove_Kth_Node_From_End](algoexpert.io/questions/Remove_Kth_Node_From_End.md) | [Python](algoexpert.io/python/Remove_Kth_Node_From_End.py)|
-|14| [Powerset](algoexpert.io/questions/Powerset.md) | [Python](algoexpert.io/python/Powerset.py)|
-|15| [Permutations](algoexpert.io/questions/Permutations.md) | [Python](algoexpert.io/python/Permutations.py)|
-|16| [Palindrom_Check](algoexpert.io/questions/Palindrom_Check.md) | [Python](algoexpert.io/python/Palindrom_Check.py)|
-|17| [Number_Of_Ways_To_Make_Changes](algoexpert.io/questions/Number_Of_Ways_To_Make_Changes.md) | [Python](algoexpert.io/python/Number_Of_Ways_To_Make_Changes.py)|
-|18| [Nth_Fibonacci](algoexpert.io/questions/Nth_Fibonacci.md) | [Python](algoexpert.io/python/Nth_Fibonacci.py)|
-|19| [Minimum_Number_Of_Coins_For_Change](algoexpert.io/questions/Minimum_Number_Of_Coins_For_Change.md) | [Python](algoexpert.io/python/Minimum_Number_Of_Coins_For_Change.py)|
-|20| [Min_Max_Stack_Construction](algoexpert.io/questions/Min_Max_Stack_Construction.md) | [Python](algoexpert.io/python/Min_Max_Stack_Construction.py)|
-|21| [Longest_Palindromic_Substring](algoexpert.io/questions/Longest_Palindromic_Substring.md) | [Python](algoexpert.io/python/Longest_Palindromic_Substring.py)|
-|22| [Linked_List_Construction](algoexpert.io/questions/Linked_List_Construction.md) | [Python](algoexpert.io/python/Linked_List_Construction.py)|
-|24| [Levenshtein_Distance](algoexpert.io/questions/Levenshtein_Distance.md) | [Python](algoexpert.io/python/Levenshtein_Distance.py)|
-|25| [Kadane's_Algorithm](algoexpert.io/questions/Kadanes_Algorithm.md) | [Python](algoexpert.io/python/Kadane's_Algorithm.py)|
-|26| [Invert_Binary_Tree](algoexpert.io/questions/Invert_Binary_Tree.md) | [Python](algoexpert.io/python/Invert_Binary_Tree.py)|
-|27| [Insertion_Sort](algoexpert.io/questions/Insertion_Sort.md) | [Python](algoexpert.io/python/Insertion_Sort.py)|
-|28| [Find_Three_Largest_Number](algoexpert.io/questions/Find_Three_Largest_Number.md) | [Python](algoexpert.io/python/Find_Three_Largest_Number.py)|
-|29| [Find_Closest_Value_in_BST](algoexpert.io/questions/Find_Closest_Value_in_BST.md) | [Python](algoexpert.io/python/Find_Closest_Value_in_BST.py)|
-|30| [Depth_First_Search](algoexpert.io/questions/Depth_First_Search.md) | [Python](algoexpert.io/python/Depth_First_Search.py)|
-|31| [Caesar_Cipher_Encryptor](algoexpert.io/questions/Caesar_Cipher_Encryptor.md) | [Python](algoexpert.io/python/Caesar_Cipher_Encryptor.py)|
-|32| [Bubble_Sort](algoexpert.io/questions/Bubble_Sort.md) | [Python](algoexpert.io/python/Bubble_Sort.py)|
-|33| [Breadth_First_Search](algoexpert.io/questions/Breadth_First_Search.md) | [Python](algoexpert.io/python/Breadth_First_Search.py)|
-|34| [Binary_Search](algoexpert.io/questions/Binary_Search.md) | [Python](algoexpert.io/python/Binary_Search.py)|
-|35| [BST_Traversal](algoexpert.io/questions/BST_Traversal.md) | [Python](algoexpert.io/python/BST_Traversal.py)|
-|36| [BST_Construction_Recursive](algoexpert.io/questions/BST_Construction_Recursive.md) | [Python](algoexpert.io/python/BST_Construction_Recursive.py)|
-|37| [Quick_Sort](algoexpert.io/questions/Quick_Sort.md) | [Python](algoexpert.io/python/Quick_Sort.py) | [Youtube Video 01](https://www.youtube.com/watch?v=uXBnyYuwPe8&t=302s)|
-|38| [Min_Number_Of_Jumps](algoexpert.io/questions/Min_Number_Of_Jumps.md) | [Python](algoexpert.io/python/Min_Number_Of_Jumps.py) | [Youtube Video 01](https://www.youtube.com/watch?v=cETfFsSTGJI)|
-|39| [Four_Number_Sum](algoexpert.io/questions/Four_Number_Sum.md) | [Python](algoexpert.io/python/Four_Number_Sum.py) |
-|40| [Subarray_Sort](algoexpert.io/questions/Subarray_Sort.md) | [Python](algoexpert.io/python/Subarray_Sort.py) |
-|41| [Largest_Range](algoexpert.io/questions/Largest_Range.md) | [Python](algoexpert.io/python/Largest_Range.py) |
-|42| [Min_Rewards](algoexpert.io/questions/Min_Rewards.md) | [Python](algoexpert.io/python/Min_Rewards.py) |
-|43| [Zigzag_Traverse](algoexpert.io/questions/Zigzag_Traverse.md) | [Python](algoexpert.io/python/Zigzag_Traverse.py) |
-|44| [Max_Path_Sum_In_Binary_Tree](algoexpert.io/questions/Max_Path_Sum_In_Binary_Tree.md) | [Python](algoexpert.io/python/Max_Path_Sum_In_Binary_Tree.py) |
-|45| [Max_Sum_Increasing_Subsequence](algoexpert.io/questions/Max_Sum_Increasing_Subsequence.md) | [Python](algoexpert.io/python/Max_Sum_Increasing_Subsequence.py) |
-|46| [Longest_Common_Subsequence](algoexpert.io/questions/Longest_Common_Subsequence.md) | [Python](algoexpert.io/python/Longest_Common_Subsequence.py) |
-|47| [Water_Area](algoexpert.io/questions/Water_Area.md) | [Python](algoexpert.io/python/Water_Area.py) |
-|48| [Knapsack_Problem](algoexpert.io/questions/Knapsack_Problem.md) | [Python](algoexpert.io/python/Knapsack_Problem.py) |
-|49| [Disk_Stacking](algoexpert.io/questions/Disk_Stacking.md) | [Python](algoexpert.io/python/Disk_Stacking.py) |
-|50| [Numbers_In_Pi](algoexpert.io/questions/Numbers_In_Pi.md) | [Python](algoexpert.io/python/Numbers_In_Pi.py) |
-|51| [Topological_Sort](algoexpert.io/questions/Topological_Sort.md) | [Python](algoexpert.io/python/Topological_Sort.py) |
-|52| [Boggle_Board](algoexpert.io/questions/Boggle_Board.md) | [Python](algoexpert.io/python/Boggle_Board.py) |
-|53| [Product_Sum](algoexpert.io/questions/Product_Sum.md) | [Python](algoexpert.io/python/Product_Sum.py) |
-|54| [Continuous_Median](algoexpert.io/questions/Continuous_Median.md) | [Python](algoexpert.io/python/Continuous_Median.py) |
+|02| [Min_Max_Stack_Construction](algoexpert.io/questions/Min_Max_Stack_Construction.md) | [Python](algoexpert.io/python/Min_Max_Stack_Construction.py)|
+
+
+### String
+| Count | Title | Solution | Tutorial | Notes |
+|---| ----- | -------- | -------- | -------- |
+|01| [Palindrom_Check](algoexpert.io/questions/Palindrom_Check.md) | [Python](algoexpert.io/python/Palindrom_Check.py)|
+|02| [Longest_Palindromic_Substring](algoexpert.io/questions/Longest_Palindromic_Substring.md) | [Python](algoexpert.io/python/Longest_Palindromic_Substring.py)|
+|03| [Caesar_Cipher_Encryptor](algoexpert.io/questions/Caesar_Cipher_Encryptor.md) | [Python](algoexpert.io/python/Caesar_Cipher_Encryptor.py)|
+
+
+### Tries
+| Count | Title | Solution | Tutorial | Notes |
+|---| ----- | -------- | -------- | -------- |
+|01| [Suffix_Trie_Construction](algoexpert.io/questions/Suffix_Trie_Construction.md) | [Python](algoexpert.io/python/Suffix_Trie_Construction.py)|
 
 
 
