@@ -147,6 +147,8 @@ A place where I upload my daily practice on Data Structure and Algorithm problem
 |49| [Disk_Stacking](algoexpert.io/questions/Disk_Stacking.md) | [Python](algoexpert.io/python/Disk_Stacking.py) |
 |50| [Numbers_In_Pi](algoexpert.io/questions/Numbers_In_Pi.md) | [Python](algoexpert.io/python/Numbers_In_Pi.py) |
 |51| [Topological_Sort](algoexpert.io/questions/Topological_Sort.md) | [Python](algoexpert.io/python/Topological_Sort.py) |
+|52| [Boggle_Board](algoexpert.io/questions/Boggle_Board.md) | [Python](algoexpert.io/python/Boggle_Board.py) |
+|53| [Product_Sum](algoexpert.io/questions/Product_Sum.md) | [Python](algoexpert.io/python/Product_Sum.py) |
 
 
 
