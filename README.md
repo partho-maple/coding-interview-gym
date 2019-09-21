@@ -1,3 +1,12 @@
+<p align="center">
+  <img src="leetcode.png">
+</p>
+
+<p align="center">
+  <img src="algoexpert.png">
+</p>
+
+
 ## Data Structure and Algorithms Problems Using Swift and Python
 
 A place where I upload my daily practice on Data Structure and Algorithm problems. All are written on Swift and Python. Contains the solutions to the problems mainly from the following sites.
@@ -149,6 +158,7 @@ A place where I upload my daily practice on Data Structure and Algorithm problem
 |51| [Topological_Sort](algoexpert.io/questions/Topological_Sort.md) | [Python](algoexpert.io/python/Topological_Sort.py) |
 |52| [Boggle_Board](algoexpert.io/questions/Boggle_Board.md) | [Python](algoexpert.io/python/Boggle_Board.py) |
 |53| [Product_Sum](algoexpert.io/questions/Product_Sum.md) | [Python](algoexpert.io/python/Product_Sum.py) |
+|54| [Continuous_Median](algoexpert.io/questions/Continuous_Median.md) | [Python](algoexpert.io/python/Continuous_Median.py) |
 
 
 
