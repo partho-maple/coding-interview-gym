@@ -7,11 +7,36 @@
 </p>
 
 
-## Data Structure and Algorithms Problems Using Swift and Python
+# Leetcode and Algoexpert Problems Using Swift and Python
 
-A place where I upload my daily practice on Data Structure and Algorithm problems. All are written on Swift and Python. Contains the solutions to the problems mainly from the following sites.
-1. [leetcode.com](https://leetcode.com/parthobiswas007/)
-2. [algoexpert.io](https://www.algoexpert.io/questions)
+My solutions to algorithmic problems in [leetcode.com](https://leetcode.com/parthobiswas007/) and [algoexpert.io](https://www.algoexpert.io/questions) written in **Swift** and **Python**
+
+## What you can find in this repository
+
+I have solved quite a number of problems from several topics. See the below table for further details.
+
+## How to contribute?
+
+1. Fork the repository 
+2. Do the desired changes (add/delete/modify)
+3. Make a pull request
+
+## When to contribute?
+
+1. If there is no solution to a problem in the main branch.
+2. If your solution is asymptotically faster than the one in the main branch.
+3. If your algorithm is of the same time complexity but with reduced code size. In this case, comment out the original solution and make a pull request with your solution.
+4. If you have another method of solving the problem which is asymptotically slower than the original method then, comment your solution in the main file and make a pull request.
+
+
+## What I'll be doing with this repository
+
+One day in the foreseeable future I will have solved all the challenges on [leetcode](https://leetcode.com/problemset/algorithms/).
+Then this repository will mostly become a static one.
+
+Constructive criticisms or code reviews of any kind are very much welcome.
+
+If you have any questions about the solutions you can find here, feel free to contact me **partho.maple@gmail.com**.
 
 
 ######  LeetCode.com Problems
@@ -160,16 +185,6 @@ A place where I upload my daily practice on Data Structure and Algorithm problem
 |53| [Product_Sum](algoexpert.io/questions/Product_Sum.md) | [Python](algoexpert.io/python/Product_Sum.py) |
 |54| [Continuous_Median](algoexpert.io/questions/Continuous_Median.md) | [Python](algoexpert.io/python/Continuous_Median.py) |
 
-
-
-######   Miscellaneous Problems
-| # | Problem | Code |
-|---| ----- | -------- |
-|01| BST Search| [Python](miscellaneous/python/BST_Search.py)|
-|02| Binary Search Iterative | [Python](miscellaneous/python/Binary_Search_Iterative.py)|
-|03| Binary Search Recursive | [Python](miscellaneous/python/Binary_Search_Recursive.py)|
-|04| DFS Iterative | [Python](miscellaneous/python/DFS_Iterative.py)|
-|05| DFS Recursive | [Python](miscellaneous/python/DFS_Recursive.py)|
 
 
 
