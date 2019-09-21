@@ -171,7 +171,7 @@ If you have any questions about the solutions you can find here, feel free to co
 |01| [Number_Of_Ways_To_Make_Changes](algoexpert.io/questions/Number_Of_Ways_To_Make_Changes.md) | [Python](algoexpert.io/python/Number_Of_Ways_To_Make_Changes.py)|
 |02| [Minimum_Number_Of_Coins_For_Change](algoexpert.io/questions/Minimum_Number_Of_Coins_For_Change.md) | [Python](algoexpert.io/python/Minimum_Number_Of_Coins_For_Change.py)|
 |03| [Levenshtein_Distance](algoexpert.io/questions/Levenshtein_Distance.md) | [Python](algoexpert.io/python/Levenshtein_Distance.py)|
-|04| [Min_Number_Of_Jumps](algoexpert.io/questions/Min_Number_Of_Jumps.md) | [Python](algoexpert.io/python/Min_Number_Of_Jumps.py) | [Youtube Video 01](https://www.youtube.com/watch?v=cETfFsSTGJI)|
+|04| [Min_Number_Of_Jumps](algoexpert.io/questions/Min_Number_Of_Jumps.md) | [Python](algoexpert.io/python/Min_Number_Of_Jumps.py) | [Video 1](https://www.youtube.com/watch?v=cETfFsSTGJI)|
 |05| [Max_Sum_Increasing_Subsequence](algoexpert.io/questions/Max_Sum_Increasing_Subsequence.md) | [Python](algoexpert.io/python/Max_Sum_Increasing_Subsequence.py) |
 |06| [Longest_Common_Subsequence](algoexpert.io/questions/Longest_Common_Subsequence.md) | [Python](algoexpert.io/python/Longest_Common_Subsequence.py) |
 |07| [Water_Area](algoexpert.io/questions/Water_Area.md) | [Python](algoexpert.io/python/Water_Area.py) |
@@ -202,7 +202,7 @@ If you have any questions about the solutions you can find here, feel free to co
 ### Heaps
 | Count | Title | Solution | Tutorial | Notes |
 |---| ----- | -------- | -------- | -------- |
-|01| [Min_Heap_Construction](algoexpert.io/questions/Min_Heap_Construction.md) | [Python](algoexpert.io/python/Min_Heap_Construction.py) |
+|01| [Min_Heap_Construction](algoexpert.io/questions/Min_Heap_Construction.md) | [Python](algoexpert.io/python/Min_Heap_Construction.py) |[Video 1](https://www.youtube.com/watch?v=HqPJF2L5h9U)|
 |02| [Continuous_Median](algoexpert.io/questions/Continuous_Median.md) | [Python](algoexpert.io/python/Continuous_Median.py) |
 
 
@@ -236,7 +236,7 @@ If you have any questions about the solutions you can find here, feel free to co
 |01| [Selection_Sort](algoexpert.io/questions/Selection_Sort.md) | [Python](algoexpert.io/python/Selection_Sort.py)|
 |02| [Insertion_Sort](algoexpert.io/questions/Insertion_Sort.md) | [Python](algoexpert.io/python/Insertion_Sort.py)|
 |03| [Bubble_Sort](algoexpert.io/questions/Bubble_Sort.md) | [Python](algoexpert.io/python/Bubble_Sort.py)|
-|04| [Quick_Sort](algoexpert.io/questions/Quick_Sort.md) | [Python](algoexpert.io/python/Quick_Sort.py) | [Youtube Video 01](https://www.youtube.com/watch?v=uXBnyYuwPe8&t=302s)|
+|04| [Quick_Sort](algoexpert.io/questions/Quick_Sort.md) | [Python](algoexpert.io/python/Quick_Sort.py) | [Video 1](https://www.youtube.com/watch?v=uXBnyYuwPe8&t=302s)|
 
 
 ### Stacks
