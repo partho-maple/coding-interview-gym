@@ -222,6 +222,7 @@ If you have any questions about the solutions you can find here, feel free to co
 |02| [Permutations](algoexpert.io/questions/Permutations.md) | [Python](algoexpert.io/python/Permutations.py)|
 |03| [Nth_Fibonacci](algoexpert.io/questions/Nth_Fibonacci.md) | [Python](algoexpert.io/python/Nth_Fibonacci.py)|
 |04| [Product_Sum](algoexpert.io/questions/Product_Sum.md) | [Python](algoexpert.io/python/Product_Sum.py) |
+|05| [Lowest_Common_Manager](algoexpert.io/questions/Lowest_Common_Manager.md) | [Python](algoexpert.io/python/Lowest_Common_Manager.py) |
 
 
 ### Searching
