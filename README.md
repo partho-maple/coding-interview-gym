@@ -132,7 +132,7 @@ If you have any questions about the solutions you can find here, feel free to co
 ----
 
 
-##   AlgoExpert.io (54 Problems)
+##   AlgoExpert.io (56 Problems)
 
 
 ### Arrays
@@ -231,6 +231,7 @@ If you have any questions about the solutions you can find here, feel free to co
 |01| [Search_In_Sorted_Matrix](algoexpert.io/questions/Search_In_Sorted_Matrix.md) | [Python](algoexpert.io/python/Search_In_Sorted_Matrix.py)|
 |02| [Find_Three_Largest_Number](algoexpert.io/questions/Find_Three_Largest_Number.md) | [Python](algoexpert.io/python/Find_Three_Largest_Number.py)|
 |03| [Binary_Search](algoexpert.io/questions/Binary_Search.md) | [Python](algoexpert.io/python/Binary_Search.py)|
+|04| [Shifted_Binary_Search](algoexpert.io/questions/Shifted_Binary_Search.md) | [Python](algoexpert.io/python/Shifted_Binary_Search.py)|
 
 
 ### Sorting
