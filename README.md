@@ -132,7 +132,7 @@ If you have any questions about the solutions you can find here, feel free to co
 ----
 
 
-##   AlgoExpert.io (56 Problems)
+##   AlgoExpert.io (77 Problems)
 
 
 ### Arrays
@@ -152,9 +152,9 @@ If you have any questions about the solutions you can find here, feel free to co
 | Count | Title | Solution | Tutorial | Notes |
 |---| ----- | -------- | -------- | -------- |
 |01| [BST_Construction_Iterative](algoexpert.io/questions/BST_Construction_Iterative.md) | [Python](algoexpert.io/python/BST_Construction_Iterative.py)|
-|02| [BST_Construction_Recursive](algoexpert.io/questions/BST_Construction_Recursive.md) | [Python](algoexpert.io/python/BST_Construction_Recursive.py)|
+|02| [BST_Construction_Recursive](algoexpert.io/questions/BST_Construction.md) | [Python](algoexpert.io/python/BST_Construction_Recursive.py)|
 |03| [Validate_BST](algoexpert.io/questions/Validate_BST.md) | [Python](algoexpert.io/python/Validate_BST.py)|
-|04| [Find_Closest_Value_in_BST](algoexpert.io/questions/Find_Closest_Value_in_BST.md) | [Python](algoexpert.io/python/Find_Closest_Value_in_BST.py)|
+|04| [Find_Closest_Value_in_BST](algoexpert.io/questions/Find_Closest_Value_In_BST.md) | [Python](algoexpert.io/python/Find_Closest_Value_in_BST.py)|
 |05| [BST_Traversal](algoexpert.io/questions/BST_Traversal.md) | [Python](algoexpert.io/python/BST_Traversal.py)|
 
 
@@ -168,8 +168,8 @@ If you have any questions about the solutions you can find here, feel free to co
 ### Dynamic Programming
 | Count | Title | Solution | Tutorial | Notes |
 |---| ----- | -------- | -------- | -------- |
-|01| [Number_Of_Ways_To_Make_Changes](algoexpert.io/questions/Number_Of_Ways_To_Make_Changes.md) | [Python](algoexpert.io/python/Number_Of_Ways_To_Make_Changes.py)|
-|02| [Minimum_Number_Of_Coins_For_Change](algoexpert.io/questions/Minimum_Number_Of_Coins_For_Change.md) | [Python](algoexpert.io/python/Minimum_Number_Of_Coins_For_Change.py)|
+|01| [Number_Of_Ways_To_Make_Changes](algoexpert.io/questions/Number_Of_Ways_To_Make_Change.md) | [Python](algoexpert.io/python/Number_Of_Ways_To_Make_Changes.py)|
+|02| [Minimum_Number_Of_Coins_For_Change](algoexpert.io/questions/Min_Number_Of_Coins_For_Change.md) | [Python](algoexpert.io/python/Minimum_Number_Of_Coins_For_Change.py)|
 |03| [Levenshtein_Distance](algoexpert.io/questions/Levenshtein_Distance.md) | [Python](algoexpert.io/python/Levenshtein_Distance.py)|
 |04| [Min_Number_Of_Jumps](algoexpert.io/questions/Min_Number_Of_Jumps.md) | [Python](algoexpert.io/python/Min_Number_Of_Jumps.py) | [Video 1](https://www.youtube.com/watch?v=cETfFsSTGJI)|
 |05| [Max_Sum_Increasing_Subsequence](algoexpert.io/questions/Max_Sum_Increasing_Subsequence.md) | [Python](algoexpert.io/python/Max_Sum_Increasing_Subsequence.py) |
@@ -184,7 +184,7 @@ If you have any questions about the solutions you can find here, feel free to co
 ### Famous Algorithm
 | Count | Title | Solution | Tutorial | Notes |
 |---| ----- | -------- | -------- | -------- |
-|01| [Kadane's_Algorithm](algoexpert.io/questions/Kadanes_Algorithm.md) | [Python](algoexpert.io/python/Kadane's_Algorithm.py)|
+|01| [Kadane's_Algorithm](algoexpert.io/questions/Kadane's_Algorithm.md) | [Python](algoexpert.io/python/Kadane's_Algorithm.py)|
 |02| [Topological_Sort](algoexpert.io/questions/Topological_Sort.md) | [Python](algoexpert.io/python/Topological_Sort.py) |
 
 
@@ -194,8 +194,8 @@ If you have any questions about the solutions you can find here, feel free to co
 |01| [Youngest_Common_Ancestor](algoexpert.io/questions/Youngest_Common_Ancestor.md) | [Python](algoexpert.io/python/Youngest_Common_Ancestor.py)|
 |02| [Single_Cycle_Check](algoexpert.io/questions/Single_Cycle_Check.md) | [Python](algoexpert.io/python/Single_Cycle_Check.py)|
 |03| [River_Sizes](algoexpert.io/questions/River_Sizes.md) | [Python](algoexpert.io/python/River_Sizes.py)|
-|04| [Depth_First_Search](algoexpert.io/questions/Depth_First_Search.md) | [Python](algoexpert.io/python/Depth_First_Search.py)|
-|05| [Breadth_First_Search](algoexpert.io/questions/Breadth_First_Search.md) | [Python](algoexpert.io/python/Breadth_First_Search.py)|
+|04| [Depth_First_Search](algoexpert.io/questions/Depth-first_Search.md) | [Python](algoexpert.io/python/Depth_First_Search.py)|
+|05| [Breadth_First_Search](algoexpert.io/questions/Breadth-first_Search.md) | [Python](algoexpert.io/python/Breadth_First_Search.py)|
 |06| [Boggle_Board](algoexpert.io/questions/Boggle_Board.md) | [Python](algoexpert.io/python/Boggle_Board.py) |
 
 
@@ -229,9 +229,10 @@ If you have any questions about the solutions you can find here, feel free to co
 | Count | Title | Solution | Tutorial | Notes |
 |---| ----- | -------- | -------- | -------- |
 |01| [Search_In_Sorted_Matrix](algoexpert.io/questions/Search_In_Sorted_Matrix.md) | [Python](algoexpert.io/python/Search_In_Sorted_Matrix.py)|
-|02| [Find_Three_Largest_Number](algoexpert.io/questions/Find_Three_Largest_Number.md) | [Python](algoexpert.io/python/Find_Three_Largest_Number.py)|
+|02| [Find_Three_Largest_Number](algoexpert.io/questions/Find_Three_Largest_Numbers.md) | [Python](algoexpert.io/python/Find_Three_Largest_Number.py)|
 |03| [Binary_Search](algoexpert.io/questions/Binary_Search.md) | [Python](algoexpert.io/python/Binary_Search.py)|
 |04| [Shifted_Binary_Search](algoexpert.io/questions/Shifted_Binary_Search.md) | [Python](algoexpert.io/python/Shifted_Binary_Search.py)|
+|05| [Search_For_Range](algoexpert.io/questions/Search_For_Range.md) | [Python](algoexpert.io/python/Search_For_Range.py)|
 
 
 ### Sorting
@@ -253,7 +254,7 @@ If you have any questions about the solutions you can find here, feel free to co
 ### String
 | Count | Title | Solution | Tutorial | Notes |
 |---| ----- | -------- | -------- | -------- |
-|01| [Palindrom_Check](algoexpert.io/questions/Palindrom_Check.md) | [Python](algoexpert.io/python/Palindrom_Check.py)|
+|01| [Palindrom_Check](algoexpert.io/questions/Palindrome_Check.md) | [Python](algoexpert.io/python/Palindrom_Check.py)|
 |02| [Longest_Palindromic_Substring](algoexpert.io/questions/Longest_Palindromic_Substring.md) | [Python](algoexpert.io/python/Longest_Palindromic_Substring.py)|
 |03| [Caesar_Cipher_Encryptor](algoexpert.io/questions/Caesar_Cipher_Encryptor.md) | [Python](algoexpert.io/python/Caesar_Cipher_Encryptor.py)|
 
