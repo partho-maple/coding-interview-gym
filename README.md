@@ -9,7 +9,9 @@
 
 # Leetcode and Algoexpert Problems Using Swift and Python
 
-My solutions to algorithmic problems in [leetcode.com](https://leetcode.com/parthobiswas007/) and [algoexpert.io](https://www.algoexpert.io/questions) written in **Swift** and **Python**
+My solutions to algorithmic problems in [leetcode.com](https://leetcode.com/parthobiswas007/) and [algoexpert.io](https://www.algoexpert.io/questions) written in **Swift** and **Python** .
+
+Check my profile [here](https://leetcode.com/parthobiswas007/) at [leetcode.com](https://leetcode.com/parthobiswas007/)
 
 ## What you can find in this repository
 
