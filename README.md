@@ -233,7 +233,7 @@ If you have any questions about the solutions you can find here, feel free to co
 |03| [Binary_Search](algoexpert.io/questions/Binary_Search.md) | [Python](algoexpert.io/python/Binary_Search.py)|
 |04| [Shifted_Binary_Search](algoexpert.io/questions/Shifted_Binary_Search.md) | [Python](algoexpert.io/python/Shifted_Binary_Search.py)|
 |05| [Search_For_Range](algoexpert.io/questions/Search_For_Range.md) | [Python](algoexpert.io/python/Search_For_Range.py)|
-|06| [Quick_Select](algoexpert.io/questions/Quick_Select.md) | [Python](algoexpert.io/python/Quick_Select.py)|
+|06| [Quick_Select (Kth smallest/largest element)](algoexpert.io/questions/Quick_Select.md) | [Python](algoexpert.io/python/Quick_Select.py)|
 
 
 ### Sorting
