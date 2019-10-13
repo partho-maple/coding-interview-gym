@@ -245,6 +245,7 @@ If you have any questions about the solutions you can find here, feel free to co
 |02| [Insertion_Sort](algoexpert.io/questions/Insertion_Sort.md) | [Python](algoexpert.io/python/Insertion_Sort.py)|
 |03| [Bubble_Sort](algoexpert.io/questions/Bubble_Sort.md) | [Python](algoexpert.io/python/Bubble_Sort.py)|
 |04| [Quick_Sort](algoexpert.io/questions/Quick_Sort.md) | [Python](algoexpert.io/python/Quick_Sort.py) | [Video 1](https://www.youtube.com/watch?v=uXBnyYuwPe8&t=302s)|
+|05| [Heap_Sort](algoexpert.io/questions/Heap_Sort.md) | [Python](algoexpert.io/python/Heap_Sort.py) |
 
 
 ### Stacks
