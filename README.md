@@ -42,13 +42,9 @@ If you have any questions about the solutions you can find here, feel free to co
 
 
 ----
-##  
-```diff 
-! LeetCode.com (81 Problems) 
-```
 
 
-##  LeetCode.com (81 Problems)
+##  _**LeetCode.com (81 Problems)**_
 
 ### Arrays, HashMap
 | Count | Title | Solution | Tutorial | Notes |
@@ -226,7 +222,7 @@ If you have any questions about the solutions you can find here, feel free to co
 ----
 
 
-##   AlgoExpert.io (77 Problems)
+##   _**AlgoExpert.io (77 Problems)**_
 
 
 ### Arrays
