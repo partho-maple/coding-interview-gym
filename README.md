@@ -42,7 +42,10 @@ If you have any questions about the solutions you can find here, feel free to co
 
 
 ----
-##  ```diff ! LeetCode.com (81 Problems) ```
+##  
+```diff 
+! LeetCode.com (81 Problems) 
+```
 
 
 ##  LeetCode.com (81 Problems)
