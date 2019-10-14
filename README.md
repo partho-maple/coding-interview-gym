@@ -380,6 +380,7 @@ If you have any questions about the solutions you can find here, feel free to co
 |02| [Longest_Palindromic_Substring](algoexpert.io/questions/Longest_Palindromic_Substring.md) | [Python](algoexpert.io/python/Longest_Palindromic_Substring.py)|
 |03| [Caesar_Cipher_Encryptor](algoexpert.io/questions/Caesar_Cipher_Encryptor.md) | [Python](algoexpert.io/python/Caesar_Cipher_Encryptor.py)|
 |04| [Longest_Substring_Without_Duplication](algoexpert.io/questions/Longest_Substring_Without_Duplication.md) | [Python](algoexpert.io/python/Longest_Substring_Without_Duplication.py)|
+|05| [Underscorify_Substring](algoexpert.io/questions/Underscorify_Substring.md) | [Python](algoexpert.io/python/Underscorify_Substring.py)|
 
 
 ### Tries
