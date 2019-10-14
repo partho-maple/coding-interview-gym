@@ -65,7 +65,9 @@ Constructive criticisms or code reviews of any kind are very much welcome.
 If you have any questions about the solutions you can find here, feel free to contact me **partho.maple@gmail.com**.
 
 
-----
+---
+
+---
 
 
 ## LeetCode
@@ -244,7 +246,9 @@ If you have any questions about the solutions you can find here, feel free to co
 |01| [#1118 - Number of Days in a Month](https://leetcode.com/problems/number-of-days-in-a-month/)| [Python](leetcode.com/python/%231118%20-Number%20of%20Days%20in%20a%20Month.py)|
 
 
-----
+---
+
+---
 
 
 ## AlgoExpert
