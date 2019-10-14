@@ -27,8 +27,8 @@
   <a href="#About">About</a> •
   <a href="#Contributing">Contributing</a> •
   <a href="#Goal">Goal</a> •
-  <a href="#LeetCode.com">LeetCode.com</a> •
-  <a href="#AlgoExpert.io">AlgoExpert.io</a>
+  <a href="#LeetCode">LeetCode.com</a> •
+  <a href="#AlgoExpert">AlgoExpert.io</a>
 </p>
 
 ---
@@ -68,7 +68,7 @@ If you have any questions about the solutions you can find here, feel free to co
 ----
 
 
-## LeetCode.com
+## LeetCode
 <b>81 Problems</b>
 
 ### Arrays, HashMap
@@ -247,7 +247,7 @@ If you have any questions about the solutions you can find here, feel free to co
 ----
 
 
-## AlgoExpert.io
+## AlgoExpert
 <b>77 Problems</b>
 
 
