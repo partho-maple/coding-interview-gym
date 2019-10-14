@@ -16,9 +16,9 @@
 <h4 align="center">Leetcode and Algoexpert Problems Using Swift and Python</h4>
 
 <p align="center">
-  My solutions to algorithmic problems in [leetcode.com](https://leetcode.com/parthobiswas007/) and [algoexpert.io](https://www.algoexpert.io/questions) written in **Swift** and **Python** .
- </br>
- Check my profile [here](https://leetcode.com/parthobiswas007/) at [leetcode.com](https://leetcode.com/parthobiswas007/)
+  My solutions to algorithmic problems in <a href="https://leetcode.com/parthobiswas007/">leetcode.com</a> and <a href="https://www.algoexpert.io/questions">algoexpert.io</a> written in <b>Swift</b> and <b>Python</b>.
+  </br>
+  Can take a look into my <a href="https://leetcode.com/parthobiswas007/">leetcode profile</a> if interested. 
 </p>
 
 <h4 align="center">Updated daily :) If it was helpful please press a star</h4>
