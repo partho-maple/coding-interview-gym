@@ -25,10 +25,10 @@
 
 <p align="center">
   <a href="#About">About</a> •
-  <a href="#How to contribute?">Contributing</a> •
+  <a href="#Contributing">Contributing</a> •
   <a href="#What I'll be doing with this repository">Goal</a> •
-  <a href="#LeetCode.com (81 Problems)">LeetCode.com</a> •
-  <a href="#AlgoExpert.io (77 Problems)">AlgoExpert.io</a> •
+  <a href="#LeetCode.com">LeetCode.com</a> •
+  <a href="#AlgoExpert.io">AlgoExpert.io</a>
 </p>
 
 ---
@@ -39,13 +39,15 @@
 
 I have solved quite a number of problems from several topics. See the below table for further details.
 
-## How to contribute?
+## Contributing
+
+<b>How to contribute?</b>
 
 1. Fork the repository 
 2. Do the desired changes (add/delete/modify)
 3. Make a pull request
 
-## When to contribute?
+<b>When to contribute?</b>
 
 1. If there is no solution to a problem in the main branch.
 2. If your solution is asymptotically faster than the one in the main branch.
@@ -66,7 +68,8 @@ If you have any questions about the solutions you can find here, feel free to co
 ----
 
 
-##  LeetCode.com (81 Problems)
+##  LeetCode.com
+<b>81 Problems</b>
 
 ### Arrays, HashMap
 | Count | Title | Solution | Tutorial | Notes |
@@ -244,7 +247,8 @@ If you have any questions about the solutions you can find here, feel free to co
 ----
 
 
-##   AlgoExpert.io (77 Problems)
+##   AlgoExpert.io
+<b>77 Problems</b>
 
 
 ### Arrays
