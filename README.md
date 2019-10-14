@@ -26,7 +26,7 @@
 <p align="center">
   <a href="#About">About</a> •
   <a href="#Contributing">Contributing</a> •
-  <a href="#What I'll be doing with this repository">Goal</a> •
+  <a href="#Goal">Goal</a> •
   <a href="#LeetCode.com">LeetCode.com</a> •
   <a href="#AlgoExpert.io">AlgoExpert.io</a>
 </p>
@@ -55,7 +55,7 @@ I have solved quite a number of problems from several topics. See the below tabl
 4. If you have another method of solving the problem which is asymptotically slower than the original method then, comment your solution in the main file and make a pull request.
 
 
-## What I'll be doing with this repository
+## Goal
 
 One day in the foreseeable future I will have solved all the challenges on [leetcode](https://leetcode.com/problemset/algorithms/).
 Then this repository will mostly become a static one.
@@ -68,7 +68,7 @@ If you have any questions about the solutions you can find here, feel free to co
 ----
 
 
-##  LeetCode.com
+## LeetCode.com
 <b>81 Problems</b>
 
 ### Arrays, HashMap
@@ -247,7 +247,7 @@ If you have any questions about the solutions you can find here, feel free to co
 ----
 
 
-##   AlgoExpert.io
+## AlgoExpert.io
 <b>77 Problems</b>
 
 
