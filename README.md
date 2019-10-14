@@ -1,4 +1,3 @@
-
 <h1 align="center">
   <br>
   <a href="https://github.com/partho-maple/Algorithms/archive/master.zip"><img src="leetcode.png"></a>
@@ -16,22 +15,23 @@
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
 
-<p align="center">
-
-**Updated daily :)   If it was helpful please press a star.**
-
-</p>
-
-
-
-
-
 <h4 align="center">Leetcode and Algoexpert Problems Using Swift and Python</h4>
 
 My solutions to algorithmic problems in [leetcode.com](https://leetcode.com/parthobiswas007/) and [algoexpert.io](https://www.algoexpert.io/questions) written in **Swift** and **Python** .
 
 Check my profile [here](https://leetcode.com/parthobiswas007/) at [leetcode.com](https://leetcode.com/parthobiswas007/)
 
+<h4 align="center">Updated daily :) If it was helpful please press a star</h4>
+
+<p align="center">
+  <a href="#What you can find in this repository">About</a> •
+  <a href="#How to contribute?">Contributing</a> •
+  <a href="#What I'll be doing with this repository">Goal</a> •
+  <a href="#LeetCode.com (81 Problems)">LeetCode.com</a> •
+  <a href="#AlgoExpert.io (77 Problems)">AlgoExpert.io</a> •
+</p>
+
+---
 
 ---
 
@@ -67,7 +67,7 @@ If you have any questions about the solutions you can find here, feel free to co
 ----
 
 
-##  _**LeetCode.com (81 Problems)**_
+##  LeetCode.com (81 Problems)
 
 ### Arrays, HashMap
 | Count | Title | Solution | Tutorial | Notes |
@@ -245,7 +245,7 @@ If you have any questions about the solutions you can find here, feel free to co
 ----
 
 
-##   _**AlgoExpert.io (77 Problems)**_
+##   AlgoExpert.io (77 Problems)
 
 
 ### Arrays
@@ -406,7 +406,7 @@ If you have any questions about the solutions you can find here, feel free to co
 [issues-shield]: https://img.shields.io/github/issues/partho-maple/Algorithms.svg?style=flat-square
 [issues-url]: https://github.com/partho-maple/Algorithms/issues
 [license-shield]: https://img.shields.io/github/license/partho-maple/Algorithms.svg?style=flat-square
-[license-url]: https://github.com/partho-maple/Algorithms/blob/master/LICENSE.txt
+[license-url]: https://github.com/partho-maple/Algorithms/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/partho-maple/
 [product-screenshot]: images/screenshot.png
