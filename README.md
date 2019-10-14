@@ -4,7 +4,6 @@
   <a href="https://github.com/partho-maple/Algorithms/archive/master.zip"><img src="algoexpert.png"></a>
 </h1>
 
-
 [![GitHub last commit][last-commit-shield]][last-commit-url]
 [![GitHub repo size in bytes][repo-size-shield]][repo-size-url]
 [![Contributors][contributors-shield]][contributors-url]
@@ -14,17 +13,18 @@
 [![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
-
 <h4 align="center">Leetcode and Algoexpert Problems Using Swift and Python</h4>
 
-My solutions to algorithmic problems in [leetcode.com](https://leetcode.com/parthobiswas007/) and [algoexpert.io](https://www.algoexpert.io/questions) written in **Swift** and **Python** .
-
-Check my profile [here](https://leetcode.com/parthobiswas007/) at [leetcode.com](https://leetcode.com/parthobiswas007/)
+<p align="center">
+  My solutions to algorithmic problems in [leetcode.com](https://leetcode.com/parthobiswas007/) and [algoexpert.io](https://www.algoexpert.io/questions) written in **Swift** and **Python** .
+ </br>
+ Check my profile [here](https://leetcode.com/parthobiswas007/) at [leetcode.com](https://leetcode.com/parthobiswas007/)
+</p>
 
 <h4 align="center">Updated daily :) If it was helpful please press a star</h4>
 
 <p align="center">
-  <a href="#What you can find in this repository">About</a> •
+  <a href="#About">About</a> •
   <a href="#How to contribute?">Contributing</a> •
   <a href="#What I'll be doing with this repository">Goal</a> •
   <a href="#LeetCode.com (81 Problems)">LeetCode.com</a> •
@@ -35,8 +35,7 @@ Check my profile [here](https://leetcode.com/parthobiswas007/) at [leetcode.com]
 
 ---
 
-
-## What you can find in this repository
+## About
 
 I have solved quite a number of problems from several topics. See the below table for further details.
 
@@ -392,21 +391,21 @@ If you have any questions about the solutions you can find here, feel free to co
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[last-commit-shield]: https://img.shields.io/github/last-commit/partho-maple/Algorithms?style=flat-square
+[last-commit-shield]: https://img.shields.io/github/last-commit/partho-maple/Algorithms?style=for-the-badge
 [last-commit-url]: https://github.com/partho-maple/Algorithms/commits/master
-[repo-size-shield]: https://img.shields.io/github/repo-size/partho-maple/Algorithms?style=flat-square
+[repo-size-shield]: https://img.shields.io/github/repo-size/partho-maple/Algorithms?style=for-the-badge
 [repo-size-url]: https://github.com/partho-maple/Algorithms
 
-[contributors-shield]: https://img.shields.io/github/contributors/partho-maple/Algorithms.svg?style=flat-square
+[contributors-shield]: https://img.shields.io/github/contributors/partho-maple/Algorithms.svg?style=for-the-badge
 [contributors-url]: https://github.com/partho-maple/Algorithms/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/partho-maple/Algorithms.svg?style=flat-square
+[forks-shield]: https://img.shields.io/github/forks/partho-maple/Algorithms.svg?style=for-the-badge
 [forks-url]: https://github.com/partho-maple/Algorithms/network/members
-[stars-shield]: https://img.shields.io/github/stars/partho-maple/Algorithms.svg?style=flat-square
+[stars-shield]: https://img.shields.io/github/stars/partho-maple/Algorithms.svg?style=for-the-badge
 [stars-url]: https://github.com/partho-maple/Algorithms/stargazers
-[issues-shield]: https://img.shields.io/github/issues/partho-maple/Algorithms.svg?style=flat-square
+[issues-shield]: https://img.shields.io/github/issues/partho-maple/Algorithms.svg?style=for-the-badge
 [issues-url]: https://github.com/partho-maple/Algorithms/issues
-[license-shield]: https://img.shields.io/github/license/partho-maple/Algorithms.svg?style=flat-square
+[license-shield]: https://img.shields.io/github/license/partho-maple/Algorithms.svg?style=for-the-badge
 [license-url]: https://github.com/partho-maple/Algorithms/LICENSE.txt
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/partho-maple/
 [product-screenshot]: images/screenshot.png
