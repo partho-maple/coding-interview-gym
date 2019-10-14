@@ -21,7 +21,7 @@
   Can take a look into my <a href="https://leetcode.com/parthobiswas007/">leetcode profile</a> if interested. 
 </p>
 
-<h4 align="center">Updated daily :) If it was helpful please press a star</h4>
+<h4 align="center">Show your support by giving it a STAR</h4>
 
 <p align="center">
   <a href="#About">About</a> •
