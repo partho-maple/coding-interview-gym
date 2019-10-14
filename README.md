@@ -1,17 +1,40 @@
-<p align="center">
-  <img src="leetcode.png">
-</p>
+
+<h1 align="center">
+  <br>
+  <a href="https://github.com/partho-maple/Algorithms/archive/master.zip"><img src="leetcode.png"></a>
+  <a href="https://github.com/partho-maple/Algorithms/archive/master.zip"><img src="algoexpert.png"></a>
+</h1>
+
+
+[![GitHub last commit][last-commit-shield]][last-commit-url]
+[![GitHub repo size in bytes][repo-size-shield]][repo-size-url]
+[![Contributors][contributors-shield]][contributors-url]
+[![Forks][forks-shield]][forks-url]
+[![Stargazers][stars-shield]][stars-url]
+[![Issues][issues-shield]][issues-url]
+[![MIT License][license-shield]][license-url]
+[![LinkedIn][linkedin-shield]][linkedin-url]
+
 
 <p align="center">
-  <img src="algoexpert.png">
+
+**Updated daily :)   If it was helpful please press a star.**
+
 </p>
 
 
-# Leetcode and Algoexpert Problems Using Swift and Python
+
+
+
+<h4 align="center">Leetcode and Algoexpert Problems Using Swift and Python</h4>
 
 My solutions to algorithmic problems in [leetcode.com](https://leetcode.com/parthobiswas007/) and [algoexpert.io](https://www.algoexpert.io/questions) written in **Swift** and **Python** .
 
 Check my profile [here](https://leetcode.com/parthobiswas007/) at [leetcode.com](https://leetcode.com/parthobiswas007/)
+
+
+---
+
 
 ## What you can find in this repository
 
@@ -360,3 +383,30 @@ If you have any questions about the solutions you can find here, feel free to co
 
 
 
+
+
+
+
+
+
+
+<!-- MARKDOWN LINKS & IMAGES -->
+<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+[last-commit-shield]: https://img.shields.io/github/last-commit/partho-maple/Algorithms?style=flat-square
+[last-commit-url]: https://github.com/partho-maple/Algorithms/commits/master
+[repo-size-shield]: https://img.shields.io/github/repo-size/partho-maple/Algorithms?style=flat-square
+[repo-size-url]: https://github.com/partho-maple/Algorithms
+
+[contributors-shield]: https://img.shields.io/github/contributors/partho-maple/Algorithms.svg?style=flat-square
+[contributors-url]: https://github.com/partho-maple/Algorithms/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/partho-maple/Algorithms.svg?style=flat-square
+[forks-url]: https://github.com/partho-maple/Algorithms/network/members
+[stars-shield]: https://img.shields.io/github/stars/partho-maple/Algorithms.svg?style=flat-square
+[stars-url]: https://github.com/partho-maple/Algorithms/stargazers
+[issues-shield]: https://img.shields.io/github/issues/partho-maple/Algorithms.svg?style=flat-square
+[issues-url]: https://github.com/partho-maple/Algorithms/issues
+[license-shield]: https://img.shields.io/github/license/partho-maple/Algorithms.svg?style=flat-square
+[license-url]: https://github.com/partho-maple/Algorithms/blob/master/LICENSE.txt
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
+[linkedin-url]: https://www.linkedin.com/in/partho-maple/
+[product-screenshot]: images/screenshot.png
