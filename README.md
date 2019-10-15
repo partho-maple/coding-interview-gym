@@ -283,6 +283,7 @@ If you have any questions about the solutions you can find here, feel free to co
 |---| ----- | -------- | -------- | -------- |
 |01| [Invert_Binary_Tree](algoexpert.io/questions/Invert_Binary_Tree.md) | [Python](algoexpert.io/python/Invert_Binary_Tree.py)|
 |02| [Max_Path_Sum_In_Binary_Tree](algoexpert.io/questions/Max_Path_Sum_In_Binary_Tree.md) | [Python](algoexpert.io/python/Max_Path_Sum_In_Binary_Tree.py) |
+|03| [Iterative_In-order_Traversal](algoexpert.io/questions/Iterative_In-order_Traversal.md) | [Python](algoexpert.io/python/Iterative_In-order_Traversal.py) |
 
 
 ### Dynamic Programming
@@ -381,6 +382,7 @@ If you have any questions about the solutions you can find here, feel free to co
 |03| [Caesar_Cipher_Encryptor](algoexpert.io/questions/Caesar_Cipher_Encryptor.md) | [Python](algoexpert.io/python/Caesar_Cipher_Encryptor.py)|
 |04| [Longest_Substring_Without_Duplication](algoexpert.io/questions/Longest_Substring_Without_Duplication.md) | [Python](algoexpert.io/python/Longest_Substring_Without_Duplication.py)|
 |05| [Underscorify_Substring](algoexpert.io/questions/Underscorify_Substring.md) | [Python](algoexpert.io/python/Underscorify_Substring.py)|
+|06| [Pattern_Matcher](algoexpert.io/questions/Pattern_Matcher.md) | [Python](algoexpert.io/python/Pattern_Matcher.py)|
 
 
 ### Tries
