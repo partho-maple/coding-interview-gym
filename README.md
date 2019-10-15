@@ -266,6 +266,7 @@ If you have any questions about the solutions you can find here, feel free to co
 |06| [Largest_Range](algoexpert.io/questions/Largest_Range.md) | [Python](algoexpert.io/python/Largest_Range.py) |
 |07| [Min_Rewards](algoexpert.io/questions/Min_Rewards.md) | [Python](algoexpert.io/python/Min_Rewards.py) |
 |08| [Zigzag_Traverse](algoexpert.io/questions/Zigzag_Traverse.md) | [Python](algoexpert.io/python/Zigzag_Traverse.py) |
+|08| [Apartment_Hunting](algoexpert.io/questions/Apartment_Hunting.md) | [Python](algoexpert.io/python/Apartment_Hunting.py) |
 
 
 ### Binary Search Tree
