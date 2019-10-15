@@ -267,6 +267,7 @@ If you have any questions about the solutions you can find here, feel free to co
 |07| [Min_Rewards](algoexpert.io/questions/Min_Rewards.md) | [Python](algoexpert.io/python/Min_Rewards.py) |
 |08| [Zigzag_Traverse](algoexpert.io/questions/Zigzag_Traverse.md) | [Python](algoexpert.io/python/Zigzag_Traverse.py) |
 |08| [Apartment_Hunting](algoexpert.io/questions/Apartment_Hunting.md) | [Python](algoexpert.io/python/Apartment_Hunting.py) |
+|09| [Calendar_Matching](algoexpert.io/questions/Calendar_Matching.md) | [Python](algoexpert.io/python/Calendar_Matching.py) |
 
 
 ### Binary Search Tree
@@ -325,7 +326,7 @@ If you have any questions about the solutions you can find here, feel free to co
 | Count | Title | Solution | Tutorial | Notes |
 |---| ----- | -------- | -------- | -------- |
 |01| [Min_Heap_Construction](algoexpert.io/questions/Min_Heap_Construction.md) | [Python](algoexpert.io/python/Min_Heap_Construction.py) |[Video 1](https://www.youtube.com/watch?v=HqPJF2L5h9U)|
-|02| [Continuous_Median](algoexpert.io/questions/Continuous_Median.md) | [Python](algoexpert.io/python/Continuous_Median.py) |
+|02| [Continuous_Median](algoexpert.io/questions/Continuous_Median.md) | [Python](algoexpert.io/python/Continuous_Median.py) |[Video 1](https://www.youtube.com/watch?v=1CxyVdA_654), [Video 2](https://www.youtube.com/watch?v=VmogG01IjYc)|
 
 
 ### Linked List
@@ -335,6 +336,7 @@ If you have any questions about the solutions you can find here, feel free to co
 |02| [Linked_List_Construction](algoexpert.io/questions/Linked_List_Construction.md) | [Python](algoexpert.io/python/Linked_List_Construction.py)|
 |03| [Find_Loop](algoexpert.io/questions/Find_Loop.md) | [Python](algoexpert.io/python/Find_Loop.py)|
 |04| [Reverse_Linked_List](algoexpert.io/questions/Reverse_Linked_List.md) | [Python](algoexpert.io/python/Reverse_Linked_List.py)|
+|05| [LRU_Cache](algoexpert.io/questions/LRU_Cache.md) | [Python](algoexpert.io/python/LRU_Cache.py)|
 
 
 ### Recursion
