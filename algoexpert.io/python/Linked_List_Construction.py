@@ -1,6 +1,14 @@
 # https://www.algoexpert.io/questions/Linked%20List%20Construction
 # Write a class for a Doubly Linked List.
 
+
+# Definition for doubly-linked list node.
+# class ListNode(object):
+#     def __init__(self, x):
+#         self.val = x
+#         self.next = None
+#         self.prev = prev
+
 class DoublyLinkedList:
 
     def __init__(self):
