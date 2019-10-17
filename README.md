@@ -394,6 +394,7 @@ If you have any questions about the solutions you can find here, feel free to co
 | Count | Title | Solution | Tutorial | Notes |
 |---| ----- | -------- | -------- | -------- |
 |01| [Suffix_Trie_Construction](algoexpert.io/questions/Suffix_Trie_Construction.md) | [Python](algoexpert.io/python/Suffix_Trie_Construction.py)|
+|02| [Multi_String_Search](algoexpert.io/questions/Multi_String_Search.md) | [Python](algoexpert.io/python/Multi_String_Search.py)|
 
 
 

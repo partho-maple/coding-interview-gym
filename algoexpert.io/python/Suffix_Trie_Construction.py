@@ -52,3 +52,11 @@ class SuffixTrie:
         return self.end_symbol in node
 
 
+
+
+
+st = SuffixTrie("babc")
+contains = st.contains("bc")
+print("Restlt: ", contains)
+
+
