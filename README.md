@@ -302,6 +302,7 @@ If you have any questions about the solutions you can find here, feel free to co
 |09| [Disk_Stacking](algoexpert.io/questions/Disk_Stacking.md) | [Python](algoexpert.io/python/Disk_Stacking.py) |
 |10| [Numbers_In_Pi](algoexpert.io/questions/Numbers_In_Pi.md) | [Python](algoexpert.io/python/Numbers_In_Pi.py) |
 |11| [Maximum_Subset_Sum_With_No_Adjacent_Element](algoexpert.io/questions/Maximum_Subset_Sum_With_No_Adjacent_Element.md) | [Python](algoexpert.io/python/Maximum_Subset_Sum_With_No_Adjacent_Element.py) |
+|12| [Max_Profit_With_K_Transactions](algoexpert.io/questions/Max_Profit_With_K_Transactions.md) | [Python](algoexpert.io/python/Max_Profit_With_K_Transactions.py) |
 
 
 ### Famous Algorithm
