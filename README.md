@@ -303,6 +303,8 @@ If you have any questions about the solutions you can find here, feel free to co
 |10| [Numbers_In_Pi](algoexpert.io/questions/Numbers_In_Pi.md) | [Python](algoexpert.io/python/Numbers_In_Pi.py) |
 |11| [Maximum_Subset_Sum_With_No_Adjacent_Element](algoexpert.io/questions/Maximum_Subset_Sum_With_No_Adjacent_Element.md) | [Python](algoexpert.io/python/Maximum_Subset_Sum_With_No_Adjacent_Element.py) |
 |12| [Max_Profit_With_K_Transactions](algoexpert.io/questions/Max_Profit_With_K_Transactions.md) | [Python](algoexpert.io/python/Max_Profit_With_K_Transactions.py) |
+|13| [Palindrome_Partitioning_Min_Cuts](algoexpert.io/questions/Palindrome_Partitioning_Min_Cuts.md) | [Python](algoexpert.io/python/Palindrome_Partitioning_Min_Cuts.py) |
+|14| [Longest_Increasing_Subsequence](algoexpert.io/questions/Longest_Increasing_Subsequence.md) | [Python](algoexpert.io/python/Longest_Increasing_Subsequence.py) |
 
 
 ### Famous Algorithm
