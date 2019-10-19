@@ -28,7 +28,8 @@
   <a href="#Contributing">Contributing</a> •
   <a href="#Goal">Goal</a> •
   <a href="#LeetCode">LeetCode.com</a> •
-  <a href="#AlgoExpert">AlgoExpert.io</a>
+  <a href="#AlgoExpert">AlgoExpert.io</a> •
+  <a href="#References">References</a>
 </p>
 
 ---
@@ -73,7 +74,7 @@ If you have any questions about the solutions you can find here, feel free to co
 ## LeetCode
 <b>81 Problems</b>
 
-### Arrays, HashMap
+### [Arrays](https://leetcode.com/explore/learn/card/array-and-string/) , [HashMap](https://leetcode.com/explore/learn/card/hash-table/)
 | Count | Title | Solution | Tutorial | Level |
 |---| ----- | -------- | -------- | -------- |
 |01| [#1 - Two Sum.swift](https://leetcode.com/problems/two-sum/)| [Python](leetcode.com/python/%231%20-%20Two%20Sum.py), [Swift](leetcode.com/swift/%231%20-%20Two%20Sum.swift)|
@@ -97,17 +98,7 @@ If you have any questions about the solutions you can find here, feel free to co
 |19| [#904 - Fruit Into Baskets](https://leetcode.com/problems/fruit-into-baskets/solution/)| [Python](leetcode.com/python/%23904%20-%20Fruit%20Into%20Baskets.py)| [Article](https://www.educative.io/courses/grokking-the-coding-interview/Bn2KLlOR0lQ), [Video 1](https://www.youtube.com/watch?v=s_zu2dOkq80), [Video 2](https://www.youtube.com/watch?v=za2YuucS0tw)|
 
 
-### Linked List
-| Count | Title | Solution | Tutorial | Level |
-|---| ----- | -------- | -------- | -------- |
-|01| [#2 - Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)| [Swift](leetcode.com/swift/%232%20-%20Add%20Two%20Numbers.swift)|
-|02| [#707 - Design Linked List](https://leetcode.com/problems/design-linked-list/)| [Python](leetcode.com/python/%23707%20-%20Design%20Linked%20List.py)|
-|03| [#21 - Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)| [Python](leetcode.com/python/%2321%20-%20Merge%20Two%20Sorted%20Lists.py)|
-|04| [#206 - Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)| [Python](leetcode.com/python/%23206%20-%20Reverse%20Linked%20List.py)|
-|05| [#24 - Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)| [Python](leetcode.com/python/%2324%20-%20Swap%20Nodes%20in%20Pairs.py)|
-
-
-### String
+### [String](https://leetcode.com/explore/learn/card/array-and-string/)
 | Count | Title | Solution | Tutorial | Level |
 |---| ----- | -------- | -------- | -------- |
 |01| [#3 - Longest Substring Without Repeating Characters.swift](https://leetcode.com/problems/longest-substring-without-repeating-characters/)| [Swift](leetcode.com/swift/%233%20-%20Longest%20Substring%20Without%20Repeating%20Characters.swift)|
@@ -123,7 +114,17 @@ If you have any questions about the solutions you can find here, feel free to co
 |10| [#482 - License Key Formatting](https://leetcode.com/problems/license-key-formatting/)| [Python](leetcode.com/python/%23482%20-%20License%20Key%20Formatting.py)| |
 
 
-### Stack, Queue
+### [Linked List](https://leetcode.com/explore/learn/card/linked-list/)
+| Count | Title | Solution | Tutorial | Level |
+|---| ----- | -------- | -------- | -------- |
+|01| [#2 - Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)| [Swift](leetcode.com/swift/%232%20-%20Add%20Two%20Numbers.swift)|
+|02| [#707 - Design Linked List](https://leetcode.com/problems/design-linked-list/)| [Python](leetcode.com/python/%23707%20-%20Design%20Linked%20List.py)|
+|03| [#21 - Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)| [Python](leetcode.com/python/%2321%20-%20Merge%20Two%20Sorted%20Lists.py)|
+|04| [#206 - Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)| [Python](leetcode.com/python/%23206%20-%20Reverse%20Linked%20List.py)|
+|05| [#24 - Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)| [Python](leetcode.com/python/%2324%20-%20Swap%20Nodes%20in%20Pairs.py)|
+
+
+### [Stack, Queue](https://leetcode.com/explore/learn/card/queue-stack/)
 | Count | Title | Solution | Tutorial | Level |
 |---| ----- | -------- | -------- | -------- |
 |01| [#20 - Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)| [Python](leetcode.com/python/%2320%20-%20Valid%20Parentheses.py)|
@@ -136,7 +137,7 @@ If you have any questions about the solutions you can find here, feel free to co
 |01| [#912 - Sort an Array (Merge Sort)](https://leetcode.com/problems/sort-an-array/)| [Python](leetcode.com/python/%23912%20-%20Sort%20an%20Array%20(Merge%20%20Sort).py)|
 
 
-### Searching
+### [Binary Search](https://leetcode.com/explore/learn/card/binary-search/)
 | Count | Title | Solution | Tutorial | Level |
 |---| ----- | -------- | -------- | -------- |
 |01| [#704 - Binary Search](https://leetcode.com/problems/binary-search/)| [Python](leetcode.com/python/%23704%20-%20Binary%20Search.py)|
@@ -144,7 +145,7 @@ If you have any questions about the solutions you can find here, feel free to co
 |04| [#74 - Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)| [Python](leetcode.com/python/%2374%20-%20Search%20a%202D%20Matrix.py)| [Youtube Video 01](https://www.youtube.com/watch?v=FOa55B9Ikfg), [Youtube Video 02](https://www.youtube.com/watch?v=DHSyS72BvOQ)|
 
 
-### Binary Search Tree
+### [Binary Search Tree](https://leetcode.com/explore/learn/card/introduction-to-data-structure-binary-search-tree/)
 | Count | Title | Solution | Tutorial | Level |
 |---| ----- | -------- | -------- | -------- |
 |01| [#701 - Insert into a Binary Search Tree](https://leetcode.com/problems/insert-into-a-binary-search-tree/)| [Python](leetcode.com/python/%23701%20-%20Insert%20into%20a%20Binary%20Search%20Tree.py)|
@@ -152,7 +153,7 @@ If you have any questions about the solutions you can find here, feel free to co
 |03| [#270 - Closest Binary Search Tree Value](https://leetcode.com/problems/closest-binary-search-tree-value/)| [Python](leetcode.com/python/%23270%20-%20Closest%20Binary%20Search%20Tree%20Value.py)|
 
 
-### N-Ary Tree
+### [N-Ary Tree](https://leetcode.com/explore/learn/card/n-ary-tree/)
 | Count | Title | Solution | Tutorial | Level |
 |---| ----- | -------- | -------- | -------- |
 |01| [#589 - N-ary Tree Preorder Traversal](https://leetcode.com/problems/n-ary-tree-preorder-traversal/)| [Python](leetcode.com/python/%23589%20-%20N-ary%20Tree%20Preorder%20Traversal.py)|
@@ -163,7 +164,7 @@ If you have any questions about the solutions you can find here, feel free to co
 |08| [#428 - Serialize and Deserialize N-ary Tree](https://leetcode.com/problems/serialize-and-deserialize-n-ary-tree/)| [Python](leetcode.com/python/%23428%20-%20Serialize%20and%20Deserialize%20N-ary%20Tree.py)|
 
 
-### Tree
+### [Tree](https://leetcode.com/explore/learn/card/data-structure-tree/)
 | Count | Title | Solution | Tutorial | Level |
 |---| ----- | -------- | -------- | -------- |
 |01| [#450 - Delete Node in a BST](https://leetcode.com/problems/delete-node-in-a-bst/solution/)| [Python](leetcode.com/python/%23450%20-%20Delete%20Node%20in%20a%20BST.py)|
@@ -181,12 +182,12 @@ If you have any questions about the solutions you can find here, feel free to co
 |13| [#100 - Same Tree](https://leetcode.com/problems/same-tree/)| [Python](leetcode.com/python/%23100%20-%20Same%20Tree.py)| |
 
 
-### Heaps
+### [Heaps](https://www.youtube.com/watch?v=HqPJF2L5h9U)
 | Count | Title | Solution | Tutorial | Level |
 |---| ----- | -------- | -------- | -------- |
 
 
-### Tries
+### [Tries](https://leetcode.com/explore/learn/card/trie/)
 | Count | Title | Solution | Tutorial | Level |
 |---| ----- | -------- | -------- | -------- |
 |01| [#208 - Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/)| [Python](leetcode.com/python/%23208%20-%20Implement%20Trie%20(Prefix%20Tree).py)|
@@ -198,21 +199,21 @@ If you have any questions about the solutions you can find here, feel free to co
 |---| ----- | -------- | -------- | -------- |
 
 
-### Recursion, Iteration
+### [Recursion, Iteration](https://leetcode.com/explore/learn/card/recursion-i/)
 | Count | Title | Solution | Tutorial | Level |
 |---| ----- | -------- | -------- | -------- |
 |01| [#509 - Fibonacci Number](https://leetcode.com/problems/fibonacci-number/)| [Python](leetcode.com/python/%23509%20-%20Fibonacci%20Number.py)|
 |02| [#50 - Pow(x, n)](https://leetcode.com/problems/powx-n/)| [Python](leetcode.com/python/%2350%20-%20Pow(x%2C%20n).py)|
 
 
-### [Union Find / Disjoint Sets](https://www.udemy.com/course/introduction-to-data-structures/learn/lecture/7261034#overview)
+### [Union Find / Disjoint Sets](https://www.youtube.com/watch?v=wU6udHRIkcc)
 | Count | Title | Solution | Tutorial | Level |
 |---| ----- | -------- | -------- | -------- |
 |01| [#200 - Number of Islands](https://leetcode.com/problems/number-of-islands/)| [Python](leetcode.com/python/%23200%20-%20Number%20of%20Islands.py)|
 
 
 
-### Dynamic Programming
+### [Dynamic Programming](https://www.educative.io/courses/grokking-dynamic-programming-patterns-for-coding-interviews)
 | Count | Title | Solution | Tutorial | Level |
 |---| ----- | -------- | -------- | -------- |
 |01| [#309 - Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/)| [Python](leetcode.com/python/%23309%20-%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20with%20Cooldown.py)|
@@ -226,7 +227,7 @@ If you have any questions about the solutions you can find here, feel free to co
 |09| [#95 - Unique Binary Search Trees II](https://leetcode.com/problems/unique-binary-search-trees-ii/)| [Python](leetcode.com/python/%2395%20-%20Unique%20Binary%20Search%20Trees%20II.py)|
 
 
-### Backtracking
+### [Backtracking](https://www.youtube.com/watch?v=DKCbsiDBN6c)
 | Count | Title | Solution | Tutorial | Level |
 |---| ----- | -------- | -------- | -------- |
 |01| [#211 - Add and Search Word - Data structure design](https://leetcode.com/problems/add-and-search-word-data-structure-design/)| [Python](leetcode.com/python/%23211%20-%20Add%20and%20Search%20Word%20-%20Data%20structure%20design.py)| [Youtube Video 01](https://www.youtube.com/watch?v=qi2ohSEyyDw), [Youtube Video 02](https://www.youtube.com/watch?v=neb_2UK5Kuo&t=13s)|
@@ -234,7 +235,7 @@ If you have any questions about the solutions you can find here, feel free to co
 |04| [#52 - N-Queens II](https://leetcode.com/problems/n-queens-ii/)| [Python](leetcode.com/python/%2352%20-%20N-Queens%20II.py)| [Youtube Video 01](https://www.youtube.com/watch?v=xFv_Hl4B83A), [Youtube Video 02](https://www.youtube.com/watch?v=xouin83ebxE)|
 
 
-### Greedy
+### [Greedy](https://www.youtube.com/watch?v=ARvQcqJ_-NY)
 | Count | Title | Solution | Tutorial | Level |
 |---| ----- | -------- | -------- | -------- |
 |01| [#122 - Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)| [Python](leetcode.com/python/%23122%20-%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20II.py)| [Youtube Video 01](https://www.youtube.com/watch?v=blUwDD6JYaE)|
@@ -398,6 +399,23 @@ If you have any questions about the solutions you can find here, feel free to co
 |---| ----- | -------- | -------- | -------- |
 |01| [Suffix_Trie_Construction](algoexpert.io/questions/Suffix_Trie_Construction.md) | [Python](algoexpert.io/python/Suffix_Trie_Construction.py)|
 |02| [Multi_String_Search](algoexpert.io/questions/Multi_String_Search.md) | [Python](algoexpert.io/python/Multi_String_Search.py)|
+
+
+---
+
+---
+
+
+## References
+<b>Some helpful links, channels, tutorials, blogs</b>
+
+
+1. https://www.educative.io/courses/grokking-the-coding-interview
+2. https://www.educative.io/courses/grokking-dynamic-programming-patterns-for-coding-interviews
+3. https://www.geeksforgeeks.org/tabulation-vs-memoization/
+4. https://elvrsn.blogspot.com/2015/02/memoization-vs-tabulation.html
+
+
 
 
 
