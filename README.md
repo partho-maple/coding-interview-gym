@@ -296,7 +296,7 @@ If you have any questions about the solutions you can find here, feel free to co
 |03| [Levenshtein_Distance](algoexpert.io/questions/Levenshtein_Distance.md) | [Python](algoexpert.io/python/Levenshtein_Distance.py)|
 |04| [Min_Number_Of_Jumps](algoexpert.io/questions/Min_Number_Of_Jumps.md) | [Python](algoexpert.io/python/Min_Number_Of_Jumps.py) | [Video 1](https://www.youtube.com/watch?v=cETfFsSTGJI)|
 |05| [Max_Sum_Increasing_Subsequence](algoexpert.io/questions/Max_Sum_Increasing_Subsequence.md) | [Python](algoexpert.io/python/Max_Sum_Increasing_Subsequence.py) |
-|06| [Longest_Common_Subsequence](algoexpert.io/questions/Longest_Common_Subsequence.md) | [Python](algoexpert.io/python/Longest_Common_Subsequence.py) |
+|06| [Longest_Common_Subsequence](algoexpert.io/questions/Longest_Common_Subsequence.md) | [Python](algoexpert.io/python/Longest_Common_Subsequence.py) | [Video 1](https://www.youtube.com/watch?v=sSno9rV8Rhg) |
 |07| [Water_Area](algoexpert.io/questions/Water_Area.md) | [Python](algoexpert.io/python/Water_Area.py) |
 |08| [Knapsack_Problem](algoexpert.io/questions/Knapsack_Problem.md) | [Python](algoexpert.io/python/Knapsack_Problem.py) |
 |09| [Disk_Stacking](algoexpert.io/questions/Disk_Stacking.md) | [Python](algoexpert.io/python/Disk_Stacking.py) |
@@ -304,7 +304,7 @@ If you have any questions about the solutions you can find here, feel free to co
 |11| [Maximum_Subset_Sum_With_No_Adjacent_Element](algoexpert.io/questions/Maximum_Subset_Sum_With_No_Adjacent_Element.md) | [Python](algoexpert.io/python/Maximum_Subset_Sum_With_No_Adjacent_Element.py) |
 |12| [Max_Profit_With_K_Transactions](algoexpert.io/questions/Max_Profit_With_K_Transactions.md) | [Python](algoexpert.io/python/Max_Profit_With_K_Transactions.py) |
 |13| [Palindrome_Partitioning_Min_Cuts](algoexpert.io/questions/Palindrome_Partitioning_Min_Cuts.md) | [Python](algoexpert.io/python/Palindrome_Partitioning_Min_Cuts.py) |
-|14| [Longest_Increasing_Subsequence](algoexpert.io/questions/Longest_Increasing_Subsequence.md) | [Python](algoexpert.io/python/Longest_Increasing_Subsequence.py) | [Video 1](https://www.youtube.com/watch?v=fV-TF4OvZpk), [Video 1](https://www.youtube.com/watch?v=CE2b_-XfVDk)|
+|14| [Longest_Increasing_Subsequence](algoexpert.io/questions/Longest_Increasing_Subsequence.md) | [Python](algoexpert.io/python/Longest_Increasing_Subsequence.py) | [Video 1](https://www.youtube.com/watch?v=fV-TF4OvZpk), [Video 2](https://www.youtube.com/watch?v=CE2b_-XfVDk), , [Video 3](https://www.hackerrank.com/challenges/longest-increasing-subsequent/problem)|
 
 
 ### Famous Algorithm
