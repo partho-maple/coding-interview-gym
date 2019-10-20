@@ -225,7 +225,7 @@ If you have any questions about the solutions you can find here, feel free to co
 |07| [#70 - Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)| [Python](leetcode.com/python/%2370%20-%20Climbing%20Stairs.py)|
 |08| [#96 - Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/)| [Python](leetcode.com/python/%2396%20-%20Unique%20Binary%20Search%20Trees.py)| [Video 01](https://www.youtube.com/watch?v=GgP75HAvrlY), [Video 02](https://www.youtube.com/watch?v=JrTKVvYhT_k)|
 |09| [#95 - Unique Binary Search Trees II](https://leetcode.com/problems/unique-binary-search-trees-ii/)| [Python](leetcode.com/python/%2395%20-%20Unique%20Binary%20Search%20Trees%20II.py)|
-|10| [#221 - Maximal Square](https://leetcode.com/problems/maximal-square/)| [Python](leetcode.com/python/%2396%20-%20Unique%20Binary%20Search%20Trees.py)| [Video 01](https://www.youtube.com/watch?v=_Lf1looyJMU))|
+|10| [#221 - Maximal Square](https://leetcode.com/problems/maximal-square/)| [Python](leetcode.com/python/%23221%20-%20Maximal%20Square.py)| [Video 01](https://www.youtube.com/watch?v=_Lf1looyJMU), [Video 02](https://www.youtube.com/watch?v=FO7VXDfS8Gk)|
 
 
 ### [Backtracking](https://www.youtube.com/watch?v=DKCbsiDBN6c)
@@ -239,7 +239,8 @@ If you have any questions about the solutions you can find here, feel free to co
 ### [Greedy](https://www.youtube.com/watch?v=ARvQcqJ_-NY)
 | Count | Title | Solution | Tutorial | Level |
 |---| ----- | -------- | -------- | -------- |
-|01| [#122 - Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)| [Python](leetcode.com/python/%23122%20-%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20II.py)| [Youtube Video 01](https://www.youtube.com/watch?v=blUwDD6JYaE)|
+|01| [#122 - Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)| [Python](leetcode.com/python/%23122%20-%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20II.py)| [Video 01](https://www.youtube.com/watch?v=blUwDD6JYaE)|
+|02| [#1057 - Campus Bikes](https://leetcode.com/problems/campus-bikes/)| [Python](leetcode.com/python/%23122%20-%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20II.py)| [Video 01](https://www.youtube.com/watch?v=tG7GFge4-fQ), [Article 01](https://leetcode.com/problems/campus-bikes/discuss/371604/Python-Solution-Using-Dictionary-With-Explanation)|
 
 
 ### Mathematics
