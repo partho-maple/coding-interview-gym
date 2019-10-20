@@ -141,8 +141,8 @@ If you have any questions about the solutions you can find here, feel free to co
 | Count | Title | Solution | Tutorial | Level |
 |---| ----- | -------- | -------- | -------- |
 |01| [#704 - Binary Search](https://leetcode.com/problems/binary-search/)| [Python](leetcode.com/python/%23704%20-%20Binary%20Search.py)|
-|03| [#240 - Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/solution/)| [Python](leetcode.com/python/%23240%20-%20Search%20a%202D%20Matrix%20II.py)| [Youtube Video 01](https://www.youtube.com/watch?v=FOa55B9Ikfg), [Youtube Video 02](https://www.youtube.com/watch?v=DHSyS72BvOQ)|
-|04| [#74 - Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)| [Python](leetcode.com/python/%2374%20-%20Search%20a%202D%20Matrix.py)| [Youtube Video 01](https://www.youtube.com/watch?v=FOa55B9Ikfg), [Youtube Video 02](https://www.youtube.com/watch?v=DHSyS72BvOQ)|
+|03| [#240 - Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/solution/)| [Python](leetcode.com/python/%23240%20-%20Search%20a%202D%20Matrix%20II.py)| [Video 01](https://www.youtube.com/watch?v=FOa55B9Ikfg), [Video 02](https://www.youtube.com/watch?v=DHSyS72BvOQ)|
+|04| [#74 - Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)| [Python](leetcode.com/python/%2374%20-%20Search%20a%202D%20Matrix.py)| [Video 01](https://www.youtube.com/watch?v=FOa55B9Ikfg), [Video 02](https://www.youtube.com/watch?v=DHSyS72BvOQ)|
 
 
 ### [Binary Search Tree](https://leetcode.com/explore/learn/card/introduction-to-data-structure-binary-search-tree/)
@@ -191,7 +191,7 @@ If you have any questions about the solutions you can find here, feel free to co
 | Count | Title | Solution | Tutorial | Level |
 |---| ----- | -------- | -------- | -------- |
 |01| [#208 - Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/)| [Python](leetcode.com/python/%23208%20-%20Implement%20Trie%20(Prefix%20Tree).py)|
-|02| [#211 - Add and Search Word - Data structure design](https://leetcode.com/problems/add-and-search-word-data-structure-design/)| [Python](leetcode.com/python/%23211%20-%20Add%20and%20Search%20Word%20-%20Data%20structure%20design.py)| [Youtube Video 01](https://www.youtube.com/watch?v=qi2ohSEyyDw), [Youtube Video 02](https://www.youtube.com/watch?v=neb_2UK5Kuo&t=13s)|
+|02| [#211 - Add and Search Word - Data structure design](https://leetcode.com/problems/add-and-search-word-data-structure-design/)| [Python](leetcode.com/python/%23211%20-%20Add%20and%20Search%20Word%20-%20Data%20structure%20design.py)| [Video 01](https://www.youtube.com/watch?v=qi2ohSEyyDw), [Video 02](https://www.youtube.com/watch?v=neb_2UK5Kuo&t=13s)|
 
 
 ### Graphs
@@ -221,7 +221,7 @@ If you have any questions about the solutions you can find here, feel free to co
 |03| [#53 - Maximum Subarray](https://leetcode.com/problems/maximum-subarray/submissions/)| [Python](leetcode.com/python/%2353%20-%20Maximum%20Subarray.py)|
 |04| [#518 - Coin Change 2](https://leetcode.com/problems/coin-change-2/)| [Python](leetcode.com/python/%23518%20-%20Coin%20Change%202.py)|
 |05| [#322 - Coin Change](https://leetcode.com/problems/coin-change/solution/)| [Python](leetcode.com/python/%23322%20-%20Coin%20Change.py)|
-|06| [#72 - Edit Distance](https://leetcode.com/problems/edit-distance/)| [Python](leetcode.com/python/%2372%20-%20Edit%20Distance.py)| [Youtube Video 01](https://tinyurl.com/y4a7ohay)|
+|06| [#72 - Edit Distance](https://leetcode.com/problems/edit-distance/)| [Python](leetcode.com/python/%2372%20-%20Edit%20Distance.py)| [Video 01](https://tinyurl.com/y4a7ohay)|
 |07| [#70 - Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)| [Python](leetcode.com/python/%2370%20-%20Climbing%20Stairs.py)|
 |08| [#96 - Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/)| [Python](leetcode.com/python/%2396%20-%20Unique%20Binary%20Search%20Trees.py)| [Video 01](https://www.youtube.com/watch?v=GgP75HAvrlY), [Video 02](https://www.youtube.com/watch?v=JrTKVvYhT_k)|
 |09| [#95 - Unique Binary Search Trees II](https://leetcode.com/problems/unique-binary-search-trees-ii/)| [Python](leetcode.com/python/%2395%20-%20Unique%20Binary%20Search%20Trees%20II.py)|
@@ -231,9 +231,9 @@ If you have any questions about the solutions you can find here, feel free to co
 ### [Backtracking](https://www.youtube.com/watch?v=DKCbsiDBN6c)
 | Count | Title | Solution | Tutorial | Level |
 |---| ----- | -------- | -------- | -------- |
-|01| [#211 - Add and Search Word - Data structure design](https://leetcode.com/problems/add-and-search-word-data-structure-design/)| [Python](leetcode.com/python/%23211%20-%20Add%20and%20Search%20Word%20-%20Data%20structure%20design.py)| [Youtube Video 01](https://www.youtube.com/watch?v=qi2ohSEyyDw), [Youtube Video 02](https://www.youtube.com/watch?v=neb_2UK5Kuo&t=13s)|
-|03| [#37 - Sudoku Solver](https://leetcode.com/problems/sudoku-solver/)| [Python](leetcode.com/python/%2337%20-%20Sudoku%20Solver.py)| [Youtube Video 01](https://www.youtube.com/watch?v=JzONv5kaPJM), [Youtube Video 02](https://www.youtube.com/watch?v=Zq4upTEaQyM&list=PLiQ766zSC5jM2OKVr8sooOuGgZkvnOCTI)|
-|04| [#52 - N-Queens II](https://leetcode.com/problems/n-queens-ii/)| [Python](leetcode.com/python/%2352%20-%20N-Queens%20II.py)| [Youtube Video 01](https://www.youtube.com/watch?v=xFv_Hl4B83A), [Youtube Video 02](https://www.youtube.com/watch?v=xouin83ebxE)|
+|01| [#211 - Add and Search Word - Data structure design](https://leetcode.com/problems/add-and-search-word-data-structure-design/)| [Python](leetcode.com/python/%23211%20-%20Add%20and%20Search%20Word%20-%20Data%20structure%20design.py)| [Video 01](https://www.youtube.com/watch?v=qi2ohSEyyDw), [Video 02](https://www.youtube.com/watch?v=neb_2UK5Kuo&t=13s)|
+|03| [#37 - Sudoku Solver](https://leetcode.com/problems/sudoku-solver/)| [Python](leetcode.com/python/%2337%20-%20Sudoku%20Solver.py)| [Video 01](https://www.youtube.com/watch?v=JzONv5kaPJM), [Video 02](https://www.youtube.com/watch?v=Zq4upTEaQyM&list=PLiQ766zSC5jM2OKVr8sooOuGgZkvnOCTI)|
+|04| [#52 - N-Queens II](https://leetcode.com/problems/n-queens-ii/)| [Python](leetcode.com/python/%2352%20-%20N-Queens%20II.py)| [Video 01](https://www.youtube.com/watch?v=xFv_Hl4B83A), [Video 02](https://www.youtube.com/watch?v=xouin83ebxE)|
 
 
 ### [Greedy](https://www.youtube.com/watch?v=ARvQcqJ_-NY)
