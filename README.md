@@ -72,7 +72,7 @@ If you have any questions about the solutions you can find here, feel free to co
 
 
 ## LeetCode
-<b>81 Problems</b>
+<b>82 Problems</b>
 
 ### [Arrays](https://leetcode.com/explore/learn/card/array-and-string/) , [HashMap](https://leetcode.com/explore/learn/card/hash-table/)
 | Count | Title | Solution | Tutorial | Level |
@@ -223,8 +223,9 @@ If you have any questions about the solutions you can find here, feel free to co
 |05| [#322 - Coin Change](https://leetcode.com/problems/coin-change/solution/)| [Python](leetcode.com/python/%23322%20-%20Coin%20Change.py)|
 |06| [#72 - Edit Distance](https://leetcode.com/problems/edit-distance/)| [Python](leetcode.com/python/%2372%20-%20Edit%20Distance.py)| [Youtube Video 01](https://tinyurl.com/y4a7ohay)|
 |07| [#70 - Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)| [Python](leetcode.com/python/%2370%20-%20Climbing%20Stairs.py)|
-|08| [#96 - Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/)| [Python](leetcode.com/python/%2396%20-%20Unique%20Binary%20Search%20Trees.py)| [Youtube Video 01](https://www.youtube.com/watch?v=GgP75HAvrlY), [Youtube Video 02](https://www.youtube.com/watch?v=JrTKVvYhT_k)|
+|08| [#96 - Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/)| [Python](leetcode.com/python/%2396%20-%20Unique%20Binary%20Search%20Trees.py)| [Video 01](https://www.youtube.com/watch?v=GgP75HAvrlY), [Video 02](https://www.youtube.com/watch?v=JrTKVvYhT_k)|
 |09| [#95 - Unique Binary Search Trees II](https://leetcode.com/problems/unique-binary-search-trees-ii/)| [Python](leetcode.com/python/%2395%20-%20Unique%20Binary%20Search%20Trees%20II.py)|
+|10| [#221 - Maximal Square](https://leetcode.com/problems/maximal-square/)| [Python](leetcode.com/python/%2396%20-%20Unique%20Binary%20Search%20Trees.py)| [Video 01](https://www.youtube.com/watch?v=_Lf1looyJMU))|
 
 
 ### [Backtracking](https://www.youtube.com/watch?v=DKCbsiDBN6c)
