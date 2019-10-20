@@ -240,7 +240,7 @@ If you have any questions about the solutions you can find here, feel free to co
 | Count | Title | Solution | Tutorial | Level |
 |---| ----- | -------- | -------- | -------- |
 |01| [#122 - Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)| [Python](leetcode.com/python/%23122%20-%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20II.py)| [Video 01](https://www.youtube.com/watch?v=blUwDD6JYaE)|
-|02| [#1057 - Campus Bikes](https://leetcode.com/problems/campus-bikes/)| [Python](leetcode.com/python/%23122%20-%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20II.py)| [Video 01](https://www.youtube.com/watch?v=tG7GFge4-fQ), [Article 01](https://leetcode.com/problems/campus-bikes/discuss/371604/Python-Solution-Using-Dictionary-With-Explanation)|
+|02| [#1057 - Campus Bikes](https://leetcode.com/problems/campus-bikes/)| [Python](leetcode.com/python/%231057%20-%20Campus%20Bikes.py)| [Video 01](https://www.youtube.com/watch?v=tG7GFge4-fQ), [Article 01](https://leetcode.com/problems/campus-bikes/discuss/371604/Python-Solution-Using-Dictionary-With-Explanation)|
 
 
 ### Mathematics
