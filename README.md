@@ -15,6 +15,10 @@
 [![leetcode badge](https://leetcode-badge.chyroc.cn/?name=ParthoBiswas007&leetcode_badge_style=leetcode%20|%20solved/total-{{.solved_question}}/{{.all_question}}-{{if%20le%20.solved_question_rate_float%200.3}}red.svg{{else%20if%20le%20.solved_question_rate_float%200.5}}yellow.svg{{else}}green.svg{{end}}&refresh=true)](https://leetcode.com/ParthoBiswas007/)
 [![leetcode badge](https://leetcode-badge.chyroc.cn/?name=ParthoBiswas007&leetcode_badge_style=leetcode%20|%20submission-{{.accepted_submission_rate}}-{{%20if%20le%20.accepted_submission_rate_float%200.3}}red{{%20else%20if%20le%20.solved_question_rate_float%200.6}}green{{%20else%20}}yellow{{%20end%20}}.svg&refresh=true)](https://leetcode.com/ParthoBiswas007/)
 [![leetcode badge](https://leetcode-badge.chyroc.cn/?name=ParthoBiswas007&leetcode_badge_style=leetcode%20|%20ranking-{{.ranking}}-green.svg&refresh=true)](https://leetcode.com/ParthoBiswas007/)
+[![Travis](https://img.shields.io/badge/language-Swift-green.svg)]()
+[![Travis](https://img.shields.io/badge/language-Python-red.svg)]()
+![Total visitor](https://visitor-count-badge.herokuapp.com/total.svg?repo_id=69802909)
+![Visitors in today](https://visitor-count-badge.herokuapp.com/today.svg?repo_id=az69802909)
 
 
 <h4 align="center">Leetcode and Algoexpert Problems Using Swift and Python</h4>
@@ -94,7 +98,7 @@ I have solved quite a number of problems from several topics. See the below tabl
 ### [Arrays](https://leetcode.com/explore/learn/card/array-and-string/) , [HashMap](https://leetcode.com/explore/learn/card/hash-table/)
 | #  | Title | Solution | Tutorial | Level | remarks |
 | --- | --- | --- | --- | --- | --- |
-|01| [1. Two Sum.swift](https://leetcode.com/problems/two-sum/)| [Python](leetcode.com/python/%231%20-%20Two%20Sum.py), [Swift](leetcode.com/swift/%231%20-%20Two%20Sum.swift)| ✅ 📌 ⭐ 😭 🧐 😎 |
+|01| [1. Two Sum](https://leetcode.com/problems/two-sum/)| [Python](leetcode.com/python/%231%20-%20Two%20Sum.py), [Swift](leetcode.com/swift/%231%20-%20Two%20Sum.swift) | --- | --- | ✅ 📌 ⭐ 😭 🧐 😎 |
 |02| [485. Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/)| [Swift](leetcode.com/swift/%23485%20-%20Max%20Consecutive%20Ones.swift)|
 |03| [476. Number Complement](https://leetcode.com/problems/number-complement/)| [Swift](leetcode.com/swift/%23476%20-%20Number%20Complement.swift)|
 |04| [461. Hamming Distance](https://leetcode.com/problems/hamming-distance/)| [Swift](leetcode.com/swift/%23461%20-%20Hamming%20Distance.swift)|
@@ -119,8 +123,8 @@ I have solved quite a number of problems from several topics. See the below tabl
 ### [String](https://leetcode.com/explore/learn/card/array-and-string/)
 | #  | Title | Solution | Tutorial | Level | remarks |
 | --- | --- | --- | --- | --- | --- |
-|01| [3. Longest Substring Without Repeating Characters.swift](https://leetcode.com/problems/longest-substring-without-repeating-characters/)| [Swift](leetcode.com/swift/%233%20-%20Longest%20Substring%20Without%20Repeating%20Characters.swift)|
-|02| [412. Fizz Buzz.swift](https://leetcode.com/problems/fizz-buzz/)| [Swift](leetcode.com/swift/%23412%20-%20Fizz%20Buzz.swift)|
+|01| [3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)| [Swift](leetcode.com/swift/%233%20-%20Longest%20Substring%20Without%20Repeating%20Characters.swift)|
+|02| [412. Fizz Buzz](https://leetcode.com/problems/fizz-buzz/)| [Swift](leetcode.com/swift/%23412%20-%20Fizz%20Buzz.swift)|
 |03| [937. Reorder Log Files](https://leetcode.com/problems/reorder-data-in-log-files/)| [Python](leetcode.com/python/%23937%20-%20Reorder%20Log%20Files.py)|
 |03| [929. Unique Email Addresses](https://leetcode.com/problems/unique-email-addresses/)| [Python](leetcode.com/python/%23929%20-%20Unique%20Email%20Addresses.py)|
 |04| [7. Reverse Integer](https://leetcode.com/problems/reverse-integer/)| [Python](leetcode.com/python/%237%20-%20Reverse%20Integer.py)|
