@@ -34,6 +34,7 @@
 <p align="center">
   <a href="#About">About</a> •
   <a href="#Topics">Topics</a> •
+  <a href="#Tips">Tips</a> •
   <a href="#LeetCode">LeetCode.com</a> •
   <a href="#AlgoExpert">AlgoExpert.io</a> •
   <a href="#References">References</a>
@@ -84,6 +85,10 @@ I have solved quite a number of problems from several topics. See the below tabl
 
 ## My leetcode account
 - [ParthoBiswas007](https://leetcode.com/ParthoBiswas007/)
+
+## Tips
+- Whenever you solve a new question with some new techniques/algorithms, try to solve atleast 2 similar problem in a row. This way, your understanding to the new techniques/algorithms will be better.
+- ... 
 
 
 ---
@@ -151,6 +156,7 @@ I have solved quite a number of problems from several topics. See the below tabl
 | --- | --- | --- | --- | --- | --- |
 |01| [20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)| [Python](leetcode.com/python/20_Valid_Parentheses.py)|
 |02| [155. Min Stack](https://leetcode.com/problems/min-stack/)| [Python](leetcode.com/python/155_Min_Stack.py)|
+|03| [84. Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/)| [Python](leetcode.com/python/84_Largest_Rectangle_in_Histogram.py)| [Video 01](https://www.youtube.com/watch?v=VNbkzsnllsU), [Video 02](https://www.youtube.com/watch?v=RVIh0snn4Qc), [Article 01](https://leetcode.com/problems/largest-rectangle-in-histogram/solution/), [Article 02](https://leetcode.com/problems/largest-rectangle-in-histogram/discuss/28917/AC-Python-clean-solution-using-stack-76ms) | Hard | 📌 Need to revise |
 
 
 ### Sorting
