@@ -254,6 +254,7 @@ I have solved quite a number of problems from several topics. See the below tabl
 |08| [96. Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/)| [Python](leetcode.com/python/96_Unique_Binary_Search_Trees.py)| [Video 01](https://www.youtube.com/watch?v=GgP75HAvrlY), [Video 02](https://www.youtube.com/watch?v=JrTKVvYhT_k)|
 |09| [95. Unique Binary Search Trees II](https://leetcode.com/problems/unique-binary-search-trees-ii/)| [Python](leetcode.com/python/95_Unique_Binary_Search_Trees_II.py)|
 |10| [221. Maximal Square](https://leetcode.com/problems/maximal-square/)| [Python](leetcode.com/python/221_Maximal_Square.py)| [Video 01](https://www.youtube.com/watch?v=_Lf1looyJMU), [Video 02](https://www.youtube.com/watch?v=FO7VXDfS8Gk)|
+|11| [85. Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle/)| [Python](leetcode.com/python/85_Maximal_Rectangle.py)| [Video 01](https://www.youtube.com/watch?v=g8bSdXCG-lA)|
 
 
 ### [Backtracking](https://www.youtube.com/watch?v=DKCbsiDBN6c)
