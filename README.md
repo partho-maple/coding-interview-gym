@@ -104,7 +104,7 @@ I have solved quite a number of problems from several topics. See the below tabl
 |04| [461. Hamming Distance](https://leetcode.com/problems/hamming-distance/)| [Swift](leetcode.com/swift/461_Hamming_Distance.swift)|
 |05| [9. Palindrome Number](https://leetcode.com/problems/palindrome-number/)| [Python](leetcode.com/python/9_Palindrome_Number.py)|
 |06| [88. Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)| [Python](leetcode.com/python/88_Merge_Sorted_Array.py)|
-|07| [811. Subdomain Visit #](https://leetcode.com/problems/subdomain-visit-#/)| [Python](leetcode.com/python/811_Subdomain_Visit_#.py)|
+|07| [811. Subdomain Visit Count](https://leetcode.com/problems/subdomain-visit-#/)| [Python](leetcode.com/python/811_Subdomain_Visit_Count.py)|
 |08| [771. Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/)| [Python](leetcode.com/python/771_Jewels_and_Stones.py)|
 |09| [414. Third Maximum Number](https://leetcode.com/problems/third-maximum-number/)| [Python](leetcode.com/python/414_Third_Maximum_Number.py)|
 |10| [259. 3Sum Smaller](https://leetcode.com/problems/3sum-smaller/)| [Python](leetcode.com/python/259_3Sum_Smaller.py)|
@@ -123,7 +123,7 @@ I have solved quite a number of problems from several topics. See the below tabl
 ### [String](https://leetcode.com/explore/learn/card/array-and-string/)
 | #  | Title | Solution | Tutorial | Level | remarks |
 | --- | --- | --- | --- | --- | --- |
-|01| [3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)| [Swift](leetcode.com/swift/3_Longest_Substring_Without_Repeating_Characters.swift)|
+|01| [3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)| |
 |02| [412. Fizz Buzz](https://leetcode.com/problems/fizz-buzz/)| [Swift](leetcode.com/swift/412_Fizz_Buzz.swift)|
 |03| [937. Reorder Log Files](https://leetcode.com/problems/reorder-data-in-log-files/)| [Python](leetcode.com/python/937_Reorder_Log_Files.py)|
 |03| [929. Unique Email Addresses](https://leetcode.com/problems/unique-email-addresses/)| [Python](leetcode.com/python/929_Unique_Email_Addresses.py)|
