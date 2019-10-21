@@ -12,9 +12,9 @@
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
-[![leetcode badge](https://leetcode-badge.chyroc.cn/?name=ParthoBiswas007&leetcode_badge_style=leetcode%20|%20solved/total-{{.solved_question}}/{{.all_question}}-{{if%20le%20.solved_question_rate_float%200.3}}red.svg{{else%20if%20le%20.solved_question_rate_float%200.5}}yellow.svg{{else}}green.svg{{end}}&refresh=true)](https://leetcode.com/ParthoBiswas007/)
-[![leetcode badge](https://leetcode-badge.chyroc.cn/?name=ParthoBiswas007&leetcode_badge_style=leetcode%20|%20submission-{{.accepted_submission_rate}}-{{%20if%20le%20.accepted_submission_rate_float%200.3}}red{{%20else%20if%20le%20.solved_question_rate_float%200.6}}green{{%20else%20}}yellow{{%20end%20}}.svg&refresh=true)](https://leetcode.com/ParthoBiswas007/)
-[![leetcode badge](https://leetcode-badge.chyroc.cn/?name=ParthoBiswas007&leetcode_badge_style=leetcode%20|%20ranking-{{.ranking}}-green.svg&refresh=true)](https://leetcode.com/ParthoBiswas007/)
+[![leetcode badge](https://leetcode-badge.chyroc.cn/?name=ParthoBiswas007&leetcode_badge_style=leetcode_|_solved/total-{{.solved_question}}/{{.all_question}}-{{if_le_.solved_question_rate_float_0.3}}red.svg{{else_if_le_.solved_question_rate_float_0.5}}yellow.svg{{else}}green.svg{{end}}&refresh=true)](https://leetcode.com/ParthoBiswas007/)
+[![leetcode badge](https://leetcode-badge.chyroc.cn/?name=ParthoBiswas007&leetcode_badge_style=leetcode_|_submission-{{.accepted_submission_rate}}-{{_if_le_.accepted_submission_rate_float_0.3}}red{{_else_if_le_.solved_question_rate_float_0.6}}green{{_else_}}yellow{{_end_}}.svg&refresh=true)](https://leetcode.com/ParthoBiswas007/)
+[![leetcode badge](https://leetcode-badge.chyroc.cn/?name=ParthoBiswas007&leetcode_badge_style=leetcode_|_ranking-{{.ranking}}-green.svg&refresh=true)](https://leetcode.com/ParthoBiswas007/)
 [![Travis](https://img.shields.io/badge/language-Swift-green.svg)]()
 [![Travis](https://img.shields.io/badge/language-Python-red.svg)]()
 ![Total visitor](https://visitor-count-badge.herokuapp.com/total.svg?repo_id=69802909)
@@ -92,116 +92,116 @@ I have solved quite a number of problems from several topics. See the below tabl
 
 
 ## LeetCode
-[![leetcode badge](https://leetcode-badge.chyroc.cn/?name=ParthoBiswas007&leetcode_badge_style=leetcode%20|%20solved/total-{{.solved_question}}/{{.all_question}}-{{if%20le%20.solved_question_rate_float%200.3}}red.svg{{else%20if%20le%20.solved_question_rate_float%200.5}}yellow.svg{{else}}green.svg{{end}}&refresh=true)](https://leetcode.com/ParthoBiswas007/)
+[![leetcode badge](https://leetcode-badge.chyroc.cn/?name=ParthoBiswas007&leetcode_badge_style=leetcode_|_solved/total-{{.solved_question}}/{{.all_question}}-{{if_le_.solved_question_rate_float_0.3}}red.svg{{else_if_le_.solved_question_rate_float_0.5}}yellow.svg{{else}}green.svg{{end}}&refresh=true)](https://leetcode.com/ParthoBiswas007/)
 
 
 ### [Arrays](https://leetcode.com/explore/learn/card/array-and-string/) , [HashMap](https://leetcode.com/explore/learn/card/hash-table/)
 | #  | Title | Solution | Tutorial | Level | remarks |
 | --- | --- | --- | --- | --- | --- |
-|01| [1. Two Sum](https://leetcode.com/problems/two-sum/)| [Python](leetcode.com/python/%231%20-%20Two%20Sum.py), [Swift](leetcode.com/swift/%231%20-%20Two%20Sum.swift) | --- | --- | ✅ 📌 ⭐ 😭 🧐 😎 |
-|02| [485. Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/)| [Swift](leetcode.com/swift/%23485%20-%20Max%20Consecutive%20Ones.swift)|
-|03| [476. Number Complement](https://leetcode.com/problems/number-complement/)| [Swift](leetcode.com/swift/%23476%20-%20Number%20Complement.swift)|
-|04| [461. Hamming Distance](https://leetcode.com/problems/hamming-distance/)| [Swift](leetcode.com/swift/%23461%20-%20Hamming%20Distance.swift)|
-|05| [9. Palindrome Number](https://leetcode.com/problems/palindrome-number/)| [Python](leetcode.com/python/%239%20-%20Palindrome%20Number.py)|
-|06| [88. Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)| [Python](leetcode.com/python/%2388%20-%20Merge%20Sorted%20Array.py)|
-|07| [811. Subdomain Visit #](https://leetcode.com/problems/subdomain-visit-#/)| [Python](leetcode.com/python/%23811%20-%20Subdomain%20Visit%20#.py)|
-|08| [771. Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/)| [Python](leetcode.com/python/%23771%20-%20Jewels%20and%20Stones.py)|
-|09| [414. Third Maximum Number](https://leetcode.com/problems/third-maximum-number/)| [Python](leetcode.com/python/%23414%20-%20Third%20Maximum%20Number.py)|
-|10| [259. 3Sum Smaller](https://leetcode.com/problems/3sum-smaller/)| [Python](leetcode.com/python/%23259%20-%203Sum%20Smaller.py)|
-|11| [16. 3Sum Closest](https://leetcode.com/problems/3sum-closest/)| [Python](leetcode.com/python/%2316%20-%203Sum%20Closest.py)|
-|12| [15. 3Sum](https://leetcode.com/problems/3sum/)| [Python](leetcode.com/python/%2315%20-%203Sum.py)|
-|13| [118. Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/)| [Python](leetcode.com/python/%23118%20-%20Pascal's%20Triangle.py)|
-|14| [119. Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/)| [Python](leetcode.com/python/%23119%20-%20Pascal's%20Triangle%20II.py)|
-|15| [238. Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/solution/)| [Python](leetcode.com/python/%23238%20-%20Product%20of%20Array%20Except%20Self.py)|
-|16| [724. Find Pivot Index](https://leetcode.com/problems/find-pivot-index/)| [Python](leetcode.com/python/%23724%20-%20Find%20Pivot%20Index.py)| |
-|17| [747. Largest Number At Least Twice of Others](https://leetcode.com/problems/largest-number-at-least-twice-of-others/)| [Python](leetcode.com/python/%23747%20-%20Largest%20Number%20At%20Least%20Twice%20of%20Others.py)| |
-|18| [581. Shortest Unsorted Continuous Subarray](https://leetcode.com/problems/shortest-unsorted-continuous-subarray/solution/)| [Python](leetcode.com/python/%23581%20-%20Shortest%20Unsorted%20Continuous%20Subarray.py)| |
-|19| [904. Fruit Into Baskets](https://leetcode.com/problems/fruit-into-baskets/solution/)| [Python](leetcode.com/python/%23904%20-%20Fruit%20Into%20Baskets.py)| [Article](https://www.educative.io/courses/grokking-the-coding-interview/Bn2KLlOR0lQ), [Video 1](https://www.youtube.com/watch?v=s_zu2dOkq80), [Video 2](https://www.youtube.com/watch?v=za2YuucS0tw)|
+|01| [1. Two Sum](https://leetcode.com/problems/two-sum/)| [Python](leetcode.com/python/1_Two_Sum.py), [Swift](leetcode.com/swift/1_Two_Sum.swift) | --- | --- | ✅ 📌 ⭐ 😭 🧐 😎 |
+|02| [485. Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/)| [Swift](leetcode.com/swift/485_Max_Consecutive_Ones.swift)|
+|03| [476. Number Complement](https://leetcode.com/problems/number-complement/)| [Swift](leetcode.com/swift/476_Number_Complement.swift)|
+|04| [461. Hamming Distance](https://leetcode.com/problems/hamming-distance/)| [Swift](leetcode.com/swift/461_Hamming_Distance.swift)|
+|05| [9. Palindrome Number](https://leetcode.com/problems/palindrome-number/)| [Python](leetcode.com/python/9_Palindrome_Number.py)|
+|06| [88. Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)| [Python](leetcode.com/python/88_Merge_Sorted_Array.py)|
+|07| [811. Subdomain Visit #](https://leetcode.com/problems/subdomain-visit-#/)| [Python](leetcode.com/python/811_Subdomain_Visit_#.py)|
+|08| [771. Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/)| [Python](leetcode.com/python/771_Jewels_and_Stones.py)|
+|09| [414. Third Maximum Number](https://leetcode.com/problems/third-maximum-number/)| [Python](leetcode.com/python/414_Third_Maximum_Number.py)|
+|10| [259. 3Sum Smaller](https://leetcode.com/problems/3sum-smaller/)| [Python](leetcode.com/python/259_3Sum_Smaller.py)|
+|11| [16. 3Sum Closest](https://leetcode.com/problems/3sum-closest/)| [Python](leetcode.com/python/16_3Sum_Closest.py)|
+|12| [15. 3Sum](https://leetcode.com/problems/3sum/)| [Python](leetcode.com/python/15_3Sum.py)|
+|13| [118. Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/)| [Python](leetcode.com/python/118_Pascal's_Triangle.py)|
+|14| [119. Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/)| [Python](leetcode.com/python/119_Pascal's_Triangle_II.py)|
+|15| [238. Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/solution/)| [Python](leetcode.com/python/238_Product_of_Array_Except_Self.py)|
+|16| [724. Find Pivot Index](https://leetcode.com/problems/find-pivot-index/)| [Python](leetcode.com/python/724_Find_Pivot_Index.py)| |
+|17| [747. Largest Number At Least Twice of Others](https://leetcode.com/problems/largest-number-at-least-twice-of-others/)| [Python](leetcode.com/python/747_Largest_Number_At_Least_Twice_of_Others.py)| |
+|18| [581. Shortest Unsorted Continuous Subarray](https://leetcode.com/problems/shortest-unsorted-continuous-subarray/solution/)| [Python](leetcode.com/python/581_Shortest_Unsorted_Continuous_Subarray.py)| |
+|19| [904. Fruit Into Baskets](https://leetcode.com/problems/fruit-into-baskets/solution/)| [Python](leetcode.com/python/904_Fruit_Into_Baskets.py)| [Article](https://www.educative.io/courses/grokking-the-coding-interview/Bn2KLlOR0lQ), [Video 1](https://www.youtube.com/watch?v=s_zu2dOkq80), [Video 2](https://www.youtube.com/watch?v=za2YuucS0tw)|
 |20| [56. Merge Intervals](https://leetcode.com/problems/merge-intervals/)| [Python](leetcode.com/python/56_Merge_Intervals.py)| [Article](https://leetcode.com/problems/merge-intervals/discuss/21227/7-lines-easy-Python)|
 
 
 ### [String](https://leetcode.com/explore/learn/card/array-and-string/)
 | #  | Title | Solution | Tutorial | Level | remarks |
 | --- | --- | --- | --- | --- | --- |
-|01| [3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)| [Swift](leetcode.com/swift/%233%20-%20Longest%20Substring%20Without%20Repeating%20Characters.swift)|
-|02| [412. Fizz Buzz](https://leetcode.com/problems/fizz-buzz/)| [Swift](leetcode.com/swift/%23412%20-%20Fizz%20Buzz.swift)|
-|03| [937. Reorder Log Files](https://leetcode.com/problems/reorder-data-in-log-files/)| [Python](leetcode.com/python/%23937%20-%20Reorder%20Log%20Files.py)|
-|03| [929. Unique Email Addresses](https://leetcode.com/problems/unique-email-addresses/)| [Python](leetcode.com/python/%23929%20-%20Unique%20Email%20Addresses.py)|
-|04| [7. Reverse Integer](https://leetcode.com/problems/reverse-integer/)| [Python](leetcode.com/python/%237%20-%20Reverse%20Integer.py)|
-|05| [13. Roman to Integer](https://leetcode.com/problems/roman-to-integer/)| [Python](leetcode.com/python/%2313%20-%20Roman%20to%20Integer.py)|
-|06| [125. Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)| [Python](leetcode.com/python/%23125%20-%20Valid%20Palindrome.py)|
-|07| [161. One Edit Distance](https://leetcode.com/problems/one-edit-distance/)| [Python](leetcode.com/python/%23161%20-%20One%20Edit%20Distance.py)|
-|08| [1119. Remove Vowels from a String](https://leetcode.com/problems/remove-vowels-from-a-string/)| [Python](leetcode.com/python/%231119%20-%20Remove%20Vowels%20from%20a%20String.py)|
-|09| [344. Reverse String](https://leetcode.com/problems/reverse-string/)| [Python](leetcode.com/python/%23344%20-%20Reverse%20String.py)|
-|10| [482. License Key Formatting](https://leetcode.com/problems/license-key-formatting/)| [Python](leetcode.com/python/%23482%20-%20License%20Key%20Formatting.py)| |
+|01| [3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)| [Swift](leetcode.com/swift/3_Longest_Substring_Without_Repeating_Characters.swift)|
+|02| [412. Fizz Buzz](https://leetcode.com/problems/fizz-buzz/)| [Swift](leetcode.com/swift/412_Fizz_Buzz.swift)|
+|03| [937. Reorder Log Files](https://leetcode.com/problems/reorder-data-in-log-files/)| [Python](leetcode.com/python/937_Reorder_Log_Files.py)|
+|03| [929. Unique Email Addresses](https://leetcode.com/problems/unique-email-addresses/)| [Python](leetcode.com/python/929_Unique_Email_Addresses.py)|
+|04| [7. Reverse Integer](https://leetcode.com/problems/reverse-integer/)| [Python](leetcode.com/python/7_Reverse_Integer.py)|
+|05| [13. Roman to Integer](https://leetcode.com/problems/roman-to-integer/)| [Python](leetcode.com/python/13_Roman_to_Integer.py)|
+|06| [125. Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)| [Python](leetcode.com/python/125_Valid_Palindrome.py)|
+|07| [161. One Edit Distance](https://leetcode.com/problems/one-edit-distance/)| [Python](leetcode.com/python/161_One_Edit_Distance.py)|
+|08| [1119. Remove Vowels from a String](https://leetcode.com/problems/remove-vowels-from-a-string/)| [Python](leetcode.com/python/1119_Remove_Vowels_from_a_String.py)|
+|09| [344. Reverse String](https://leetcode.com/problems/reverse-string/)| [Python](leetcode.com/python/344_Reverse_String.py)|
+|10| [482. License Key Formatting](https://leetcode.com/problems/license-key-formatting/)| [Python](leetcode.com/python/482_License_Key_Formatting.py)| |
 
 
 ### [Linked List](https://leetcode.com/explore/learn/card/linked-list/)
 | #  | Title | Solution | Tutorial | Level | remarks |
 | --- | --- | --- | --- | --- | --- |
-|01| [2. Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)| [Swift](leetcode.com/swift/%232%20-%20Add%20Two%20Numbers.swift)|
-|02| [707. Design Linked List](https://leetcode.com/problems/design-linked-list/)| [Python](leetcode.com/python/%23707%20-%20Design%20Linked%20List.py)|
-|03| [21. Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)| [Python](leetcode.com/python/%2321%20-%20Merge%20Two%20Sorted%20Lists.py)|
-|04| [206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)| [Python](leetcode.com/python/%23206%20-%20Reverse%20Linked%20List.py)|
-|05| [24. Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)| [Python](leetcode.com/python/%2324%20-%20Swap%20Nodes%20in%20Pairs.py)|
+|01| [2. Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)| [Swift](leetcode.com/swift/2_Add_Two_Numbers.swift)|
+|02| [707. Design Linked List](https://leetcode.com/problems/design-linked-list/)| [Python](leetcode.com/python/707_Design_Linked_List.py)|
+|03| [21. Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)| [Python](leetcode.com/python/21_Merge_Two_Sorted_Lists.py)|
+|04| [206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)| [Python](leetcode.com/python/206_Reverse_Linked_List.py)|
+|05| [24. Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)| [Python](leetcode.com/python/24_Swap_Nodes_in_Pairs.py)|
 
 
 ### [Stack, Queue](https://leetcode.com/explore/learn/card/queue-stack/)
 | #  | Title | Solution | Tutorial | Level | remarks |
 | --- | --- | --- | --- | --- | --- |
-|01| [20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)| [Python](leetcode.com/python/%2320%20-%20Valid%20Parentheses.py)|
-|02| [155. Min Stack](https://leetcode.com/problems/min-stack/)| [Python](leetcode.com/python/%23155%20-%20Min%20Stack.py)|
+|01| [20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)| [Python](leetcode.com/python/20_Valid_Parentheses.py)|
+|02| [155. Min Stack](https://leetcode.com/problems/min-stack/)| [Python](leetcode.com/python/155_Min_Stack.py)|
 
 
 ### Sorting
 | #  | Title | Solution | Tutorial | Level | remarks |
 | --- | --- | --- | --- | --- | --- |
-|01| [912. Sort an Array (Merge Sort)](https://leetcode.com/problems/sort-an-array/)| [Python](leetcode.com/python/%23912%20-%20Sort%20an%20Array%20(Merge%20%20Sort).py)|
+|01| [912. Sort an Array (Merge Sort)](https://leetcode.com/problems/sort-an-array/)| [Python](leetcode.com/python/912_Sort_an_Array_(Merge__Sort).py)|
 
 
 ### [Binary Search](https://leetcode.com/explore/learn/card/binary-search/)
 | #  | Title | Solution | Tutorial | Level | remarks |
 | --- | --- | --- | --- | --- | --- |
-|01| [704. Binary Search](https://leetcode.com/problems/binary-search/)| [Python](leetcode.com/python/%23704%20-%20Binary%20Search.py)|
-|03| [240. Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/solution/)| [Python](leetcode.com/python/%23240%20-%20Search%20a%202D%20Matrix%20II.py)| [Video 01](https://www.youtube.com/watch?v=FOa55B9Ikfg), [Video 02](https://www.youtube.com/watch?v=DHSyS72BvOQ)|
-|04| [74. Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)| [Python](leetcode.com/python/%2374%20-%20Search%20a%202D%20Matrix.py)| [Video 01](https://www.youtube.com/watch?v=FOa55B9Ikfg), [Video 02](https://www.youtube.com/watch?v=DHSyS72BvOQ)|
+|01| [704. Binary Search](https://leetcode.com/problems/binary-search/)| [Python](leetcode.com/python/704_Binary_Search.py)|
+|03| [240. Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/solution/)| [Python](leetcode.com/python/240_Search_a_2D_Matrix_II.py)| [Video 01](https://www.youtube.com/watch?v=FOa55B9Ikfg), [Video 02](https://www.youtube.com/watch?v=DHSyS72BvOQ)|
+|04| [74. Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)| [Python](leetcode.com/python/74_Search_a_2D_Matrix.py)| [Video 01](https://www.youtube.com/watch?v=FOa55B9Ikfg), [Video 02](https://www.youtube.com/watch?v=DHSyS72BvOQ)|
 
 
 ### [Binary Search Tree](https://leetcode.com/explore/learn/card/introduction-to-data-structure-binary-search-tree/)
 | #  | Title | Solution | Tutorial | Level | remarks |
 | --- | --- | --- | --- | --- | --- |
-|01| [701. Insert into a Binary Search Tree](https://leetcode.com/problems/insert-into-a-binary-search-tree/)| [Python](leetcode.com/python/%23701%20-%20Insert%20into%20a%20Binary%20Search%20Tree.py)|
-|02| [700. Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/)| [Python](leetcode.com/python/%23700%20-%20Search%20in%20a%20Binary%20Search%20Tree.py)|
-|03| [270. Closest Binary Search Tree Value](https://leetcode.com/problems/closest-binary-search-tree-value/)| [Python](leetcode.com/python/%23270%20-%20Closest%20Binary%20Search%20Tree%20Value.py)|
+|01| [701. Insert into a Binary Search Tree](https://leetcode.com/problems/insert-into-a-binary-search-tree/)| [Python](leetcode.com/python/701_Insert_into_a_Binary_Search_Tree.py)|
+|02| [700. Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/)| [Python](leetcode.com/python/700_Search_in_a_Binary_Search_Tree.py)|
+|03| [270. Closest Binary Search Tree Value](https://leetcode.com/problems/closest-binary-search-tree-value/)| [Python](leetcode.com/python/270_Closest_Binary_Search_Tree_Value.py)|
 
 
 ### [N-Ary Tree](https://leetcode.com/explore/learn/card/n-ary-tree/)
 | #  | Title | Solution | Tutorial | Level | remarks |
 | --- | --- | --- | --- | --- | --- |
-|01| [589. N-ary Tree Preorder Traversal](https://leetcode.com/problems/n-ary-tree-preorder-traversal/)| [Python](leetcode.com/python/%23589%20-%20N-ary%20Tree%20Preorder%20Traversal.py)|
-|02| [590. N-ary Tree Postorder Traversal](https://leetcode.com/problems/n-ary-tree-postorder-traversal/)| [Python](leetcode.com/python/%23590%20-%20N-ary%20Tree%20Postorder%20Traversal.py)|
-|03| [429. N-ary Tree Level Order Traversal](https://leetcode.com/problems/n-ary-tree-level-order-traversal/)| [Python](leetcode.com/python/%23429%20-%20N-ary%20Tree%20Level%20Order%20Traversal.py)|
-|06| [559. Maximum Depth of N-ary Tree](https://leetcode.com/problems/maximum-depth-of-n-ary-tree/)| [Python](leetcode.com/python/%23559%20-%20Maximum%20Depth%20of%20N-ary%20Tree.py)|
-|07| [431. Encode N-ary Tree to Binary Tree](https://leetcode.com/problems/encode-n-ary-tree-to-binary-tree/submissions/)| [Python](leetcode.com/python/%23431%20-%20Encode%20N-ary%20Tree%20to%20Binary%20Tree.py)| [Explanation](https://leetcode.com/explore/learn/card/n-ary-tree/131/recursion/922/) |
-|08| [428. Serialize and Deserialize N-ary Tree](https://leetcode.com/problems/serialize-and-deserialize-n-ary-tree/)| [Python](leetcode.com/python/%23428%20-%20Serialize%20and%20Deserialize%20N-ary%20Tree.py)|
+|01| [589. N-ary Tree Preorder Traversal](https://leetcode.com/problems/n-ary-tree-preorder-traversal/)| [Python](leetcode.com/python/589_N-ary_Tree_Preorder_Traversal.py)|
+|02| [590. N-ary Tree Postorder Traversal](https://leetcode.com/problems/n-ary-tree-postorder-traversal/)| [Python](leetcode.com/python/590_N-ary_Tree_Postorder_Traversal.py)|
+|03| [429. N-ary Tree Level Order Traversal](https://leetcode.com/problems/n-ary-tree-level-order-traversal/)| [Python](leetcode.com/python/429_N-ary_Tree_Level_Order_Traversal.py)|
+|06| [559. Maximum Depth of N-ary Tree](https://leetcode.com/problems/maximum-depth-of-n-ary-tree/)| [Python](leetcode.com/python/559_Maximum_Depth_of_N-ary_Tree.py)|
+|07| [431. Encode N-ary Tree to Binary Tree](https://leetcode.com/problems/encode-n-ary-tree-to-binary-tree/submissions/)| [Python](leetcode.com/python/431_Encode_N-ary_Tree_to_Binary_Tree.py)| [Explanation](https://leetcode.com/explore/learn/card/n-ary-tree/131/recursion/922/) |
+|08| [428. Serialize and Deserialize N-ary Tree](https://leetcode.com/problems/serialize-and-deserialize-n-ary-tree/)| [Python](leetcode.com/python/428_Serialize_and_Deserialize_N-ary_Tree.py)|
 
 
 ### [Tree](https://leetcode.com/explore/learn/card/data-structure-tree/)
 | #  | Title | Solution | Tutorial | Level | remarks |
 | --- | --- | --- | --- | --- | --- |
-|01| [450. Delete Node in a BST](https://leetcode.com/problems/delete-node-in-a-bst/solution/)| [Python](leetcode.com/python/%23450%20-%20Delete%20Node%20in%20a%20BST.py)|
-|02| [98. Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/solution/)| [Python](leetcode.com/python/%2398%20-%20Validate%20Binary%20Search%20Tree.py)|
-|03| [94. Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)| [Python](leetcode.com/python/%2394%20-%20Binary%20Tree%20Inorder%20Traversal.py)|
-|04| [144. Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/)| [Python](leetcode.com/python/%23144%20-%20Binary%20Tree%20Preorder%20Traversal.py)|
-|05| [145. Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/)| [Python](leetcode.com/python/%23145%20-%20Binary%20Tree%20Postorder%20Traversal.py)|
-|06| [226. Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/solution/)| [Python](leetcode.com/python/%23226%20-%20Invert%20Binary%20Tree.py)|
-|07| [101. Symmetric Tree](https://leetcode.com/problems/symmetric-tree/)| [Python](leetcode.com/python/%23101%20-%20Symmetric%20Tree.py)|
-|08| [102. Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/solution/)| [Python](leetcode.com/python/%23102%20-%20Binary%20Tree%20Level%20Order%20Traversal.py)|
-|09| [107. Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/)| [Python](leetcode.com/python/%23107%20-%20Binary%20Tree%20Level%20Order%20Traversal%20II.py)|
-|10| [103. Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/)| [Python](leetcode.com/python/%23103%20-%20Binary%20Tree%20Zigzag%20Level%20Order%20Traversal.py)|
-|11| [695. Max Area of Island](https://leetcode.com/problems/max-area-of-island/)| [Python](leetcode.com/python/%23695%20-%20Max%20Area%20of%20Island.py)|
-|12| [104. Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)| [Python](leetcode.com/python/%23104%20-%20Maximum%20Depth%20of%20Binary%20Tree.py)| [Explanation](https://leetcode.com/explore/learn/card/data-structure-tree/17/solve-problems-recursively/534/) |
-|13| [100. Same Tree](https://leetcode.com/problems/same-tree/)| [Python](leetcode.com/python/%23100%20-%20Same%20Tree.py)| |
+|01| [450. Delete Node in a BST](https://leetcode.com/problems/delete-node-in-a-bst/solution/)| [Python](leetcode.com/python/450_Delete_Node_in_a_BST.py)|
+|02| [98. Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/solution/)| [Python](leetcode.com/python/98_Validate_Binary_Search_Tree.py)|
+|03| [94. Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)| [Python](leetcode.com/python/94_Binary_Tree_Inorder_Traversal.py)|
+|04| [144. Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/)| [Python](leetcode.com/python/144_Binary_Tree_Preorder_Traversal.py)|
+|05| [145. Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/)| [Python](leetcode.com/python/145_Binary_Tree_Postorder_Traversal.py)|
+|06| [226. Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/solution/)| [Python](leetcode.com/python/226_Invert_Binary_Tree.py)|
+|07| [101. Symmetric Tree](https://leetcode.com/problems/symmetric-tree/)| [Python](leetcode.com/python/101_Symmetric_Tree.py)|
+|08| [102. Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/solution/)| [Python](leetcode.com/python/102_Binary_Tree_Level_Order_Traversal.py)|
+|09| [107. Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/)| [Python](leetcode.com/python/107_Binary_Tree_Level_Order_Traversal_II.py)|
+|10| [103. Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/)| [Python](leetcode.com/python/103_Binary_Tree_Zigzag_Level_Order_Traversal.py)|
+|11| [695. Max Area of Island](https://leetcode.com/problems/max-area-of-island/)| [Python](leetcode.com/python/695_Max_Area_of_Island.py)|
+|12| [104. Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)| [Python](leetcode.com/python/104_Maximum_Depth_of_Binary_Tree.py)| [Explanation](https://leetcode.com/explore/learn/card/data-structure-tree/17/solve-problems-recursively/534/) |
+|13| [100. Same Tree](https://leetcode.com/problems/same-tree/)| [Python](leetcode.com/python/100_Same_Tree.py)| |
 
 
 ### [Heaps](https://www.youtube.com/watch?v=HqPJF2L5h9U)
@@ -212,8 +212,8 @@ I have solved quite a number of problems from several topics. See the below tabl
 ### [Tries](https://leetcode.com/explore/learn/card/trie/)
 | #  | Title | Solution | Tutorial | Level | remarks |
 | --- | --- | --- | --- | --- | --- |
-|01| [208. Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/)| [Python](leetcode.com/python/%23208%20-%20Implement%20Trie%20(Prefix%20Tree).py)|
-|02| [211. Add and Search Word. Data structure design](https://leetcode.com/problems/add-and-search-word-data-structure-design/)| [Python](leetcode.com/python/%23211%20-%20Add%20and%20Search%20Word%20-%20Data%20structure%20design.py)| [Video 01](https://www.youtube.com/watch?v=qi2ohSEyyDw), [Video 02](https://www.youtube.com/watch?v=neb_2UK5Kuo&t=13s)|
+|01| [208. Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/)| [Python](leetcode.com/python/208_Implement_Trie_(Prefix_Tree).py)|
+|02| [211. Add and Search Word. Data structure design](https://leetcode.com/problems/add-and-search-word-data-structure-design/)| [Python](leetcode.com/python/211_Add_and_Search_Word_Data_structure_design.py)| [Video 01](https://www.youtube.com/watch?v=qi2ohSEyyDw), [Video 02](https://www.youtube.com/watch?v=neb_2UK5Kuo&t=13s)|
 
 
 ### Graphs
@@ -224,51 +224,51 @@ I have solved quite a number of problems from several topics. See the below tabl
 ### [Recursion, Iteration](https://leetcode.com/explore/learn/card/recursion-i/)
 | #  | Title | Solution | Tutorial | Level | remarks |
 | --- | --- | --- | --- | --- | --- |
-|01| [509. Fibonacci Number](https://leetcode.com/problems/fibonacci-number/)| [Python](leetcode.com/python/%23509%20-%20Fibonacci%20Number.py)|
-|02| [50. Pow(x, n)](https://leetcode.com/problems/powx-n/)| [Python](leetcode.com/python/%2350%20-%20Pow(x%2C%20n).py)|
+|01| [509. Fibonacci Number](https://leetcode.com/problems/fibonacci-number/)| [Python](leetcode.com/python/509_Fibonacci_Number.py)|
+|02| [50. Pow(x, n)](https://leetcode.com/problems/powx-n/)| [Python](leetcode.com/python/50_Pow(x%2C_n).py)|
 
 
 ### [Union Find / Disjoint Sets](https://www.youtube.com/watch?v=wU6udHRIkcc)
 | #  | Title | Solution | Tutorial | Level | remarks |
 | --- | --- | --- | --- | --- | --- |
-|01| [200. Number of Islands](https://leetcode.com/problems/number-of-islands/)| [Python](leetcode.com/python/%23200%20-%20Number%20of%20Islands.py)|
+|01| [200. Number of Islands](https://leetcode.com/problems/number-of-islands/)| [Python](leetcode.com/python/200_Number_of_Islands.py)|
 
 
 
 ### [Dynamic Programming](https://www.educative.io/courses/grokking-dynamic-programming-patterns-for-coding-interviews)
 | #  | Title | Solution | Tutorial | Level | remarks |
 | --- | --- | --- | --- | --- | --- |
-|01| [309. Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/)| [Python](leetcode.com/python/%23309%20-%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20with%20Cooldown.py)|
-|02| [121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)| [Python](leetcode.com/python/%23121%20-%20Best%20Time%20to%20Buy%20and%20Sell%20Stock.py)|
-|03| [53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/submissions/)| [Python](leetcode.com/python/%2353%20-%20Maximum%20Subarray.py)|
-|04| [518. Coin Change 2](https://leetcode.com/problems/coin-change-2/)| [Python](leetcode.com/python/%23518%20-%20Coin%20Change%202.py)|
-|05| [322. Coin Change](https://leetcode.com/problems/coin-change/solution/)| [Python](leetcode.com/python/%23322%20-%20Coin%20Change.py)|
-|06| [72. Edit Distance](https://leetcode.com/problems/edit-distance/)| [Python](leetcode.com/python/%2372%20-%20Edit%20Distance.py)| [Video 01](https://tinyurl.com/y4a7ohay)|
-|07| [70. Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)| [Python](leetcode.com/python/%2370%20-%20Climbing%20Stairs.py)|
-|08| [96. Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/)| [Python](leetcode.com/python/%2396%20-%20Unique%20Binary%20Search%20Trees.py)| [Video 01](https://www.youtube.com/watch?v=GgP75HAvrlY), [Video 02](https://www.youtube.com/watch?v=JrTKVvYhT_k)|
-|09| [95. Unique Binary Search Trees II](https://leetcode.com/problems/unique-binary-search-trees-ii/)| [Python](leetcode.com/python/%2395%20-%20Unique%20Binary%20Search%20Trees%20II.py)|
-|10| [221. Maximal Square](https://leetcode.com/problems/maximal-square/)| [Python](leetcode.com/python/%23221%20-%20Maximal%20Square.py)| [Video 01](https://www.youtube.com/watch?v=_Lf1looyJMU), [Video 02](https://www.youtube.com/watch?v=FO7VXDfS8Gk)|
+|01| [309. Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/)| [Python](leetcode.com/python/309_Best_Time_to_Buy_and_Sell_Stock_with_Cooldown.py)|
+|02| [121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)| [Python](leetcode.com/python/121_Best_Time_to_Buy_and_Sell_Stock.py)|
+|03| [53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/submissions/)| [Python](leetcode.com/python/53_Maximum_Subarray.py)|
+|04| [518. Coin Change 2](https://leetcode.com/problems/coin-change-2/)| [Python](leetcode.com/python/518_Coin_Change_2.py)|
+|05| [322. Coin Change](https://leetcode.com/problems/coin-change/solution/)| [Python](leetcode.com/python/322_Coin_Change.py)|
+|06| [72. Edit Distance](https://leetcode.com/problems/edit-distance/)| [Python](leetcode.com/python/72_Edit_Distance.py)| [Video 01](https://tinyurl.com/y4a7ohay)|
+|07| [70. Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)| [Python](leetcode.com/python/70_Climbing_Stairs.py)|
+|08| [96. Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/)| [Python](leetcode.com/python/96_Unique_Binary_Search_Trees.py)| [Video 01](https://www.youtube.com/watch?v=GgP75HAvrlY), [Video 02](https://www.youtube.com/watch?v=JrTKVvYhT_k)|
+|09| [95. Unique Binary Search Trees II](https://leetcode.com/problems/unique-binary-search-trees-ii/)| [Python](leetcode.com/python/95_Unique_Binary_Search_Trees_II.py)|
+|10| [221. Maximal Square](https://leetcode.com/problems/maximal-square/)| [Python](leetcode.com/python/221_Maximal_Square.py)| [Video 01](https://www.youtube.com/watch?v=_Lf1looyJMU), [Video 02](https://www.youtube.com/watch?v=FO7VXDfS8Gk)|
 
 
 ### [Backtracking](https://www.youtube.com/watch?v=DKCbsiDBN6c)
 | #  | Title | Solution | Tutorial | Level | remarks |
 | --- | --- | --- | --- | --- | --- |
-|01| [211. Add and Search Word. Data structure design](https://leetcode.com/problems/add-and-search-word-data-structure-design/)| [Python](leetcode.com/python/%23211%20-%20Add%20and%20Search%20Word%20-%20Data%20structure%20design.py)| [Video 01](https://www.youtube.com/watch?v=qi2ohSEyyDw), [Video 02](https://www.youtube.com/watch?v=neb_2UK5Kuo&t=13s)|
-|03| [37. Sudoku Solver](https://leetcode.com/problems/sudoku-solver/)| [Python](leetcode.com/python/%2337%20-%20Sudoku%20Solver.py)| [Video 01](https://www.youtube.com/watch?v=JzONv5kaPJM), [Video 02](https://www.youtube.com/watch?v=Zq4upTEaQyM&list=PLiQ766zSC5jM2OKVr8sooOuGgZkvnOCTI)|
-|04| [52. N-Queens II](https://leetcode.com/problems/n-queens-ii/)| [Python](leetcode.com/python/%2352%20-%20N-Queens%20II.py)| [Video 01](https://www.youtube.com/watch?v=xFv_Hl4B83A), [Video 02](https://www.youtube.com/watch?v=xouin83ebxE)|
+|01| [211. Add and Search Word. Data structure design](https://leetcode.com/problems/add-and-search-word-data-structure-design/)| [Python](leetcode.com/python/211_Add_and_Search_Word_Data_structure_design.py)| [Video 01](https://www.youtube.com/watch?v=qi2ohSEyyDw), [Video 02](https://www.youtube.com/watch?v=neb_2UK5Kuo&t=13s)|
+|03| [37. Sudoku Solver](https://leetcode.com/problems/sudoku-solver/)| [Python](leetcode.com/python/37_Sudoku_Solver.py)| [Video 01](https://www.youtube.com/watch?v=JzONv5kaPJM), [Video 02](https://www.youtube.com/watch?v=Zq4upTEaQyM&list=PLiQ766zSC5jM2OKVr8sooOuGgZkvnOCTI)|
+|04| [52. N-Queens II](https://leetcode.com/problems/n-queens-ii/)| [Python](leetcode.com/python/52_N-Queens_II.py)| [Video 01](https://www.youtube.com/watch?v=xFv_Hl4B83A), [Video 02](https://www.youtube.com/watch?v=xouin83ebxE)|
 
 
 ### [Greedy](https://www.youtube.com/watch?v=ARvQcqJ_-NY)
 | #  | Title | Solution | Tutorial | Level | remarks |
 | --- | --- | --- | --- | --- | --- |
-|01| [122. Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)| [Python](leetcode.com/python/%23122%20-%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20II.py)| [Video 01](https://www.youtube.com/watch?v=blUwDD6JYaE)|
-|02| [1057. Campus Bikes](https://leetcode.com/problems/campus-bikes/)| [Python](leetcode.com/python/%231057%20-%20Campus%20Bikes.py)| [Video 01](https://www.youtube.com/watch?v=tG7GFge4-fQ), [Article 01](https://leetcode.com/problems/campus-bikes/discuss/371604/Python-Solution-Using-Dictionary-With-Explanation)|
+|01| [122. Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)| [Python](leetcode.com/python/122_Best_Time_to_Buy_and_Sell_Stock_II.py)| [Video 01](https://www.youtube.com/watch?v=blUwDD6JYaE)|
+|02| [1057. Campus Bikes](https://leetcode.com/problems/campus-bikes/)| [Python](leetcode.com/python/1057_Campus_Bikes.py)| [Video 01](https://www.youtube.com/watch?v=tG7GFge4-fQ), [Article 01](https://leetcode.com/problems/campus-bikes/discuss/371604/Python-Solution-Using-Dictionary-With-Explanation)|
 
 
 ### Mathematics
 | #  | Title | Solution | Tutorial | Level | remarks |
 | --- | --- | --- | --- | --- | --- |
-|01| [1118. Number of Days in a Month](https://leetcode.com/problems/number-of-days-in-a-month/)| [Python](leetcode.com/python/%231118%20-Number%20of%20Days%20in%20a%20Month.py)|
+|01| [1118. Number of Days in a Month](https://leetcode.com/problems/number-of-days-in-a-month/)| [Python](leetcode.com/python/1118_-Number_of_Days_in_a_Month.py)|
 
 
 ---
@@ -285,7 +285,7 @@ I have solved quite a number of problems from several topics. See the below tabl
 | --- | --- | --- | --- | --- | --- |
 |01| [Two_Number_Sum](algoexpert.io/questions/Two_Number_Sum.md)| [Swift](algoexpert.io/swift/Two_Number_Sum.swift), [Python](algoexpert.io/python/Two_Number_Sum.py)|
 |02| [Three_Number_Sum](algoexpert.io/questions/Three_Number_Sum.md) | [Python](algoexpert.io/python/Three_Number_Sum.py)|
-|03| [Smallest_Difference](algoexpert.io/questions/Smallest_Difference.md) | [Python](algoexpert.io/python/Smallest%20Difference.py)|
+|03| [Smallest_Difference](algoexpert.io/questions/Smallest_Difference.md) | [Python](algoexpert.io/python/Smallest_Difference.py)|
 |04| [Four_Number_Sum](algoexpert.io/questions/Four_Number_Sum.md) | [Python](algoexpert.io/python/Four_Number_Sum.py) |
 |05| [Subarray_Sort](algoexpert.io/questions/Subarray_Sort.md) | [Python](algoexpert.io/python/Subarray_Sort.py) |
 |06| [Largest_Range](algoexpert.io/questions/Largest_Range.md) | [Python](algoexpert.io/python/Largest_Range.py) |
