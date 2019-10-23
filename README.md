@@ -171,6 +171,7 @@ I have solved quite a number of problems from several topics. See the below tabl
 |01| [704. Binary Search](https://leetcode.com/problems/binary-search/)| [Python](leetcode.com/python/704_Binary_Search.py)|
 |03| [240. Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/solution/)| [Python](leetcode.com/python/240_Search_a_2D_Matrix_II.py)| [Video 01](https://www.youtube.com/watch?v=FOa55B9Ikfg), [Video 02](https://www.youtube.com/watch?v=DHSyS72BvOQ)|
 |04| [74. Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)| [Python](leetcode.com/python/74_Search_a_2D_Matrix.py)| [Video 01](https://www.youtube.com/watch?v=FOa55B9Ikfg), [Video 02](https://www.youtube.com/watch?v=DHSyS72BvOQ)|
+|05| [1011. Capacity To Ship Packages Within D Days](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/)| [Python](leetcode.com/python/1011_Capacity_To_Ship_Packages_Within_D_Days.py)| [Discussion 1](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/discuss/346505/Binary-classification-Python.-Detailed-explanation-Turtle-Code), [Discussion 2](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/discuss/256765/Python-Binary-search-with-detailed-explanation), [Discussion 3](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/discuss/256729/JavaC++Python-Binary-Search/306543) | Medium | Difficult to spot the pattern, revise again |
 
 
 ### [Binary Search Tree](https://leetcode.com/explore/learn/card/introduction-to-data-structure-binary-search-tree/)
