@@ -259,7 +259,7 @@ I have solved quite a number of problems from several topics. See the below tabl
 |09| [95. Unique Binary Search Trees II](https://leetcode.com/problems/unique-binary-search-trees-ii/)| [Python](leetcode.com/python/95_Unique_Binary_Search_Trees_II.py)|
 |10| [221. Maximal Square](https://leetcode.com/problems/maximal-square/)| [Python](leetcode.com/python/221_Maximal_Square.py)| [Video 01](https://www.youtube.com/watch?v=_Lf1looyJMU), [Video 02](https://www.youtube.com/watch?v=FO7VXDfS8Gk)|
 |11| [85. Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle/)| [Python](leetcode.com/python/85_Maximal_Rectangle.py)| [Video 01](https://www.youtube.com/watch?v=g8bSdXCG-lA)|
-|12| [42. Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/)| [Python](leetcode.com/python/42_Trapping_Rain_Water.py)| [Article 01](https://leetcode.com/problems/trapping-rain-water/solution/)| Hard | Check stack and 2 pointers based solutions |
+|12| [42. Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/)| [Python](leetcode.com/python/42_Trapping_Rain_Water.py)| [Article 01](https://leetcode.com/problems/trapping-rain-water/solution/)| Hard | 📌 Check stack and 2 pointers based solutions |
 
 
 ### [Backtracking](https://www.youtube.com/watch?v=DKCbsiDBN6c)
@@ -275,6 +275,7 @@ I have solved quite a number of problems from several topics. See the below tabl
 | --- | --- | --- | --- | --- | --- |
 |01| [122. Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)| [Python](leetcode.com/python/122_Best_Time_to_Buy_and_Sell_Stock_II.py)| [Video 01](https://www.youtube.com/watch?v=blUwDD6JYaE)|
 |02| [1057. Campus Bikes](https://leetcode.com/problems/campus-bikes/)| [Python](leetcode.com/python/1057_Campus_Bikes.py)| [Video 01](https://www.youtube.com/watch?v=tG7GFge4-fQ), [Article 01](https://leetcode.com/problems/campus-bikes/discuss/371604/Python-Solution-Using-Dictionary-With-Explanation)| Medium | 📌 Solve [1066. Campus Bikes II](https://leetcode.com/problems/campus-bikes-ii/) using [DP](https://leetcode.com/problems/campus-bikes-ii/discuss/303471/Python-DP-vs-Backtracking-with-comments), [DFS](https://leetcode.com/problems/campus-bikes-ii/discuss/303383/Python-DFS-with-memorization) and [Priority Queue](https://leetcode.com/problems/campus-bikes-ii/discuss/303422/Python-Priority-Queue) |
+|03| [1007. Minimum Domino Rotations For Equal Row](https://leetcode.com/problems/minimum-domino-rotations-for-equal-row/)| [Python](leetcode.com/python/Minimum_Domino_Rotations_For_Equal_Row.py)| [Official](https://leetcode.com/problems/minimum-domino-rotations-for-equal-row/solution/), [Article 01](https://leetcode.com/problems/minimum-domino-rotations-for-equal-row/discuss/252242/JavaC%2B%2BPython-Different-Ideas)| Medium | 📌 Hard to spot if it is a Greedy |
 
 
 ### Mathematics
@@ -446,10 +447,14 @@ I have solved quite a number of problems from several topics. See the below tabl
 <b>Some helpful links, channels, tutorials, blogs</b>
 
 
-1. https://www.educative.io/courses/grokking-the-coding-interview
-2. https://www.educative.io/courses/grokking-dynamic-programming-patterns-for-coding-interviews
-3. https://www.geeksforgeeks.org/tabulation-vs-memoization/
-4. https://elvrsn.blogspot.com/2015/02/memoization-vs-tabulation.html
+01. [Grokking the Coding Interview: Patterns for Coding Questions](https://www.educative.io/courses/grokking-the-coding-interview)
+02. [Grokking Dynamic Programming Patterns for Coding Interviews](https://www.educative.io/courses/grokking-dynamic-programming-patterns-for-coding-interviews)
+03. [Tabulation vs Memoization](https://www.geeksforgeeks.org/tabulation-vs-memoization/)
+04. [Memoization vs Tabulation](https://elvrsn.blogspot.com/2015/02/memoization-vs-tabulation.html)
+05. [Greedy Algorithm and Dynamic Programming](https://medium.com/cracking-the-data-science-interview/greedy-algorithm-and-dynamic-programming-a8c019928405)
+06. [Greedy approach vs Dynamic programming](https://www.geeksforgeeks.org/greedy-approach-vs-dynamic-programming/)
+07. [What is the difference between dynamic programming and greedy approach?](https://stackoverflow.com/questions/16690249/what-is-the-difference-between-dynamic-programming-and-greedy-approach)
+08. [How to spot a “greedy” algorithm?](https://stackoverflow.com/questions/7887487/how-to-spot-a-greedy-algorithm) 
 
 
 
