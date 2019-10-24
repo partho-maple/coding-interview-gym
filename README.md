@@ -259,6 +259,7 @@ I have solved quite a number of problems from several topics. See the below tabl
 |09| [95. Unique Binary Search Trees II](https://leetcode.com/problems/unique-binary-search-trees-ii/)| [Python](leetcode.com/python/95_Unique_Binary_Search_Trees_II.py)|
 |10| [221. Maximal Square](https://leetcode.com/problems/maximal-square/)| [Python](leetcode.com/python/221_Maximal_Square.py)| [Video 01](https://www.youtube.com/watch?v=_Lf1looyJMU), [Video 02](https://www.youtube.com/watch?v=FO7VXDfS8Gk)|
 |11| [85. Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle/)| [Python](leetcode.com/python/85_Maximal_Rectangle.py)| [Video 01](https://www.youtube.com/watch?v=g8bSdXCG-lA)|
+|12| [42. Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/)| [Python](leetcode.com/python/42_Trapping_Rain_Water.py)| [Article 01](https://leetcode.com/problems/trapping-rain-water/solution/)| Hard | Check stack and 2 pointers based solutions |
 
 
 ### [Backtracking](https://www.youtube.com/watch?v=DKCbsiDBN6c)
