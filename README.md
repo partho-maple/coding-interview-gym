@@ -175,6 +175,7 @@ I have solved quite a number of problems from several topics. See the below tabl
 |06| [410. Split Array Largest Sum](https://leetcode.com/problems/split-array-largest-sum/)| [Python](leetcode.com/python/410_Split_Array_Largest_Sum.py)| [Article 01](https://leetcode.com/problems/split-array-largest-sum/solution/)| Hard | 📌 Not done |
 |07| [4. Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)| [Python](leetcode.com/python/4_Median_of_Two_Sorted_Arrays.py)| [Article 01](https://leetcode.com/problems/median-of-two-sorted-arrays/discuss/2755/9-lines-O(log(min(mn)))-Python), [Video 1](https://www.youtube.com/watch?v=LPFhl65R7ww)| Hard | 📌 Classic problem |
 |08| [981. Time Based Key-Value Store](https://leetcode.com/problems/time-based-key-value-store/)| [Python](leetcode.com/python/981_Time_Based_Key-Value_Store.py)| [Article 01](https://leetcode.com/problems/time-based-key-value-store/solution/)| Medium | 📌  |
+|09| [222. Count Complete Tree Nodes](https://leetcode.com/problems/count-complete-tree-nodes//)| [Python](leetcode.com/python/222_Count_Complete_Tree_Nodes.py)| [Theory](http://www.mathcs.emory.edu/~cheung/Courses/171/Syllabus/9-BinTree/bin-tree.html), [Official Solution](https://leetcode.com/problems/count-complete-tree-nodes/solution/), [Fantastic idea!](https://tinyurl.com/y5s43jtt) | Medium | 📌 BS within BS |
 
 
 ### [Binary Search Tree](https://leetcode.com/explore/learn/card/introduction-to-data-structure-binary-search-tree/)
