@@ -35,8 +35,6 @@ class Solution(object):
         :rtype: int
         """
         small, big = sorted((text1, text2), key=len)
-        # small = text1 if len(text1) < text2 else text2
-        # big = text2 if len(text2) >= text1 else text1
         oddRow = [0 for _ in range(len(small) + 1)]
         evenRow = [0 for _ in range(len(small) + 1)]
         for i in range(1, len(big) + 1):

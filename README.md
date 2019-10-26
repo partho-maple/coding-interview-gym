@@ -265,6 +265,7 @@ I have solved quite a number of problems from several topics. See the below tabl
 |12| [42. Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/)| [Python](leetcode.com/python/42_Trapping_Rain_Water.py)| [Article 01](https://leetcode.com/problems/trapping-rain-water/solution/)| Hard | 📌 Check stack and 2 pointers based solutions |
 |13| [300. Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/)| [Python](leetcode.com/python/300_Longest_Increasing_Subsequence.py)| [Article 01](https://www.algoexpert.io/questions/Longest%20Increasing%20Subsequence)| Medium | 📌 Need to check Binary Search approach, which is a lot harder |
 |14| [1143. Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/)| [Python](leetcode.com/python/1143_Longest_Common_Subsequence.py)| --- | Medium | 📌 Classic DP |
+|15| [5. Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)| [Python](leetcode.com/python/5_Longest_Palindromic_Substring.py)| --- | Medium | 📌 Classic DP |
 
 
 ### [Backtracking](https://www.youtube.com/watch?v=DKCbsiDBN6c)
