@@ -264,6 +264,7 @@ I have solved quite a number of problems from several topics. See the below tabl
 |11| [85. Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle/)| [Python](leetcode.com/python/85_Maximal_Rectangle.py)| [Video 01](https://www.youtube.com/watch?v=g8bSdXCG-lA)|
 |12| [42. Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/)| [Python](leetcode.com/python/42_Trapping_Rain_Water.py)| [Article 01](https://leetcode.com/problems/trapping-rain-water/solution/)| Hard | 📌 Check stack and 2 pointers based solutions |
 |13| [300. Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/)| [Python](leetcode.com/python/300_Longest_Increasing_Subsequence.py)| [Article 01](https://www.algoexpert.io/questions/Longest%20Increasing%20Subsequence)| Medium | 📌 Need to check Binary Search approach, which is a lot harder |
+|14| [1143. Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/)| [Python](leetcode.com/python/1143_Longest_Common_Subsequence.py)| --- | Medium | 📌 Classic DP |
 
 
 ### [Backtracking](https://www.youtube.com/watch?v=DKCbsiDBN6c)
