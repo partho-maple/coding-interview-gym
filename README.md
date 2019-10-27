@@ -227,6 +227,7 @@ I have solved quite a number of problems from several topics. See the below tabl
 | --- | --- | --- | --- | --- | --- |
 |01| [208. Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/)| [Python](leetcode.com/python/208_Implement_Trie_(Prefix_Tree).py)|
 |02| [211. Add and Search Word. Data structure design](https://leetcode.com/problems/add-and-search-word-data-structure-design/)| [Python](leetcode.com/python/211_Add_and_Search_Word_Data_structure_design.py)| [Video 01](https://www.youtube.com/watch?v=qi2ohSEyyDw), [Video 02](https://www.youtube.com/watch?v=neb_2UK5Kuo&t=13s)|
+|03| [642. Design Search Autocomplete System](https://leetcode.com/problems/design-search-autocomplete-system/)| [Python](leetcode.com/python/642_Design_Search_Autocomplete_System.py)| [Video 01](https://www.youtube.com/watch?v=qi2ohSEyyDw), [Video 02](https://www.youtube.com/watch?v=neb_2UK5Kuo&t=13s)|
 
 
 ### Graphs
@@ -282,6 +283,12 @@ I have solved quite a number of problems from several topics. See the below tabl
 |01| [122. Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)| [Python](leetcode.com/python/122_Best_Time_to_Buy_and_Sell_Stock_II.py)| [Video 01](https://www.youtube.com/watch?v=blUwDD6JYaE)|
 |02| [1057. Campus Bikes](https://leetcode.com/problems/campus-bikes/)| [Python](leetcode.com/python/1057_Campus_Bikes.py)| [Video 01](https://www.youtube.com/watch?v=tG7GFge4-fQ), [Article 01](https://leetcode.com/problems/campus-bikes/discuss/371604/Python-Solution-Using-Dictionary-With-Explanation)| Medium | 📌 Solve [1066. Campus Bikes II](https://leetcode.com/problems/campus-bikes-ii/) using [DP](https://leetcode.com/problems/campus-bikes-ii/discuss/303471/Python-DP-vs-Backtracking-with-comments), [DFS](https://leetcode.com/problems/campus-bikes-ii/discuss/303383/Python-DFS-with-memorization) and [Priority Queue](https://leetcode.com/problems/campus-bikes-ii/discuss/303422/Python-Priority-Queue) |
 |03| [1007. Minimum Domino Rotations For Equal Row](https://leetcode.com/problems/minimum-domino-rotations-for-equal-row/)| [Python](leetcode.com/python/Minimum_Domino_Rotations_For_Equal_Row.py)| [Official](https://leetcode.com/problems/minimum-domino-rotations-for-equal-row/solution/), [Article 01](https://leetcode.com/problems/minimum-domino-rotations-for-equal-row/discuss/252242/JavaC%2B%2BPython-Different-Ideas)| Medium | 📌 Hard to spot if it is a Greedy |
+
+
+### Bit Manipulation
+| #  | Title | Solution | Tutorial | Level | Remarks |
+| --- | --- | --- | --- | --- | --- |
+|01| [78. Subsets](https://leetcode.com/problems/subsets/)| [Python](leetcode.com/python/78_Subsets.py)| [Video 1](https://www.youtube.com/results?search_query=All+Subsets+of+a+Set), [Video 2](https://www.youtube.com/watch?v=MsHFNGltIxw), [Video 3](https://www.youtube.com/watch?v=xTNFs5KRV_g) | Medium |📌 TODO: code it in all 4 ways. First complete DFS, BFS, Bit Manipulation and some easy back tracking problem. Then come back to this problem |
 
 
 ### Mathematics
