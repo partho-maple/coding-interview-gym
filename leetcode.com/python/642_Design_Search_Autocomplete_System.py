@@ -17,7 +17,7 @@ class AutocompleteSystem(object):
         self.root = TrieNode()
         self.inputKeyword = ""
         for i, sentence in enumerate(sentences):
-            self.addRecord(sentence, i)
+            self.addRecord(sentence, times[i])
 
     def addRecord(self, sentence, hotness):
         currentNode = self.root
