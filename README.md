@@ -214,6 +214,8 @@ I have solved quite a number of problems from several topics. See the below tabl
 |11| [695. Max Area of Island](https://leetcode.com/problems/max-area-of-island/)| [Python](leetcode.com/python/695_Max_Area_of_Island.py)|
 |12| [104. Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)| [Python](leetcode.com/python/104_Maximum_Depth_of_Binary_Tree.py)| [Explanation](https://leetcode.com/explore/learn/card/data-structure-tree/17/solve-problems-recursively/534/) |
 |13| [100. Same Tree](https://leetcode.com/problems/same-tree/)| [Python](leetcode.com/python/100_Same_Tree.py)| |
+|14| [11. Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/)| [Python](leetcode.com/python/111_Minimum_Depth_of_Binary_Tree.py)| | Easy | --- |
+|15| [110. Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/)| [Python](leetcode.com/python/110_Balanced_Binary_Tree.py)| [Video 1](https://www.youtube.com/watch?v=LU4fGD-fgJQ), [Article 1](https://leetcode.com/problems/balanced-binary-tree/discuss/36042/Two-different-definitions-of-balanced-binary-tree-result-in-two-different-judgments), [Article 2](https://leetcode.com/problems/balanced-binary-tree/discuss/35708/VERY-SIMPLE-Python-solutions-(iterative-and-recursive)-both-beat-90) | Easy (But really it shouldn't. Atleast Medium) | --- |
 
 
 ### [Heaps](https://www.youtube.com/watch?v=HqPJF2L5h9U)
@@ -227,7 +229,7 @@ I have solved quite a number of problems from several topics. See the below tabl
 | --- | --- | --- | --- | --- | --- |
 |01| [208. Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/)| [Python](leetcode.com/python/208_Implement_Trie_(Prefix_Tree).py)|
 |02| [211. Add and Search Word. Data structure design](https://leetcode.com/problems/add-and-search-word-data-structure-design/)| [Python](leetcode.com/python/211_Add_and_Search_Word_Data_structure_design.py)| [Video 01](https://www.youtube.com/watch?v=qi2ohSEyyDw), [Video 02](https://www.youtube.com/watch?v=neb_2UK5Kuo&t=13s)|
-|03| [642. Design Search Autocomplete System](https://leetcode.com/problems/design-search-autocomplete-system/)| [Python](leetcode.com/python/642_Design_Search_Autocomplete_System.py)| [Video 01](https://www.youtube.com/watch?v=qi2ohSEyyDw), [Video 02](https://www.youtube.com/watch?v=neb_2UK5Kuo&t=13s)|
+|03| [642. Design Search Autocomplete System](https://leetcode.com/problems/design-search-autocomplete-system/)| [Python](leetcode.com/python/642_Design_Search_Autocomplete_System.py)| [Article 01](https://leetcode.com/problems/design-search-autocomplete-system/discuss/105386/Python-Clean-Solution-Using-Trie), [Video 01](https://www.youtube.com/watch?v=us0qySiUsGU)| Hard | --- |
 
 
 ### Graphs
