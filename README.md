@@ -460,19 +460,36 @@ I have solved quite a number of problems from several topics. See the below tabl
 
 
 ## References
-<b>Some helpful links, channels, tutorials, blogs</b>
 
+Some helpful links, channels, tutorials, blogs.
 
-01. [Grokking the Coding Interview: Patterns for Coding Questions](https://www.educative.io/courses/grokking-the-coding-interview)
-02. [Grokking Dynamic Programming Patterns for Coding Interviews](https://www.educative.io/courses/grokking-dynamic-programming-patterns-for-coding-interviews)
-03. [Tabulation vs Memoization](https://www.geeksforgeeks.org/tabulation-vs-memoization/)
-04. [Memoization vs Tabulation](https://elvrsn.blogspot.com/2015/02/memoization-vs-tabulation.html)
-05. [Greedy Algorithm and Dynamic Programming](https://medium.com/cracking-the-data-science-interview/greedy-algorithm-and-dynamic-programming-a8c019928405)
-06. [Greedy approach vs Dynamic programming](https://www.geeksforgeeks.org/greedy-approach-vs-dynamic-programming/)
-07. [What is the difference between dynamic programming and greedy approach?](https://stackoverflow.com/questions/16690249/what-is-the-difference-between-dynamic-programming-and-greedy-approach)
-08. [How to spot a “greedy” algorithm?](https://stackoverflow.com/questions/7887487/how-to-spot-a-greedy-algorithm) 
+<b>Courses</b>
+01. [Data Structures in Python: An Interview Refresher](https://www.educative.io/courses/data-structures-in-python-an-interview-refresher)
+02. [Grokking the Coding Interview: Patterns for Coding Questions](https://www.educative.io/courses/grokking-the-coding-interview)
+03. [Grokking Dynamic Programming Patterns for Coding Interviews](https://www.educative.io/courses/grokking-dynamic-programming-patterns-for-coding-interviews)
 
+<b>Channels</b>
+01. [Tushar Roy - Coding Made Simple](https://www.youtube.com/channel/UCZLJf_R2sWyUtXSKiKlyvAw)
+02. [Back To Back SWE](https://www.youtube.com/channel/UCmJz2DV1a3yfgrR7GqRtUUA)
 
+<b>DP, Greedy</b>
+01. [Tabulation vs Memoization](https://www.geeksforgeeks.org/tabulation-vs-memoization/)
+02. [Memoization vs Tabulation](https://elvrsn.blogspot.com/2015/02/memoization-vs-tabulation.html)
+03. [Greedy Algorithm and Dynamic Programming](https://medium.com/cracking-the-data-science-interview/greedy-algorithm-and-dynamic-programming-a8c019928405)
+04. [Greedy approach vs Dynamic programming](https://www.geeksforgeeks.org/greedy-approach-vs-dynamic-programming/)
+05. [What is the difference between dynamic programming and greedy approach?](https://stackoverflow.com/questions/16690249/what-is-the-difference-between-dynamic-programming-and-greedy-approach)
+06. [How to spot a “greedy” algorithm?](https://stackoverflow.com/questions/7887487/how-to-spot-a-greedy-algorithm) 
+
+<b>Graphs (Tree, BST, BIT, Segment Tree, etc)</b>
+01. [Fenwick Tree or Binary Indexed Tree - youtube](https://www.youtube.com/watch?v=CWDQJGaN1gY)
+02. [Binary Indexed Tree or Fenwick Tree - geeksforgeeks](https://www.geeksforgeeks.org/binary-indexed-tree-or-fenwick-tree-2/)
+03. [Binary Indexed Tree or Fenwick Tree - topcoder](https://www.topcoder.com/community/competitive-programming/tutorials/binary-indexed-trees/)
+04. [Segment Tree Range Minimum Query - youtube](https://www.youtube.com/watch?v=ZBHKZF5w4YU)
+05. [Segment Tree | Set 1 \(Sum of given range\) - geeksforgeeks](https://www.geeksforgeeks.org/segment-tree-set-1-sum-of-given-range/)
+06. [Practical Data Structures for Frontend Applications: When to use Segment Trees](https://hackernoon.com/practical-data-structures-for-frontend-applications-when-to-use-segment-trees-9c7cdb7c2819)
+07. [What is the difference between a binary indexed tree and a segment tree?](https://codeforces.com/blog/entry/6847)
+08. [How does one decide when to use a Segment Tree or Fenwick Tree?](https://www.quora.com/How-does-one-decide-when-to-use-a-Segment-Tree-or-Fenwick-Tree)
+09. [What are the differences between segment trees, interval trees, binary indexed trees and range trees?](https://stackoverflow.com/questions/17466218/what-are-the-differences-between-segment-trees-interval-trees-binary-indexed-t)
 
 
 
