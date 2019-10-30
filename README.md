@@ -292,6 +292,7 @@ I have solved quite a number of problems from several topics. See the below tabl
 | #  | Title | Solution | Tutorial | Level | Remarks |
 | --- | --- | --- | --- | --- | --- |
 |01| [78. Subsets](https://leetcode.com/problems/subsets/)| [Python](leetcode.com/python/78_Subsets.py)| [Video 1](https://www.youtube.com/results?search_query=All+Subsets+of+a+Set), [Video 2](https://www.youtube.com/watch?v=MsHFNGltIxw), [Video 3](https://www.youtube.com/watch?v=xTNFs5KRV_g) | Medium |📌 TODO: code it in all 4 ways. First complete DFS, BFS, Bit Manipulation and some easy back tracking problem. Then come back to this problem |
+|02| [136. Single Number](https://leetcode.com/problems/single-number/)| [Python](leetcode.com/python/136_Single_Number.py)| --- | Easy |📌 The key here is to practice bit operation, i ignore any attempts using strings |
 
 
 ### Mathematics
@@ -491,6 +492,22 @@ Some helpful links, channels, tutorials, blogs.
 08. [How does one decide when to use a Segment Tree or Fenwick Tree?](https://www.quora.com/How-does-one-decide-when-to-use-a-Segment-Tree-or-Fenwick-Tree)
 09. [What are the differences between segment trees, interval trees, binary indexed trees and range trees?](https://stackoverflow.com/questions/17466218/what-are-the-differences-between-segment-trees-interval-trees-binary-indexed-t)
 
+<b>Bit Manipulation</b>
+01. [Bit Manipulation - youtube](https://www.youtube.com/watch?v=7jkIUgLC29I)
+02. [Conversion of Binary, Octal and Hexadecimal Numbers](http://www.cs.ucr.edu/~ehwang/courses/cs120a/00winter/binary.pdf)
+03. [Your guide to Bit Manipulation](https://codeburst.io/your-guide-to-bit-manipulation-48e7692f314a)
+04. [Python Bitwise Operators](https://www.journaldev.com/26737/python-bitwise-operators)
+05. [Add Two Numbers Without The "+" Sign (Bit Shifting Basics)](https://www.youtube.com/watch?v=qq64FrA2UXQ)
+06. [Binary Arithmetic](https://www.electrical4u.com/binary-arithmetic/)
+07. [1’s and 2’s complement of a Binary Number](https://www.geeksforgeeks.org/1s-2s-complement-binary-number/)
+08. [What is “2's Complement”?](https://stackoverflow.com/questions/1049722/what-is-2s-complement)
+09. [Bits manipulation \(Important tactics\)](https://www.geeksforgeeks.org/bits-manipulation-important-tactics/)
+10. [Bit Manipulation](https://medium.com/@hitherejoe/bit-manipulation-b13b94e70f3b)
+11. [Python Bitwise Operators](https://www.concretepage.com/python/python-bitwise-operators)
+12. [XOR - The magical bitwise operator](https://hackernoon.com/xor-the-magical-bit-wise-operator-24d3012ed821)
+13. [A summary: how to use bit manipulation to solve problems easily and efficiently - leetcode](https://leetcode.com/problems/sum-of-two-integers/discuss/84278/A-summary:-how-to-use-bit-manipulation-to-solve-problems-easily-and-efficiently)
+14. [Bit Manipulation 4% of LeetCode Problems](https://medium.com/algorithms-and-leetcode/bit-manipulation-4-of-leetcode-problems-e67db88598d1)
+15. [Coding Interview University - Bitwise operations](https://github.com/jwasham/coding-interview-university#bitwise-operations)
 
 
 
