@@ -293,6 +293,7 @@ I have solved quite a number of problems from several topics. See the below tabl
 | --- | --- | --- | --- | --- | --- |
 |01| [78. Subsets](https://leetcode.com/problems/subsets/)| [Python](leetcode.com/python/78_Subsets.py)| [Video 1](https://www.youtube.com/results?search_query=All+Subsets+of+a+Set), [Video 2](https://www.youtube.com/watch?v=MsHFNGltIxw), [Video 3](https://www.youtube.com/watch?v=xTNFs5KRV_g) | Medium |📌 TODO: code it in all 4 ways. First complete DFS, BFS, Bit Manipulation and some easy back tracking problem. Then come back to this problem |
 |02| [136. Single Number](https://leetcode.com/problems/single-number/)| [Python](leetcode.com/python/136_Single_Number.py)| --- | Easy |📌 The key here is to practice bit operation, i ignore any attempts using strings |
+|03| [461. Hamming Distance](https://leetcode.com/problems/hamming-distance/)| [Python](leetcode.com/python/461_Hamming_Distance.py)| --- | Easy |📌 The key here is to practice bit operation, i ignore any attempts using strings |
 
 
 ### Mathematics
