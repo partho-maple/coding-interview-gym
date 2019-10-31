@@ -295,6 +295,7 @@ I have solved quite a number of problems from several topics. See the below tabl
 |02| [136. Single Number](https://leetcode.com/problems/single-number/)| [Python](leetcode.com/python/136_Single_Number.py)| --- | Easy |📌 The key here is to practice bit operation, i ignore any other attempts |
 |03| [461. Hamming Distance](https://leetcode.com/problems/hamming-distance/)| [Python](leetcode.com/python/461_Hamming_Distance.py)| --- | Easy |📌 The key here is to practice bit operation, i ignore any other attempts |
 |04| [371. Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/)| [Python](leetcode.com/python/371_Sum_of_Two_Integers.py)| [Video 1](https://www.youtube.com/watch?v=qq64FrA2UXQ), [Atricle 1](https://leetcode.com/problems/sum-of-two-integers/discuss/132479/Simple-explanation-on-how-to-arrive-at-the-solution) | Easy |📌 The key here is to practice bit operation, i ignore any other attempts |
+|05| [169. Majority Element](https://leetcode.com/problems/majority-element/)| [Python](leetcode.com/python/169_Majority_Element.py)| [Atricle 1](https://www.geeksforgeeks.org/find-the-majority-element-set-3-bit-magic/) | Easy |📌 The key here is to practice bit operation, i ignore any other attempts |
 
 
 ### Mathematics
