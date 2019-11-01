@@ -296,7 +296,8 @@ I have solved quite a number of problems from several topics. See the below tabl
 |03| [461. Hamming Distance](https://leetcode.com/problems/hamming-distance/)| [Python](leetcode.com/python/461_Hamming_Distance.py)| --- | Easy |📌 The key here is to practice bit operation, i ignore any other attempts |
 |04| [371. Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/)| [Python](leetcode.com/python/371_Sum_of_Two_Integers.py)| [Video 1](https://www.youtube.com/watch?v=qq64FrA2UXQ), [Atricle 1](https://leetcode.com/problems/sum-of-two-integers/discuss/132479/Simple-explanation-on-how-to-arrive-at-the-solution) | Easy |📌 The key here is to practice bit operation, i ignore any other attempts |
 |05| [169. Majority Element](https://leetcode.com/problems/majority-element/)| [Python](leetcode.com/python/169_Majority_Element.py)| [Atricle 1](https://www.geeksforgeeks.org/find-the-majority-element-set-3-bit-magic/) | Easy |📌 The key here is to practice bit operation, i ignore any other attempts |
-|06| [191. Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)| [Python](leetcode.com/python/191_Number_of_1_Bits.py)| --- | Easy |📌 The key here is to practice bit operation |
+|06| [191. Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)| [Python](leetcode.com/python/191_Number_of_1_Bits.py)| [Article 1](https://leetcode.com/problems/number-of-1-bits/discuss/55106/Python-2-solutions.-One-naive-solution-with-built-in-functions.-One-trick-with-bit-operation) | Easy |📌 The key here is to practice bit operation |
+|07| [137. Single Number II](https://leetcode.com/problems/single-number-ii/)| [Python](leetcode.com/python/137_Single_Number_II.py)| [Article 1](https://medium.com/@lenchen/leetcode-137-single-number-ii-31af98b0f462),  | Medium |📌 Need to revise *AGAIN* |
 
 
 ### Mathematics
@@ -512,7 +513,12 @@ Some helpful links, channels, tutorials, blogs.
 13. [A summary: how to use bit manipulation to solve problems easily and efficiently - leetcode](https://leetcode.com/problems/sum-of-two-integers/discuss/84278/A-summary:-how-to-use-bit-manipulation-to-solve-problems-easily-and-efficiently)
 14. [Bit Manipulation 4% of LeetCode Problems](https://medium.com/algorithms-and-leetcode/bit-manipulation-4-of-leetcode-problems-e67db88598d1)
 15. [Coding Interview University - Bitwise operations](https://github.com/jwasham/coding-interview-university#bitwise-operations)
-
+16. [Mask (computing)](https://en.wikipedia.org/wiki/Mask_(computing))
+17. [What is Bit Masking?](https://stackoverflow.com/questions/10493411/what-is-bit-masking)
+18. [Understanding Bit masks](https://abdulapopoola.com/2016/05/30/understanding-bit-masks/)
+19. [Bitmasks: A very esoteric (and impractical) way of managing booleans](https://dev.to/somedood/bitmasks-a-very-esoteric-and-impractical-way-of-managing-booleans-1hlf)
+20. [Hacker’s Delight - BOOK](http://93.174.95.29/_ads/34DCB990FEBE54887C83E5F9534F1957)
+21. [Bitwise operators — Facts and Hacks](https://medium.com/@shashankmohabia/bitwise-operators-facts-and-hacks-903ca516f28c)
 
 
 
