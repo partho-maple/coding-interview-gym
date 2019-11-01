@@ -300,6 +300,7 @@ I have solved quite a number of problems from several topics. See the below tabl
 |07| [137. Single Number II](https://leetcode.com/problems/single-number-ii/)| [Python](leetcode.com/python/137_Single_Number_II.py)| [1](https://leetcode.com/problems/single-number-ii/discuss/43302/Accepted-code-with-proper-Explaination.-Does-anyone-have-a-better-idea), [2](https://medium.com/@lenchen/leetcode-137-single-number-ii-31af98b0f462), [3](https://leetcode.com/problems/single-number-ii/discuss/43294/Challenge-me-thx/176039), Check discussion | Medium |📌 Need to revise *AGAIN* |
 |08| [389. Find the Difference](https://leetcode.com/problems/find-the-difference/)| [Python](leetcode.com/python/389_Find_the_Difference.py)| --- | Easy | 📌 |
 |09| [231. Power of Two](https://leetcode.com/problems/power-of-two/)| [Python](leetcode.com/python/231_Power_of_Two.py)| [Official](https://leetcode.com/problems/power-of-two/solution/), [Signed number representations](https://en.wikipedia.org/wiki/Signed_number_representations) | Easy | 📌 Learned few very important binary logic properties |
+|10| [268. Missing Number](https://leetcode.com/problems/missing-number/)| [Python](leetcode.com/python/268_Missing_Number.py)| [Official](https://leetcode.com/problems/missing-number/solution/) | Easy | 📌 Learned few very important binary logic properties |
 
 
 ### Mathematics
