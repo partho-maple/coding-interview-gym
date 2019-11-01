@@ -299,6 +299,7 @@ I have solved quite a number of problems from several topics. See the below tabl
 |06| [191. Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)| [Python](leetcode.com/python/191_Number_of_1_Bits.py)| [Article 1](https://leetcode.com/problems/number-of-1-bits/discuss/55106/Python-2-solutions.-One-naive-solution-with-built-in-functions.-One-trick-with-bit-operation) | Easy |📌 The key here is to practice bit operation |
 |07| [137. Single Number II](https://leetcode.com/problems/single-number-ii/)| [Python](leetcode.com/python/137_Single_Number_II.py)| [1](https://leetcode.com/problems/single-number-ii/discuss/43302/Accepted-code-with-proper-Explaination.-Does-anyone-have-a-better-idea), [2](https://medium.com/@lenchen/leetcode-137-single-number-ii-31af98b0f462), [3](https://leetcode.com/problems/single-number-ii/discuss/43294/Challenge-me-thx/176039), Check discussion | Medium |📌 Need to revise *AGAIN* |
 |08| [389. Find the Difference](https://leetcode.com/problems/find-the-difference/)| [Python](leetcode.com/python/389_Find_the_Difference.py)| --- | Easy | 📌 |
+|09| [231. Power of Two](https://leetcode.com/problems/power-of-two/)| [Python](leetcode.com/python/231_Power_of_Two.py)| [Official](https://leetcode.com/problems/power-of-two/solution/), [Signed number representations](https://en.wikipedia.org/wiki/Signed_number_representations) | Easy | 📌 Learned few very important binary logic properties |
 
 
 ### Mathematics
@@ -520,6 +521,7 @@ Some helpful links, channels, tutorials, blogs.
 19. [Bitmasks: A very esoteric (and impractical) way of managing booleans](https://dev.to/somedood/bitmasks-a-very-esoteric-and-impractical-way-of-managing-booleans-1hlf)
 20. [Hacker’s Delight - BOOK](http://93.174.95.29/_ads/34DCB990FEBE54887C83E5F9534F1957)
 21. [Bitwise operators — Facts and Hacks](https://medium.com/@shashankmohabia/bitwise-operators-facts-and-hacks-903ca516f28c)
+22. [Signed number representations](https://en.wikipedia.org/wiki/Signed_number_representations)
 
 
 
