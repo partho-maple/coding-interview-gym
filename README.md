@@ -276,8 +276,9 @@ I have solved quite a number of problems from several topics. See the below tabl
 | #  | Title | Solution | Tutorial | Level | Remarks |
 | --- | --- | --- | --- | --- | --- |
 |01| [211. Add and Search Word. Data structure design](https://leetcode.com/problems/add-and-search-word-data-structure-design/)| [Python](leetcode.com/python/211_Add_and_Search_Word_Data_structure_design.py)| [Video 01](https://www.youtube.com/watch?v=qi2ohSEyyDw), [Video 02](https://www.youtube.com/watch?v=neb_2UK5Kuo&t=13s)|
-|03| [37. Sudoku Solver](https://leetcode.com/problems/sudoku-solver/)| [Python](leetcode.com/python/37_Sudoku_Solver.py)| [Video 01](https://www.youtube.com/watch?v=JzONv5kaPJM), [Video 02](https://www.youtube.com/watch?v=Zq4upTEaQyM&list=PLiQ766zSC5jM2OKVr8sooOuGgZkvnOCTI)|
-|04| [52. N-Queens II](https://leetcode.com/problems/n-queens-ii/)| [Python](leetcode.com/python/52_N-Queens_II.py)| [Video 01](https://www.youtube.com/watch?v=xFv_Hl4B83A), [Video 02](https://www.youtube.com/watch?v=xouin83ebxE)|
+|02| [37. Sudoku Solver](https://leetcode.com/problems/sudoku-solver/)| [Python](leetcode.com/python/37_Sudoku_Solver.py)| [Video 01](https://www.youtube.com/watch?v=JzONv5kaPJM), [Video 02](https://www.youtube.com/watch?v=Zq4upTEaQyM&list=PLiQ766zSC5jM2OKVr8sooOuGgZkvnOCTI)|
+|03| [52. N-Queens II](https://leetcode.com/problems/n-queens-ii/)| [Python](leetcode.com/python/52_N-Queens_II.py)| [Video 01](https://www.youtube.com/watch?v=xFv_Hl4B83A), [Video 02](https://www.youtube.com/watch?v=xouin83ebxE)|
+|04| [784. Letter Case Permutation](https://leetcode.com/problems/letter-case-permutation/)| [Python](leetcode.com/python/784_Letter_Case_Permutation.py)| --- | Easy | Backtracking  basics |
 
 
 ### [Greedy](https://www.youtube.com/watch?v=ARvQcqJ_-NY)
@@ -477,6 +478,7 @@ Some helpful links, channels, tutorials, blogs.
 01. [Data Structures in Python: An Interview Refresher](https://www.educative.io/courses/data-structures-in-python-an-interview-refresher)
 02. [Grokking the Coding Interview: Patterns for Coding Questions](https://www.educative.io/courses/grokking-the-coding-interview)
 03. [Grokking Dynamic Programming Patterns for Coding Interviews](https://www.educative.io/courses/grokking-dynamic-programming-patterns-for-coding-interviews)
+04. [Coding Interview Class](https://codinginterviewclass.com/)
 
 <b>Channels</b>
 01. [Tushar Roy - Coding Made Simple](https://www.youtube.com/channel/UCZLJf_R2sWyUtXSKiKlyvAw)
@@ -524,6 +526,16 @@ Some helpful links, channels, tutorials, blogs.
 20. [Hacker’s Delight - BOOK](http://93.174.95.29/_ads/34DCB990FEBE54887C83E5F9534F1957)
 21. [Bitwise operators — Facts and Hacks](https://medium.com/@shashankmohabia/bitwise-operators-facts-and-hacks-903ca516f28c)
 22. [Signed number representations](https://en.wikipedia.org/wiki/Signed_number_representations)
+
+<b>Backtracking</b>
+01. [Backtracking - wiki](https://en.wikipedia.org/wiki/Backtracking)
+02. [Backtracking | Introduction](https://www.geeksforgeeks.org/backtracking-introduction/)
+03. [Introduction to Backtracking - Brute Force Approach](https://www.youtube.com/watch?v=DKCbsiDBN6c)
+04. [Branch and Bound Introduction](https://www.youtube.com/watch?v=3RBNPc0_Q6g)
+05. [The Backtracking Blueprint: The Legendary 3 Keys To Backtracking Algorithms](https://www.youtube.com/watch?v=Zq4upTEaQyM)
+06. [Backtracking explained](https://medium.com/@andreaiacono/backtracking-explained-7450d6ef9e1a)
+07. [Foundation of algorithms - Chapter 5 (Backtracking)  notes](https://www.cpp.edu/~ftang/courses/CS331/notes/backtracking.pdf)
+08. [Backtracking Search Algorithms](https://cs.uwaterloo.ca/~vanbeek/Publications/survey06.pdf)
 
 
 
