@@ -278,7 +278,8 @@ I have solved quite a number of problems from several topics. See the below tabl
 |01| [211. Add and Search Word. Data structure design](https://leetcode.com/problems/add-and-search-word-data-structure-design/)| [Python](leetcode.com/python/211_Add_and_Search_Word_Data_structure_design.py)| [Video 01](https://www.youtube.com/watch?v=qi2ohSEyyDw), [Video 02](https://www.youtube.com/watch?v=neb_2UK5Kuo&t=13s)|
 |02| [37. Sudoku Solver](https://leetcode.com/problems/sudoku-solver/)| [Python](leetcode.com/python/37_Sudoku_Solver.py)| [Video 01](https://www.youtube.com/watch?v=JzONv5kaPJM), [Video 02](https://www.youtube.com/watch?v=Zq4upTEaQyM&list=PLiQ766zSC5jM2OKVr8sooOuGgZkvnOCTI)|
 |03| [52. N-Queens II](https://leetcode.com/problems/n-queens-ii/)| [Python](leetcode.com/python/52_N-Queens_II.py)| [Video 01](https://www.youtube.com/watch?v=xFv_Hl4B83A), [Video 02](https://www.youtube.com/watch?v=xouin83ebxE)|
-|04| [784. Letter Case Permutation](https://leetcode.com/problems/letter-case-permutation/)| [Python](leetcode.com/python/784_Letter_Case_Permutation.py)| --- | Easy | Backtracking  basics |
+|04| [784. Letter Case Permutation](https://leetcode.com/problems/letter-case-permutation/)| [Python](leetcode.com/python/784_Letter_Case_Permutation.py)| --- | Easy | Backtracking  Fundamentals |
+|05| [22. Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)| [Python](leetcode.com/python/22_Generate_Parentheses.py)| [Video 1](https://www.youtube.com/watch?v=sz1qaKt0KGQ), [Article 1](https://leetcode.com/problems/generate-parentheses/discuss/10100/Easy-to-understand-Java-backtracking-solution) | Medium | Backtracking  Fundamentals |
 
 
 ### [Greedy](https://www.youtube.com/watch?v=ARvQcqJ_-NY)
