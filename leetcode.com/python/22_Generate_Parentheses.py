@@ -11,7 +11,7 @@ class Solution(object):
     def backtrack(self, string, openCount, closeCount, maxcount, combinations):
         if len(string) == maxcount*2:
             combinations.append(string)
-            return
+            return # backtracking
         if openCount < maxcount:
             self.backtrack(string + "(", openCount + 1, closeCount, maxcount, combinations)
         if closeCount < openCount:
