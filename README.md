@@ -243,7 +243,7 @@ I have solved quite a number of problems from several topics. See the below tabl
 | --- | --- | --- | --- | --- | --- |
 |01| [509. Fibonacci Number](https://leetcode.com/problems/fibonacci-number/)| [Python](leetcode.com/python/509_Fibonacci_Number.py)|
 |02| [50. Pow(x, n)](https://leetcode.com/problems/powx-n/)| [Python](leetcode.com/python/50_Pow(x%2C_n).py)|
-|It's a general topics which has been covered on Backtracking and graph problems|
+|00| It's a general topics which has been covered on Backtracking and graph problems| --- | --- | --- | --- |
 
 
 ### [Union Find / Disjoint Sets](https://www.youtube.com/watch?v=wU6udHRIkcc)
@@ -281,7 +281,8 @@ I have solved quite a number of problems from several topics. See the below tabl
 |03| [52. N-Queens II](https://leetcode.com/problems/n-queens-ii/)| [Python](leetcode.com/python/52_N-Queens_II.py)| [Video 01](https://www.youtube.com/watch?v=xFv_Hl4B83A), [Video 02](https://www.youtube.com/watch?v=xouin83ebxE)|
 |04| [784. Letter Case Permutation](https://leetcode.com/problems/letter-case-permutation/)| [Python](leetcode.com/python/784_Letter_Case_Permutation.py)| --- | Easy | Backtracking  Fundamentals |
 |05| [22. Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)| [Python](leetcode.com/python/22_Generate_Parentheses.py)| [Video 1](https://www.youtube.com/watch?v=sz1qaKt0KGQ), [Article 1](https://leetcode.com/problems/generate-parentheses/discuss/10100/Easy-to-understand-Java-backtracking-solution) | Medium | Backtracking  Fundamentals |
-|06| [17. Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)| [Python](leetcode.com/python/17_Letter_Combinations_of_a_Phone_Number.py)| [Video 1](https://www.youtube.com/watch?v=sz1qaKt0KGQ), [Article 1](https://leetcode.com/problems/generate-parentheses/discuss/10100/Easy-to-understand-Java-backtracking-solution) | Medium | Backtracking  Fundamentals |
+|06| [17. Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)| [Python](leetcode.com/python/17_Letter_Combinations_of_a_Phone_Number.py)| [Video 1](https://www.youtube.com/watch?v=a-sMgZ7HGW0), [Video 2 - paid course](https://codinginterviewclass.com/courses/633601/lectures/11653975), [Article 1](https://leetcode.com/problems/letter-combinations-of-a-phone-number/discuss/8067/Python-easy-to-understand-backtracking-solution.) | Medium | Backtracking  Fundamentals |
+|07| [46. Permutations](https://leetcode.com/problems/permutations/)| [Python](leetcode.com/python/46_Permutations.py)| [Video 1 - paid course](https://codinginterviewclass.com/courses/coding-interview-class/lectures/11665103), [Article 1](https://dtprogrammer.github.io/46-permutations/index.html), [Article 2](https://tinyurl.com/y3jq5gqm) | Medium | Backtracking  Fundamentals |
 
 
 ### [Greedy](https://www.youtube.com/watch?v=ARvQcqJ_-NY)
@@ -477,11 +478,12 @@ I have solved quite a number of problems from several topics. See the below tabl
 
 Some helpful links, channels, tutorials, blogs.
 
-<b>Courses</b>
+<b>Courses/Books</b>
 01. [Data Structures in Python: An Interview Refresher](https://www.educative.io/courses/data-structures-in-python-an-interview-refresher)
 02. [Grokking the Coding Interview: Patterns for Coding Questions](https://www.educative.io/courses/grokking-the-coding-interview)
 03. [Grokking Dynamic Programming Patterns for Coding Interviews](https://www.educative.io/courses/grokking-dynamic-programming-patterns-for-coding-interviews)
 04. [Coding Interview Class](https://codinginterviewclass.com/)
+05. [Competitive Programmer’s Handbook](https://cses.fi/book/book.pdf)
 
 <b>Channels</b>
 01. [Tushar Roy - Coding Made Simple](https://www.youtube.com/channel/UCZLJf_R2sWyUtXSKiKlyvAw)
