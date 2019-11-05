@@ -285,6 +285,7 @@ I have solved quite a number of problems from several topics. See the below tabl
 |07| [46. Permutations](https://leetcode.com/problems/permutations/)| [Python](leetcode.com/python/46_Permutations.py)| [Video 1 - paid course](https://codinginterviewclass.com/courses/coding-interview-class/lectures/11665103), [Article 1](https://dtprogrammer.github.io/46-permutations/index.html), [Article 2](https://tinyurl.com/y3jq5gqm) | Medium | Backtracking  Fundamentals |
 |08| [39. Combination Sum](https://leetcode.com/problems/combination-sum/)| [Python](leetcode.com/python/39_Combination_Sum.py)| [Article 1](https://tinyurl.com/y5fpdget), [Article 2](https://leetcode.com/problems/combination-sum/discuss/16510/Python-dfs-solution.) | Medium | Backtracking  Fundamentals |
 |09| [79. Word Search](https://leetcode.com/problems/word-search/)| [Python](leetcode.com/python/79_Word_Search.py)| [Article 1](https://leetcode.com/problems/word-search/discuss/27660/Python-dfs-solution-with-comments.) | Medium | Backtracking  Fundamentals |
+|10| [78. Subsets](https://leetcode.com/problems/subsets/)| [Python](leetcode.com/python/78_Subsets.py)| [Video 1](https://www.youtube.com/results?search_query=All+Subsets+of+a+Set), [Video 2](https://www.youtube.com/watch?v=MsHFNGltIxw), [Video 3](https://www.youtube.com/watch?v=xTNFs5KRV_g), [Article 1](https://tinyurl.com/y5p2ozjo) | Medium |📌 TODO: check bit manipulation |
 
 
 ### [Greedy](https://www.youtube.com/watch?v=ARvQcqJ_-NY)
