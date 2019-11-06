@@ -267,6 +267,7 @@ I have solved quite a number of problems from several topics. See the below tabl
 |10| [78. Subsets](https://leetcode.com/problems/subsets/)| [Python](leetcode.com/python/78_Subsets.py)| [Video 1](https://www.youtube.com/results?search_query=All+Subsets+of+a+Set), [Video 2](https://www.youtube.com/watch?v=MsHFNGltIxw), [Video 3](https://www.youtube.com/watch?v=xTNFs5KRV_g), [Article 1](https://tinyurl.com/y5p2ozjo) | Medium |📌 TODO: check bit manipulation |
 |11| [77. Combinations](https://leetcode.com/problems/combinations/)| [Python](leetcode.com/python/77_Combinations.py)| [Video 1 - paid course](https://codinginterviewclass.com/courses/coding-interview-class/lectures/11725951) | Medium |📌 TODO: Not done. Hard to  grasp. Check again |
 |12| [1066. Campus Bikes II](https://leetcode.com/problems/campus-bikes-ii/)| [Python](leetcode.com/python/1066_Campus_Bikes_II.py)| [Algo Notes](https://algorithm-notes-allinone.blogspot.com/2019/09/leetcode-1066-campus-bikes-ii.html) | Medium |📌 TODO: Backtracking solution is getting TLE. Solve it and implement it with DP also |
+|13| [1087. Brace Expansion](https://leetcode.com/problems/brace-expansion/)| [Python](leetcode.com/python/1087_Brace_Expansion.py)| --- | Medium |📌 --- |
 
 
 ### [Greedy](https://www.youtube.com/watch?v=ARvQcqJ_-NY)
@@ -483,6 +484,9 @@ I have solved quite a number of problems from several topics. See the below tabl
 
 Some helpful links, channels, tutorials, blogs.
 
+<b>Strategies</b>
+01. [How a Googler solves coding problems](https://blog.usejournal.com/how-a-googler-solves-coding-problems-ec5d59e73ec5)
+
 <b>Courses/Books</b>
 01. [Data Structures in Python: An Interview Refresher](https://www.educative.io/courses/data-structures-in-python-an-interview-refresher)
 02. [Grokking the Coding Interview: Patterns for Coding Questions](https://www.educative.io/courses/grokking-the-coding-interview)
@@ -546,6 +550,14 @@ Some helpful links, channels, tutorials, blogs.
 06. [Backtracking explained](https://medium.com/@andreaiacono/backtracking-explained-7450d6ef9e1a)
 07. [Foundation of algorithms - Chapter 5 (Backtracking)  notes](https://www.cpp.edu/~ftang/courses/CS331/notes/backtracking.pdf)
 08. [Backtracking Search Algorithms](https://cs.uwaterloo.ca/~vanbeek/Publications/survey06.pdf)
+
+<b>Recursion</b>
+01. [Learning to think with recursion, part 1](https://medium.com/@daniel.oliver.king/getting-started-with-recursion-f89f57c5b60e)
+02. [Learning to think with recursion, part 2](https://medium.com/@daniel.oliver.king/learning-to-think-with-recursion-part-2-887bd4c41274)
+03. [What makes a data structure recursive?](https://stackoverflow.com/questions/45761182/what-makes-a-data-structure-recursive)
+04. [Binary Tree as a Recursive Data Structure](https://opendsa-server.cs.vt.edu/ODSA/Books/CS3/html/RecursiveDS.html)
+05. 
+
 
 
 
