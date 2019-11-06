@@ -238,6 +238,12 @@ I have solved quite a number of problems from several topics. See the below tabl
 | --- | --- | --- | --- | --- | --- |
 
 
+### [Union Find / Disjoint Sets](https://www.youtube.com/watch?v=wU6udHRIkcc)
+| #  | Title | Solution | Tutorial | Level | Remarks |
+| --- | --- | --- | --- | --- | --- |
+|01| [200. Number of Islands](https://leetcode.com/problems/number-of-islands/)| [Python](leetcode.com/python/200_Number_of_Islands.py)|
+
+
 ### [Recursion, Iteration](https://leetcode.com/explore/learn/card/recursion-i/)
 | #  | Title | Solution | Tutorial | Level | Remarks |
 | --- | --- | --- | --- | --- | --- |
@@ -246,11 +252,29 @@ I have solved quite a number of problems from several topics. See the below tabl
 |00| It's a general topics which has been covered on Backtracking and graph problems| --- | --- | --- | --- |
 
 
-### [Union Find / Disjoint Sets](https://www.youtube.com/watch?v=wU6udHRIkcc)
+### [Backtracking](https://www.youtube.com/watch?v=DKCbsiDBN6c)
 | #  | Title | Solution | Tutorial | Level | Remarks |
 | --- | --- | --- | --- | --- | --- |
-|01| [200. Number of Islands](https://leetcode.com/problems/number-of-islands/)| [Python](leetcode.com/python/200_Number_of_Islands.py)|
+|01| [211. Add and Search Word. Data structure design](https://leetcode.com/problems/add-and-search-word-data-structure-design/)| [Python](leetcode.com/python/211_Add_and_Search_Word_Data_structure_design.py)| [Video 01](https://www.youtube.com/watch?v=qi2ohSEyyDw), [Video 02](https://www.youtube.com/watch?v=neb_2UK5Kuo&t=13s)|
+|02| [37. Sudoku Solver](https://leetcode.com/problems/sudoku-solver/)| [Python](leetcode.com/python/37_Sudoku_Solver.py)| [Video 01](https://www.youtube.com/watch?v=JzONv5kaPJM), [Video 02](https://www.youtube.com/watch?v=Zq4upTEaQyM&list=PLiQ766zSC5jM2OKVr8sooOuGgZkvnOCTI)|
+|03| [52. N-Queens II](https://leetcode.com/problems/n-queens-ii/)| [Python](leetcode.com/python/52_N-Queens_II.py)| [Video 01](https://www.youtube.com/watch?v=xFv_Hl4B83A), [Video 02](https://www.youtube.com/watch?v=xouin83ebxE)|
+|04| [784. Letter Case Permutation](https://leetcode.com/problems/letter-case-permutation/)| [Python](leetcode.com/python/784_Letter_Case_Permutation.py)| --- | Easy | Backtracking  Fundamentals |
+|05| [22. Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)| [Python](leetcode.com/python/22_Generate_Parentheses.py)| [Video 1](https://www.youtube.com/watch?v=sz1qaKt0KGQ), [Article 1](https://leetcode.com/problems/generate-parentheses/discuss/10100/Easy-to-understand-Java-backtracking-solution) | Medium | Backtracking  Fundamentals |
+|06| [17. Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)| [Python](leetcode.com/python/17_Letter_Combinations_of_a_Phone_Number.py)| [Video 1](https://www.youtube.com/watch?v=a-sMgZ7HGW0), [Video 2 - paid course](https://codinginterviewclass.com/courses/633601/lectures/11653975), [Article 1](https://leetcode.com/problems/letter-combinations-of-a-phone-number/discuss/8067/Python-easy-to-understand-backtracking-solution.) | Medium | Backtracking  Fundamentals |
+|07| [46. Permutations](https://leetcode.com/problems/permutations/)| [Python](leetcode.com/python/46_Permutations.py)| [Video 1 - paid course](https://codinginterviewclass.com/courses/coding-interview-class/lectures/11665103), [Article 1](https://dtprogrammer.github.io/46-permutations/index.html), [Article 2](https://tinyurl.com/y3jq5gqm) | Medium | Backtracking  Fundamentals |
+|08| [39. Combination Sum](https://leetcode.com/problems/combination-sum/)| [Python](leetcode.com/python/39_Combination_Sum.py)| [Article 1](https://tinyurl.com/y5fpdget), [Article 2](https://leetcode.com/problems/combination-sum/discuss/16510/Python-dfs-solution.) | Medium | Backtracking  Fundamentals |
+|09| [79. Word Search](https://leetcode.com/problems/word-search/)| [Python](leetcode.com/python/79_Word_Search.py)| [Article 1](https://leetcode.com/problems/word-search/discuss/27660/Python-dfs-solution-with-comments.) | Medium | Backtracking  Fundamentals |
+|10| [78. Subsets](https://leetcode.com/problems/subsets/)| [Python](leetcode.com/python/78_Subsets.py)| [Video 1](https://www.youtube.com/results?search_query=All+Subsets+of+a+Set), [Video 2](https://www.youtube.com/watch?v=MsHFNGltIxw), [Video 3](https://www.youtube.com/watch?v=xTNFs5KRV_g), [Article 1](https://tinyurl.com/y5p2ozjo) | Medium |📌 TODO: check bit manipulation |
+|11| [77. Combinations](https://leetcode.com/problems/combinations/)| [Python](leetcode.com/python/77_Combinations.py)| [Video 1 - paid course](https://codinginterviewclass.com/courses/coding-interview-class/lectures/11725951) | Medium |📌 TODO: Not done. Hard to  grasp. Check again |
+|12| [1066. Campus Bikes II](https://leetcode.com/problems/campus-bikes-ii/)| [Python](leetcode.com/python/1066_Campus_Bikes_II.py)| [Algo Notes](https://algorithm-notes-allinone.blogspot.com/2019/09/leetcode-1066-campus-bikes-ii.html) | Medium |📌 TODO: Backtracking solution is getting TLE. Solve it and implement it with DP also |
 
+
+### [Greedy](https://www.youtube.com/watch?v=ARvQcqJ_-NY)
+| #  | Title | Solution | Tutorial | Level | Remarks |
+| --- | --- | --- | --- | --- | --- |
+|01| [122. Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)| [Python](leetcode.com/python/122_Best_Time_to_Buy_and_Sell_Stock_II.py)| [Video 01](https://www.youtube.com/watch?v=blUwDD6JYaE)|
+|02| [1057. Campus Bikes](https://leetcode.com/problems/campus-bikes/)| [Python](leetcode.com/python/1057_Campus_Bikes.py)| [Video 01](https://www.youtube.com/watch?v=tG7GFge4-fQ), [Article 01](https://leetcode.com/problems/campus-bikes/discuss/371604/Python-Solution-Using-Dictionary-With-Explanation)| Medium | 📌 Solve [1066. Campus Bikes II](https://leetcode.com/problems/campus-bikes-ii/) using [DP](https://leetcode.com/problems/campus-bikes-ii/discuss/303471/Python-DP-vs-Backtracking-with-comments), [DFS](https://leetcode.com/problems/campus-bikes-ii/discuss/303383/Python-DFS-with-memorization) and [Priority Queue](https://leetcode.com/problems/campus-bikes-ii/discuss/303422/Python-Priority-Queue) |
+|03| [1007. Minimum Domino Rotations For Equal Row](https://leetcode.com/problems/minimum-domino-rotations-for-equal-row/)| [Python](leetcode.com/python/Minimum_Domino_Rotations_For_Equal_Row.py)| [Official](https://leetcode.com/problems/minimum-domino-rotations-for-equal-row/solution/), [Article 01](https://leetcode.com/problems/minimum-domino-rotations-for-equal-row/discuss/252242/JavaC%2B%2BPython-Different-Ideas)| Medium | 📌 Hard to spot if it is a Greedy |
 
 
 ### [Dynamic Programming](https://www.educative.io/courses/grokking-dynamic-programming-patterns-for-coding-interviews)
@@ -271,29 +295,7 @@ I have solved quite a number of problems from several topics. See the below tabl
 |13| [300. Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/)| [Python](leetcode.com/python/300_Longest_Increasing_Subsequence.py)| [Article 01](https://www.algoexpert.io/questions/Longest%20Increasing%20Subsequence)| Medium | 📌 Need to check Binary Search approach, which is a lot harder |
 |14| [1143. Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/)| [Python](leetcode.com/python/1143_Longest_Common_Subsequence.py)| --- | Medium | 📌 Classic DP |
 |15| [5. Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)| [Python](leetcode.com/python/5_Longest_Palindromic_Substring.py)| --- | Medium | 📌 Classic DP |
-
-
-### [Backtracking](https://www.youtube.com/watch?v=DKCbsiDBN6c)
-| #  | Title | Solution | Tutorial | Level | Remarks |
-| --- | --- | --- | --- | --- | --- |
-|01| [211. Add and Search Word. Data structure design](https://leetcode.com/problems/add-and-search-word-data-structure-design/)| [Python](leetcode.com/python/211_Add_and_Search_Word_Data_structure_design.py)| [Video 01](https://www.youtube.com/watch?v=qi2ohSEyyDw), [Video 02](https://www.youtube.com/watch?v=neb_2UK5Kuo&t=13s)|
-|02| [37. Sudoku Solver](https://leetcode.com/problems/sudoku-solver/)| [Python](leetcode.com/python/37_Sudoku_Solver.py)| [Video 01](https://www.youtube.com/watch?v=JzONv5kaPJM), [Video 02](https://www.youtube.com/watch?v=Zq4upTEaQyM&list=PLiQ766zSC5jM2OKVr8sooOuGgZkvnOCTI)|
-|03| [52. N-Queens II](https://leetcode.com/problems/n-queens-ii/)| [Python](leetcode.com/python/52_N-Queens_II.py)| [Video 01](https://www.youtube.com/watch?v=xFv_Hl4B83A), [Video 02](https://www.youtube.com/watch?v=xouin83ebxE)|
-|04| [784. Letter Case Permutation](https://leetcode.com/problems/letter-case-permutation/)| [Python](leetcode.com/python/784_Letter_Case_Permutation.py)| --- | Easy | Backtracking  Fundamentals |
-|05| [22. Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)| [Python](leetcode.com/python/22_Generate_Parentheses.py)| [Video 1](https://www.youtube.com/watch?v=sz1qaKt0KGQ), [Article 1](https://leetcode.com/problems/generate-parentheses/discuss/10100/Easy-to-understand-Java-backtracking-solution) | Medium | Backtracking  Fundamentals |
-|06| [17. Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)| [Python](leetcode.com/python/17_Letter_Combinations_of_a_Phone_Number.py)| [Video 1](https://www.youtube.com/watch?v=a-sMgZ7HGW0), [Video 2 - paid course](https://codinginterviewclass.com/courses/633601/lectures/11653975), [Article 1](https://leetcode.com/problems/letter-combinations-of-a-phone-number/discuss/8067/Python-easy-to-understand-backtracking-solution.) | Medium | Backtracking  Fundamentals |
-|07| [46. Permutations](https://leetcode.com/problems/permutations/)| [Python](leetcode.com/python/46_Permutations.py)| [Video 1 - paid course](https://codinginterviewclass.com/courses/coding-interview-class/lectures/11665103), [Article 1](https://dtprogrammer.github.io/46-permutations/index.html), [Article 2](https://tinyurl.com/y3jq5gqm) | Medium | Backtracking  Fundamentals |
-|08| [39. Combination Sum](https://leetcode.com/problems/combination-sum/)| [Python](leetcode.com/python/39_Combination_Sum.py)| [Article 1](https://tinyurl.com/y5fpdget), [Article 2](https://leetcode.com/problems/combination-sum/discuss/16510/Python-dfs-solution.) | Medium | Backtracking  Fundamentals |
-|09| [79. Word Search](https://leetcode.com/problems/word-search/)| [Python](leetcode.com/python/79_Word_Search.py)| [Article 1](https://leetcode.com/problems/word-search/discuss/27660/Python-dfs-solution-with-comments.) | Medium | Backtracking  Fundamentals |
-|10| [78. Subsets](https://leetcode.com/problems/subsets/)| [Python](leetcode.com/python/78_Subsets.py)| [Video 1](https://www.youtube.com/results?search_query=All+Subsets+of+a+Set), [Video 2](https://www.youtube.com/watch?v=MsHFNGltIxw), [Video 3](https://www.youtube.com/watch?v=xTNFs5KRV_g), [Article 1](https://tinyurl.com/y5p2ozjo) | Medium |📌 TODO: check bit manipulation |
-
-
-### [Greedy](https://www.youtube.com/watch?v=ARvQcqJ_-NY)
-| #  | Title | Solution | Tutorial | Level | Remarks |
-| --- | --- | --- | --- | --- | --- |
-|01| [122. Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)| [Python](leetcode.com/python/122_Best_Time_to_Buy_and_Sell_Stock_II.py)| [Video 01](https://www.youtube.com/watch?v=blUwDD6JYaE)|
-|02| [1057. Campus Bikes](https://leetcode.com/problems/campus-bikes/)| [Python](leetcode.com/python/1057_Campus_Bikes.py)| [Video 01](https://www.youtube.com/watch?v=tG7GFge4-fQ), [Article 01](https://leetcode.com/problems/campus-bikes/discuss/371604/Python-Solution-Using-Dictionary-With-Explanation)| Medium | 📌 Solve [1066. Campus Bikes II](https://leetcode.com/problems/campus-bikes-ii/) using [DP](https://leetcode.com/problems/campus-bikes-ii/discuss/303471/Python-DP-vs-Backtracking-with-comments), [DFS](https://leetcode.com/problems/campus-bikes-ii/discuss/303383/Python-DFS-with-memorization) and [Priority Queue](https://leetcode.com/problems/campus-bikes-ii/discuss/303422/Python-Priority-Queue) |
-|03| [1007. Minimum Domino Rotations For Equal Row](https://leetcode.com/problems/minimum-domino-rotations-for-equal-row/)| [Python](leetcode.com/python/Minimum_Domino_Rotations_For_Equal_Row.py)| [Official](https://leetcode.com/problems/minimum-domino-rotations-for-equal-row/solution/), [Article 01](https://leetcode.com/problems/minimum-domino-rotations-for-equal-row/discuss/252242/JavaC%2B%2BPython-Different-Ideas)| Medium | 📌 Hard to spot if it is a Greedy |
+|16| [1066. Campus Bikes II](https://leetcode.com/problems/campus-bikes-ii/)| [Python](leetcode.com/python/1066_Campus_Bikes_II.py)|  | Medium |📌 TODO: Backtracking solution is getting TLE. Solve it and implement it with DP also |
 
 
 ### Bit Manipulation
@@ -312,7 +314,7 @@ I have solved quite a number of problems from several topics. See the below tabl
 |11| [187. Repeated DNA Sequences](https://leetcode.com/problems/repeated-dna-sequences/)| [Python](leetcode.com/python/187_Repeated_DNA_Sequences.py)| [Official](https://leetcode.com/problems/repeated-dna-sequences/solution/) | Medium | ⭐ 😭 Didn't understand, check again  |
 
 
-### Mathematics
+### Mathematics 
 | #  | Title | Solution | Tutorial | Level | Remarks |
 | --- | --- | --- | --- | --- | --- |
 |01| [1118. Number of Days in a Month](https://leetcode.com/problems/number-of-days-in-a-month/)| [Python](leetcode.com/python/1118_-Number_of_Days_in_a_Month.py)|
