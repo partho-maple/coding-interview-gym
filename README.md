@@ -268,6 +268,7 @@ I have solved quite a number of problems from several topics. See the below tabl
 |11| [77. Combinations](https://leetcode.com/problems/combinations/)| [Python](leetcode.com/python/77_Combinations.py)| [Video 1 - paid course](https://codinginterviewclass.com/courses/coding-interview-class/lectures/11725951) | Medium |📌 TODO: Not done. Hard to  grasp. Check again |
 |12| [1066. Campus Bikes II](https://leetcode.com/problems/campus-bikes-ii/)| [Python](leetcode.com/python/1066_Campus_Bikes_II.py)| [Algo Notes](https://algorithm-notes-allinone.blogspot.com/2019/09/leetcode-1066-campus-bikes-ii.html) | Medium |📌 TODO: Backtracking solution is getting TLE. Solve it and implement it with DP also |
 |13| [1087. Brace Expansion](https://leetcode.com/problems/brace-expansion/)| [Python](leetcode.com/python/1087_Brace_Expansion.py)| --- | Medium |📌 --- |
+|14| [1219. Path with Maximum Gold](https://leetcode.com/problems/path-with-maximum-gold/)| [Python](leetcode.com/python/1219_Path_with_Maximum_Gold.py)| --- | Medium |📌 --- |
 
 
 ### [Greedy](https://www.youtube.com/watch?v=ARvQcqJ_-NY)
@@ -486,6 +487,7 @@ Some helpful links, channels, tutorials, blogs.
 
 <b>Strategies</b>
 01. [How a Googler solves coding problems](https://blog.usejournal.com/how-a-googler-solves-coding-problems-ec5d59e73ec5)
+02. [Nail Every Coding Interview by Becoming Asymmetrical](https://www.youtube.com/watch?v=-THCaZWggTk)
 
 <b>Courses/Books</b>
 01. [Data Structures in Python: An Interview Refresher](https://www.educative.io/courses/data-structures-in-python-an-interview-refresher)
@@ -556,7 +558,7 @@ Some helpful links, channels, tutorials, blogs.
 02. [Learning to think with recursion, part 2](https://medium.com/@daniel.oliver.king/learning-to-think-with-recursion-part-2-887bd4c41274)
 03. [What makes a data structure recursive?](https://stackoverflow.com/questions/45761182/what-makes-a-data-structure-recursive)
 04. [Binary Tree as a Recursive Data Structure](https://opendsa-server.cs.vt.edu/ODSA/Books/CS3/html/RecursiveDS.html)
-05. 
+05. [Recursion Visualizer - use Viz Mode](http://www.codeskulptor.org/viz/index.html)
 
 
 
