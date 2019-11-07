@@ -500,14 +500,6 @@ Some helpful links, channels, tutorials, blogs.
 01. [Tushar Roy - Coding Made Simple](https://www.youtube.com/channel/UCZLJf_R2sWyUtXSKiKlyvAw)
 02. [Back To Back SWE](https://www.youtube.com/channel/UCmJz2DV1a3yfgrR7GqRtUUA)
 
-<b>DP, Greedy</b>
-01. [Tabulation vs Memoization](https://www.geeksforgeeks.org/tabulation-vs-memoization/)
-02. [Memoization vs Tabulation](https://elvrsn.blogspot.com/2015/02/memoization-vs-tabulation.html)
-03. [Greedy Algorithm and Dynamic Programming](https://medium.com/cracking-the-data-science-interview/greedy-algorithm-and-dynamic-programming-a8c019928405)
-04. [Greedy approach vs Dynamic programming](https://www.geeksforgeeks.org/greedy-approach-vs-dynamic-programming/)
-05. [What is the difference between dynamic programming and greedy approach?](https://stackoverflow.com/questions/16690249/what-is-the-difference-between-dynamic-programming-and-greedy-approach)
-06. [How to spot a “greedy” algorithm?](https://stackoverflow.com/questions/7887487/how-to-spot-a-greedy-algorithm) 
-
 <b>Graphs (Tree, BST, BIT, Segment Tree, etc)</b>
 01. [Fenwick Tree or Binary Indexed Tree - youtube](https://www.youtube.com/watch?v=CWDQJGaN1gY)
 02. [Binary Indexed Tree or Fenwick Tree - geeksforgeeks](https://www.geeksforgeeks.org/binary-indexed-tree-or-fenwick-tree-2/)
@@ -542,6 +534,23 @@ Some helpful links, channels, tutorials, blogs.
 20. [Hacker’s Delight - BOOK](http://93.174.95.29/_ads/34DCB990FEBE54887C83E5F9534F1957)
 21. [Bitwise operators — Facts and Hacks](https://medium.com/@shashankmohabia/bitwise-operators-facts-and-hacks-903ca516f28c)
 22. [Signed number representations](https://en.wikipedia.org/wiki/Signed_number_representations)
+
+<b>Dynamic Programming</b>
+01. [Tabulation vs Memoization](https://www.geeksforgeeks.org/tabulation-vs-memoization/)
+02. [Memoization vs Tabulation](https://elvrsn.blogspot.com/2015/02/memoization-vs-tabulation.html)
+
+<b>Greedy</b>
+01. [Greedy Method - Introduction](https://www.youtube.com/watch?v=ARvQcqJ_-NY&t=2s)
+02. [Introduction to Greedy Method](https://www.youtube.com/watch?v=xpNWJD24fPA)
+03. [Introduction to Greedy Algorithms | GeeksforGeeks](https://www.youtube.com/watch?v=HzeK7g8cD0Y)
+04. [Basics of Greedy Algorithms](https://www.hackerearth.com/practice/algorithms/greedy/basics-of-greedy-algorithms/tutorial/)
+05. [When to try greedy algorithms on problems?](https://codeforces.com/blog/entry/14032)
+06. [How to spot a “greedy” algorithm?](https://stackoverflow.com/questions/7887487/how-to-spot-a-greedy-algorithm) 
+
+<b>DP VS Greedy</b>
+01. [Greedy Algorithm and Dynamic Programming](https://medium.com/cracking-the-data-science-interview/greedy-algorithm-and-dynamic-programming-a8c019928405)
+02. [Greedy approach vs Dynamic programming](https://www.geeksforgeeks.org/greedy-approach-vs-dynamic-programming/)
+03. [What is the difference between dynamic programming and greedy approach?](https://stackoverflow.com/questions/16690249/what-is-the-difference-between-dynamic-programming-and-greedy-approach)
 
 <b>Backtracking</b>
 01. [Backtracking - wiki](https://en.wikipedia.org/wiki/Backtracking)
