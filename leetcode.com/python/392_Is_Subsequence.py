@@ -3,6 +3,8 @@ from bisect import bisect_left
 
 # Using Binary search
 class Solution(object):
+
+    # Code 01
     def createMap(self, s):
         # create a map. key is char. value is index of apperance in acending order.
         posMap = defaultdict(list)
@@ -22,14 +24,29 @@ class Solution(object):
         for char in s:
             if char not in posMap: return False
             charIndexList = posMap[char]
-            # try to find an index that is larger than or equal to lowBound
-            i = bisect_left(charIndexList, lowBound)
+            # try to find an index that is larger than or equal to lowBound. Means, it returns the index of the first occurrence of lowBound in charIndexList
+            i = bisect_left(charIndexList, lowBound)     # https://www.geeksforgeeks.org/binary-search-bisect-in-python/
             if i == len(charIndexList): return False
             lowBound = charIndexList[i] + 1
         return True
 
+    # Code 02
+    # def isSubsequence(self, s, t):
+    #     idx = defaultdict(list)
+    #     for i, c in enumerate(t):
+    #         idx[c].append(i)
+    #     prev = 0
+    #     for i, c in enumerate(s):
+    #         j = bi.bisect_left(idx[c], prev)
+    #         if j == len(idx[c]): return False
+    #         prev = idx[c][j] + 1
+    #     return True
 
-# Using  Two Pointer
+
+
+
+
+    # Using  Two Pointer
 # class Solution(object):
 #     def isSubsequence(self, s, t):
 #         """
@@ -53,6 +70,6 @@ class Solution(object):
 
 sol = Solution()
 s = "abc"
-t = "ahbgdca"
+t = "habgdca"
 out = sol.isSubsequence(s, t)
 print('Res: ', out)
