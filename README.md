@@ -280,6 +280,7 @@ I have solved quite a number of problems from several topics. See the below tabl
 |04| [406. Queue Reconstruction by Height](https://leetcode.com/problems/queue-reconstruction-by-height/)| [Python](leetcode.com/python/406_Queue_Reconstruction_by_Height.py)| [Article 1](https://leetcode.com/problems/queue-reconstruction-by-height/discuss/89345/Easy-concept-with-PythonC%2B%2BJava-Solution), [Article 2](https://leetcode.com/problems/queue-reconstruction-by-height/discuss/89359/Explanation-of-the-neat-Sort%2BInsert-solution) | Medium | 📌 Fundamentals |
 |05| [621. Task Scheduler](https://leetcode.com/problems/task-scheduler/)| [Python](leetcode.com/python/621_Task_Scheduler.py)| [Ex 1](https://leetcode.com/problems/task-scheduler/discuss/190390/Can-anyone-explain-to-me-what-the-problem-is-asking), [Ex 2](https://leetcode.com/problems/task-scheduler/discuss/130786/Python-solution-with-detailed-explanation), [Vid 1](https://www.youtube.com/watch?v=hVhOeaONg1Y) | Medium | 📌 Extremely tricky. Not done. Check later |
 |06| [392. Is Subsequence](https://leetcode.com/problems/is-subsequence/)| [Python](leetcode.com/python/392_Is_Subsequence.py)| [Ex 1](https://leetcode.com/problems/is-subsequence/discuss/87264/Easy-to-understand-binary-search-solution), [Ex 3](https://leetcode.com/problems/is-subsequence/discuss/87302/Binary-search-solution-for-follow-up-with-detailed-comments/144323) | Easy | 📌  |
+|07| [55. Jump Game](https://leetcode.com/problems/jump-game/)| [Python](leetcode.com/python/55_Jump_Game.py)| ```diff + [Text test]() ``` | Medium | 📌  |
 
 
 ### [Dynamic Programming](https://www.educative.io/courses/grokking-dynamic-programming-patterns-for-coding-interviews)
@@ -571,7 +572,10 @@ Some helpful links, channels, tutorials, blogs.
 03. [What makes a data structure recursive?](https://stackoverflow.com/questions/45761182/what-makes-a-data-structure-recursive)
 04. [Binary Tree as a Recursive Data Structure](https://opendsa-server.cs.vt.edu/ODSA/Books/CS3/html/RecursiveDS.html)
 05. [Recursion Visualizer - use Viz Mode](http://www.codeskulptor.org/viz/index.html)
-
+06. [Thinking Recursively in Python](https://realpython.com/python-thinking-recursively/)
+07. [Breaking out of a recursive function?](https://stackoverflow.com/questions/10544513/breaking-out-of-a-recursive-function)
+08. [Why does recursion return the first call in the stack and not the last?](https://softwareengineering.stackexchange.com/questions/333247/why-does-recursion-return-the-first-call-in-the-stack-and-not-the-last)
+09. []()
 
 
 
