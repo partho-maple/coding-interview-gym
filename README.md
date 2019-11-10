@@ -124,6 +124,7 @@ I have solved quite a number of problems from several topics. See the below tabl
 |19| [904. Fruit Into Baskets](https://leetcode.com/problems/fruit-into-baskets/solution/)| [Python](leetcode.com/python/904_Fruit_Into_Baskets.py)| [Article](https://www.educative.io/courses/grokking-the-coding-interview/Bn2KLlOR0lQ), [Video 1](https://www.youtube.com/watch?v=s_zu2dOkq80), [Video 2](https://www.youtube.com/watch?v=za2YuucS0tw)|
 |20| [56. Merge Intervals](https://leetcode.com/problems/merge-intervals/)| [Python](leetcode.com/python/56_Merge_Intervals.py)| [Article](https://leetcode.com/problems/merge-intervals/discuss/21227/7-lines-easy-Python)|
 |21| [334. Increasing Triplet Subsequence](https://leetcode.com/problems/increasing-triplet-subsequence/)| [Python](leetcode.com/python/334_Increasing_Triplet_Subsequence.py)| --- | Medium | --- |
+|22| [792. Number of Matching Subsequences](https://leetcode.com/problems/number-of-matching-subsequences/)| [Python](leetcode.com/python/792_Number_of_Matching_Subsequences.py)| **[Official](https://leetcode.com/problems/number-of-matching-subsequences/discuss/117634/Efficient-and-simple-go-through-words-in-parallel-with-explanation/)** | Medium | **Very tricky. Check again** |
 
 
 ### [String](https://leetcode.com/explore/learn/card/array-and-string/)
