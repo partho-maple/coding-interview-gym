@@ -222,7 +222,8 @@ I have solved quite a number of problems from several topics. See the below tabl
 ### [Heaps](https://www.youtube.com/watch?v=HqPJF2L5h9U)
 | #  | Title | Solution | Tutorial | Level | Remarks |
 | --- | --- | --- | --- | --- | --- |
-|01| [253_Meeting_Rooms_II](https://leetcode.com/problems/meeting-rooms-ii//)| [Python](leetcode.com/python/253_Meeting_Rooms_II.py)| [Official](https://leetcode.com/problems/meeting-rooms-ii/solution/) | Medium | --- |
+|01| [253_Meeting_Rooms_II](https://leetcode.com/problems/meeting-rooms-ii/)| [Python](leetcode.com/python/253_Meeting_Rooms_II.py)| [Official](https://leetcode.com/problems/meeting-rooms-ii/solution/) | Medium | --- |
+|02| [347. Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/solution/)| [Python](leetcode.com/python/347_Top_K_Frequent_Elements.py)| [Official](https://leetcode.com/problems/meeting-rooms-ii/solution/) | Medium | --- |
 
 
 ### [Tries](https://leetcode.com/explore/learn/card/trie/)
