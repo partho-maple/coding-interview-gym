@@ -60,16 +60,18 @@ class Solution(object):
         sourceCharIndices = defaultdict(list)
         for idx, char in enumerate(source):
             sourceCharIndices[char].append(idx)
-        sourceIdx, subsequencesCount = 0, 0
+        sourceIdx, subsequencesCount = -1, 0
         for char in target:
             if char not in sourceCharIndices:
                 return -1
-            j = bisect.bisect_left(sourceCharIndices[char], sourceIdx)          # index in sourceCharIndices[char] that is >= sourceIdx
-            if j ==len(sourceCharIndices[char]):                                # wrap around to beginning of source
+            offsetListForChar = sourceCharIndices[char]
+            j = bisect.bisect_left(offsetListForChar, sourceIdx)          # index in sourceCharIndices[char] that is >= sourceIdx
+            if j == len(offsetListForChar):
                 subsequencesCount += 1
-                j = 0
-            sourceIdx = sourceCharIndices[char][j] + 1                          # next index in source
-        return subsequencesCount if sourceIdx == 0 else subsequencesCount + 1   # add 1 for partial source
+                sourceIdx = offsetListForChar[0] + 1
+            else:
+                sourceIdx = offsetListForChar[j] + 1
+        return subsequencesCount
 
 
 
@@ -79,7 +81,7 @@ class Solution(object):
 
 
 sol = Solution()
-source = "abc"
-target = "abcbc"
+source = "abcab"
+target = "aabbaac"
 out = sol.shortestWay(source, target)
 print('Res: ', out)
