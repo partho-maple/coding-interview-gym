@@ -17,28 +17,6 @@ class Solution(object):
         return totalProfit
 
 
-    # def maxProfit(self, prices, fee):
-    #     """
-    #     :type prices: List[int]
-    #     :type fee: int
-    #     :rtype: int
-    #     """
-    #     days = len(prices)
-    #     if days < 2:
-    #          return 0
-    #     profit = 0
-    #     minimumPrice = prices[0]
-    #     for i in range(1, days):
-    #         if prices[i] < minimumPrice:
-    #             minimumPrice = prices[i]
-    #         elif prices[i] > minimumPrice + fee:
-    #             profit += prices[i] - fee - minimumPrice
-    #             minimumPrice = prices[i] - fee
-    #     return profit
-
-
-
-
 sol = Solution()
 prices = [1,3,7,5,10,3]
 fee = 3
