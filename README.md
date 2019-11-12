@@ -21,12 +21,12 @@
 ![Visitors in today](https://visitor-count-badge.herokuapp.com/today.svg?repo_id=az69802909)
 
 
-<h4 align="center">Leetcode and Algoexpert Problems Using Swift and Python</h4>
+<h4 align="center">[![leetcode badge](https://leetcode-badge.chyroc.cn/?name=ParthoBiswas007&leetcode_badge_style=leetcode%20|%20solved/total-{{.solved_question}}/{{.all_question}}-{{if%20le%20.solved_question_rate_float%200.3}}red.svg{{else%20if%20le%20.solved_question_rate_float%200.5}}yellow.svg{{else}}green.svg{{end}}&refresh=true)](https://leetcode.com/ParthoBiswas007/) Leetcode.com and 77 Algoexpert.io problems with solutions using Swift and Python</h4>
 
 <p align="center">
-  My solutions to algorithmic problems in <a href="https://leetcode.com/parthobiswas007/">leetcode.com</a> and <a href="https://www.algoexpert.io/questions">algoexpert.io</a> written in <b>Swift</b> and <b>Python</b>.
+  This repo contains my solutions to algorithmic problems in <a href="https://leetcode.com/parthobiswas007/">leetcode.com</a> and <a href="https://www.algoexpert.io/questions">algoexpert.io</a> written in <b>Swift</b> and <b>Python</b>.
   </br>
-  Can take a look into my <a href="https://leetcode.com/parthobiswas007/">leetcode profile</a> if interested. 
+  Here is my <a href="https://leetcode.com/parthobiswas007/">leetcode profile</a>. 
 </p>
 
 <h4 align="center">Show your support by giving it a STAR</h4>
@@ -307,8 +307,8 @@ I have solved quite a number of problems from several topics. See the below tabl
 |16| [122. Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)| [Python](leetcode.com/python/122_Best_Time_to_Buy_and_Sell_Stock_II.py)| [Video 01](https://www.youtube.com/watch?v=blUwDD6JYaE)| Easy | More like Greedy |
 |17| [123. Best Time to Buy and Sell Stock III](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/)| [Python](leetcode.com/python/123_Best_Time_to_Buy_and_Sell_Stock_III.py)| **[Vid 1](https://www.youtube.com/watch?v=oDhu5uGq_ic&t=2s), [Vid 2](https://www.youtube.com/watch?v=Pw6lrYANjz4)** | Hard | Fundamental |
 |18| [188. Best Time to Buy and Sell Stock IV](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/)| [Python](leetcode.com/python/188_Best_Time_to_Buy_and_Sell_Stock_IV.py)| **[Vid 1](https://www.youtube.com/watch?v=oDhu5uGq_ic&t=2s), [Vid 2](https://www.youtube.com/watch?v=Pw6lrYANjz4)** | Hard | **Getting "Memory Limit Exceeded"** |
-|19| [309. Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/)| [Python](leetcode.com/python/309_Best_Time_to_Buy_and_Sell_Stock_with_Cooldown.py)| **[Must Read](https://tinyurl.com/y7eaa7vk) | Medium | Fundamental |
-|20| [714. Best Time to Buy and Sell Stock with Transaction Fee](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/)| [Python](leetcode.com/python/714_Best_Time_to_Buy_and_Sell_Stock_with_Transaction_Fee.py)| **[Must Read](https://tinyurl.com/y7eaa7vk)** | Medium | More like Greedy, but DP |
+|19| **[309. Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/)**| [Python](leetcode.com/python/309_Best_Time_to_Buy_and_Sell_Stock_with_Cooldown.py)| **[Must](https://tinyurl.com/syuepe6)**, [Art0](https://tinyurl.com/vbzcm6z), [Art1](https://tinyurl.com/vtuga7r), **[Must 2](https://tinyurl.com/vgqsw89)** , [Art 2](https://tinyurl.com/y8uojzjl), [Art 3](https://tinyurl.com/ul95d62),  | Medium | Very tricky, must check again. Couldn't solve |
+|20| [714. Best Time to Buy and Sell Stock with Transaction Fee](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/)| [Python](leetcode.com/python/714_Best_Time_to_Buy_and_Sell_Stock_with_Transaction_Fee.py)| **[Must Read](https://tinyurl.com/y7eaa7vk)** , [Art 2](https://tinyurl.com/wzawybe) | Medium | More like Greedy, but DP |
 
 
 ### Bit Manipulation
