@@ -28,7 +28,7 @@
 #         return totalProfit
 
 
-# Taken from this:  https://tinyurl.com/wlol23f
+# Taken from this (Must read):  https://tinyurl.com/wlol23f   and   https://tinyurl.com/syuepe6
 class Solution:
     def maxProfit(self, prices):
         """
@@ -43,6 +43,7 @@ class Solution:
         have_0_stock_and_buy = 'have 0 stock and buy'
         have_0_stock_and_rest = 'have 0 stock and rest'
 
+        # The keys of this dictionary is the action taken on 'i'th day and the values represent the possible actions on the 'i + 1' day.
         action_to_next_day_possible_actions = {
             have_1_stock_and_sell: {have_0_stock_and_rest},  # Cool-down.
             have_1_stock_and_keep: {have_1_stock_and_keep, have_1_stock_and_sell},
@@ -97,7 +98,7 @@ class Solution:
             i += 1
 
         last_possible_actions = possible_actions[-1]
-        # print('last possible actions', last_possible_actions)
+        print('last possible actions', last_possible_actions)
 
         return max(last_possible_actions.values())
 
