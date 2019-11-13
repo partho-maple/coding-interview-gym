@@ -504,7 +504,7 @@ Some helpful links, channels, tutorials, blogs.
 03. [How to get into FAANG](https://drive.google.com/drive/u/0/folders/1sIdNzi4mOQL_YsPF4HAw-JsDtUneHKiu)
 04. [Preparing for Programming interview with Python](https://tinyurl.com/qsqda4b)
 05. [The 30-minute guide to rocking your next coding interview](https://tinyurl.com/vbqlhko)
-06. [Google Interview Part-1](https://tinyurl.com/w62ou5j) , [Google Interview Part-2](https://tinyurl.com/u69s6pe), [Google Interview Part-3](https://tinyurl.com/urv95zu)
+06. [Google Interview Part-1](https://tinyurl.com/w62ou5j) , [Google Interview Part-2](https://tinyurl.com/u69s6pe), [Google Interview Part-3](https://tinyurl.com/urv95zu), [Final Part](https://tinyurl.com/y5qtujdv)
 07. [Amazon ও Google এ চাকরির সুযোগ পাওয়ার প্রস্তুতি পর্ব](https://github.com/sabir4063/my_preparation)
 08. [How to use LeetCode effectively](https://www.youtube.com/watch?v=iGFnsuMeUQY)
 09. [How to solve ANY interview question](https://www.youtube.com/watch?v=JB78__e1tlE&t=3s)
@@ -533,6 +533,7 @@ Learn the following modules by heart. Just knowing all of the following items wi
 08.	Start using lambda extensively
 09.	[functools](https://docs.python.org/3/library/functools.html)
 10. Apart from these, all the builtin methods of default containers.
+11. [Understanding slice notation](https://stackoverflow.com/questions/509211/understanding-slice-notation) - you will need/use it more than you can imagine
 
 
 <b>Channels</b>
