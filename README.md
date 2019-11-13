@@ -225,6 +225,7 @@ I have solved quite a number of problems from several topics. See the below tabl
 | --- | --- | --- | --- | --- | --- |
 |01| [253_Meeting_Rooms_II](https://leetcode.com/problems/meeting-rooms-ii/)| [Python](leetcode.com/python/253_Meeting_Rooms_II.py)| [Official](https://leetcode.com/problems/meeting-rooms-ii/solution/) | Medium | --- |
 |02| [347. Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/solution/)| [Python](leetcode.com/python/347_Top_K_Frequent_Elements.py)| [Helper 1](https://stackoverflow.com/questions/19979518/what-is-pythons-heapq-module), [Helper 2](https://stackoverflow.com/a/12373856/2089253), [heapq](https://docs.python.org/3.0/library/heapq.html), [Counter](https://docs.python.org/3/library/collections.html#collections.Counter) | Medium | --- |
+|03| [767. Reorganize String](https://leetcode.com/problems/reorganize-string/)| [Python](leetcode.com/python/767_Reorganize_String.py)| --- | Medium | Also check Greedy approach |
 
 
 ### [Tries](https://leetcode.com/explore/learn/card/trie/)
@@ -284,6 +285,7 @@ I have solved quite a number of problems from several topics. See the below tabl
 |06| [392. Is Subsequence](https://leetcode.com/problems/is-subsequence/)| [Python](leetcode.com/python/392_Is_Subsequence.py)| [Ex 1](https://leetcode.com/problems/is-subsequence/discuss/87264/Easy-to-understand-binary-search-solution), [Ex 3](https://leetcode.com/problems/is-subsequence/discuss/87302/Binary-search-solution-for-follow-up-with-detailed-comments/144323) | Easy | 📌  |
 |07| **[55. Jump Game](https://leetcode.com/problems/jump-game/)** | [Python](leetcode.com/python/55_Jump_Game.py)| **[Official](https://leetcode.com/articles/jump-game/)** , [Art 1](https://tinyurl.com/yy9vyjyn)| Medium | 📌 **Must Check. Learned a lot** |
 |08| [45. Jump Game II](https://leetcode.com/problems/jump-game-ii/)| [Python](leetcode.com/python/45_Jump_Game_II.py)| [Vid  1](https://www.youtube.com/watch?v=cETfFsSTGJI), [Vid 2](https://www.youtube.com/watch?v=jH_5ypQggWg), [Vid 3](https://www.youtube.com/watch?v=vBdo7wtwlXs), [Art 1](https://tinyurl.com/yalsno6r) | Hard | 📌  |
+|09| [767. Reorganize String](https://leetcode.com/problems/reorganize-string/)| [Python](leetcode.com/python/767_Reorganize_String.py)| --- | Medium | Also check Heap approach |
 
 
 ### [Dynamic Programming](https://www.educative.io/courses/grokking-dynamic-programming-patterns-for-coding-interviews)
@@ -504,6 +506,11 @@ Some helpful links, channels, tutorials, blogs.
 05. [The 30-minute guide to rocking your next coding interview](https://tinyurl.com/vbqlhko)
 06. [Google Interview Part-1](https://tinyurl.com/w62ou5j) , [Google Interview Part-2](https://tinyurl.com/u69s6pe), [Google Interview Part-3](https://tinyurl.com/urv95zu)
 07. [Amazon ও Google এ চাকরির সুযোগ পাওয়ার প্রস্তুতি পর্ব](https://github.com/sabir4063/my_preparation)
+08. [How to use LeetCode effectively](https://www.youtube.com/watch?v=iGFnsuMeUQY)
+09. [How to solve ANY interview question](https://www.youtube.com/watch?v=JB78__e1tlE&t=3s)
+10. [How To Ace The Google Coding Interview - Complete Guide](https://tinyurl.com/ws2d4cr)
+11. [Software Engineering Interviews: The Golden Path To Passing](https://tinyurl.com/vb77j83)
+12. [A MUST READ](https://tinyurl.com/vzbn34s)
 
 
 <b>Courses/Books</b>
@@ -605,7 +612,6 @@ Learn the following modules by heart. Just knowing all of the following items wi
 06. [Thinking Recursively in Python](https://realpython.com/python-thinking-recursively/)
 07. [Breaking out of a recursive function?](https://stackoverflow.com/questions/10544513/breaking-out-of-a-recursive-function)
 08. [Why does recursion return the first call in the stack and not the last?](https://softwareengineering.stackexchange.com/questions/333247/why-does-recursion-return-the-first-call-in-the-stack-and-not-the-last)
-09. []()
 
 
 
