@@ -499,6 +499,12 @@ Some helpful links, channels, tutorials, blogs.
 <b>Strategies</b>
 01. [How a Googler solves coding problems](https://blog.usejournal.com/how-a-googler-solves-coding-problems-ec5d59e73ec5)
 02. [Nail Every Coding Interview by Becoming Asymmetrical](https://www.youtube.com/watch?v=-THCaZWggTk)
+03. [How to get into FAANG](https://drive.google.com/drive/u/0/folders/1sIdNzi4mOQL_YsPF4HAw-JsDtUneHKiu)
+04. [Preparing for Programming interview with Python](https://tinyurl.com/qsqda4b)
+05. [The 30-minute guide to rocking your next coding interview](https://tinyurl.com/vbqlhko)
+06. [Google Interview Part-1](https://tinyurl.com/w62ou5j) , [Google Interview Part-2](https://tinyurl.com/u69s6pe), [Google Interview Part-3](https://tinyurl.com/urv95zu)
+07. [Amazon ও Google এ চাকরির সুযোগ পাওয়ার প্রস্তুতি পর্ব](https://github.com/sabir4063/my_preparation)
+
 
 <b>Courses/Books</b>
 01. [Data Structures in Python: An Interview Refresher](https://www.educative.io/courses/data-structures-in-python-an-interview-refresher)
@@ -506,6 +512,20 @@ Some helpful links, channels, tutorials, blogs.
 03. [Grokking Dynamic Programming Patterns for Coding Interviews](https://www.educative.io/courses/grokking-dynamic-programming-patterns-for-coding-interviews)
 04. [Coding Interview Class](https://codinginterviewclass.com/)
 05. [Competitive Programmer’s Handbook](https://cses.fi/book/book.pdf)
+
+<b>[Python](https://docs.python.org/3/)</b>
+Learn the following modules by heart. Just knowing all of the following items will made most of the problem one-liners.
+01. [itertools - Functions creating iterators for efficient looping](https://docs.python.org/3/library/itertools.html) - They will help you, more often than you think
+02. [collections - High-performance container datatypes](https://docs.python.org/3/library/collections.html) - Believe me, this is pretty awesome
+03. [heapq - Heap queue algorithm](https://docs.python.org/3/library/heapq.html) - Obviously, we don't have to hand-code heaps anymore
+04. [bisect - Array bisection algorithm](https://docs.python.org/3/library/bisect.html) - Binary Search, simplified
+05. [Set](https://docs.python.org/3/library/stdtypes.html#set)
+06. [Dict](https://docs.python.org/3/library/stdtypes.html#mapping-types-dict) - Now on, hash Tables are fun to work with
+07. [Sorting](https://wiki.python.org/moin/HowTo/Sorting) - Don't participate in competitions without reading this completely.
+08.	Start using lambda extensively
+09.	[functools](https://docs.python.org/3/library/functools.html)
+10. Apart from these, all the builtin methods of default containers.
+
 
 <b>Channels</b>
 01. [Tushar Roy - Coding Made Simple](https://www.youtube.com/channel/UCZLJf_R2sWyUtXSKiKlyvAw)
@@ -547,8 +567,10 @@ Some helpful links, channels, tutorials, blogs.
 22. [Signed number representations](https://en.wikipedia.org/wiki/Signed_number_representations)
 
 <b>Dynamic Programming</b>
-01. [Tabulation vs Memoization](https://www.geeksforgeeks.org/tabulation-vs-memoization/)
-02. [Memoization vs Tabulation](https://elvrsn.blogspot.com/2015/02/memoization-vs-tabulation.html)
+01. [The FAST method](https://www.byte-by-byte.com/fast-method/)
+02. [A good approach to attack DP](https://leetcode.com/articles/jump-game/)
+03. [Tabulation vs Memoization](https://www.geeksforgeeks.org/tabulation-vs-memoization/)
+04. [Memoization vs Tabulation](https://elvrsn.blogspot.com/2015/02/memoization-vs-tabulation.html)
 
 <b>Greedy</b>
 01. [Greedy Method - Introduction](https://www.youtube.com/watch?v=ARvQcqJ_-NY&t=2s)
