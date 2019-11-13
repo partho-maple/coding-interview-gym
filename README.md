@@ -513,7 +513,7 @@ Some helpful links, channels, tutorials, blogs.
 04. [Coding Interview Class](https://codinginterviewclass.com/)
 05. [Competitive Programmer’s Handbook](https://cses.fi/book/book.pdf)
 
-<b>[Python](https://docs.python.org/3/)</b>
+<b>Python</b>
 Learn the following modules by heart. Just knowing all of the following items will made most of the problem one-liners.
 01. [itertools - Functions creating iterators for efficient looping](https://docs.python.org/3/library/itertools.html) - They will help you, more often than you think
 02. [collections - High-performance container datatypes](https://docs.python.org/3/library/collections.html) - Believe me, this is pretty awesome
