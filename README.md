@@ -226,6 +226,7 @@ I have solved quite a number of problems from several topics. See the below tabl
 |01| [253_Meeting_Rooms_II](https://leetcode.com/problems/meeting-rooms-ii/)| [Python](leetcode.com/python/253_Meeting_Rooms_II.py)| [Official](https://leetcode.com/problems/meeting-rooms-ii/solution/) | Medium | --- |
 |02| [347. Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/solution/)| [Python](leetcode.com/python/347_Top_K_Frequent_Elements.py)| [Helper 1](https://stackoverflow.com/questions/19979518/what-is-pythons-heapq-module), [Helper 2](https://stackoverflow.com/a/12373856/2089253), [heapq](https://docs.python.org/3.0/library/heapq.html), [Counter](https://docs.python.org/3/library/collections.html#collections.Counter) | Medium | --- |
 |03| [767. Reorganize String](https://leetcode.com/problems/reorganize-string/)| [Python](leetcode.com/python/767_Reorganize_String.py)| --- | Medium | Also check Greedy approach |
+|04| [621. Task Scheduler](https://leetcode.com/problems/task-scheduler/)| [Python](leetcode.com/python/621_Task_Scheduler.py)| [Ex 1](https://leetcode.com/problems/task-scheduler/discuss/190390/Can-anyone-explain-to-me-what-the-problem-is-asking), [Ex 2](https://leetcode.com/problems/task-scheduler/discuss/130786/Python-solution-with-detailed-explanation), [Vid 1](https://www.youtube.com/watch?v=hVhOeaONg1Y), [Vid 2](https://www.youtube.com/watch?v=zPtI8q9gvX8), [Vid 3](https://www.youtube.com/watch?v=TV9VlHUR-Is), [Vid 4](https://www.youtube.com/watch?v=cr6Ip0J9izc&t=22s) | Medium | 📌 Extremely tricky. |
 
 
 ### [Tries](https://leetcode.com/explore/learn/card/trie/)
@@ -281,7 +282,7 @@ I have solved quite a number of problems from several topics. See the below tabl
 |02| [1057. Campus Bikes](https://leetcode.com/problems/campus-bikes/)| [Python](leetcode.com/python/1057_Campus_Bikes.py)| [Video 01](https://www.youtube.com/watch?v=tG7GFge4-fQ), [Article 01](https://leetcode.com/problems/campus-bikes/discuss/371604/Python-Solution-Using-Dictionary-With-Explanation)| Medium | 📌 Solve [1066. Campus Bikes II](https://leetcode.com/problems/campus-bikes-ii/) using [DP](https://leetcode.com/problems/campus-bikes-ii/discuss/303471/Python-DP-vs-Backtracking-with-comments), [DFS](https://leetcode.com/problems/campus-bikes-ii/discuss/303383/Python-DFS-with-memorization) and [Priority Queue](https://leetcode.com/problems/campus-bikes-ii/discuss/303422/Python-Priority-Queue) |
 |03| [1007. Minimum Domino Rotations For Equal Row](https://leetcode.com/problems/minimum-domino-rotations-for-equal-row/)| [Python](leetcode.com/python/Minimum_Domino_Rotations_For_Equal_Row.py)| [Official](https://leetcode.com/problems/minimum-domino-rotations-for-equal-row/solution/), [Article 01](https://leetcode.com/problems/minimum-domino-rotations-for-equal-row/discuss/252242/JavaC%2B%2BPython-Different-Ideas)| Medium | 📌 Hard to spot if it is a Greedy |
 |04| [406. Queue Reconstruction by Height](https://leetcode.com/problems/queue-reconstruction-by-height/)| [Python](leetcode.com/python/406_Queue_Reconstruction_by_Height.py)| [Article 1](https://leetcode.com/problems/queue-reconstruction-by-height/discuss/89345/Easy-concept-with-PythonC%2B%2BJava-Solution), [Article 2](https://leetcode.com/problems/queue-reconstruction-by-height/discuss/89359/Explanation-of-the-neat-Sort%2BInsert-solution) | Medium | 📌 Fundamentals |
-|05| [621. Task Scheduler](https://leetcode.com/problems/task-scheduler/)| [Python](leetcode.com/python/621_Task_Scheduler.py)| [Ex 1](https://leetcode.com/problems/task-scheduler/discuss/190390/Can-anyone-explain-to-me-what-the-problem-is-asking), [Ex 2](https://leetcode.com/problems/task-scheduler/discuss/130786/Python-solution-with-detailed-explanation), [Vid 1](https://www.youtube.com/watch?v=hVhOeaONg1Y) | Medium | 📌 Extremely tricky. Not done. Check later |
+|05| [621. Task Scheduler](https://leetcode.com/problems/task-scheduler/)| [Python](leetcode.com/python/621_Task_Scheduler.py)| [Ex 1](https://leetcode.com/problems/task-scheduler/discuss/190390/Can-anyone-explain-to-me-what-the-problem-is-asking), [Ex 2](https://leetcode.com/problems/task-scheduler/discuss/130786/Python-solution-with-detailed-explanation), [Vid 1](https://www.youtube.com/watch?v=hVhOeaONg1Y), [Vid 2](https://www.youtube.com/watch?v=zPtI8q9gvX8), [Vid 3](https://www.youtube.com/watch?v=TV9VlHUR-Is), [Vid 4](https://www.youtube.com/watch?v=cr6Ip0J9izc&t=22s) | Medium | 📌 Extremely tricky. |
 |06| [392. Is Subsequence](https://leetcode.com/problems/is-subsequence/)| [Python](leetcode.com/python/392_Is_Subsequence.py)| [Ex 1](https://leetcode.com/problems/is-subsequence/discuss/87264/Easy-to-understand-binary-search-solution), [Ex 3](https://leetcode.com/problems/is-subsequence/discuss/87302/Binary-search-solution-for-follow-up-with-detailed-comments/144323) | Easy | 📌  |
 |07| **[55. Jump Game](https://leetcode.com/problems/jump-game/)** | [Python](leetcode.com/python/55_Jump_Game.py)| **[Official](https://leetcode.com/articles/jump-game/)** , [Art 1](https://tinyurl.com/yy9vyjyn)| Medium | 📌 **Must Check. Learned a lot** |
 |08| [45. Jump Game II](https://leetcode.com/problems/jump-game-ii/)| [Python](leetcode.com/python/45_Jump_Game_II.py)| [Vid  1](https://www.youtube.com/watch?v=cETfFsSTGJI), [Vid 2](https://www.youtube.com/watch?v=jH_5ypQggWg), [Vid 3](https://www.youtube.com/watch?v=vBdo7wtwlXs), [Art 1](https://tinyurl.com/yalsno6r) | Hard | 📌  |
@@ -539,8 +540,10 @@ Learn the following modules by heart. Just knowing all of the following items wi
 <b>Channels</b>
 01. [Tushar Roy - Coding Made Simple](https://www.youtube.com/channel/UCZLJf_R2sWyUtXSKiKlyvAw)
 02. [Back To Back SWE](https://www.youtube.com/channel/UCmJz2DV1a3yfgrR7GqRtUUA)
+03. [William Fiset](https://www.youtube.com/user/purpongie/featured)
+04. [Irfan Baqui](https://www.youtube.com/channel/UCYvQTh9aUgPZmVH0wNHFa1A)
 
-<b>Graphs (Tree, BST, BIT, Segment Tree, etc)</b>
+<b>Tree (Tree, BST, BIT, Segment Tree, N-aray Tree, Trie etc)</b>
 01. [Fenwick Tree or Binary Indexed Tree - youtube](https://www.youtube.com/watch?v=CWDQJGaN1gY)
 02. [Binary Indexed Tree or Fenwick Tree - geeksforgeeks](https://www.geeksforgeeks.org/binary-indexed-tree-or-fenwick-tree-2/)
 03. [Binary Indexed Tree or Fenwick Tree - topcoder](https://www.topcoder.com/community/competitive-programming/tutorials/binary-indexed-trees/)
@@ -550,6 +553,12 @@ Learn the following modules by heart. Just knowing all of the following items wi
 07. [What is the difference between a binary indexed tree and a segment tree?](https://codeforces.com/blog/entry/6847)
 08. [How does one decide when to use a Segment Tree or Fenwick Tree?](https://www.quora.com/How-does-one-decide-when-to-use-a-Segment-Tree-or-Fenwick-Tree)
 09. [What are the differences between segment trees, interval trees, binary indexed trees and range trees?](https://stackoverflow.com/questions/17466218/what-are-the-differences-between-segment-trees-interval-trees-binary-indexed-t)
+
+<b>Graph(Dijkstra, Union Find, Kruskal, Prim's, Minimum Spanning Tree, Topological Ordering...etc)</b>
+01. [Graph Theory Playlist](https://tinyurl.com/rfgy88b)
+02. [Union Find \[Disjoint Set\] Playlist](https://tinyurl.com/srz7uua)
+03. [Disjoint Sets Data Structure - Weighted Union and Collapsing Find](https://www.youtube.com/watch?v=wU6udHRIkcc)
+0. []()
 
 <b>Bit Manipulation</b>
 01. [Bit Manipulation - youtube](https://www.youtube.com/watch?v=7jkIUgLC29I)
