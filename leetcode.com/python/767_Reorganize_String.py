@@ -4,7 +4,7 @@ import heapq
 class Solution(object):
 
     # # Using Heap/PriorityQueue. Original code from here: https://tinyurl.com/u6h7nmd
-    # # ALso this  explanation: https://leetcode.com/problems/reorganize-string/discuss/113457/Simple-python-solution-using-PriorityQueue/194973
+    # # Also this  explanation: https://leetcode.com/problems/reorganize-string/discuss/113457/Simple-python-solution-using-PriorityQueue/194973
     # def reorganizeString(self, S):
     #     """
     #     :type S: str
