@@ -183,7 +183,7 @@ I have solved quite a number of problems from several topics. See the below tabl
 |07| [4. Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)| [Python](leetcode.com/python/4_Median_of_Two_Sorted_Arrays.py)| [Article 01](https://leetcode.com/problems/median-of-two-sorted-arrays/discuss/2755/9-lines-O(log(min(mn)))-Python), [Video 1](https://www.youtube.com/watch?v=LPFhl65R7ww)| Hard | 📌 Classic problem |
 |08| [981. Time Based Key-Value Store](https://leetcode.com/problems/time-based-key-value-store/)| [Python](leetcode.com/python/981_Time_Based_Key-Value_Store.py)| [Article 01](https://leetcode.com/problems/time-based-key-value-store/solution/)| Medium | 📌  |
 |09| [222. Count Complete Tree Nodes](https://leetcode.com/problems/count-complete-tree-nodes/)| [Python](leetcode.com/python/222_Count_Complete_Tree_Nodes.py)| [Theory](http://www.mathcs.emory.edu/~cheung/Courses/171/Syllabus/9-BinTree/bin-tree.html), [Official Solution](https://leetcode.com/problems/count-complete-tree-nodes/solution/), [Fantastic idea!](https://tinyurl.com/y5s43jtt) | Medium | 📌 BS within BS |
-|10| [1231. Divide Chocolate](https://leetcode.com/problems/divide-chocolate/)| [Python](leetcode.com/python/1231_Divide_Chocolate.py)| [Art 1](https://tinyurl.com/sl7w7cb), [Art 2](https://tinyurl.com/vabdbzo), [Art 3](https://tinyurl.com/v4cablt), [Vid 1](https://www.youtube.com/watch?v=vq2OXjXQPYw&feature=emb_title) | Hard | 📌 **Not done. Check again** |
+|10| [1231. Divide Chocolate](https://leetcode.com/problems/divide-chocolate/)| [Python](leetcode.com/python/1231_Divide_Chocolate.py)| [Art 1](https://tinyurl.com/sl7w7cb), [Art 2](https://tinyurl.com/vabdbzo), [Art 3](https://tinyurl.com/v4cablt), [Vid 1](https://www.youtube.com/watch?v=vq2OXjXQPYw&feature=emb_title) | Hard | 📌 **Not done. Check again. Solve all similar question** |
 
 
 ### [Binary Search Tree](https://leetcode.com/explore/learn/card/introduction-to-data-structure-binary-search-tree/)
@@ -281,6 +281,7 @@ I have solved quite a number of problems from several topics. See the below tabl
 |07| **[55. Jump Game](https://leetcode.com/problems/jump-game/)** | [Python](leetcode.com/python/55_Jump_Game.py)| **[Official](https://leetcode.com/articles/jump-game/)** , [Art 1](https://tinyurl.com/yy9vyjyn)| Medium | 📌 **Must Check. Learned a lot** |
 |08| [45. Jump Game II](https://leetcode.com/problems/jump-game-ii/)| [Python](leetcode.com/python/45_Jump_Game_II.py)| [Vid  1](https://www.youtube.com/watch?v=cETfFsSTGJI), [Vid 2](https://www.youtube.com/watch?v=jH_5ypQggWg), [Vid 3](https://www.youtube.com/watch?v=vBdo7wtwlXs), [Art 1](https://tinyurl.com/yalsno6r) | Hard | 📌  |
 |09| [767. Reorganize String](https://leetcode.com/problems/reorganize-string/)| [Python](leetcode.com/python/767_Reorganize_String.py)| --- | Medium | Also check Heap approach |
+|10| [435. Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/)| [Python](leetcode.com/python/435_Non-overlapping_Intervals.py)| [Vid 1](https://codinginterviewclass.com/courses/633601/lectures/12471331) | Medium | --- |
 
 
 ### [Dynamic Programming](https://www.educative.io/courses/grokking-dynamic-programming-patterns-for-coding-interviews)
