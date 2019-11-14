@@ -125,6 +125,8 @@ I have solved quite a number of problems from several topics. See the below tabl
 |20| [56. Merge Intervals](https://leetcode.com/problems/merge-intervals/)| [Python](leetcode.com/python/56_Merge_Intervals.py)| [Article](https://leetcode.com/problems/merge-intervals/discuss/21227/7-lines-easy-Python)|
 |21| [334. Increasing Triplet Subsequence](https://leetcode.com/problems/increasing-triplet-subsequence/)| [Python](leetcode.com/python/334_Increasing_Triplet_Subsequence.py)| --- | Medium | --- |
 |22| [792. Number of Matching Subsequences](https://leetcode.com/problems/number-of-matching-subsequences/)| [Python](leetcode.com/python/792_Number_of_Matching_Subsequences.py)| **[Official](https://leetcode.com/problems/number-of-matching-subsequences/discuss/117634/Efficient-and-simple-go-through-words-in-parallel-with-explanation/)** | Medium | **Very tricky. Check again** |
+|23| [912. Sort an Array (Merge Sort)](https://leetcode.com/problems/sort-an-array/)| [Python](leetcode.com/python/912_Sort_an_Array_(Merge__Sort).py)|--- | Medium | --- |
+|24| [1118. Number of Days in a Month](https://leetcode.com/problems/number-of-days-in-a-month/)| [Python](leetcode.com/python/1118_-Number_of_Days_in_a_Month.py)|--- | Easy | --- |
 
 
 ### [String](https://leetcode.com/explore/learn/card/array-and-string/)
@@ -161,10 +163,13 @@ I have solved quite a number of problems from several topics. See the below tabl
 |03| [84. Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/)| [Python](leetcode.com/python/84_Largest_Rectangle_in_Histogram.py)| [Video 01](https://www.youtube.com/watch?v=VNbkzsnllsU), [Video 02](https://www.youtube.com/watch?v=RVIh0snn4Qc), [Article 01](https://leetcode.com/problems/largest-rectangle-in-histogram/solution/), [Article 02](https://leetcode.com/problems/largest-rectangle-in-histogram/discuss/28917/AC-Python-clean-solution-using-stack-76ms) | Hard | 📌 Need to revise |
 
 
-### Sorting
+### [Heaps](https://www.youtube.com/watch?v=HqPJF2L5h9U)
 | #  | Title | Solution | Tutorial | Level | Remarks |
 | --- | --- | --- | --- | --- | --- |
-|01| [912. Sort an Array (Merge Sort)](https://leetcode.com/problems/sort-an-array/)| [Python](leetcode.com/python/912_Sort_an_Array_(Merge__Sort).py)|
+|01| [253_Meeting_Rooms_II](https://leetcode.com/problems/meeting-rooms-ii/)| [Python](leetcode.com/python/253_Meeting_Rooms_II.py)| [Official](https://leetcode.com/problems/meeting-rooms-ii/solution/) | Medium | --- |
+|02| [347. Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/solution/)| [Python](leetcode.com/python/347_Top_K_Frequent_Elements.py)| [Helper 1](https://stackoverflow.com/questions/19979518/what-is-pythons-heapq-module), [Helper 2](https://stackoverflow.com/a/12373856/2089253), [heapq](https://docs.python.org/3.0/library/heapq.html), [Counter](https://docs.python.org/3/library/collections.html#collections.Counter) | Medium | --- |
+|03| [767. Reorganize String](https://leetcode.com/problems/reorganize-string/)| [Python](leetcode.com/python/767_Reorganize_String.py)| --- | Medium | Also check Greedy approach |
+|04| [621. Task Scheduler](https://leetcode.com/problems/task-scheduler/)| [Python](leetcode.com/python/621_Task_Scheduler.py)| [Ex 1](https://leetcode.com/problems/task-scheduler/discuss/190390/Can-anyone-explain-to-me-what-the-problem-is-asking), [Ex 2](https://leetcode.com/problems/task-scheduler/discuss/130786/Python-solution-with-detailed-explanation), [Vid 1](https://www.youtube.com/watch?v=hVhOeaONg1Y), [Vid 2](https://www.youtube.com/watch?v=zPtI8q9gvX8), [Vid 3](https://www.youtube.com/watch?v=TV9VlHUR-Is), [Vid 4](https://www.youtube.com/watch?v=cr6Ip0J9izc&t=22s) | Medium | 📌 Extremely tricky. |
 
 
 ### [Binary Search](https://leetcode.com/explore/learn/card/binary-search/)
@@ -220,15 +225,6 @@ I have solved quite a number of problems from several topics. See the below tabl
 |16| [315. Count of Smaller Numbers After Self](https://leetcode.com/problems/count-of-smaller-numbers-after-self/)| [Python](leetcode.com/python/315_Count_of_Smaller_Numbers_After_Self.py)| [Article 1](https://leetcode.com/problems/count-of-smaller-numbers-after-self/discuss/76657/3-ways-(Segment-Tree-Binary-Indexed-Tree-Binary-Search-Tree)-clean-python-code), [Article 2](https://medium.com/@timtim305/leetcode-315-count-of-smaller-numbers-after-self-be529cdfe148), [Vid 1](https://www.youtube.com/watch?v=CWDQJGaN1gY), [Vid 2](https://www.youtube.com/watch?v=ZBHKZF5w4YU) | Hard (Very) | 📌 It's a very hard and advanced problem and need to check again. But before that, learn more on [Binary Indexed Tree](https://www.youtube.com/watch?v=CWDQJGaN1gY), [Segment Tree](https://www.youtube.com/watch?v=ZBHKZF5w4YU), Self-Balancing Trees like [AVL-Tree](https://www.educative.io/courses/data-structures-in-python-an-interview-refresher/JYlwQZmN7V9) and [Red-Black Tree](https://www.educative.io/courses/data-structures-in-python-an-interview-refresher/YQy7Zlz1mEO) also on Bit Manipulation |
 
 
-### [Heaps](https://www.youtube.com/watch?v=HqPJF2L5h9U)
-| #  | Title | Solution | Tutorial | Level | Remarks |
-| --- | --- | --- | --- | --- | --- |
-|01| [253_Meeting_Rooms_II](https://leetcode.com/problems/meeting-rooms-ii/)| [Python](leetcode.com/python/253_Meeting_Rooms_II.py)| [Official](https://leetcode.com/problems/meeting-rooms-ii/solution/) | Medium | --- |
-|02| [347. Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/solution/)| [Python](leetcode.com/python/347_Top_K_Frequent_Elements.py)| [Helper 1](https://stackoverflow.com/questions/19979518/what-is-pythons-heapq-module), [Helper 2](https://stackoverflow.com/a/12373856/2089253), [heapq](https://docs.python.org/3.0/library/heapq.html), [Counter](https://docs.python.org/3/library/collections.html#collections.Counter) | Medium | --- |
-|03| [767. Reorganize String](https://leetcode.com/problems/reorganize-string/)| [Python](leetcode.com/python/767_Reorganize_String.py)| --- | Medium | Also check Greedy approach |
-|04| [621. Task Scheduler](https://leetcode.com/problems/task-scheduler/)| [Python](leetcode.com/python/621_Task_Scheduler.py)| [Ex 1](https://leetcode.com/problems/task-scheduler/discuss/190390/Can-anyone-explain-to-me-what-the-problem-is-asking), [Ex 2](https://leetcode.com/problems/task-scheduler/discuss/130786/Python-solution-with-detailed-explanation), [Vid 1](https://www.youtube.com/watch?v=hVhOeaONg1Y), [Vid 2](https://www.youtube.com/watch?v=zPtI8q9gvX8), [Vid 3](https://www.youtube.com/watch?v=TV9VlHUR-Is), [Vid 4](https://www.youtube.com/watch?v=cr6Ip0J9izc&t=22s) | Medium | 📌 Extremely tricky. |
-
-
 ### [Tries](https://leetcode.com/explore/learn/card/trie/)
 | #  | Title | Solution | Tutorial | Level | Remarks |
 | --- | --- | --- | --- | --- | --- |
@@ -237,12 +233,7 @@ I have solved quite a number of problems from several topics. See the below tabl
 |03| [642. Design Search Autocomplete System](https://leetcode.com/problems/design-search-autocomplete-system/)| [Python](leetcode.com/python/642_Design_Search_Autocomplete_System.py)| [Article 01](https://leetcode.com/problems/design-search-autocomplete-system/discuss/105386/Python-Clean-Solution-Using-Trie), [Video 01](https://www.youtube.com/watch?v=us0qySiUsGU)| Hard | --- |
 
 
-### Graphs
-| #  | Title | Solution | Tutorial | Level | Remarks |
-| --- | --- | --- | --- | --- | --- |
-
-
-### [Union Find / Disjoint Sets](https://www.youtube.com/watch?v=wU6udHRIkcc)
+### Graphs (BFS, DFS, Dijkstra, Union Find, Kruskal, Prim's, Minimum Spanning Tree, Topological Ordering...etc)
 | #  | Title | Solution | Tutorial | Level | Remarks |
 | --- | --- | --- | --- | --- | --- |
 |01| [200. Number of Islands](https://leetcode.com/problems/number-of-islands/)| [Python](leetcode.com/python/200_Number_of_Islands.py)|
@@ -328,12 +319,6 @@ I have solved quite a number of problems from several topics. See the below tabl
 |09| [231. Power of Two](https://leetcode.com/problems/power-of-two/)| [Python](leetcode.com/python/231_Power_of_Two.py)| [Official](https://leetcode.com/problems/power-of-two/solution/), [Signed number representations](https://en.wikipedia.org/wiki/Signed_number_representations) | Easy | 📌 Learned few very important binary logic properties |
 |10| [268. Missing Number](https://leetcode.com/problems/missing-number/)| [Python](leetcode.com/python/268_Missing_Number.py)| [Official](https://leetcode.com/problems/missing-number/solution/) | Easy | 📌 Learned few very important binary logic properties |
 |11| [187. Repeated DNA Sequences](https://leetcode.com/problems/repeated-dna-sequences/)| [Python](leetcode.com/python/187_Repeated_DNA_Sequences.py)| [Official](https://leetcode.com/problems/repeated-dna-sequences/solution/) | Medium | ⭐ 😭 Didn't understand, check again  |
-
-
-### Mathematics 
-| #  | Title | Solution | Tutorial | Level | Remarks |
-| --- | --- | --- | --- | --- | --- |
-|01| [1118. Number of Days in a Month](https://leetcode.com/problems/number-of-days-in-a-month/)| [Python](leetcode.com/python/1118_-Number_of_Days_in_a_Month.py)|
 
 
 ---
