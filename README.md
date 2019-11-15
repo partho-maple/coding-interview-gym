@@ -515,6 +515,8 @@ Some helpful links, channels, tutorials, blogs.
 </br>
 Learn the following modules by heart. Just knowing all of the following items will made most of the problem one-liners.
 01. [itertools - Functions creating iterators for efficient looping](https://docs.python.org/3/library/itertools.html) - They will help you, more often than you think
+    -   [Iterators and Iterables - What Are They and How Do They Work?](https://www.youtube.com/watch?v=jTYiNjvnHZY)
+    -   [Itertools Module - Iterator Functions for Efficient Looping](https://www.youtube.com/watch?v=Qu3dThVy6KQ)
 02. [collections - High-performance container datatypes](https://docs.python.org/3/library/collections.html) - Believe me, this is pretty awesome
 03. [heapq - Heap queue algorithm](https://docs.python.org/3/library/heapq.html) - Obviously, we don't have to hand-code heaps anymore
 04. [bisect - Array bisection algorithm](https://docs.python.org/3/library/bisect.html) - Binary Search, simplified
@@ -522,6 +524,9 @@ Learn the following modules by heart. Just knowing all of the following items wi
 06. [Dict](https://docs.python.org/3/library/stdtypes.html#mapping-types-dict) - Now on, hash Tables are fun to work with
 07. [Sorting](https://wiki.python.org/moin/HowTo/Sorting) - Don't participate in competitions without reading this completely.
 08.	Start using lambda extensively
+    -   [Lambda Expressions & Anonymous Functions](https://tinyurl.com/t9aptuz)
+    -   [Map, Filter, and Reduce Functions](https://tinyurl.com/rdn53js)
+    -   [Lambda, filter, reduce and map](https://www.python-course.eu/python3_lambda.php)
 09.	[functools](https://docs.python.org/3/library/functools.html)
 10. Apart from these, all the builtin methods of default containers.
 11. [Understanding slice notation](https://stackoverflow.com/questions/509211/understanding-slice-notation) - you will need/use it more than you can imagine
