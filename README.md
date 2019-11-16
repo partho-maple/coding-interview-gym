@@ -198,6 +198,8 @@ I have solved quite a number of problems from several topics. See the below tabl
 |07| [100. Same Tree](https://leetcode.com/problems/same-tree/)| [Python](leetcode.com/python/100_Same_Tree.py)| |
 |08| [11. Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/)| [Python](leetcode.com/python/111_Minimum_Depth_of_Binary_Tree.py)| | Easy | --- |
 |09| [110. Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/)| [Python](leetcode.com/python/110_Balanced_Binary_Tree.py)| [Video 1](https://www.youtube.com/watch?v=LU4fGD-fgJQ), [Article 1](https://leetcode.com/problems/balanced-binary-tree/discuss/36042/Two-different-definitions-of-balanced-binary-tree-result-in-two-different-judgments), [Article 2](https://leetcode.com/problems/balanced-binary-tree/discuss/35708/VERY-SIMPLE-Python-solutions-(iterative-and-recursive)-both-beat-90) | Easy | --- |
+|10| [105. Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/)| [Python](leetcode.com/python/105_Construct_Binary_Tree_from_Preorder_and_Inorder_Traversal.py)| --- | Medium | DFS |
+|11| [106. Construct Binary Tree from Inorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/)| [Python](leetcode.com/python/106_Construct_Binary_Tree_from_Inorder_and_Postorder_Traversal.py)| [Art 1](https://tinyurl.com/vlntqrp)] | Medium | DFS |
 
 
 ### [Binary Search Tree](https://leetcode.com/explore/learn/card/introduction-to-data-structure-binary-search-tree/)
