@@ -11,4 +11,14 @@ class Solution(object):
         :type nums: List[int]
         :rtype: TreeNode
         """
+        return self.sortedArrayToBSTHelper(nums, 0, len(nums) - 1)
+
+    def sortedArrayToBSTHelper(self, nums, left, right):
+        if left > right:
+            return None
+        rootIdx = (left + right) // 2
+        root = TreeNode(nums[rootIdx])
+        root.left = self.sortedArrayToBSTHelper(nums, left, rootIdx - 1)
+        root.right = self.sortedArrayToBSTHelper(nums, rootIdx + 1, right)
+        return root
 

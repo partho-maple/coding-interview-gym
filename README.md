@@ -190,14 +190,15 @@ I have solved quite a number of problems from several topics. See the below tabl
 ### [Binary Search Tree](https://leetcode.com/explore/learn/card/introduction-to-data-structure-binary-search-tree/)
 | #  | Title | Solution | Tutorial | Level | Remarks |
 | --- | --- | --- | --- | --- | --- |
-|01| [701. Insert into a Binary Search Tree](https://leetcode.com/problems/insert-into-a-binary-search-tree/)| [Python](leetcode.com/python/701_Insert_into_a_Binary_Search_Tree.py)|
-|02| [700. Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/)| [Python](leetcode.com/python/700_Search_in_a_Binary_Search_Tree.py)|
-|03| [270. Closest Binary Search Tree Value](https://leetcode.com/problems/closest-binary-search-tree-value/)| [Python](leetcode.com/python/270_Closest_Binary_Search_Tree_Value.py)|
-|04| [450. Delete Node in a BST](https://leetcode.com/problems/delete-node-in-a-bst/solution/)| [Python](leetcode.com/python/450_Delete_Node_in_a_BST.py)|
-|05| [98. Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/solution/)| [Python](leetcode.com/python/98_Validate_Binary_Search_Tree.py)|
-|06| [94. Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)| [Python](leetcode.com/python/94_Binary_Tree_Inorder_Traversal.py)|
-|07| [144. Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/)| [Python](leetcode.com/python/144_Binary_Tree_Preorder_Traversal.py)|
-|08| [145. Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/)| [Python](leetcode.com/python/145_Binary_Tree_Postorder_Traversal.py)|
+|01| [701. Insert into a Binary Search Tree](https://leetcode.com/problems/insert-into-a-binary-search-tree/)| [Python](leetcode.com/python/701_Insert_into_a_Binary_Search_Tree.py)| --- | Easy | Fundamentals |
+|02| [700. Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/)| [Python](leetcode.com/python/700_Search_in_a_Binary_Search_Tree.py)| --- | Easy | Fundamentals |
+|03| [270. Closest Binary Search Tree Value](https://leetcode.com/problems/closest-binary-search-tree-value/)| [Python](leetcode.com/python/270_Closest_Binary_Search_Tree_Value.py)| --- | Easy | Fundamentals |
+|04| [450. Delete Node in a BST](https://leetcode.com/problems/delete-node-in-a-bst/solution/)| [Python](leetcode.com/python/450_Delete_Node_in_a_BST.py)| --- | Easy | Fundamentals |
+|05| [98. Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/solution/)| [Python](leetcode.com/python/98_Validate_Binary_Search_Tree.py)| --- | Easy | Fundamentals |
+|06| [94. Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)| [Python](leetcode.com/python/94_Binary_Tree_Inorder_Traversal.py)| --- | Easy | Fundamentals |
+|07| [144. Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/)| [Python](leetcode.com/python/144_Binary_Tree_Preorder_Traversal.py)| --- | Easy | Fundamentals |
+|08| [145. Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/)| [Python](leetcode.com/python/145_Binary_Tree_Postorder_Traversal.py)| --- | Easy | Fundamentals |
+|09| [108. Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/)| [Python](leetcode.com/python/108_Convert_Sorted_Array_to_Binary_Search_Tree.py)| --- | Easy | Fundamentals |
 
 
 ### [N-Ary Tree](https://leetcode.com/explore/learn/card/n-ary-tree/)
@@ -206,9 +207,9 @@ I have solved quite a number of problems from several topics. See the below tabl
 |01| [589. N-ary Tree Preorder Traversal](https://leetcode.com/problems/n-ary-tree-preorder-traversal/)| [Python](leetcode.com/python/589_N-ary_Tree_Preorder_Traversal.py)|
 |02| [590. N-ary Tree Postorder Traversal](https://leetcode.com/problems/n-ary-tree-postorder-traversal/)| [Python](leetcode.com/python/590_N-ary_Tree_Postorder_Traversal.py)|
 |03| [429. N-ary Tree Level Order Traversal](https://leetcode.com/problems/n-ary-tree-level-order-traversal/)| [Python](leetcode.com/python/429_N-ary_Tree_Level_Order_Traversal.py)|
-|06| [559. Maximum Depth of N-ary Tree](https://leetcode.com/problems/maximum-depth-of-n-ary-tree/)| [Python](leetcode.com/python/559_Maximum_Depth_of_N-ary_Tree.py)|
-|07| [431. Encode N-ary Tree to Binary Tree](https://leetcode.com/problems/encode-n-ary-tree-to-binary-tree/submissions/)| [Python](leetcode.com/python/431_Encode_N-ary_Tree_to_Binary_Tree.py)| [Explanation](https://leetcode.com/explore/learn/card/n-ary-tree/131/recursion/922/) |
-|08| [428. Serialize and Deserialize N-ary Tree](https://leetcode.com/problems/serialize-and-deserialize-n-ary-tree/)| [Python](leetcode.com/python/428_Serialize_and_Deserialize_N-ary_Tree.py)|
+|04| [559. Maximum Depth of N-ary Tree](https://leetcode.com/problems/maximum-depth-of-n-ary-tree/)| [Python](leetcode.com/python/559_Maximum_Depth_of_N-ary_Tree.py)|
+|05| [431. Encode N-ary Tree to Binary Tree](https://leetcode.com/problems/encode-n-ary-tree-to-binary-tree/submissions/)| [Python](leetcode.com/python/431_Encode_N-ary_Tree_to_Binary_Tree.py)| [Explanation](https://leetcode.com/explore/learn/card/n-ary-tree/131/recursion/922/) |
+|06| [428. Serialize and Deserialize N-ary Tree](https://leetcode.com/problems/serialize-and-deserialize-n-ary-tree/)| [Python](leetcode.com/python/428_Serialize_and_Deserialize_N-ary_Tree.py)|
 
 
 ### [Tree](https://leetcode.com/explore/learn/card/data-structure-tree/)
