@@ -187,6 +187,20 @@ I have solved quite a number of problems from several topics. See the below tabl
 |10| [1231. Divide Chocolate](https://leetcode.com/problems/divide-chocolate/)| [Python](leetcode.com/python/1231_Divide_Chocolate.py)| [Art 1](https://tinyurl.com/sl7w7cb), [Art 2](https://tinyurl.com/vabdbzo), [Art 3](https://tinyurl.com/v4cablt), [Vid 1](https://www.youtube.com/watch?v=vq2OXjXQPYw&feature=emb_title) | Hard | 📌 **Not done. Check again. Solve all similar question** |
 
 
+### [Binary Tree](https://leetcode.com/explore/learn/card/data-structure-tree/)
+| #  | Title | Solution | Tutorial | Level | Remarks |
+| --- | --- | --- | --- | --- | --- |
+|01| [226. Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/solution/)| [Python](leetcode.com/python/226_Invert_Binary_Tree.py)|
+|02| [101. Symmetric Tree](https://leetcode.com/problems/symmetric-tree/)| [Python](leetcode.com/python/101_Symmetric_Tree.py)|
+|03| [102. Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/solution/)| [Python](leetcode.com/python/102_Binary_Tree_Level_Order_Traversal.py)|
+|04| [107. Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/)| [Python](leetcode.com/python/107_Binary_Tree_Level_Order_Traversal_II.py)|
+|05| [103. Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/)| [Python](leetcode.com/python/103_Binary_Tree_Zigzag_Level_Order_Traversal.py)|
+|06| [104. Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)| [Python](leetcode.com/python/104_Maximum_Depth_of_Binary_Tree.py)| [Explanation](https://leetcode.com/explore/learn/card/data-structure-tree/17/solve-problems-recursively/534/) |
+|07| [100. Same Tree](https://leetcode.com/problems/same-tree/)| [Python](leetcode.com/python/100_Same_Tree.py)| |
+|08| [11. Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/)| [Python](leetcode.com/python/111_Minimum_Depth_of_Binary_Tree.py)| | Easy | --- |
+|09| [110. Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/)| [Python](leetcode.com/python/110_Balanced_Binary_Tree.py)| [Video 1](https://www.youtube.com/watch?v=LU4fGD-fgJQ), [Article 1](https://leetcode.com/problems/balanced-binary-tree/discuss/36042/Two-different-definitions-of-balanced-binary-tree-result-in-two-different-judgments), [Article 2](https://leetcode.com/problems/balanced-binary-tree/discuss/35708/VERY-SIMPLE-Python-solutions-(iterative-and-recursive)-both-beat-90) | Easy | --- |
+
+
 ### [Binary Search Tree](https://leetcode.com/explore/learn/card/introduction-to-data-structure-binary-search-tree/)
 | #  | Title | Solution | Tutorial | Level | Remarks |
 | --- | --- | --- | --- | --- | --- |
@@ -199,6 +213,7 @@ I have solved quite a number of problems from several topics. See the below tabl
 |07| [144. Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/)| [Python](leetcode.com/python/144_Binary_Tree_Preorder_Traversal.py)| --- | Medium | Fundamentals |
 |08| [145. Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/)| [Python](leetcode.com/python/145_Binary_Tree_Postorder_Traversal.py)| --- | Hard | Fundamentals |
 |09| [108. Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/)| [Python](leetcode.com/python/108_Convert_Sorted_Array_to_Binary_Search_Tree.py)| --- | Easy | Fundamentals |
+|10| [109. Convert Sorted List to Binary Search Tree](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/)| [Python](leetcode.com/python/109_Convert_Sorted_List_to_Binary_Search_Tree.py)| --- | Medium | Classic problem. Very important |
 
 
 ### [N-Ary Tree](https://leetcode.com/explore/learn/card/n-ary-tree/)
@@ -212,20 +227,10 @@ I have solved quite a number of problems from several topics. See the below tabl
 |06| [428. Serialize and Deserialize N-ary Tree](https://leetcode.com/problems/serialize-and-deserialize-n-ary-tree/)| [Python](leetcode.com/python/428_Serialize_and_Deserialize_N-ary_Tree.py)|
 
 
-### [Tree](https://leetcode.com/explore/learn/card/data-structure-tree/)
+### Tree
 | #  | Title | Solution | Tutorial | Level | Remarks |
 | --- | --- | --- | --- | --- | --- |
-|01| [226. Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/solution/)| [Python](leetcode.com/python/226_Invert_Binary_Tree.py)|
-|02| [101. Symmetric Tree](https://leetcode.com/problems/symmetric-tree/)| [Python](leetcode.com/python/101_Symmetric_Tree.py)|
-|03| [102. Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/solution/)| [Python](leetcode.com/python/102_Binary_Tree_Level_Order_Traversal.py)|
-|04| [107. Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/)| [Python](leetcode.com/python/107_Binary_Tree_Level_Order_Traversal_II.py)|
-|05| [103. Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/)| [Python](leetcode.com/python/103_Binary_Tree_Zigzag_Level_Order_Traversal.py)|
-|06| [695. Max Area of Island](https://leetcode.com/problems/max-area-of-island/)| [Python](leetcode.com/python/695_Max_Area_of_Island.py)|
-|07| [104. Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)| [Python](leetcode.com/python/104_Maximum_Depth_of_Binary_Tree.py)| [Explanation](https://leetcode.com/explore/learn/card/data-structure-tree/17/solve-problems-recursively/534/) |
-|08| [100. Same Tree](https://leetcode.com/problems/same-tree/)| [Python](leetcode.com/python/100_Same_Tree.py)| |
-|09| [11. Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/)| [Python](leetcode.com/python/111_Minimum_Depth_of_Binary_Tree.py)| | Easy | --- |
-|10| [110. Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/)| [Python](leetcode.com/python/110_Balanced_Binary_Tree.py)| [Video 1](https://www.youtube.com/watch?v=LU4fGD-fgJQ), [Article 1](https://leetcode.com/problems/balanced-binary-tree/discuss/36042/Two-different-definitions-of-balanced-binary-tree-result-in-two-different-judgments), [Article 2](https://leetcode.com/problems/balanced-binary-tree/discuss/35708/VERY-SIMPLE-Python-solutions-(iterative-and-recursive)-both-beat-90) | Easy | --- |
-|11| [315. Count of Smaller Numbers After Self](https://leetcode.com/problems/count-of-smaller-numbers-after-self/)| [Python](leetcode.com/python/315_Count_of_Smaller_Numbers_After_Self.py)| [Article 1](https://leetcode.com/problems/count-of-smaller-numbers-after-self/discuss/76657/3-ways-(Segment-Tree-Binary-Indexed-Tree-Binary-Search-Tree)-clean-python-code), [Article 2](https://medium.com/@timtim305/leetcode-315-count-of-smaller-numbers-after-self-be529cdfe148), [Vid 1](https://www.youtube.com/watch?v=CWDQJGaN1gY), [Vid 2](https://www.youtube.com/watch?v=ZBHKZF5w4YU) | Hard (Very) |📌Very hard. First learn [BIT](https://www.youtube.com/watch?v=CWDQJGaN1gY), [ST](https://www.youtube.com/watch?v=ZBHKZF5w4YU), [AVL-Tree](https://www.educative.io/courses/data-structures-in-python-an-interview-refresher/JYlwQZmN7V9) and [Red-Black Tree](https://www.educative.io/courses/data-structures-in-python-an-interview-refresher/YQy7Zlz1mEO) then try again|
+|01| [315. Count of Smaller Numbers After Self](https://leetcode.com/problems/count-of-smaller-numbers-after-self/)| [Python](leetcode.com/python/315_Count_of_Smaller_Numbers_After_Self.py)| [Article 1](https://leetcode.com/problems/count-of-smaller-numbers-after-self/discuss/76657/3-ways-(Segment-Tree-Binary-Indexed-Tree-Binary-Search-Tree)-clean-python-code), [Article 2](https://medium.com/@timtim305/leetcode-315-count-of-smaller-numbers-after-self-be529cdfe148), [Vid 1](https://www.youtube.com/watch?v=CWDQJGaN1gY), [Vid 2](https://www.youtube.com/watch?v=ZBHKZF5w4YU) | Hard (Very) |📌Very hard. First learn [BIT](https://www.youtube.com/watch?v=CWDQJGaN1gY), [ST](https://www.youtube.com/watch?v=ZBHKZF5w4YU), [AVL-Tree](https://www.educative.io/courses/data-structures-in-python-an-interview-refresher/JYlwQZmN7V9) and [Red-Black Tree](https://www.educative.io/courses/data-structures-in-python-an-interview-refresher/YQy7Zlz1mEO) then try again|
 
 
 ### [Tries](https://leetcode.com/explore/learn/card/trie/)
@@ -242,6 +247,7 @@ I have solved quite a number of problems from several topics. See the below tabl
 | #  | Title | Solution | Tutorial | Level | Remarks |
 | --- | --- | --- | --- | --- | --- |
 |01| [200. Number of Islands](https://leetcode.com/problems/number-of-islands/)| [Python](leetcode.com/python/200_Number_of_Islands.py)| --- | Medium | DFS, Union Find |
+|02| [695. Max Area of Island](https://leetcode.com/problems/max-area-of-island/)| [Python](leetcode.com/python/695_Max_Area_of_Island.py)| --- | Medium | DFS |
 
 
 ### [Recursion, Iteration](https://leetcode.com/explore/learn/card/recursion-i/)
@@ -549,6 +555,8 @@ Learn the following modules by heart. Just knowing all of the following items wi
 07. [What is the difference between a binary indexed tree and a segment tree?](https://codeforces.com/blog/entry/6847)
 08. [How does one decide when to use a Segment Tree or Fenwick Tree?](https://www.quora.com/How-does-one-decide-when-to-use-a-Segment-Tree-or-Fenwick-Tree)
 09. [What are the differences between segment trees, interval trees, binary indexed trees and range trees?](https://stackoverflow.com/questions/17466218/what-are-the-differences-between-segment-trees-interval-trees-binary-indexed-t)
+10. [Height, Depth and Level of a Tree](https://tinyurl.com/zvm773n)
+11. [What is the difference between tree depth and height?](https://tinyurl.com/vfnvg8q)
 
 <b>Graph(Dijkstra, Union Find, Kruskal, Prim's, Minimum Spanning Tree, Topological Ordering...etc)</b>
 01. [Graph Theory Playlist](https://tinyurl.com/rfgy88b)
