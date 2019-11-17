@@ -160,6 +160,7 @@ I have solved quite a number of problems from several topics. See the below tabl
 |01| [20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)| [Python](leetcode.com/python/20_Valid_Parentheses.py)|
 |02| [155. Min Stack](https://leetcode.com/problems/min-stack/)| [Python](leetcode.com/python/155_Min_Stack.py)|
 |03| [84. Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/)| [Python](leetcode.com/python/84_Largest_Rectangle_in_Histogram.py)| [Video 01](https://www.youtube.com/watch?v=VNbkzsnllsU), [Video 02](https://www.youtube.com/watch?v=RVIh0snn4Qc), [Article 01](https://leetcode.com/problems/largest-rectangle-in-histogram/solution/), [Article 02](https://leetcode.com/problems/largest-rectangle-in-histogram/discuss/28917/AC-Python-clean-solution-using-stack-76ms) | Hard | 📌 Need to revise |
+|04| [394. Decode String](https://leetcode.com/problems/decode-string/)| [Python](leetcode.com/python/394_Decode_String.py)| --- | Medium | 📌 Classic stack problem |
 
 
 ### [Heaps](https://www.youtube.com/watch?v=HqPJF2L5h9U)
@@ -539,6 +540,7 @@ Learn the following modules by heart. Just knowing all of the following items wi
     -   [Lambda, filter, reduce and map](https://www.python-course.eu/python3_lambda.php)
 09.	[functools](https://docs.python.org/3/library/functools.html)
 10. Apart from these, all the builtin methods of default containers.
+    -   [Strings and Character Data in Python](https://realpython.com/python-strings/)
 11. [Understanding slice notation](https://stackoverflow.com/questions/509211/understanding-slice-notation) - you will need/use it more than you can imagine
 
 
