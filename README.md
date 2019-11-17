@@ -201,6 +201,7 @@ I have solved quite a number of problems from several topics. See the below tabl
 |10| [105. Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/)| [Python](leetcode.com/python/105_Construct_Binary_Tree_from_Preorder_and_Inorder_Traversal.py)| --- | Medium | DFS, Very Important |
 |11| [106. Construct Binary Tree from Inorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/)| [Python](leetcode.com/python/106_Construct_Binary_Tree_from_Inorder_and_Postorder_Traversal.py)| [Art 1](https://tinyurl.com/vlntqrp) | Medium | DFS, Very Important |
 |12| [257. Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/)| [Python](leetcode.com/python/257_Binary_Tree_Paths.py)| --- | Easy | DFS |
+|13| **[124. Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/)**| [Python](leetcode.com/python/124_Binary_Tree_Maximum_Path_Sum.py)| [Art 1](https://tinyurl.com/uocr9np), [Art 2](https://tinyurl.com/s23sqhe), [Vid 1](https://tinyurl.com/wwe95qx), [AlgoExpert](https://tinyurl.com/vofbonm) | Very Hard | **Very important and tricky** |
 
 
 ### [Binary Search Tree](https://leetcode.com/explore/learn/card/introduction-to-data-structure-binary-search-tree/)
