@@ -235,7 +235,7 @@ I have solved quite a number of problems from several topics. See the below tabl
 ### Tree
 | #  | Title | Solution | Tutorial | Level | Remarks |
 | --- | --- | --- | --- | --- | --- |
-|01| [315. Count of Smaller Numbers After Self](https://leetcode.com/problems/count-of-smaller-numbers-after-self/)| [Python](leetcode.com/python/315_Count_of_Smaller_Numbers_After_Self.py)| [Article 1](https://leetcode.com/problems/count-of-smaller-numbers-after-self/discuss/76657/3-ways-(Segment-Tree-Binary-Indexed-Tree-Binary-Search-Tree)-clean-python-code), [Article 2](https://medium.com/@timtim305/leetcode-315-count-of-smaller-numbers-after-self-be529cdfe148), [Vid 1](https://www.youtube.com/watch?v=CWDQJGaN1gY), [Vid 2](https://www.youtube.com/watch?v=ZBHKZF5w4YU) | Hard (Very) |📌Very hard. First learn [BIT](https://www.youtube.com/watch?v=CWDQJGaN1gY), [ST](https://www.youtube.com/watch?v=ZBHKZF5w4YU), [AVL-Tree](https://www.educative.io/courses/data-structures-in-python-an-interview-refresher/JYlwQZmN7V9) and [Red-Black Tree](https://www.educative.io/courses/data-structures-in-python-an-interview-refresher/YQy7Zlz1mEO) then try again|
+|01| **[315. Count of Smaller Numbers After Self](https://leetcode.com/problems/count-of-smaller-numbers-after-self/)**| [Python](leetcode.com/python/315_Count_of_Smaller_Numbers_After_Self.py)| [Article 1](https://leetcode.com/problems/count-of-smaller-numbers-after-self/discuss/76657/3-ways-(Segment-Tree-Binary-Indexed-Tree-Binary-Search-Tree)-clean-python-code), [Article 2](https://medium.com/@timtim305/leetcode-315-count-of-smaller-numbers-after-self-be529cdfe148), [Vid 1](https://www.youtube.com/watch?v=CWDQJGaN1gY), [Vid 2](https://www.youtube.com/watch?v=ZBHKZF5w4YU) | Hard (Very) |📌 **Very hard and important. First learn [BIT](https://www.youtube.com/watch?v=CWDQJGaN1gY), [ST](https://www.youtube.com/watch?v=ZBHKZF5w4YU), [AVL-Tree](https://www.educative.io/courses/data-structures-in-python-an-interview-refresher/JYlwQZmN7V9) and [Red-Black Tree](https://www.educative.io/courses/data-structures-in-python-an-interview-refresher/YQy7Zlz1mEO) then try again**|
 
 
 ### [Tries](https://leetcode.com/explore/learn/card/trie/)
@@ -280,6 +280,7 @@ I have solved quite a number of problems from several topics. See the below tabl
 |12| [1066. Campus Bikes II](https://leetcode.com/problems/campus-bikes-ii/)| [Python](leetcode.com/python/1066_Campus_Bikes_II.py)| [Algo Notes](https://algorithm-notes-allinone.blogspot.com/2019/09/leetcode-1066-campus-bikes-ii.html) | Medium |📌 TODO: Backtracking solution is getting TLE. Solve it and implement it with DP also |
 |13| [1087. Brace Expansion](https://leetcode.com/problems/brace-expansion/)| [Python](leetcode.com/python/1087_Brace_Expansion.py)| --- | Medium |📌 --- |
 |14| [1219. Path with Maximum Gold](https://leetcode.com/problems/path-with-maximum-gold/)| [Python](leetcode.com/python/1219_Path_with_Maximum_Gold.py)| --- | Medium |📌 --- |
+|15| [**679. 24 Game**](https://leetcode.com/problems/24-game/)| [Python](leetcode.com/python/679_24_Game.py)| [Art 1](https://tinyurl.com/v73ldlm), [Art 2](https://tinyurl.com/udpg8tt), [Art 3](https://tinyurl.com/so9psfl), [Official](https://tinyurl.com/rwosllt) | Very Hard |📌 Very tricky and important. Revise again. |
 
 
 ### [Greedy](https://www.youtube.com/watch?v=ARvQcqJ_-NY)
