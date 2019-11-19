@@ -1,7 +1,7 @@
 <h1 align="center">
   <br>
-  <a href="https://github.com/partho-maple/Algorithms/archive/master.zip"><img src="leetcode.png"></a>
-  <a href="https://github.com/partho-maple/Algorithms/archive/master.zip"><img src="algoexpert.png"></a>
+  <a href="https://github.com/partho-maple/coding-interview-gym/archive/master.zip"><img src="leetcode.png"></a>
+  <a href="https://github.com/partho-maple/coding-interview-gym/archive/master.zip"><img src="algoexpert.png"></a>
 </h1>
 
 [![GitHub last commit][last-commit-shield]][last-commit-url]
@@ -323,7 +323,7 @@ I have solved quite a number of problems from several topics. See the below tabl
 |20| [714. Best Time to Buy and Sell Stock with Transaction Fee](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/)| [Python](leetcode.com/python/714_Best_Time_to_Buy_and_Sell_Stock_with_Transaction_Fee.py)| **[Must Read](https://tinyurl.com/y7eaa7vk)** , [Art 2](https://tinyurl.com/wzawybe) | Medium | More like Greedy, but DP |
 |21| **[198. House Robber](https://leetcode.com/problems/house-robber/)**| [Python](leetcode.com/python/198_House_Robber.py)| **[Must](https://tinyurl.com/vp9v27d)** | Easy | A Gold Mine |
 |22| [213. House Robber II](https://leetcode.com/problems/house-robber-ii/)| [Python](leetcode.com/python/213_House_Robber_II.py)| [Art 1](https://tinyurl.com/wwza8d5), [Art 2](https://tinyurl.com/qtqwcl4) | Medium | --- |
-|23| [337. House Robber III](https://leetcode.com/problems/house-robber-iii/)| [Python](leetcode.com/python/337_House_Robber_III.py)| **[Art 1](https://tinyurl.com/yd8zjvvj)** | Medium | --- |
+|23| [337. House Robber III](https://leetcode.com/problems/house-robber-iii/)| [Python](leetcode.com/python/337_House_Robber_III.py)| **[Art 1](https://tinyurl.com/yd8zjvvj)** | Medium | **[Another gold mine](https://tinyurl.com/yd8zjvvj)**, hidden greedy and DFS |
 
 
 ### Bit Manipulation
@@ -646,21 +646,21 @@ Learn the following modules by heart. Just knowing all of the following items wi
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[last-commit-shield]: https://img.shields.io/github/last-commit/partho-maple/Algorithms?style=flat
-[last-commit-url]: https://github.com/partho-maple/Algorithms/commits/master
-[repo-size-shield]: https://img.shields.io/github/repo-size/partho-maple/Algorithms?style=flat
-[repo-size-url]: https://github.com/partho-maple/Algorithms
+[last-commit-shield]: https://img.shields.io/github/last-commit/partho-maple/coding-interview-gym?style=flat
+[last-commit-url]: https://github.com/partho-maple/coding-interview-gym/commits/master
+[repo-size-shield]: https://img.shields.io/github/repo-size/partho-maple/coding-interview-gym?style=flat
+[repo-size-url]: https://github.com/partho-maple/coding-interview-gym
 
-[contributors-shield]: https://img.shields.io/github/contributors/partho-maple/Algorithms.svg?style=flat
-[contributors-url]: https://github.com/partho-maple/Algorithms/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/partho-maple/Algorithms.svg?style=flat
-[forks-url]: https://github.com/partho-maple/Algorithms/network/members
-[stars-shield]: https://img.shields.io/github/stars/partho-maple/Algorithms.svg?style=flat
-[stars-url]: https://github.com/partho-maple/Algorithms/stargazers
-[issues-shield]: https://img.shields.io/github/issues/partho-maple/Algorithms.svg?style=flat
-[issues-url]: https://github.com/partho-maple/Algorithms/issues
-[license-shield]: https://img.shields.io/github/license/partho-maple/Algorithms.svg?style=flat
-[license-url]: https://github.com/partho-maple/Algorithms/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/partho-maple/coding-interview-gym.svg?style=flat
+[contributors-url]: https://github.com/partho-maple/coding-interview-gym/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/partho-maple/coding-interview-gym.svg?style=flat
+[forks-url]: https://github.com/partho-maple/coding-interview-gym/network/members
+[stars-shield]: https://img.shields.io/github/stars/partho-maple/coding-interview-gym.svg?style=flat
+[stars-url]: https://github.com/partho-maple/coding-interview-gym/stargazers
+[issues-shield]: https://img.shields.io/github/issues/partho-maple/coding-interview-gym.svg?style=flat
+[issues-url]: https://github.com/partho-maple/coding-interview-gym/issues
+[license-shield]: https://img.shields.io/github/license/partho-maple/coding-interview-gym.svg?style=flat
+[license-url]: https://github.com/partho-maple/coding-interview-gym/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg??style=flat&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/partho-maple/
 [product-screenshot]: images/screenshot.png
