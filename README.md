@@ -188,6 +188,8 @@ I have solved quite a number of problems from several topics. See the below tabl
 |11| [69. Sqrt(x)](https://leetcode.com/problems/sqrtx/)| [Python](leetcode.com/python/69_Sqrt(x).py)| --- | Easy | 📌 [Binary Search Template I](https://leetcode.com/explore/learn/card/binary-search/125/template-i/938/) |
 |12| [374. Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/)| [Python](leetcode.com/python/374_Guess_Number_Higher_or_Lower.py)| --- | Easy | 📌 [Binary Search Template I](https://leetcode.com/explore/learn/card/binary-search/125/template-i/938/) |
 |13| [33. Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)| [Python](leetcode.com/python/33_Search_in_Rotated_Sorted_Array.py)| --- | Medium | 📌 **[Binary Search Template I](https://leetcode.com/explore/learn/card/binary-search/125/template-i/938/), very important**|
+|14| [81. Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/)| [Python](leetcode.com/python/81_Search_in_Rotated_Sorted_Array_II.py)| --- | Medium | 📌 **[Binary Search Template I](https://leetcode.com/explore/learn/card/binary-search/125/template-i/938/), very important**|
+|15| [153. Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)| [Python](leetcode.com/python/153_Find_Minimum_in_Rotated_Sorted_Array.py)| --- | Medium | 📌 **[Binary Search Template I](https://leetcode.com/explore/learn/card/binary-search/125/template-i/938/)**|
 
 
 ### [Binary Tree](https://leetcode.com/explore/learn/card/data-structure-tree/)
