@@ -193,6 +193,7 @@ I have solved quite a number of problems from several topics. See the below tabl
 |16| [162. Find Peak Element](https://leetcode.com/problems/find-peak-element/)| [Python](leetcode.com/python/162_Find_Peak_Element.py)| --- | Medium | 📌 **[Binary Search Template II](https://tinyurl.com/t6v6et3)**|
 |17| [153. Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)| [Python](leetcode.com/python/153_Find_Minimum_in_Rotated_Sorted_Array.py)| --- | Medium | 📌 **[Binary Search Template II](https://tinyurl.com/t6v6et3)**|
 |18| [154. Find Minimum in Rotated Sorted Array II](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/)| [Python](leetcode.com/python/154_Find_Minimum_in_Rotated_Sorted_Array_II.py)| --- | Hard | 📌 **[Binary Search Template II](https://tinyurl.com/t6v6et3), not done**|
+|19| [34. Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)| [Python](leetcode.com/python/34_Find_First_and_Last_Position_of_Element_in_Sorted_Array.py)| [Vid 1](https://tinyurl.com/wa2zqff) | Medium | 📌 **[Binary Search Template II](https://tinyurl.com/t6v6et3)**|
 
 
 ### [Binary Tree](https://leetcode.com/explore/learn/card/data-structure-tree/)
