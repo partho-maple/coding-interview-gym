@@ -192,6 +192,7 @@ I have solved quite a number of problems from several topics. See the below tabl
 |15| [153. Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)| [Python](leetcode.com/python/153_Find_Minimum_in_Rotated_Sorted_Array.py)| --- | Medium | 📌 **[Binary Search Template I](https://leetcode.com/explore/learn/card/binary-search/125/template-i/938/)**|
 |16| [154. Find Minimum in Rotated Sorted Array II](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/)| [Python](leetcode.com/python/154_Find_Minimum_in_Rotated_Sorted_Array_II.py)| --- | Hard | 📌 **[Binary Search Template I](https://leetcode.com/explore/learn/card/binary-search/125/template-i/938/)**|
 |17| [278. First Bad Version](https://leetcode.com/problems/first-bad-version/)| [Python](leetcode.com/python/278_First_Bad_Version.py)| --- | Easy | 📌 **[Binary Search Template II](https://tinyurl.com/t6v6et3)**|
+|18| [162. Find Peak Element](https://leetcode.com/problems/find-peak-element/)| [Python](leetcode.com/python/162_Find_Peak_Element.py)| --- | Medium | 📌 **[Binary Search Template II](https://tinyurl.com/t6v6et3)**|
 
 
 ### [Binary Tree](https://leetcode.com/explore/learn/card/data-structure-tree/)
