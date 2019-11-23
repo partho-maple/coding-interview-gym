@@ -87,7 +87,8 @@ I have solved quite a number of problems from several topics. See the below tabl
 
 ## Tips
 - Whenever you solve a new question with some new techniques/algorithms, try to solve atleast 2 similar problem in a row. This way, your understanding to the new techniques/algorithms will be better.
-- ... 
+- Solve all [leetcode cards](https://leetcode.com/explore/learn/)
+- ...
 
 
 ---
