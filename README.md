@@ -100,7 +100,7 @@ I have solved quite a number of problems from several topics. See the below tabl
 [![leetcode badge](https://leetcode-badge.chyroc.cn/?name=ParthoBiswas007&leetcode_badge_style=leetcode%20|%20solved/total-{{.solved_question}}/{{.all_question}}-{{if%20le%20.solved_question_rate_float%200.3}}red.svg{{else%20if%20le%20.solved_question_rate_float%200.5}}yellow.svg{{else}}green.svg{{end}}&refresh=true)](https://leetcode.com/ParthoBiswas007/)
 
 
-### [Arrays](https://leetcode.com/explore/learn/card/array-and-string/) , [HashMap](https://leetcode.com/explore/learn/card/hash-table/)
+### [Arrays](https://leetcode.com/explore/learn/card/array-and-string/) , [HashMap](https://leetcode.com/explore/learn/card/hash-table/), Set
 | #  | Title | Solution | Tutorial | Level | Remarks |
 | --- | --- | --- | --- | --- | --- |
 |01| [1. Two Sum](https://leetcode.com/problems/two-sum/)| [Python](leetcode.com/python/1_Two_Sum.py), [Swift](leetcode.com/swift/1_Two_Sum.swift) | --- | --- | ✅ 📌 ⭐ 😭 🧐 😎 |
@@ -127,6 +127,8 @@ I have solved quite a number of problems from several topics. See the below tabl
 |22| [792. Number of Matching Subsequences](https://leetcode.com/problems/number-of-matching-subsequences/)| [Python](leetcode.com/python/792_Number_of_Matching_Subsequences.py)| **[Official](https://leetcode.com/problems/number-of-matching-subsequences/discuss/117634/Efficient-and-simple-go-through-words-in-parallel-with-explanation/)** | Medium | **Very tricky. Check again** |
 |23| [912. Sort an Array (Merge Sort)](https://leetcode.com/problems/sort-an-array/)| [Python](leetcode.com/python/912_Sort_an_Array_(Merge__Sort).py)|--- | Medium | --- |
 |24| [1118. Number of Days in a Month](https://leetcode.com/problems/number-of-days-in-a-month/)| [Python](leetcode.com/python/1118_-Number_of_Days_in_a_Month.py)|--- | Easy | --- |
+|25| [349. Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/)| [Python](leetcode.com/python/349_Intersection_of_Two_Arrays.py)| [Art 1](https://tinyurl.com/rh3s2gp), [Art 2](https://tinyurl.com/ts27qxq) | Easy | **Very tricky and versatile** |
+|26| [350. Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/)| [Python](leetcode.com/python/350_Intersection_of_Two_Arrays_II.py)| [](), [](), []() | Easy | **Very tricky and versatile** |
 
 
 ### [String](https://leetcode.com/explore/learn/card/array-and-string/)
