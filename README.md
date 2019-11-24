@@ -121,7 +121,7 @@ I have solved quite a number of problems from several topics. See the below tabl
 |16| [724. Find Pivot Index](https://leetcode.com/problems/find-pivot-index/)| [Python](leetcode.com/python/724_Find_Pivot_Index.py)| |
 |17| [747. Largest Number At Least Twice of Others](https://leetcode.com/problems/largest-number-at-least-twice-of-others/)| [Python](leetcode.com/python/747_Largest_Number_At_Least_Twice_of_Others.py)| |
 |18| [581. Shortest Unsorted Continuous Subarray](https://leetcode.com/problems/shortest-unsorted-continuous-subarray/solution/)| [Python](leetcode.com/python/581_Shortest_Unsorted_Continuous_Subarray.py)| |
-|19| [904. Fruit Into Baskets](https://leetcode.com/problems/fruit-into-baskets/solution/)| [Python](leetcode.com/python/904_Fruit_Into_Baskets.py)| [Article](https://www.educative.io/courses/grokking-the-coding-interview/Bn2KLlOR0lQ), [Video 1](https://www.youtube.com/watch?v=s_zu2dOkq80), [Video 2](https://www.youtube.com/watch?v=za2YuucS0tw)|
+|19| [904. Fruit Into Baskets](https://leetcode.com/problems/fruit-into-baskets/solution/)| [Python](leetcode.com/python/904_Fruit_Into_Baskets.py)| [Article](https://www.educative.io/courses/grokking-the-coding-interview/Bn2KLlOR0lQ), [Video 1](https://www.youtube.com/watch?v=s_zu2dOkq80), [Video 2](https://www.youtube.com/watch?v=za2YuucS0tw)| Medium | [Sliding Window, Two Pointer](https://github.com/partho-maple/coding-interview-patterns) |
 |20| [56. Merge Intervals](https://leetcode.com/problems/merge-intervals/)| [Python](leetcode.com/python/56_Merge_Intervals.py)| [Article](https://leetcode.com/problems/merge-intervals/discuss/21227/7-lines-easy-Python)|
 |21| [334. Increasing Triplet Subsequence](https://leetcode.com/problems/increasing-triplet-subsequence/)| [Python](leetcode.com/python/334_Increasing_Triplet_Subsequence.py)| --- | Medium | --- |
 |22| [792. Number of Matching Subsequences](https://leetcode.com/problems/number-of-matching-subsequences/)| [Python](leetcode.com/python/792_Number_of_Matching_Subsequences.py)| **[Official](https://leetcode.com/problems/number-of-matching-subsequences/discuss/117634/Efficient-and-simple-go-through-words-in-parallel-with-explanation/)** | Medium | **Very tricky. Check again** |
@@ -145,6 +145,7 @@ I have solved quite a number of problems from several topics. See the below tabl
 |08| [1119. Remove Vowels from a String](https://leetcode.com/problems/remove-vowels-from-a-string/)| [Python](leetcode.com/python/1119_Remove_Vowels_from_a_String.py)|
 |09| [344. Reverse String](https://leetcode.com/problems/reverse-string/)| [Python](leetcode.com/python/344_Reverse_String.py)|
 |10| [482. License Key Formatting](https://leetcode.com/problems/license-key-formatting/)| [Python](leetcode.com/python/482_License_Key_Formatting.py)| |
+|11| [3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)| [Python](leetcode.com/python/3_Longest_Substring_Without_Repeating_Characters.py)| [Vid 1](https://tinyurl.com/tbwjwcf), [Vid 2](https://www.youtube.com/watch?v=3IETreEybaA) | Medium | 📌 Sliding window, Two pointer |
 
 
 ### [Linked List](https://leetcode.com/explore/learn/card/linked-list/)
