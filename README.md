@@ -146,6 +146,8 @@ I have solved quite a number of problems from several topics. See the below tabl
 |09| [344. Reverse String](https://leetcode.com/problems/reverse-string/)| [Python](leetcode.com/python/344_Reverse_String.py)|
 |10| [482. License Key Formatting](https://leetcode.com/problems/license-key-formatting/)| [Python](leetcode.com/python/482_License_Key_Formatting.py)| |
 |11| [3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)| [Python](leetcode.com/python/3_Longest_Substring_Without_Repeating_Characters.py)| [Vid 1](https://tinyurl.com/tbwjwcf), [Vid 2](https://www.youtube.com/watch?v=3IETreEybaA) | Medium | 📌 Sliding window, Two pointer |
+|12| [340. Longest Substring with At Most K Distinct Characters](https://leetcode.com/problems/longest-substring-with-at-most-k-distinct-characters/)| [Python](leetcode.com/python/340_Longest_Substring_with_At_Most_K_Distinct_Characters.py)| [Vid 1](https://tinyurl.com/t55ef99) | Hard | 📌 Sliding window, Two pointer |
+|13| [3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)| [Python](leetcode.com/python/3_Longest_Substring_Without_Repeating_Characters.py)| [Vid 1](https://tinyurl.com/t55ef99) | Hard | 📌 Sliding window, Two pointer |
 
 
 ### [Linked List](https://leetcode.com/explore/learn/card/linked-list/)
