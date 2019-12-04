@@ -128,7 +128,7 @@ I have solved quite a number of problems from several topics. See the below tabl
 |23| [912. Sort an Array (Merge Sort)](https://leetcode.com/problems/sort-an-array/)| [Python](leetcode.com/python/912_Sort_an_Array_(Merge__Sort).py)|--- | Medium | --- |
 |24| [1118. Number of Days in a Month](https://leetcode.com/problems/number-of-days-in-a-month/)| [Python](leetcode.com/python/1118_-Number_of_Days_in_a_Month.py)|--- | Easy | --- |
 |25| [349. Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/)| [Python](leetcode.com/python/349_Intersection_of_Two_Arrays.py)| [Art 1](https://tinyurl.com/rh3s2gp), [Art 2](https://tinyurl.com/ts27qxq) | Easy | **Very tricky and versatile** |
-|26| [350. Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/)| [Python](leetcode.com/python/350_Intersection_of_Two_Arrays_II.py)| [](), [](), []() | Easy | **Very tricky and versatile** |
+|26| [350. Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/)| [Python](https://tinyurl.com/to2yjbw/leetcode.com/python/350_Intersection_of_Two_Arrays_II.py)| [](), [](), []() | Easy | **Very tricky and versatile** |
 
 
 ### [String](https://leetcode.com/explore/learn/card/array-and-string/)
@@ -159,7 +159,7 @@ I have solved quite a number of problems from several topics. See the below tabl
 |02| [707. Design Linked List](https://leetcode.com/problems/design-linked-list/)| [Python](leetcode.com/python/707_Design_Linked_List.py)|
 |03| [21. Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)| [Python](leetcode.com/python/21_Merge_Two_Sorted_Lists.py)|
 |04| [206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)| [Python](leetcode.com/python/206_Reverse_Linked_List.py)|
-|05| [24. Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)| [Python](leetcode.com/python/24_Swap_Nodes_in_Pairs.py)|
+|05| [24. Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)| [Python](https://tinyurl.com/to2yjbw/leetcode.com/python/24_Swap_Nodes_in_Pairs.py)|
 
 
 ### [Stack, Queue](https://leetcode.com/explore/learn/card/queue-stack/)
@@ -168,7 +168,7 @@ I have solved quite a number of problems from several topics. See the below tabl
 |01| [20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)| [Python](leetcode.com/python/20_Valid_Parentheses.py)|
 |02| [155. Min Stack](https://leetcode.com/problems/min-stack/)| [Python](leetcode.com/python/155_Min_Stack.py)|
 |03| [84. Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/)| [Python](leetcode.com/python/84_Largest_Rectangle_in_Histogram.py)| [Video 01](https://www.youtube.com/watch?v=VNbkzsnllsU), [Video 02](https://www.youtube.com/watch?v=RVIh0snn4Qc), [Article 01](https://leetcode.com/problems/largest-rectangle-in-histogram/solution/), [Article 02](https://leetcode.com/problems/largest-rectangle-in-histogram/discuss/28917/AC-Python-clean-solution-using-stack-76ms) | Hard | 📌 Need to revise |
-|04| [394. Decode String](https://leetcode.com/problems/decode-string/)| [Python](leetcode.com/python/394_Decode_String.py)| --- | Medium | 📌 Classic stack problem |
+|04| [394. Decode String](https://leetcode.com/problems/decode-string/)| [Python](https://tinyurl.com/to2yjbw/leetcode.com/python/394_Decode_String.py)| --- | Medium | 📌 Classic stack problem |
 
 
 ### [Heaps](https://www.youtube.com/watch?v=HqPJF2L5h9U)
@@ -178,7 +178,7 @@ I have solved quite a number of problems from several topics. See the below tabl
 |02| [347. Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/solution/)| [Python](leetcode.com/python/347_Top_K_Frequent_Elements.py)| [Helper 1](https://stackoverflow.com/questions/19979518/what-is-pythons-heapq-module), [Helper 2](https://stackoverflow.com/a/12373856/2089253), [heapq](https://docs.python.org/3.0/library/heapq.html), [Counter](https://docs.python.org/3/library/collections.html#collections.Counter) | Medium | --- |
 |03| [767. Reorganize String](https://leetcode.com/problems/reorganize-string/)| [Python](leetcode.com/python/767_Reorganize_String.py)| --- | Medium | Also check Greedy approach |
 |04| [621. Task Scheduler](https://leetcode.com/problems/task-scheduler/)| [Python](leetcode.com/python/621_Task_Scheduler.py)| [Ex 1](https://leetcode.com/problems/task-scheduler/discuss/190390/Can-anyone-explain-to-me-what-the-problem-is-asking), [Ex 2](https://leetcode.com/problems/task-scheduler/discuss/130786/Python-solution-with-detailed-explanation), [Vid 1](https://www.youtube.com/watch?v=hVhOeaONg1Y), [Vid 2](https://www.youtube.com/watch?v=zPtI8q9gvX8), [Vid 3](https://www.youtube.com/watch?v=TV9VlHUR-Is), [Vid 4](https://www.youtube.com/watch?v=cr6Ip0J9izc&t=22s) | Medium | 📌 Extremely tricky. Classic problem |
-|05| [358. Rearrange String k Distance Apart](https://leetcode.com/problems/rearrange-string-k-distance-apart/)| [Python](leetcode.com/python/358_Rearrange_String_k_Distance_Apart.py)| --- | Hard | 📌 Similar to [621. Task Scheduler](https://leetcode.com/problems/task-scheduler/) |
+|05| [358. Rearrange String k Distance Apart](https://leetcode.com/problems/rearrange-string-k-distance-apart/)| [Python](https://tinyurl.com/to2yjbw/leetcode.com/python/358_Rearrange_String_k_Distance_Apart.py)| --- | Hard | 📌 Similar to [621. Task Scheduler](https://leetcode.com/problems/task-scheduler/) |
 
 
 ### [Binary Search](https://leetcode.com/explore/learn/card/binary-search/)
@@ -203,7 +203,7 @@ I have solved quite a number of problems from several topics. See the below tabl
 |18| [154. Find Minimum in Rotated Sorted Array II](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/)| [Python](leetcode.com/python/154_Find_Minimum_in_Rotated_Sorted_Array_II.py)| --- | Hard | 📌 **[Binary Search Template II](https://tinyurl.com/t6v6et3), not done**|
 |19| [34. Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)| [Python](leetcode.com/python/34_Find_First_and_Last_Position_of_Element_in_Sorted_Array.py)| [Vid 1](https://tinyurl.com/wa2zqff) | Medium | 📌 **[Binary Search Template III](https://tinyurl.com/vpsn3w8)**|
 |20| [658. Find K Closest Elements](https://leetcode.com/problems/find-k-closest-elements/)| [Python](leetcode.com/python/658_Find_K_Closest_Elements.py)| [Vid 1](https://tinyurl.com/w5ccjoe) | Medium | 📌 **[Binary Search Template III](https://tinyurl.com/vpsn3w8)**|
-|21| [702. Search in a Sorted Array of Unknown Size](https://leetcode.com/problems/search-in-a-sorted-array-of-unknown-size/)| [Python](leetcode.com/python/702_Search_in_a_Sorted_Array_of_Unknown_Size.py)| --- | Medium | [Binary Search Template I](https://leetcode.com/explore/learn/card/binary-search/125/template-i/938/) |
+|21| [702. Search in a Sorted Array of Unknown Size](https://leetcode.com/problems/search-in-a-sorted-array-of-unknown-size/)| [Python](https://tinyurl.com/to2yjbw/leetcode.com/python/702_Search_in_a_Sorted_Array_of_Unknown_Size.py)| --- | Medium | [Binary Search Template I](https://leetcode.com/explore/learn/card/binary-search/125/template-i/938/) |
 
 
 ### [Binary Tree](https://leetcode.com/explore/learn/card/data-structure-tree/)
@@ -224,7 +224,7 @@ I have solved quite a number of problems from several topics. See the below tabl
 |13| **[124. Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/)**| [Python](leetcode.com/python/124_Binary_Tree_Maximum_Path_Sum.py)| [Art 1](https://tinyurl.com/uocr9np), [Art 2](https://tinyurl.com/s23sqhe), [Vid 1](https://tinyurl.com/wwe95qx), [AlgoExpert](https://tinyurl.com/vofbonm) | Very Hard | **Very important and tricky** |
 |14| **[979. Distribute Coins in Binary Tree](https://leetcode.com/problems/distribute-coins-in-binary-tree/)**| [Python](leetcode.com/python/979_Distribute_Coins_in_Binary_Tree.py)| [Art 1](https://tinyurl.com/rugoa38), [Art 2](https://tinyurl.com/whkdbl4), [Art 3](https://tinyurl.com/s62fws7) | Medium | **Very important. Postorder DFS** |
 |15| [116. Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/)| [Python](leetcode.com/python/116_Populating_Next_Right_Pointers_in_Each_Node.py)| [Art 1](https://tinyurl.com/t6p8kjb), [Art 2](https://tinyurl.com/ujzrhkj), **[Art 3](https://tinyurl.com/unrow77)** | Medium | BFS/DFS, Level order traversal |
-|16| [117. Populating Next Right Pointers in Each Node II](https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii/)| [Python](leetcode.com/python/117_Populating_Next_Right_Pointers_in_Each_Node_II.py)| [Vid 1](https://tinyurl.com/rfjhzj3), [Vid 2](https://tinyurl.com/ryghj42) | Medium | **Very tricky, check again** |
+|16| [117. Populating Next Right Pointers in Each Node II](https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii/)| [Python](https://tinyurl.com/to2yjbw/leetcode.com/python/117_Populating_Next_Right_Pointers_in_Each_Node_II.py)| [Vid 1](https://tinyurl.com/rfjhzj3), [Vid 2](https://tinyurl.com/ryghj42) | Medium | **Very tricky, check again** |
 
 
 ### [Binary Search Tree](https://leetcode.com/explore/learn/card/introduction-to-data-structure-binary-search-tree/)
@@ -239,7 +239,7 @@ I have solved quite a number of problems from several topics. See the below tabl
 |07| [144. Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/)| [Python](leetcode.com/python/144_Binary_Tree_Preorder_Traversal.py)| --- | Medium | Fundamentals |
 |08| [145. Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/)| [Python](leetcode.com/python/145_Binary_Tree_Postorder_Traversal.py)| --- | Hard | Fundamentals |
 |09| [108. Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/)| [Python](leetcode.com/python/108_Convert_Sorted_Array_to_Binary_Search_Tree.py)| --- | Easy | Fundamentals |
-|10| [109. Convert Sorted List to Binary Search Tree](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/)| [Python](leetcode.com/python/109_Convert_Sorted_List_to_Binary_Search_Tree.py)| --- | Medium | Classic problem. Very important |
+|10| [109. Convert Sorted List to Binary Search Tree](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/)| [Python](https://tinyurl.com/to2yjbw/leetcode.com/python/109_Convert_Sorted_List_to_Binary_Search_Tree.py)| --- | Medium | Classic problem. Very important |
 
 
 ### [N-Ary Tree](https://leetcode.com/explore/learn/card/n-ary-tree/)
@@ -250,13 +250,13 @@ I have solved quite a number of problems from several topics. See the below tabl
 |03| [429. N-ary Tree Level Order Traversal](https://leetcode.com/problems/n-ary-tree-level-order-traversal/)| [Python](leetcode.com/python/429_N-ary_Tree_Level_Order_Traversal.py)|
 |04| [559. Maximum Depth of N-ary Tree](https://leetcode.com/problems/maximum-depth-of-n-ary-tree/)| [Python](leetcode.com/python/559_Maximum_Depth_of_N-ary_Tree.py)|
 |05| [431. Encode N-ary Tree to Binary Tree](https://leetcode.com/problems/encode-n-ary-tree-to-binary-tree/submissions/)| [Python](leetcode.com/python/431_Encode_N-ary_Tree_to_Binary_Tree.py)| [Explanation](https://leetcode.com/explore/learn/card/n-ary-tree/131/recursion/922/) |
-|06| [428. Serialize and Deserialize N-ary Tree](https://leetcode.com/problems/serialize-and-deserialize-n-ary-tree/)| [Python](leetcode.com/python/428_Serialize_and_Deserialize_N-ary_Tree.py)|
+|06| [428. Serialize and Deserialize N-ary Tree](https://leetcode.com/problems/serialize-and-deserialize-n-ary-tree/)| [Python](https://tinyurl.com/to2yjbw/leetcode.com/python/428_Serialize_and_Deserialize_N-ary_Tree.py)|
 
 
 ### Tree
 | #  | Title | Solution | Tutorial | Level | Remarks |
 | --- | --- | --- | --- | --- | --- |
-|01| **[315. Count of Smaller Numbers After Self](https://leetcode.com/problems/count-of-smaller-numbers-after-self/)**| [Python](leetcode.com/python/315_Count_of_Smaller_Numbers_After_Self.py)| [Article 1](https://leetcode.com/problems/count-of-smaller-numbers-after-self/discuss/76657/3-ways-(Segment-Tree-Binary-Indexed-Tree-Binary-Search-Tree)-clean-python-code), [Article 2](https://medium.com/@timtim305/leetcode-315-count-of-smaller-numbers-after-self-be529cdfe148), [Vid 1](https://www.youtube.com/watch?v=CWDQJGaN1gY), [Vid 2](https://www.youtube.com/watch?v=ZBHKZF5w4YU) | Hard (Very) |📌 **Very hard and important. First learn [BIT](https://www.youtube.com/watch?v=CWDQJGaN1gY), [ST](https://www.youtube.com/watch?v=ZBHKZF5w4YU), [AVL-Tree](https://www.educative.io/courses/data-structures-in-python-an-interview-refresher/JYlwQZmN7V9) and [Red-Black Tree](https://www.educative.io/courses/data-structures-in-python-an-interview-refresher/YQy7Zlz1mEO) then try again**|
+|01| **[315. Count of Smaller Numbers After Self](https://leetcode.com/problems/count-of-smaller-numbers-after-self/)**| [Python](https://tinyurl.com/to2yjbw/leetcode.com/python/315_Count_of_Smaller_Numbers_After_Self.py)| [Article 1](https://leetcode.com/problems/count-of-smaller-numbers-after-self/discuss/76657/3-ways-(Segment-Tree-Binary-Indexed-Tree-Binary-Search-Tree)-clean-python-code), [Article 2](https://medium.com/@timtim305/leetcode-315-count-of-smaller-numbers-after-self-be529cdfe148), [Vid 1](https://www.youtube.com/watch?v=CWDQJGaN1gY), [Vid 2](https://www.youtube.com/watch?v=ZBHKZF5w4YU) | Hard (Very) |📌 **Very hard and important. First learn [BIT](https://www.youtube.com/watch?v=CWDQJGaN1gY), [ST](https://www.youtube.com/watch?v=ZBHKZF5w4YU), [AVL-Tree](https://www.educative.io/courses/data-structures-in-python-an-interview-refresher/JYlwQZmN7V9) and [Red-Black Tree](https://www.educative.io/courses/data-structures-in-python-an-interview-refresher/YQy7Zlz1mEO) then try again**|
 
 
 ### [Tries](https://leetcode.com/explore/learn/card/trie/)
@@ -264,7 +264,7 @@ I have solved quite a number of problems from several topics. See the below tabl
 | --- | --- | --- | --- | --- | --- |
 |01| [208. Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/)| [Python](leetcode.com/python/208_Implement_Trie_(Prefix_Tree).py)|
 |02| [211. Add and Search Word. Data structure design](https://leetcode.com/problems/add-and-search-word-data-structure-design/)| [Python](leetcode.com/python/211_Add_and_Search_Word_Data_structure_design.py)| [Video 01](https://www.youtube.com/watch?v=qi2ohSEyyDw), [Video 02](https://www.youtube.com/watch?v=neb_2UK5Kuo&t=13s)|
-|03| [642. Design Search Autocomplete System](https://leetcode.com/problems/design-search-autocomplete-system/)| [Python](leetcode.com/python/642_Design_Search_Autocomplete_System.py)| [Article 01](https://leetcode.com/problems/design-search-autocomplete-system/discuss/105386/Python-Clean-Solution-Using-Trie), [Video 01](https://www.youtube.com/watch?v=us0qySiUsGU)| Hard | --- |
+|03| [642. Design Search Autocomplete System](https://leetcode.com/problems/design-search-autocomplete-system/)| [Python](https://tinyurl.com/to2yjbw/leetcode.com/python/642_Design_Search_Autocomplete_System.py)| [Article 01](https://leetcode.com/problems/design-search-autocomplete-system/discuss/105386/Python-Clean-Solution-Using-Trie), [Video 01](https://www.youtube.com/watch?v=us0qySiUsGU)| Hard | --- |
 
 
 ### Graphs 
@@ -273,14 +273,14 @@ I have solved quite a number of problems from several topics. See the below tabl
 | #  | Title | Solution | Tutorial | Level | Remarks |
 | --- | --- | --- | --- | --- | --- |
 |01| [200. Number of Islands](https://leetcode.com/problems/number-of-islands/)| [Python](leetcode.com/python/200_Number_of_Islands.py)| --- | Medium | DFS, Union Find |
-|02| [695. Max Area of Island](https://leetcode.com/problems/max-area-of-island/)| [Python](leetcode.com/python/695_Max_Area_of_Island.py)| --- | Medium | DFS |
+|02| [695. Max Area of Island](https://leetcode.com/problems/max-area-of-island/)| [Python](https://tinyurl.com/to2yjbw/leetcode.com/python/695_Max_Area_of_Island.py)| --- | Medium | DFS |
 
 
 ### [Recursion, Iteration](https://leetcode.com/explore/learn/card/recursion-i/)
 | #  | Title | Solution | Tutorial | Level | Remarks |
 | --- | --- | --- | --- | --- | --- |
 |01| [509. Fibonacci Number](https://leetcode.com/problems/fibonacci-number/)| [Python](leetcode.com/python/509_Fibonacci_Number.py)|
-|02| [50. Pow(x, n)](https://leetcode.com/problems/powx-n/)| [Python](leetcode.com/python/50_Pow(x%2C_n).py)|
+|02| [50. Pow(x, n)](https://leetcode.com/problems/powx-n/)| [Python](https://tinyurl.com/to2yjbw/leetcode.com/python/50_Pow(x%2C_n).py)|
 |00| It's a general topics which has been covered on Backtracking and graph problems| --- | --- | --- | --- |
 
 
@@ -301,7 +301,7 @@ I have solved quite a number of problems from several topics. See the below tabl
 |12| [1066. Campus Bikes II](https://leetcode.com/problems/campus-bikes-ii/)| [Python](leetcode.com/python/1066_Campus_Bikes_II.py)| [Algo Notes](https://algorithm-notes-allinone.blogspot.com/2019/09/leetcode-1066-campus-bikes-ii.html) | Medium |📌 TODO: Backtracking solution is getting TLE. Solve it and implement it with DP also |
 |13| [1087. Brace Expansion](https://leetcode.com/problems/brace-expansion/)| [Python](leetcode.com/python/1087_Brace_Expansion.py)| --- | Medium |📌 --- |
 |14| [1219. Path with Maximum Gold](https://leetcode.com/problems/path-with-maximum-gold/)| [Python](leetcode.com/python/1219_Path_with_Maximum_Gold.py)| --- | Medium |📌 --- |
-|15| [**679. 24 Game**](https://leetcode.com/problems/24-game/)| [Python](leetcode.com/python/679_24_Game.py)| [Art 1](https://tinyurl.com/v73ldlm), [Art 2](https://tinyurl.com/udpg8tt), [Art 3](https://tinyurl.com/so9psfl), [Official](https://tinyurl.com/rwosllt) | Very Hard |📌 Very tricky and important. Revise again. |
+|15| [**679. 24 Game**](https://leetcode.com/problems/24-game/)| [Python](https://tinyurl.com/to2yjbw/leetcode.com/python/679_24_Game.py)| [Art 1](https://tinyurl.com/v73ldlm), [Art 2](https://tinyurl.com/udpg8tt), [Art 3](https://tinyurl.com/so9psfl), [Official](https://tinyurl.com/rwosllt) | Very Hard |📌 Very tricky and important. Revise again. |
 
 
 ### [Greedy](https://www.youtube.com/watch?v=ARvQcqJ_-NY)
@@ -316,7 +316,7 @@ I have solved quite a number of problems from several topics. See the below tabl
 |07| **[55. Jump Game](https://leetcode.com/problems/jump-game/)** | [Python](leetcode.com/python/55_Jump_Game.py)| **[Official](https://leetcode.com/articles/jump-game/)** , [Art 1](https://tinyurl.com/yy9vyjyn)| Medium | 📌 **Must Check. Learned a lot** |
 |08| [45. Jump Game II](https://leetcode.com/problems/jump-game-ii/)| [Python](leetcode.com/python/45_Jump_Game_II.py)| [Vid  1](https://www.youtube.com/watch?v=cETfFsSTGJI), [Vid 2](https://www.youtube.com/watch?v=jH_5ypQggWg), [Vid 3](https://www.youtube.com/watch?v=vBdo7wtwlXs), [Art 1](https://tinyurl.com/yalsno6r) | Hard | 📌  |
 |09| [767. Reorganize String](https://leetcode.com/problems/reorganize-string/)| [Python](leetcode.com/python/767_Reorganize_String.py)| --- | Medium | Also check Heap approach |
-|10| [435. Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/)| [Python](leetcode.com/python/435_Non-overlapping_Intervals.py)| [Vid 1](https://codinginterviewclass.com/courses/633601/lectures/12471331), [Art 1](https://tinyurl.com/yx5n7963) | Medium | Classic problem |
+|10| [435. Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/)| [Python](https://tinyurl.com/to2yjbw/leetcode.com/python/435_Non-overlapping_Intervals.py)| [Vid 1](https://codinginterviewclass.com/courses/633601/lectures/12471331), [Art 1](https://tinyurl.com/yx5n7963) | Medium | Classic problem |
 
 
 ### [Dynamic Programming](https://www.educative.io/courses/grokking-dynamic-programming-patterns-for-coding-interviews)
@@ -344,7 +344,7 @@ I have solved quite a number of problems from several topics. See the below tabl
 |20| [714. Best Time to Buy and Sell Stock with Transaction Fee](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/)| [Python](leetcode.com/python/714_Best_Time_to_Buy_and_Sell_Stock_with_Transaction_Fee.py)| **[Must Read](https://tinyurl.com/y7eaa7vk)** , [Art 2](https://tinyurl.com/wzawybe) | Medium | More like Greedy, but DP |
 |21| **[198. House Robber](https://leetcode.com/problems/house-robber/)**| [Python](leetcode.com/python/198_House_Robber.py)| **[Must](https://tinyurl.com/vp9v27d)** | Easy | A Gold Mine |
 |22| [213. House Robber II](https://leetcode.com/problems/house-robber-ii/)| [Python](leetcode.com/python/213_House_Robber_II.py)| [Art 1](https://tinyurl.com/wwza8d5), [Art 2](https://tinyurl.com/qtqwcl4) | Medium | --- |
-|23| [337. House Robber III](https://leetcode.com/problems/house-robber-iii/)| [Python](leetcode.com/python/337_House_Robber_III.py)| **[Art 1](https://tinyurl.com/yd8zjvvj)** | Medium | **[Another gold mine](https://tinyurl.com/yd8zjvvj)**, hidden greedy and DFS |
+|23| [337. House Robber III](https://leetcode.com/problems/house-robber-iii/)| [Python](https://tinyurl.com/to2yjbw/leetcode.com/python/337_House_Robber_III.py)| **[Art 1](https://tinyurl.com/yd8zjvvj)** | Medium | **[Another gold mine](https://tinyurl.com/yd8zjvvj)**, hidden greedy and DFS |
 
 
 ### Bit Manipulation
@@ -360,7 +360,7 @@ I have solved quite a number of problems from several topics. See the below tabl
 |08| [389. Find the Difference](https://leetcode.com/problems/find-the-difference/)| [Python](leetcode.com/python/389_Find_the_Difference.py)| --- | Easy | 📌 |
 |09| [231. Power of Two](https://leetcode.com/problems/power-of-two/)| [Python](leetcode.com/python/231_Power_of_Two.py)| [Official](https://leetcode.com/problems/power-of-two/solution/), [Signed number representations](https://en.wikipedia.org/wiki/Signed_number_representations) | Easy | 📌 Learned few very important binary logic properties |
 |10| [268. Missing Number](https://leetcode.com/problems/missing-number/)| [Python](leetcode.com/python/268_Missing_Number.py)| [Official](https://leetcode.com/problems/missing-number/solution/) | Easy | 📌 Learned few very important binary logic properties |
-|11| [187. Repeated DNA Sequences](https://leetcode.com/problems/repeated-dna-sequences/)| [Python](leetcode.com/python/187_Repeated_DNA_Sequences.py)| [Official](https://leetcode.com/problems/repeated-dna-sequences/solution/) | Medium | ⭐ 😭 Didn't understand, check again  |
+|11| [187. Repeated DNA Sequences](https://leetcode.com/problems/repeated-dna-sequences/)| [Python](https://tinyurl.com/to2yjbw/leetcode.com/python/187_Repeated_DNA_Sequences.py)| [Official](https://leetcode.com/problems/repeated-dna-sequences/solution/) | Medium | ⭐ 😭 Didn't understand, check again  |
 
 
 ---
