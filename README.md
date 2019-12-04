@@ -131,6 +131,7 @@ I have solved quite a number of problems from several topics. See the below tabl
 |26| [350. Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/)| [Python](https://tinyurl.com/to2yjbw/leetcode.com/python/350_Intersection_of_Two_Arrays_II.py)| [](), [](), []() | Easy | **Very tricky and versatile** |
 
 
+
 ### [String](https://leetcode.com/explore/learn/card/array-and-string/)
 | #  | Title | Solution | Tutorial | Level | Remarks |
 | --- | --- | --- | --- | --- | --- |
@@ -150,7 +151,8 @@ I have solved quite a number of problems from several topics. See the below tabl
 |13| [159. Longest Substring with At Most Two Distinct Characters](https://leetcode.com/problems/longest-substring-with-at-most-two-distinct-characters/)| [Python](leetcode.com/python/159_Longest_Substring_with_At_Most_Two_Distinct_Characters.py)| [Vid 1](https://tinyurl.com/t55ef99) | Hard | 📌 Sliding window, Two pointer |
 |14| [424. Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/)| [Python](leetcode.com/python/424_Longest_Repeating_Character_Replacement.py)| **[Vid 1](https://tinyurl.com/svyns7x)**, [Vid 2](https://tinyurl.com/rj3yt25), [Art 1](https://tinyurl.com/yx34cd9c), [Art 2](https://tinyurl.com/suxeoj3), [Art 3](https://tinyurl.com/slpeqnd), [Art 4](https://tinyurl.com/sje2no8) | Medium | 📌 Sliding window, Very important |
 |15| [76. Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/)| [Python](https://tinyurl.com/to2yjbw/leetcode.com/python/76_Minimum_Window_Substring.py)| **[Vid 1](https://tinyurl.com/tv8lqpa)**, **[Vid 2](https://tinyurl.com/v38h4j4)**, **[Vid 3](https://tinyurl.com/ss5ue49)**  | Hard | 📌 Sliding window, Very important |
-|16| [727. Minimum Window Subsequence](https://leetcode.com/problems/minimum-window-subsequence/)| [Python](https://tinyurl.com/to2yjbw/leetcode.com/python/727_Minimum_Window_Subsequence.py)| [Vid 1](https://tinyurl.com/seyskk7), [Art 1](https://tinyurl.com/vs9qedt), [Art 2](https://tinyurl.com/v5tud73)  | Hard | 📌 Sliding window and DP |
+|16| [727. Minimum Window Subsequence](https://leetcode.com/problems/minimum-window-subsequence/)| [Python](https://tinyurl.com/to2yjbw/leetcode.com/python/727_Minimum_Window_Subsequence.py)| [Vid 1](https://tinyurl.com/seyskk7), [Art 1](https://tinyurl.com/vs9qedt), [Art 2](https://tinyurl.com/v5tud73)  | Hard | 📌 Sliding window and DP, check the DP approach |
+|17| [438. Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/)| [Python](https://tinyurl.com/to2yjbw/leetcode.com/python/438_Find_All_Anagrams_in_a_String.py)| **[Must](https://tinyurl.com/y8jsku3f)**, [Art 1](https://tinyurl.com/wzdp4yp) | Medium | 📌 Sliding window |
 
 
 ### [Linked List](https://leetcode.com/explore/learn/card/linked-list/)
@@ -180,7 +182,8 @@ I have solved quite a number of problems from several topics. See the below tabl
 |03| [767. Reorganize String](https://leetcode.com/problems/reorganize-string/)| [Python](leetcode.com/python/767_Reorganize_String.py)| --- | Medium | Also check Greedy approach |
 |04| [621. Task Scheduler](https://leetcode.com/problems/task-scheduler/)| [Python](leetcode.com/python/621_Task_Scheduler.py)| [Ex 1](https://leetcode.com/problems/task-scheduler/discuss/190390/Can-anyone-explain-to-me-what-the-problem-is-asking), [Ex 2](https://leetcode.com/problems/task-scheduler/discuss/130786/Python-solution-with-detailed-explanation), [Vid 1](https://www.youtube.com/watch?v=hVhOeaONg1Y), [Vid 2](https://www.youtube.com/watch?v=zPtI8q9gvX8), [Vid 3](https://www.youtube.com/watch?v=TV9VlHUR-Is), [Vid 4](https://www.youtube.com/watch?v=cr6Ip0J9izc&t=22s) | Medium | 📌 Extremely tricky. Classic problem |
 |05| [358. Rearrange String k Distance Apart](https://leetcode.com/problems/rearrange-string-k-distance-apart/)| [Python](https://tinyurl.com/to2yjbw/leetcode.com/python/358_Rearrange_String_k_Distance_Apart.py)| --- | Hard | 📌 Similar to [621. Task Scheduler](https://leetcode.com/problems/task-scheduler/) |
-
+|06| [295. Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/)| [Python](https://tinyurl.com/to2yjbw/leetcode.com/python/480_Sliding_Window_Median.py)| [Vid 1](https://tinyurl.com/uz66xbf) | Hard | 📌 Not Done |
+|07| [480. Sliding Window Median](https://leetcode.com/problems/sliding-window-median/)| [Python](https://tinyurl.com/to2yjbw/leetcode.com/python/480_Sliding_Window_Median.py)| [Vid 1](https://tinyurl.com/uz66xbf) | Hard | 📌 Sliding window, Not done |
 
 ### [Binary Search](https://leetcode.com/explore/learn/card/binary-search/)
 | #  | Title | Solution | Tutorial | Level | Remarks |
