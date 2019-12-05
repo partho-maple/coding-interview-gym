@@ -129,7 +129,8 @@ I have solved quite a number of problems from several topics. See the below tabl
 |24| [1118. Number of Days in a Month](https://leetcode.com/problems/number-of-days-in-a-month/)| [Python](leetcode.com/python/1118_-Number_of_Days_in_a_Month.py)|--- | Easy | --- |
 |25| [349. Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/)| [Python](leetcode.com/python/349_Intersection_of_Two_Arrays.py)| [Art 1](https://tinyurl.com/rh3s2gp), [Art 2](https://tinyurl.com/ts27qxq) | Easy | **Very tricky and versatile** |
 |26| [350. Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/)| [Python](https://tinyurl.com/to2yjbw/leetcode.com/python/350_Intersection_of_Two_Arrays_II.py)| [](), [](), []() | Easy | **Very tricky and versatile** |
-
+|27| [1074. Number of Submatrices That Sum to Target](https://leetcode.com/problems/number-of-submatrices-that-sum-to-target/)| [Python](https://tinyurl.com/to2yjbw/leetcode.com/python/1074_Number_of_Submatrices_That_Sum_to_Target.py)| [Art 1](https://tinyurl.com/yydt3tpy), [Art 2](https://tinyurl.com/vhwht5j) | Extremely Hard | **Very tricky and hard. Also DP** |
+|28| [560. Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/)| [Python](https://tinyurl.com/to2yjbw/leetcode.com/python/560_Subarray_Sum_Equals_K.py)| [Art 1](https://tinyurl.com/rd8d7b7), [Art 2](https://tinyurl.com/uhkjk84), [Art 3](https://tinyurl.com/v62x843), [Art 4](https://tinyurl.com/tonp2ye), [Art 5](https://tinyurl.com/uhkjk84), [Art 6](https://tinyurl.com/upuh6ax) | Medium | **Very tricky and persuasive with Sliding Window but  it's not. This is a classic running sum problem** |
 
 
 ### [String](https://leetcode.com/explore/learn/card/array-and-string/)
@@ -544,6 +545,7 @@ Some helpful links, channels, tutorials, blogs.
 10. [How To Ace The Google Coding Interview - Complete Guide](https://tinyurl.com/ws2d4cr)
 11. [Software Engineering Interviews: The Golden Path To Passing](https://tinyurl.com/vb77j83)
 12. [A MUST READ](https://tinyurl.com/vzbn34s)
+13. [10 Steps to Solving a Programming Problem](https://tinyurl.com/s663j6z)
 
 
 <b>Courses/Books</b>
