@@ -153,6 +153,7 @@ I have solved quite a number of problems from several topics. See the below tabl
 |15| [76. Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/)| [Python](https://tinyurl.com/to2yjbw/leetcode.com/python/76_Minimum_Window_Substring.py)| **[Vid 1](https://tinyurl.com/tv8lqpa)**, **[Vid 2](https://tinyurl.com/v38h4j4)**, **[Vid 3](https://tinyurl.com/ss5ue49)**  | Hard | 📌 Sliding window, Very important |
 |16| [727. Minimum Window Subsequence](https://leetcode.com/problems/minimum-window-subsequence/)| [Python](https://tinyurl.com/to2yjbw/leetcode.com/python/727_Minimum_Window_Subsequence.py)| [Vid 1](https://tinyurl.com/seyskk7), [Art 1](https://tinyurl.com/vs9qedt), [Art 2](https://tinyurl.com/v5tud73)  | Hard | 📌 Sliding window and DP, check the DP approach |
 |17| [438. Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/)| [Python](https://tinyurl.com/to2yjbw/leetcode.com/python/438_Find_All_Anagrams_in_a_String.py)| **[Must](https://tinyurl.com/y8jsku3f)**, [Art 1](https://tinyurl.com/wzdp4yp) | Medium | 📌 Sliding window |
+|18| [567. Permutation in String](https://leetcode.com/problems/permutation-in-string/)| [Python](https://tinyurl.com/to2yjbw/leetcode.com/python/567_Permutation_in_String.py)| **[Must](https://tinyurl.com/y8jsku3f)** | Medium | 📌 Sliding window |
 
 
 ### [Linked List](https://leetcode.com/explore/learn/card/linked-list/)
