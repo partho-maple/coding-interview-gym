@@ -134,6 +134,7 @@ I have solved quite a number of problems from several topics. See the below tabl
 |29| [325. Maximum Size Subarray Sum Equals k](https://leetcode.com/problems/maximum-size-subarray-sum-equals-k/)| [Python](https://tinyurl.com/to2yjbw/leetcode.com/python/325_Maximum_Size_Subarray_Sum_Equals_k.py)| [Art 1](https://tinyurl.com/sksjlzg) | Medium | **Very tricky and persuasive with Sliding Window but it's not. This is a classic running sum problem** |
 |30| [1074. Number of Submatrices That Sum to Target](https://leetcode.com/problems/number-of-submatrices-that-sum-to-target/)| [Python](https://tinyurl.com/to2yjbw/leetcode.com/python/1074_Number_of_Submatrices_That_Sum_to_Target.py)| [Art 1](https://tinyurl.com/yydt3tpy), [Art 2](https://tinyurl.com/vhwht5j), [Art 3](https://tinyurl.com/rrelm6y), [Art 4](https://tinyurl.com/s9mwbfy) | Extremely Hard | **Very tricky and hard, check again. Also DP** |
 |31| [167. Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)| [Python](https://tinyurl.com/to2yjbw/leetcode.com/python/167_Two_Sum_II_-_Input_array_is_sorted.py)| --- | Easy | Two pointer basics |
+|32| [1099. Two Sum Less Than K](https://leetcode.com/problems/two-sum-less-than-k/)| [Python](https://tinyurl.com/to2yjbw/leetcode.com/python/1099_Two_Sum_Less_Than_K)| --- | Easy | Two pointer basics |
 
 
 ### [String](https://leetcode.com/explore/learn/card/array-and-string/)
