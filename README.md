@@ -138,6 +138,7 @@ I have solved quite a number of problems from several topics. See the below tabl
 |33| [26. Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)| [Python](https://tinyurl.com/to2yjbw/leetcode.com/python/26_Remove_Duplicates_from_Sorted_Array.py)| --- | Easy | Two pointer basics |
 |34| [977. Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)| [Python](https://tinyurl.com/to2yjbw/leetcode.com/python/977_Squares_of_a_Sorted_Array.py)| --- | Easy | Two pointer basics |
 |35| [713. Subarray Product Less Than K](https://leetcode.com/problems/subarray-product-less-than-k/)| [Python](https://tinyurl.com/to2yjbw/leetcode.com/python/713_Subarray_Product_Less_Than_K.py)| --- | Medium | Two pointer ad Sliding Window |
+|36| [75. Sort Colors](https://leetcode.com/problems/sort-colors/)| [Python](https://tinyurl.com/to2yjbw/leetcode.com/python/75_Sort_Colors.py)| --- | Medium | Two pointer |
 
 
 ### [String](https://leetcode.com/explore/learn/card/array-and-string/)
