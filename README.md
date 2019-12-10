@@ -179,6 +179,7 @@ I have solved quite a number of problems from several topics. See the below tabl
 |05| [24. Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)| [Python](https://tinyurl.com/to2yjbw/leetcode.com/python/24_Swap_Nodes_in_Pairs.py)|
 |06| [141. Linked List Cycle](https://tinyurl.com/u3vl5za)| [Python](https://tinyurl.com/to2yjbw/leetcode.com/python/141_Linked_List_Cycle.py)| --- | Easy | Fast pointer Slow pointer |
 |07| [142. Linked List Cycle II](https://tinyurl.com/svsaqk7)| [Python](https://tinyurl.com/to2yjbw/leetcode.com/python/142_Linked_List_Cycle_II.py)| [Art 1](https://tinyurl.com/us8ssdf), [Art 2](https://tinyurl.com/r5ztjpr), [AlgoExpert.io](https://tinyurl.com/r3rskyc) | Medium | Fast pointer Slow pointer |
+|08| [876. Middle of the Linked List](http://bit.ly/2YBAgOr)| [Python](https://tinyurl.com/to2yjbw/leetcode.com/python/876_Middle_of_the_Linked_List.py)| --- | Easy | Fast pointer Slow pointer |
 
 
 ### [Stack, Queue](https://leetcode.com/explore/learn/card/queue-stack/)
