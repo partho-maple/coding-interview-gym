@@ -181,6 +181,7 @@ I have solved quite a number of problems from several topics. See the below tabl
 |07| [142. Linked List Cycle II](https://tinyurl.com/svsaqk7)| [Python](https://tinyurl.com/to2yjbw/leetcode.com/python/142_Linked_List_Cycle_II.py)| [Art 1](https://tinyurl.com/us8ssdf), [Art 2](https://tinyurl.com/r5ztjpr), [AlgoExpert.io](https://tinyurl.com/r3rskyc) | Medium | Fast pointer Slow pointer |
 |08| [876. Middle of the Linked List](http://bit.ly/2YBAgOr)| [Python](https://tinyurl.com/to2yjbw/leetcode.com/python/876_Middle_of_the_Linked_List.py)| --- | Easy | Fast pointer Slow pointer |
 |09| [234. Palindrome Linked List](http://bit.ly/2PuZQAx)| [Python](https://tinyurl.com/to2yjbw/leetcode.com/python/234_Palindrome_Linked_List.py)| --- | Easy | Fast pointer Slow pointer |
+|10| [143. Reorder List](http://bit.ly/35861AZ)| [Python](https://tinyurl.com/to2yjbw/leetcode.com/python/143_Reorder_List.py)| --- | Medium | Fast pointer Slow pointer |
 
 
 ### [Stack, Queue](https://leetcode.com/explore/learn/card/queue-stack/)
