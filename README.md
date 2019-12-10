@@ -141,6 +141,7 @@ I have solved quite a number of problems from several topics. See the below tabl
 |36| [75. Sort Colors](https://leetcode.com/problems/sort-colors/)| [Python](https://tinyurl.com/to2yjbw/leetcode.com/python/75_Sort_Colors.py)| [Vid 1](https://tinyurl.com/svdmwg8) | Medium | Two pointer |
 |37| [18. 4Sum](https://leetcode.com/problems/4sum/)| [Python](https://tinyurl.com/to2yjbw/leetcode.com/python/18_4Sum.py)| --- | Medium | Two pointer |
 |38| [11. Container With Most Water](https://tinyurl.com/r4jdatg)| [Python](https://tinyurl.com/to2yjbw/leetcode.com/python/11_Container_With_Most_Water.py)| --- | Medium | Two pointer |
+|39| [202. Happy Number](https://tinyurl.com/ujm63nf)| [Python](https://tinyurl.com/to2yjbw/leetcode.com/python/202_Happy_Number.py)| [Art 1](https://tinyurl.com/roegfpt) | Easy | Fast pointer Slow pointer |
 
 
 ### [String](https://leetcode.com/explore/learn/card/array-and-string/)
