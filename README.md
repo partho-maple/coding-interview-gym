@@ -176,6 +176,8 @@ I have solved quite a number of problems from several topics. See the below tabl
 |03| [21. Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)| [Python](leetcode.com/python/21_Merge_Two_Sorted_Lists.py)|
 |04| [206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)| [Python](leetcode.com/python/206_Reverse_Linked_List.py)|
 |05| [24. Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)| [Python](https://tinyurl.com/to2yjbw/leetcode.com/python/24_Swap_Nodes_in_Pairs.py)|
+|06| [141. Linked List Cycle](https://tinyurl.com/u3vl5za)| [Python](https://tinyurl.com/to2yjbw/leetcode.com/python/141_Linked_List_Cycle.py)| --- | Easy | Fast pointer Slow pointer |
+|07| [142. Linked List Cycle II](https://tinyurl.com/svsaqk7)| [Python](https://tinyurl.com/to2yjbw/leetcode.com/python/142_Linked_List_Cycle_II.py)| --- | Medium | Fast pointer Slow pointer |
 
 
 ### [Stack, Queue](https://leetcode.com/explore/learn/card/queue-stack/)
