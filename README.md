@@ -184,6 +184,7 @@ I have solved quite a number of problems from several topics. See the below tabl
 |09| [234. Palindrome Linked List](http://bit.ly/2PuZQAx)| [Python](https://tinyurl.com/to2yjbw/leetcode.com/python/234_Palindrome_Linked_List.py)| --- | Easy | Fast pointer Slow pointer |
 |10| [143. Reorder List](http://bit.ly/35861AZ)| [Python](https://tinyurl.com/to2yjbw/leetcode.com/python/143_Reorder_List.py)| --- | Medium | Fast pointer Slow pointer |
 |11| [19. Remove Nth Node From End of List](http://bit.ly/36gU1xo)| [Python](https://tinyurl.com/to2yjbw/leetcode.com/python/19_Remove_Nth_Node_From_End_of_List.py)| --- | Medium | Fast pointer Slow pointer |
+|12| [817. Linked List Components](https://tinyurl.com/trgps7z)| [Python](https://tinyurl.com/to2yjbw/leetcode.com/python/817_Linked_List_Components.py)| --- | Medium | Uses set/dictionary |
 
 
 ### [Stack, Queue](https://leetcode.com/explore/learn/card/queue-stack/)
