@@ -142,6 +142,7 @@ I have solved quite a number of problems from several topics. See the below tabl
 |37| [18. 4Sum](https://leetcode.com/problems/4sum/)| [Python](https://tinyurl.com/to2yjbw/leetcode.com/python/18_4Sum.py)| --- | Medium | Two pointer |
 |38| [11. Container With Most Water](https://tinyurl.com/r4jdatg)| [Python](https://tinyurl.com/to2yjbw/leetcode.com/python/11_Container_With_Most_Water.py)| --- | Medium | Two pointer |
 |39| [202. Happy Number](https://tinyurl.com/ujm63nf)| [Python](https://tinyurl.com/to2yjbw/leetcode.com/python/202_Happy_Number.py)| [Art 1](https://tinyurl.com/roegfpt) | Easy | Fast pointer Slow pointer |
+|40| [457. Circular Array Loop](http://bit.ly/2skNL8X)| [Python](https://tinyurl.com/to2yjbw/leetcode.com/python/457_Circular_Array_Loop.py)| --- | Medium | Fast pointer Slow pointer.  Check again |
 
 
 ### [String](https://leetcode.com/explore/learn/card/array-and-string/)
