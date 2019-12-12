@@ -143,7 +143,6 @@ I have solved quite a number of problems from several topics. See the below tabl
 |38| [11. Container With Most Water](https://tinyurl.com/r4jdatg)| [Python](https://tinyurl.com/to2yjbw/leetcode.com/python/11_Container_With_Most_Water.py)| --- | Medium | Two pointer |
 |39| [202. Happy Number](https://tinyurl.com/ujm63nf)| [Python](https://tinyurl.com/to2yjbw/leetcode.com/python/202_Happy_Number.py)| [Art 1](https://tinyurl.com/roegfpt) | Easy | Fast pointer Slow pointer |
 |40| [457. Circular Array Loop](http://bit.ly/2skNL8X)| [Python](https://tinyurl.com/to2yjbw/leetcode.com/python/457_Circular_Array_Loop.py)| --- | Medium | Fast pointer Slow pointer.  Check again |
-|41| [986. Interval List Intersections](https://tinyurl.com/wlw4rke)| [Python](https://tinyurl.com/to2yjbw/leetcode.com/python/986_Interval_List_Intersections.py)| --- | Medium | Greedy and Two Pointer |
 
 
 ### [String](https://leetcode.com/explore/learn/card/array-and-string/)
@@ -200,13 +199,13 @@ I have solved quite a number of problems from several topics. See the below tabl
 ### [Heaps](https://www.youtube.com/watch?v=HqPJF2L5h9U)
 | #  | Title | Solution | Tutorial | Level | Remarks |
 | --- | --- | --- | --- | --- | --- |
-|01| [253_Meeting_Rooms_II](https://leetcode.com/problems/meeting-rooms-ii/)| [Python](leetcode.com/python/253_Meeting_Rooms_II.py)| [Official](https://leetcode.com/problems/meeting-rooms-ii/solution/) | Medium | --- |
+|01| [480. Sliding Window Median](https://leetcode.com/problems/sliding-window-median/)| [Python](https://tinyurl.com/to2yjbw/leetcode.com/python/480_Sliding_Window_Median.py)| [Vid 1](https://tinyurl.com/uz66xbf) | Hard | 📌 Sliding window, Not done |
 |02| [347. Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/solution/)| [Python](leetcode.com/python/347_Top_K_Frequent_Elements.py)| [Helper 1](https://stackoverflow.com/questions/19979518/what-is-pythons-heapq-module), [Helper 2](https://stackoverflow.com/a/12373856/2089253), [heapq](https://docs.python.org/3.0/library/heapq.html), [Counter](https://docs.python.org/3/library/collections.html#collections.Counter) | Medium | --- |
 |03| [767. Reorganize String](https://leetcode.com/problems/reorganize-string/)| [Python](leetcode.com/python/767_Reorganize_String.py)| --- | Medium | Also check Greedy approach |
 |04| [621. Task Scheduler](https://leetcode.com/problems/task-scheduler/)| [Python](leetcode.com/python/621_Task_Scheduler.py)| [Ex 1](https://leetcode.com/problems/task-scheduler/discuss/190390/Can-anyone-explain-to-me-what-the-problem-is-asking), [Ex 2](https://leetcode.com/problems/task-scheduler/discuss/130786/Python-solution-with-detailed-explanation), [Vid 1](https://www.youtube.com/watch?v=hVhOeaONg1Y), [Vid 2](https://www.youtube.com/watch?v=zPtI8q9gvX8), [Vid 3](https://www.youtube.com/watch?v=TV9VlHUR-Is), [Vid 4](https://www.youtube.com/watch?v=cr6Ip0J9izc&t=22s) | Medium | 📌 Extremely tricky. Classic problem |
 |05| [358. Rearrange String k Distance Apart](https://leetcode.com/problems/rearrange-string-k-distance-apart/)| [Python](https://tinyurl.com/to2yjbw/leetcode.com/python/358_Rearrange_String_k_Distance_Apart.py)| --- | Hard | 📌 Similar to [621. Task Scheduler](https://leetcode.com/problems/task-scheduler/) |
 |06| [295. Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/)| [Python](https://tinyurl.com/to2yjbw/leetcode.com/python/480_Sliding_Window_Median.py)| [Vid 1](https://tinyurl.com/uz66xbf) | Hard | 📌 Not Done |
-|07| [480. Sliding Window Median](https://leetcode.com/problems/sliding-window-median/)| [Python](https://tinyurl.com/to2yjbw/leetcode.com/python/480_Sliding_Window_Median.py)| [Vid 1](https://tinyurl.com/uz66xbf) | Hard | 📌 Sliding window, Not done |
+
 
 ### [Binary Search](https://leetcode.com/explore/learn/card/binary-search/)
 | #  | Title | Solution | Tutorial | Level | Remarks |
@@ -345,6 +344,9 @@ I have solved quite a number of problems from several topics. See the below tabl
 |09| [767. Reorganize String](https://leetcode.com/problems/reorganize-string/)| [Python](leetcode.com/python/767_Reorganize_String.py)| --- | Medium | Also check Heap approach |
 |10| [435. Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/)| [Python](https://tinyurl.com/to2yjbw/leetcode.com/python/435_Non-overlapping_Intervals.py)| [Vid 1](https://codinginterviewclass.com/courses/633601/lectures/12471331), [Art 1](https://tinyurl.com/yx5n7963) | Medium | Classic problem |
 |11| [57. Insert Interval](https://tinyurl.com/wzxrkd8)| [Python](https://tinyurl.com/to2yjbw/leetcode.com/python/57_Insert_Interval.py)| [Must](https://tinyurl.com/r9zk462) | Hard | Greedy and Merge interval |
+|12| [986. Interval List Intersections](https://tinyurl.com/wlw4rke)| [Python](https://tinyurl.com/to2yjbw/leetcode.com/python/986_Interval_List_Intersections.py)| --- | Medium | Greedy and Two Pointer |
+|13| [252. Meeting Rooms](https://tinyurl.com/whmtgr7)| [Python](https://tinyurl.com/to2yjbw/leetcode.com/python/252_Meeting_Rooms.py)| [Official](https://leetcode.com/problems/meeting-rooms/solution/) | Easy | Greedy and uses heap |
+|14| [253_Meeting_Rooms_II](https://tinyurl.com/r8vr7qo)| [Python](https://tinyurl.com/to2yjbw/leetcode.com/python/253_Meeting_Rooms_II.py)| [Official](https://leetcode.com/problems/meeting-rooms-ii/solution/) | Medium | Greedy and uses heap |
 
 
 ### [Dynamic Programming](https://www.educative.io/courses/grokking-dynamic-programming-patterns-for-coding-interviews)
