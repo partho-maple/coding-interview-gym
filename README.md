@@ -346,7 +346,8 @@ I have solved quite a number of problems from several topics. See the below tabl
 |11| [57. Insert Interval](https://tinyurl.com/wzxrkd8)| [Python](https://tinyurl.com/to2yjbw/leetcode.com/python/57_Insert_Interval.py)| [Must](https://tinyurl.com/r9zk462) | Hard | Greedy and Merge interval |
 |12| [986. Interval List Intersections](https://tinyurl.com/wlw4rke)| [Python](https://tinyurl.com/to2yjbw/leetcode.com/python/986_Interval_List_Intersections.py)| --- | Medium | Greedy and Two Pointer |
 |13| [252. Meeting Rooms](https://tinyurl.com/whmtgr7)| [Python](https://tinyurl.com/to2yjbw/leetcode.com/python/252_Meeting_Rooms.py)| [Official](https://leetcode.com/problems/meeting-rooms/solution/) | Easy | Greedy and uses heap |
-|14| [253_Meeting_Rooms_II](https://tinyurl.com/r8vr7qo)| [Python](https://tinyurl.com/to2yjbw/leetcode.com/python/253_Meeting_Rooms_II.py)| [Official](https://leetcode.com/problems/meeting-rooms-ii/solution/) | Medium | Greedy and uses heap |
+|14| [253. Meeting Rooms II](https://tinyurl.com/r8vr7qo)| [Python](https://tinyurl.com/to2yjbw/leetcode.com/python/253_Meeting_Rooms_II.py)| [Official](https://leetcode.com/problems/meeting-rooms-ii/solution/) | Medium | Greedy and uses heap |
+|15| [759. Employee Free Time](https://tinyurl.com/y5z73vre)| [Python](https://tinyurl.com/to2yjbw/leetcode.com/python/759_Employee_Free_Time.py)| [Educative.io](https://tinyurl.com/v42vmyr) | Hard | Greedy and uses heap. Not done. Check again |
 
 
 ### [Dynamic Programming](https://www.educative.io/courses/grokking-dynamic-programming-patterns-for-coding-interviews)
