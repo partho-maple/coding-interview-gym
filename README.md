@@ -144,6 +144,8 @@ I have solved quite a number of problems from several topics. See the below tabl
 |39| [202. Happy Number](https://tinyurl.com/ujm63nf)| [Python](https://tinyurl.com/to2yjbw/leetcode.com/python/202_Happy_Number.py)| [Art 1](https://tinyurl.com/roegfpt) | Easy | Fast pointer Slow pointer |
 |40| [457. Circular Array Loop](http://bit.ly/2skNL8X)| [Python](https://tinyurl.com/to2yjbw/leetcode.com/python/457_Circular_Array_Loop.py)| --- | Medium | Fast pointer Slow pointer.  Check again |
 |41| [448. Find All Numbers Disappeared in an Array](https://tinyurl.com/vd3u4ne)| [Python](https://tinyurl.com/to2yjbw/leetcode.com/python/448_Find_All_Numbers_Disappeared_in_an_Array.py)| --- | Easy | Cyclic Sort |
+|42| [287. Find the Duplicate Number](https://tinyurl.com/ua342v6)| [Python](https://tinyurl.com/to2yjbw/leetcode.com/python/287_Find_the_Duplicate_Number.py)| --- | Medium | Cyclic Sort. TODO: Check all other approaches |
+|43| [442. Find All Duplicates in an Array](https://tinyurl.com/yxxs4vvn)| [Python](https://tinyurl.com/to2yjbw/leetcode.com/python/442_Find_All_Duplicates_in_an_Array.py)| --- | Medium | Cyclic Sort TODO: Check all other approaches |
 
 
 ### [String](https://leetcode.com/explore/learn/card/array-and-string/)
