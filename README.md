@@ -184,7 +184,7 @@ I have solved quite a number of problems from several topics. See the below tabl
 |09| [234. Palindrome Linked List](http://bit.ly/2PuZQAx)| [Python](https://tinyurl.com/to2yjbw/leetcode.com/python/234_Palindrome_Linked_List.py)| --- | Easy | Fast pointer Slow pointer |
 |10| [143. Reorder List](http://bit.ly/35861AZ)| [Python](https://tinyurl.com/to2yjbw/leetcode.com/python/143_Reorder_List.py)| --- | Medium | Fast pointer Slow pointer |
 |11| [19. Remove Nth Node From End of List](http://bit.ly/36gU1xo)| [Python](https://tinyurl.com/to2yjbw/leetcode.com/python/19_Remove_Nth_Node_From_End_of_List.py)| --- | Medium | Fast pointer Slow pointer |
-|12| [817. Linked List Components](https://tinyurl.com/trgps7z)| [Python](https://tinyurl.com/to2yjbw/leetcode.com/python/817_Linked_List_Components.py)| --- | Medium | Uses set/dictionary |
+|12| [817. Linked List Components](https://tinyurl.com/trgps7z)| [Python](https://tinyurl.com/to2yjbw/leetcode.com/python/817_Linked_List_Components.py)| [Art 1](https://tinyurl.com/ql493bc) | Medium | Uses set/dictionary |
 
 
 ### [Stack, Queue](https://leetcode.com/explore/learn/card/queue-stack/)
@@ -343,6 +343,7 @@ I have solved quite a number of problems from several topics. See the below tabl
 |08| [45. Jump Game II](https://leetcode.com/problems/jump-game-ii/)| [Python](leetcode.com/python/45_Jump_Game_II.py)| [Vid  1](https://www.youtube.com/watch?v=cETfFsSTGJI), [Vid 2](https://www.youtube.com/watch?v=jH_5ypQggWg), [Vid 3](https://www.youtube.com/watch?v=vBdo7wtwlXs), [Art 1](https://tinyurl.com/yalsno6r) | Hard | 📌  |
 |09| [767. Reorganize String](https://leetcode.com/problems/reorganize-string/)| [Python](leetcode.com/python/767_Reorganize_String.py)| --- | Medium | Also check Heap approach |
 |10| [435. Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/)| [Python](https://tinyurl.com/to2yjbw/leetcode.com/python/435_Non-overlapping_Intervals.py)| [Vid 1](https://codinginterviewclass.com/courses/633601/lectures/12471331), [Art 1](https://tinyurl.com/yx5n7963) | Medium | Classic problem |
+|11| [57. Insert Interval](https://tinyurl.com/wzxrkd8)| [Python](https://tinyurl.com/to2yjbw/leetcode.com/python/57_Insert_Interval.py)| [Must](https://tinyurl.com/r9zk462) | Hard | Greedy and Merge interval |
 
 
 ### [Dynamic Programming](https://www.educative.io/courses/grokking-dynamic-programming-patterns-for-coding-interviews)
