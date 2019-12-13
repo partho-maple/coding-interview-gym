@@ -180,15 +180,18 @@ I have solved quite a number of problems from several topics. See the below tabl
 |01| [2. Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)| [Swift](leetcode.com/swift/2_Add_Two_Numbers.swift)|
 |02| [707. Design Linked List](https://leetcode.com/problems/design-linked-list/)| [Python](leetcode.com/python/707_Design_Linked_List.py)|
 |03| [21. Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)| [Python](leetcode.com/python/21_Merge_Two_Sorted_Lists.py)|
-|04| [206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)| [Python](https://tinyurl.com/to2yjbw/leetcode.com/python/206_Reverse_Linked_List.py)| [Vid 1](https://www.youtube.com/watch?v=sYcOK51hl-A), [Vid 2](https://tinyurl.com/y3w3tek4)] | Easy | Fundamental |
+|04| [234. Palindrome Linked List](http://bit.ly/2PuZQAx)| [Python](https://tinyurl.com/to2yjbw/leetcode.com/python/234_Palindrome_Linked_List.py)| --- | Easy | Fast pointer Slow pointer |
 |05| [24. Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)| [Python](https://tinyurl.com/to2yjbw/leetcode.com/python/24_Swap_Nodes_in_Pairs.py)|
 |06| [141. Linked List Cycle](https://tinyurl.com/u3vl5za)| [Python](https://tinyurl.com/to2yjbw/leetcode.com/python/141_Linked_List_Cycle.py)| --- | Easy | Fast pointer Slow pointer |
 |07| [142. Linked List Cycle II](https://tinyurl.com/svsaqk7)| [Python](https://tinyurl.com/to2yjbw/leetcode.com/python/142_Linked_List_Cycle_II.py)| [Art 1](https://tinyurl.com/us8ssdf), [Art 2](https://tinyurl.com/r5ztjpr), [AlgoExpert.io](https://tinyurl.com/r3rskyc) | Medium | Fast pointer Slow pointer |
 |08| [876. Middle of the Linked List](http://bit.ly/2YBAgOr)| [Python](https://tinyurl.com/to2yjbw/leetcode.com/python/876_Middle_of_the_Linked_List.py)| --- | Easy | Fast pointer Slow pointer |
-|09| [234. Palindrome Linked List](http://bit.ly/2PuZQAx)| [Python](https://tinyurl.com/to2yjbw/leetcode.com/python/234_Palindrome_Linked_List.py)| --- | Easy | Fast pointer Slow pointer |
-|10| [143. Reorder List](http://bit.ly/35861AZ)| [Python](https://tinyurl.com/to2yjbw/leetcode.com/python/143_Reorder_List.py)| --- | Medium | Fast pointer Slow pointer |
-|11| [19. Remove Nth Node From End of List](http://bit.ly/36gU1xo)| [Python](https://tinyurl.com/to2yjbw/leetcode.com/python/19_Remove_Nth_Node_From_End_of_List.py)| --- | Medium | Fast pointer Slow pointer |
-|12| [817. Linked List Components](https://tinyurl.com/trgps7z)| [Python](https://tinyurl.com/to2yjbw/leetcode.com/python/817_Linked_List_Components.py)| [Art 1](https://tinyurl.com/ql493bc) | Medium | Uses set/dictionary |
+|09| [143. Reorder List](http://bit.ly/35861AZ)| [Python](https://tinyurl.com/to2yjbw/leetcode.com/python/143_Reorder_List.py)| --- | Medium | Fast pointer Slow pointer |
+|10| [19. Remove Nth Node From End of List](http://bit.ly/36gU1xo)| [Python](https://tinyurl.com/to2yjbw/leetcode.com/python/19_Remove_Nth_Node_From_End_of_List.py)| --- | Medium | Fast pointer Slow pointer |
+|11| [817. Linked List Components](https://tinyurl.com/trgps7z)| [Python](https://tinyurl.com/to2yjbw/leetcode.com/python/817_Linked_List_Components.py)| [Art 1](https://tinyurl.com/ql493bc) | Medium | Uses set/dictionary |
+|12| [206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)| [Python](https://tinyurl.com/to2yjbw/leetcode.com/python/206_Reverse_Linked_List.py)| [Vid 1](https://www.youtube.com/watch?v=sYcOK51hl-A), [Vid 2](https://tinyurl.com/y3w3tek4) | Easy | Fundamental |
+|13| [92. Reverse Linked List II](https://tinyurl.com/h2kbl8k)| [Python](https://tinyurl.com/to2yjbw/leetcode.com/python/92_Reverse_Linked_List_II.py)| [educative.io](https://tinyurl.com/ql823xq), [Art 2](https://tinyurl.com/vdwhhv9) | Medium | Fundamental and very important |
+|14| [25. Reverse Nodes in k-Group](https://tinyurl.com/syg593o)| [Python](https://tinyurl.com/to2yjbw/leetcode.com/python/25_Reverse_Nodes_in_k-Group.py)| [educative.io](https://tinyurl.com/s7pns43q), [Art 1](https://tinyurl.com/rfumpm9), [Art 2](https://tinyurl.com/sqd5jsv) | Hard | Fundamental. TODO: Check again |
+|15| [24. Swap Nodes in Pairs](https://tinyurl.com/skymfxw)| [Python](https://tinyurl.com/to2yjbw/leetcode.com/python/24_Swap_Nodes_in_Pairs.py)| [educative.io](https://tinyurl.com/s7pns43q) | Medium | Fundamental |
 
 
 ### [Stack, Queue](https://leetcode.com/explore/learn/card/queue-stack/)
