@@ -146,6 +146,7 @@ I have solved quite a number of problems from several topics. See the below tabl
 |41| [448. Find All Numbers Disappeared in an Array](https://tinyurl.com/vd3u4ne)| [Python](https://tinyurl.com/to2yjbw/leetcode.com/python/448_Find_All_Numbers_Disappeared_in_an_Array.py)| --- | Easy | Cyclic Sort |
 |42| [287. Find the Duplicate Number](https://tinyurl.com/ua342v6)| [Python](https://tinyurl.com/to2yjbw/leetcode.com/python/287_Find_the_Duplicate_Number.py)| --- | Medium | Cyclic Sort. TODO: Check all other approaches |
 |43| [442. Find All Duplicates in an Array](https://tinyurl.com/yxxs4vvn)| [Python](https://tinyurl.com/to2yjbw/leetcode.com/python/442_Find_All_Duplicates_in_an_Array.py)| --- | Medium | Cyclic Sort TODO: Check all other approaches |
+|44| [41. First Missing Positive](https://tinyurl.com/tfewwtv)| [Python](https://tinyurl.com/to2yjbw/leetcode.com/python/41_First_Missing_Positive.py)| --- | Hard | Cyclic Sort, Very important |
 
 
 ### [String](https://leetcode.com/explore/learn/card/array-and-string/)
