@@ -193,7 +193,7 @@ I have solved quite a number of problems from several topics. See the below tabl
 |14| [25. Reverse Nodes in k-Group](https://tinyurl.com/syg593o)| [Python](https://tinyurl.com/to2yjbw/leetcode.com/python/25_Reverse_Nodes_in_k-Group.py)| [educative.io](https://tinyurl.com/s7pns43q), [Art 1](https://tinyurl.com/rfumpm9), [Art 2](https://tinyurl.com/sqd5jsv) | Hard | Fundamental. TODO: Check again |
 |15| [24. Swap Nodes in Pairs](https://tinyurl.com/skymfxw)| [Python](https://tinyurl.com/to2yjbw/leetcode.com/python/24_Swap_Nodes_in_Pairs.py)| [educative.io](https://tinyurl.com/s7pns43q) | Medium | Fundamental |
 |16| [61. Rotate List](https://tinyurl.com/vnwzmxo)| [Python](https://tinyurl.com/to2yjbw/leetcode.com/python/61_Rotate_List.py)| [educative.io](https://tinyurl.com/rojgtv4) | Medium | Fundamental |
-
+|17| [328. Odd Even Linked List](https://tinyurl.com/qnjnarm)| [Python](https://tinyurl.com/to2yjbw/leetcode.com/python/328_Odd_Even_Linked_List.py)| [Art 1](https://tinyurl.com/r4f9y2s) | Medium | Fundamental |
 
 ### [Stack, Queue](https://leetcode.com/explore/learn/card/queue-stack/)
 | #  | Title | Solution | Tutorial | Level | Remarks |
