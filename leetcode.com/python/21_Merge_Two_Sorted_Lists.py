@@ -63,6 +63,63 @@ class MyLinkedList(object):
         self.size += 1
 
 
+
+
+
+
+
+# # Recursive Soution
+# class Solution:
+#     def mergeTwoLists(self, l1, l2):
+#         if l1 is None:
+#             return l2
+#         elif l2 is None:
+#             return l1
+#         elif l1.val < l2.val:
+#             l1.next = self.mergeTwoLists(l1.next, l2)
+#             return l1
+#         else:
+#             l2.next = self.mergeTwoLists(l1, l2.next)
+#             return l2
+
+
+
+
+
+
+# # Iterative Solution 1
+# class Solution(object):
+#     def mergeTwoLists(self, l1, l2):
+#         """
+#         :type l1: ListNode
+#         :type l2: ListNode
+#         :rtype: ListNode
+#         """
+#         dummyNode = ListNode(-1)
+#         head = dummyNode
+#         while l1 is not None and l2 is not None:
+#             if l1.val < l2.val:
+#                 dummyNode.next = l1
+#                 l1 = l1.next
+#             else:
+#                 dummyNode.next = l2
+#                 l2 = l2.next
+#             dummyNode = dummyNode.next
+#         if l1 is not None:
+#             dummyNode.next = l1
+#         if l2 is not None:
+#             dummyNode.next = l2
+#
+#         return head.next
+
+
+
+
+
+
+
+
+# Iterative Solution 2. Source: https://tinyurl.com/r9azs3n
 class Solution(object):
     def mergeTwoLists(self, l1, l2):
         """
@@ -70,22 +127,29 @@ class Solution(object):
         :type l2: ListNode
         :rtype: ListNode
         """
-        dummyNode = ListNode(-1)
-        head = dummyNode
-        while l1 is not None and l2 is not None:
-            if l1.val < l2.val:
-                dummyNode.next = l1
-                l1 = l1.next
+        if not l1 or not l2:
+            return l1 if l1 else l2
+        p1, p2, p1Prev = l1, l2, None
+        while p1 and p2:
+            if p1.val < p2.val:
+                p1Prev = p1
+                p1 = p1.next
             else:
-                dummyNode.next = l2
-                l2 = l2.next
-            dummyNode = dummyNode.next
-        if l1 is not None:
-            dummyNode.next = l1
-        if l2 is not None:
-            dummyNode.next = l2
+                if p1Prev:
+                    p1Prev.next = p2
+                p1Prev = p2
+                p2 = p2.next
+                p1Prev.next = p1
+        if not p1:
+            p1Prev.next = p2
+        return l1 if l1.val < l2.val else l2
 
-        return head.next
+
+
+
+
+
+
 
 
 obj1 = MyLinkedList()
