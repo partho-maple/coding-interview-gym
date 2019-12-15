@@ -197,6 +197,8 @@ I have solved quite a number of problems from several topics. See the below tabl
 |18| [148. Sort List](https://tinyurl.com/rdlsc5c)| [Python](https://tinyurl.com/to2yjbw/leetcode.com/python/148_Sort_List.py)| [Vid 1](https://tinyurl.com/tgrrdzk), [Vid 2](https://tinyurl.com/tuhlf33), [Vid 3](https://tinyurl.com/w3xh8n3), [Art 1](https://tinyurl.com/uvsj8v3) | Medium | Fundamental |
 |19| [23. Merge k Sorted Lists](https://tinyurl.com/u4dpc7r)| [Python](https://tinyurl.com/to2yjbw/leetcode.com/python/23_Merge_k_Sorted_Lists.py)| **[Art 1](https://tinyurl.com/rybqon6)** | Hard | Very important |
 |20| [160. Intersection of Two Linked Lists](https://tinyurl.com/rz6nrop)| [Python](https://tinyurl.com/to2yjbw/leetcode.com/python/160_Intersection_of_Tw_Linked_Lists.py)| [Art 1](https://tinyurl.com/urrs7uy), [Art 2](https://tinyurl.com/wkya7ks) | Easy | --- |
+|21| [138. Copy List with Random Pointer](https://tinyurl.com/uhaw95f)| [Python](https://tinyurl.com/to2yjbw/leetcode.com/python/138_Copy_List_with_Random_Pointer.py)| **[Vid 1](https://tinyurl.com/reaqam9), [Art 1](https://tinyurl.com/tnwofvs)** | Medium | TODO: Check again. Very important. Learned a lot of things |
+
 
 ### [Stack, Queue](https://leetcode.com/explore/learn/card/queue-stack/)
 | #  | Title | Solution | Tutorial | Level | Remarks |
