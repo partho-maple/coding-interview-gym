@@ -179,7 +179,7 @@ I have solved quite a number of problems from several topics. See the below tabl
 | --- | --- | --- | --- | --- | --- |
 |01| [2. Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)| [Swift](leetcode.com/swift/2_Add_Two_Numbers.swift)|
 |02| [707. Design Linked List](https://leetcode.com/problems/design-linked-list/)| [Python](leetcode.com/python/707_Design_Linked_List.py)|
-|03| [21. Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)| [Python](leetcode.com/python/21_Merge_Two_Sorted_Lists.py)|
+|03| [21. Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)| [Python](https://tinyurl.com/to2yjbw/leetcode.com/python/21_Merge_Two_Sorted_Lists.py)| [Algoexpert.io](https://tinyurl.com/r9azs3n), [Vid 1](https://tinyurl.com/t55smdg) | Easy | Fundamental and very very important |
 |04| [234. Palindrome Linked List](http://bit.ly/2PuZQAx)| [Python](https://tinyurl.com/to2yjbw/leetcode.com/python/234_Palindrome_Linked_List.py)| --- | Easy | Fast pointer Slow pointer |
 |05| [24. Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)| [Python](https://tinyurl.com/to2yjbw/leetcode.com/python/24_Swap_Nodes_in_Pairs.py)|
 |06| [141. Linked List Cycle](https://tinyurl.com/u3vl5za)| [Python](https://tinyurl.com/to2yjbw/leetcode.com/python/141_Linked_List_Cycle.py)| --- | Easy | Fast pointer Slow pointer |
@@ -194,6 +194,7 @@ I have solved quite a number of problems from several topics. See the below tabl
 |15| [24. Swap Nodes in Pairs](https://tinyurl.com/skymfxw)| [Python](https://tinyurl.com/to2yjbw/leetcode.com/python/24_Swap_Nodes_in_Pairs.py)| [educative.io](https://tinyurl.com/s7pns43q) | Medium | Fundamental |
 |16| [61. Rotate List](https://tinyurl.com/vnwzmxo)| [Python](https://tinyurl.com/to2yjbw/leetcode.com/python/61_Rotate_List.py)| [educative.io](https://tinyurl.com/rojgtv4) | Medium | Fundamental |
 |17| [328. Odd Even Linked List](https://tinyurl.com/qnjnarm)| [Python](https://tinyurl.com/to2yjbw/leetcode.com/python/328_Odd_Even_Linked_List.py)| [Art 1](https://tinyurl.com/r4f9y2s) | Medium | Fundamental |
+|18| [148. Sort List](https://tinyurl.com/rdlsc5c)| [Python](https://tinyurl.com/to2yjbw/leetcode.com/python/148_Sort_List.py)| [Vid 1](https://tinyurl.com/tgrrdzk), [Vid 2](https://tinyurl.com/tuhlf33), [Vid 3](https://tinyurl.com/w3xh8n3), [Art 1](https://tinyurl.com/uvsj8v3) | Medium | Fundamental |
 
 ### [Stack, Queue](https://leetcode.com/explore/learn/card/queue-stack/)
 | #  | Title | Solution | Tutorial | Level | Remarks |
