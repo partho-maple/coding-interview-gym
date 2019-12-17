@@ -264,7 +264,8 @@ I have solved quite a number of problems from several topics. See the below tabl
 |14| **[979. Distribute Coins in Binary Tree](https://leetcode.com/problems/distribute-coins-in-binary-tree/)**| [Python](leetcode.com/python/979_Distribute_Coins_in_Binary_Tree.py)| [Art 1](https://tinyurl.com/rugoa38), [Art 2](https://tinyurl.com/whkdbl4), [Art 3](https://tinyurl.com/s62fws7) | Medium | **Very important. Postorder DFS** |
 |15| [116. Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/)| [Python](leetcode.com/python/116_Populating_Next_Right_Pointers_in_Each_Node.py)| [Art 1](https://tinyurl.com/t6p8kjb), [Art 2](https://tinyurl.com/ujzrhkj), **[Art 3](https://tinyurl.com/unrow77)** | Medium | BFS/DFS, Level order traversal |
 |16| [117. Populating Next Right Pointers in Each Node II](https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii/)| [Python](https://tinyurl.com/to2yjbw/leetcode.com/python/117_Populating_Next_Right_Pointers_in_Each_Node_II.py)| [Vid 1](https://tinyurl.com/rfjhzj3), [Vid 2](https://tinyurl.com/ryghj42) | Medium | **Very tricky, check again** |
-|17| [199. Binary Tree Right Side View](https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii/)| [Python](https://tinyurl.com/to2yjbw/leetcode.com/python/199_Binary_Tree_Right_Side_View.py)| --- | Medium | --- |
+|17| [199. Binary Tree Right Side View](https://tinyurl.com/y65vxqj2)| [Python](https://tinyurl.com/to2yjbw/leetcode.com/python/199_Binary_Tree_Right_Side_View.py)| --- | Medium | --- |
+|18| **[863. All Nodes Distance K in Binary Tree](https://tinyurl.com/w5dmj3o)**| [Python](https://tinyurl.com/to2yjbw/leetcode.com/python/863_All_Nodes_Distance_K_in_Binary_Tree.py)| [Vid 1](https://tinyurl.com/tn4ncqy), [Art 1](https://tinyurl.com/t3ozct3), [Art 2](https://tinyurl.com/rvbhznn) | Medium | A combination of graph and tree. TODO: Check again. Very important |
 
 
 ### [Binary Search Tree](https://leetcode.com/explore/learn/card/introduction-to-data-structure-binary-search-tree/)
@@ -312,7 +313,7 @@ I have solved quite a number of problems from several topics. See the below tabl
 
 | #  | Title | Solution | Tutorial | Level | Remarks |
 | --- | --- | --- | --- | --- | --- |
-|01| [200. Number of Islands](https://leetcode.com/problems/number-of-islands/)| [Python](leetcode.com/python/200_Number_of_Islands.py)| --- | Medium | DFS, Union Find |
+|01| **[200. Number of Islands](https://leetcode.com/problems/number-of-islands/)** | [Python](leetcode.com/python/200_Number_of_Islands.py)| --- | Medium | DFS, Union Find |
 |02| [695. Max Area of Island](https://leetcode.com/problems/max-area-of-island/)| [Python](https://tinyurl.com/to2yjbw/leetcode.com/python/695_Max_Area_of_Island.py)| --- | Medium | DFS |
 
 
