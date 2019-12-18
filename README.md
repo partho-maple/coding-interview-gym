@@ -266,6 +266,7 @@ I have solved quite a number of problems from several topics. See the below tabl
 |16| [117. Populating Next Right Pointers in Each Node II](https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii/)| [Python](https://tinyurl.com/to2yjbw/leetcode.com/python/117_Populating_Next_Right_Pointers_in_Each_Node_II.py)| [Vid 1](https://tinyurl.com/rfjhzj3), [Vid 2](https://tinyurl.com/ryghj42) | Medium | **Very tricky, check again** |
 |17| [199. Binary Tree Right Side View](https://tinyurl.com/y65vxqj2)| [Python](https://tinyurl.com/to2yjbw/leetcode.com/python/199_Binary_Tree_Right_Side_View.py)| --- | Medium | --- |
 |18| **[863. All Nodes Distance K in Binary Tree](https://tinyurl.com/w5dmj3o)**| [Python](https://tinyurl.com/to2yjbw/leetcode.com/python/863_All_Nodes_Distance_K_in_Binary_Tree.py)| [Vid 1](https://tinyurl.com/tn4ncqy), [Art 1](https://tinyurl.com/t3ozct3), [Art 2](https://tinyurl.com/rvbhznn) | Medium | A combination of graph and tree. TODO: Check again. Very important |
+|19| [301. Remove Invalid Parentheses](https://tinyurl.com/w9lfsgt) | [Python](https://tinyurl.com/to2yjbw/leetcode.com/python/301_Remove_Invalid_Parentheses.py)| [Vid 1](https://tinyurl.com/rbp6xa7), [Vid 2](https://tinyurl.com/sjk44du), [Art 1](https://tinyurl.com/tcglxfp) | Hard | TODO: Not done, Check again. Very important. BFS and DFS |
 
 
 ### [Binary Search Tree](https://leetcode.com/explore/learn/card/introduction-to-data-structure-binary-search-tree/)
