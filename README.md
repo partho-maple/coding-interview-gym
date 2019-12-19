@@ -267,7 +267,8 @@ I have solved quite a number of problems from several topics. See the below tabl
 |17| [199. Binary Tree Right Side View](https://tinyurl.com/y65vxqj2)| [Python](https://tinyurl.com/to2yjbw/leetcode.com/python/199_Binary_Tree_Right_Side_View.py)| --- | Medium | --- |
 |18| **[863. All Nodes Distance K in Binary Tree](https://tinyurl.com/w5dmj3o)**| [Python](https://tinyurl.com/to2yjbw/leetcode.com/python/863_All_Nodes_Distance_K_in_Binary_Tree.py)| [Vid 1](https://tinyurl.com/tn4ncqy), [Art 1](https://tinyurl.com/t3ozct3), [Art 2](https://tinyurl.com/rvbhznn) | Medium | A combination of graph and tree. TODO: Check again. Very important |
 |19| [301. Remove Invalid Parentheses](https://tinyurl.com/w9lfsgt) | [Python](https://tinyurl.com/to2yjbw/leetcode.com/python/301_Remove_Invalid_Parentheses.py)| [Vid 1](https://tinyurl.com/rbp6xa7), [Vid 2](https://tinyurl.com/sjk44du), [Art 1](https://tinyurl.com/tcglxfp) | Hard | TODO: Not done, Check again. Very important. BFS and DFS |
-|20| [112. Path Sum](https://tinyurl.com/rg6m7ua) | [Python](https://tinyurl.com/to2yjbw/leetcode.com/python/112_Path_Sum.py)| --- | Easy | --- |
+|20| [112. Path Sum](https://tinyurl.com/rg6m7ua) | [Python](https://tinyurl.com/to2yjbw/leetcode.com/python/112_Path_Sum.py)| [Art 1](https://tinyurl.com/t2dggse) | Easy | --- |
+|21| [113. Path Sum II](https://tinyurl.com/qm9gc2v) | [Python](https://tinyurl.com/to2yjbw/leetcode.com/python/113_Path_Sum_II.py)| [Art 1](https://tinyurl.com/rynd6fy), [Art 2](https://tinyurl.com/tn2o75s) | Medium | --- |
 
 
 ### [Binary Search Tree](https://leetcode.com/explore/learn/card/introduction-to-data-structure-binary-search-tree/)
