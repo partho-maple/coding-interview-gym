@@ -270,6 +270,7 @@ I have solved quite a number of problems from several topics. See the below tabl
 |20| [112. Path Sum](https://tinyurl.com/rg6m7ua) | [Python](https://tinyurl.com/to2yjbw/leetcode.com/python/112_Path_Sum.py)| [Art 1](https://tinyurl.com/t2dggse) | Easy | --- |
 |21| [113. Path Sum II](https://tinyurl.com/qm9gc2v) | [Python](https://tinyurl.com/to2yjbw/leetcode.com/python/113_Path_Sum_II.py)| [Art 1](https://tinyurl.com/rynd6fy), [Art 2](https://tinyurl.com/tn2o75s) | Medium | --- |
 |22| [437. Path Sum III](https://tinyurl.com/ug978np) | [Python](https://tinyurl.com/to2yjbw/leetcode.com/python/437_Path_Sum_III.py)| [Educative.io](https://tinyurl.com/vyhpcu2), [Art 1](https://tinyurl.com/w6yjxaz), **[Art 2](https://tinyurl.com/wkxjmqv)** | Medium | 📌 A good example of Prefix Sum and DFS. Very Important |
+|23| [543. Diameter of Binary Tree](https://tinyurl.com/womnj8m) | [Python](https://tinyurl.com/to2yjbw/leetcode.com/python/543_Diameter_of_Binary_Tree.py)| [Educative.io](https://tinyurl.com/w6rrucg), [Art 1](https://tinyurl.com/vfnvg8q) | Medium | 📌 Important |
 
 
 ### [Binary Search Tree](https://leetcode.com/explore/learn/card/introduction-to-data-structure-binary-search-tree/)
