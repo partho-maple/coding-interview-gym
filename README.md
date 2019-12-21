@@ -207,6 +207,7 @@ I have solved quite a number of problems from several topics. See the below tabl
 |02| [155. Min Stack](https://leetcode.com/problems/min-stack/)| [Python](https://tinyurl.com/wu6rdaw/155_Min_Stack.py)|
 |03| [84. Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/)| [Python](https://tinyurl.com/wu6rdaw/84_Largest_Rectangle_in_Histogram.py)| [Video 01](https://www.youtube.com/watch?v=VNbkzsnllsU), [Video 02](https://www.youtube.com/watch?v=RVIh0snn4Qc), [Article 01](https://leetcode.com/problems/largest-rectangle-in-histogram/solution/), [Article 02](https://leetcode.com/problems/largest-rectangle-in-histogram/discuss/28917/AC-Python-clean-solution-using-stack-76ms) | Hard | 📌 Need to revise |
 |04| [394. Decode String](https://leetcode.com/problems/decode-string/)| [Python](https://tinyurl.com/wu6rdaw/394_Decode_String.py)| --- | Medium | 📌 Classic stack problem |
+|05| [239. Sliding Window Maximum](https://tinyurl.com/rvhujl5)| [Python](https://tinyurl.com/wu6rdaw/239_Sliding_Window_Maximum.py)| **[Video 1](https://tinyurl.com/v767bl3)**, [Official](https://tinyurl.com/www4np2), [Art 1](https://tinyurl.com/y8nbroux), [Art 2](https://tinyurl.com/s62fzls), **[Art 3](https://tinyurl.com/vd3dtch)**, **[Art 4](https://tinyurl.com/yx3sjp46)** | Hard | 📌 Can be solved using Heap, Deque and DP |
 
 
 ### [Heaps](https://www.youtube.com/watch?v=HqPJF2L5h9U)
