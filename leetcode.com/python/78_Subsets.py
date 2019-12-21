@@ -35,6 +35,23 @@ class Solution(object):
             self.generateAllUniqueSubsets(originalNums, node, i + 1, allSubsets)
 
 
+
+
+
+    # BFS approach: https://tinyurl.com/umzgkhr
+    def subsets(self, nums):
+        totalSubsets = []
+        totalSubsets.append([])
+        for currentNum in nums:
+            currentSubsetsLen = len(totalSubsets)
+            for idx in range(currentSubsetsLen):
+                newSubset = list(totalSubsets[idx])
+                newSubset.append(currentNum)
+                totalSubsets.append(newSubset)
+        return totalSubsets
+
+
+
 sol = Solution()
 input = [1,2,3]
 out = sol.subsets(input)
