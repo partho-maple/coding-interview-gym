@@ -353,6 +353,8 @@ I have solved quite a number of problems from several topics. See the below tabl
 |14| [1219. Path with Maximum Gold](https://leetcode.com/problems/path-with-maximum-gold/)| [Python](https://tinyurl.com/wu6rdaw/1219_Path_with_Maximum_Gold.py)| --- | Medium |📌 --- |
 |15| [78. Subsets](https://leetcode.com/problems/subsets/)| [Python](https://tinyurl.com/wu6rdaw/78_Subsets.py)| [Video 1](https://www.youtube.com/results?search_query=All+Subsets+of+a+Set), [Video 2](https://www.youtube.com/watch?v=MsHFNGltIxw), [Video 3](https://www.youtube.com/watch?v=xTNFs5KRV_g), [Article 1](https://tinyurl.com/y5p2ozjo), **[educative.io](https://tinyurl.com/umzgkhr)** | Medium |📌 TODO: check bit manipulation |
 |15| [90. Subsets II](https://tinyurl.com/rqpxyat)| [Python](https://tinyurl.com/wu6rdaw/90_Subsets_II.py)| [Video 1](https://www.youtube.com/results?search_query=All+Subsets+of+a+Set), [Video 2](https://www.youtube.com/watch?v=MsHFNGltIxw), [Video 3](https://www.youtube.com/watch?v=xTNFs5KRV_g), [Article 1](https://tinyurl.com/y5p2ozjo), **[educative.io](https://tinyurl.com/wfkx3jt)** | Medium |📌  |
+|16| [47. Permutations II](https://tinyurl.com/twg7jb4)| [Python](https://tinyurl.com/wu6rdaw/47_Permutations_II.py)| [codinginterviewclass.com](https://tinyurl.com/ujv54ef), [algoexpert.io](https://tinyurl.com/tou9p8p), [educative.io](https://tinyurl.com/s3ncxtn), [Article 1](https://tinyurl.com/wmpb8h3) | Medium | Backtracking  Fundamentals |
+
 
 
 ### [Greedy](https://www.youtube.com/watch?v=ARvQcqJ_-NY)
