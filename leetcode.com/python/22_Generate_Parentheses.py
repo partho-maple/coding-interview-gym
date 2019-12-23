@@ -4,18 +4,19 @@ class Solution(object):
         :type n: int
         :rtype: List[str]
         """
-        combinations = []
-        self.backtrack("", 0, 0, n, combinations)
-        return combinations
+        allCombinations = []
+        self.backtrack("", 0, 0, n, allCombinations)
+        return allCombinations
 
-    def backtrack(self, string, openCount, closeCount, maxcount, combinations):
-        if len(string) == maxcount*2:
-            combinations.append(string)
-            return # backtracking
-        if openCount < maxcount:
-            self.backtrack(string + "(", openCount + 1, closeCount, maxcount, combinations)
+
+    def backtrack(self, currentCombination, openCount, closeCount, n, allCombinations):
+        if len(currentCombination) == n*2:
+            allCombinations.append(currentCombination)
+            return
+        if openCount < n:
+            self.backtrack(currentCombination + "(", openCount + 1, closeCount, n, allCombinations)
         if closeCount < openCount:
-            self.backtrack(string + ")", openCount, closeCount + 1, maxcount, combinations)
+            self.backtrack(currentCombination + ")", openCount, closeCount + 1, n, allCombinations)
 
 
 sol = Solution()

@@ -12,17 +12,23 @@ class Solution(object):
                  '7': ['p', 'q', 'r', 's'],
                  '8': ['t', 'u', 'v'],
                  '9': ['w', 'x', 'y', 'z']}
-        result = []
+        allCombination = []
         if digits:
-            self.backtrack("", digits, phone, result)
-        return result
+            self.backtrack("", digits, phone, allCombination)
+        return allCombination
 
-    def backtrack(self, combination, nextDigits, alphaDigitalMap, cache):
-        if len(nextDigits) == 0:
-            cache.append(combination)
+    def backtrack(self, currentCombination, leftoverDigits, alphaDigitalMap, allCombination):
+        if len(leftoverDigits) == 0:
+            allCombination.append(currentCombination)
         else:
-            for letter in alphaDigitalMap[nextDigits[0]]:
-                self.backtrack(combination + letter, nextDigits[1:], alphaDigitalMap, cache)
+            for letter in alphaDigitalMap[leftoverDigits[0]]:
+
+                # # Use this one line. Or the following 3 line code
+                # self.backtrack(currentCombination + letter, leftoverDigits[1:], alphaDigitalMap, allCombination)
+
+                currentCombination += letter
+                self.backtrack(currentCombination, leftoverDigits[1:], alphaDigitalMap, allCombination)
+                currentCombination = currentCombination[:-1]  # Backtrack, remove last character from currentCombination
 
 
 
