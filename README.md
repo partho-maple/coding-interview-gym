@@ -420,7 +420,9 @@ I have solved quite a number of problems from several topics. See the below tabl
 |09| [231. Power of Two](https://leetcode.com/problems/power-of-two/)| [Python](https://tinyurl.com/wu6rdaw/231_Power_of_Two.py)| [Official](https://leetcode.com/problems/power-of-two/solution/), [Signed number representations](https://en.wikipedia.org/wiki/Signed_number_representations) | Easy | 📌 Learned few very important binary logic properties |
 |10| [136. Single Number](https://leetcode.com/problems/single-number/)| [Python](https://tinyurl.com/wu6rdaw/136_Single_Number.py)| [Educative.io](https://tinyurl.com/rzkypbg) | Easy |📌 The key here is to practice bit operation, i ignore any other attempts |
 |11| [137. Single Number II](https://tinyurl.com/oxtpdeg)| [Python](https://tinyurl.com/wu6rdaw/137_Single_Number_II.py)| [1](https://leetcode.com/problems/single-number-ii/discuss/43302/Accepted-code-with-proper-Explaination.-Does-anyone-have-a-better-idea), [2](https://medium.com/@lenchen/leetcode-137-single-number-ii-31af98b0f462), [3](https://leetcode.com/problems/single-number-ii/discuss/43294/Challenge-me-thx/176039), Check discussion | Medium | ⭐ 😭 Didn't understand, check again  |
-|12| [260. Single Number III](https://tinyurl.com/y4hgvu2y)| [Python](https://tinyurl.com/wu6rdaw/260_Single_Number_III.py)| **[Educative.io](https://tinyurl.com/tdhj9eh)** | Medium | ⭐ 😭 Check again, very important  |
+|12| [260. Single Number III](https://tinyurl.com/y4hgvu2y)| [Python](https://tinyurl.com/wu6rdaw/260_Single_Number_III.py)| **[Educative.io](https://tinyurl.com/tdhj9eh)** | Medium | ⭐ Check again, very important  |
+|13| [476. Number Complement](https://tinyurl.com/tadg5uf)| [Python](https://tinyurl.com/wu6rdaw/476_Number_Complement.py)| **[Educative.io](https://tinyurl.com/ucwmq5n)** | Easy | ⭐ Check again  |
+|14| [832. Flipping an Image](https://tinyurl.com/uog7h9f)| [Python](https://tinyurl.com/wu6rdaw/832_Flipping_an_Image.py)| **[Educative.io](https://tinyurl.com/wyd8c4g)** | Easy | ⭐ Check again  |
 
 
 ---
