@@ -222,7 +222,7 @@ I have solved quite a number of problems from several topics. See the below tabl
 |07| **[4. Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)** | [Python](https://tinyurl.com/wu6rdaw/4_Median_of_Two_Sorted_Arrays.py)| [Article 01](https://tinyurl.com/wn5w5j2), [Art 2](https://tinyurl.com/qm3fbbu) [Video 1](https://www.youtube.com/watch?v=LPFhl65R7ww)| Hard | 📌 Classic problem |
 |08| [215. Kth Largest Element in an Array](https://tinyurl.com/y6cjzgbv) | [Python](https://tinyurl.com/wu6rdaw/215_Kth_Largest_Element_in_an_Array.py)| [Art 01](https://tinyurl.com/svnozo2), [Algoexpert.io](https://tinyurl.com/rjzx5hw), [educative.io](https://tinyurl.com/r34urrx)| Medium | 📌 Also check Quickselect method. |
 |09| [659. Split Array into Consecutive Subsequences](https://tinyurl.com/vsbddyl) | [Python](https://tinyurl.com/wu6rdaw/659_Split_Array_into_Consecutive_Subsequences.py)| [Art 0](https://tinyurl.com/qq5jucw), [Art 1](https://tinyurl.com/qk7m78s), [Art 2](https://tinyurl.com/sjkdtre), [Art 3](https://tinyurl.com/tnewgqa) | Medium | 📌 It's a fucking unclear problem. TODO: Not done. Check again later |
-
+|10| [973. K Closest Points to Origin](https://tinyurl.com/t4d3ge7) | [Python](https://tinyurl.com/wu6rdaw/973_K_Closest_Points_to_Origin.py)| [Algoexpert.io](https://tinyurl.com/rjzx5hw), [educative.io](https://tinyurl.com/vppeh5y), [Vid 1](https://tinyurl.com/wey8mub) | Medium | 📌 Also check Quickselect and heap method |
 
 ### [Binary Search](https://leetcode.com/explore/learn/card/binary-search/)
 | #  | Title | Solution | Tutorial | Level | Remarks |
