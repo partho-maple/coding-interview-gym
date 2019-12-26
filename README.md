@@ -227,7 +227,8 @@ I have solved quite a number of problems from several topics. See the below tabl
 |12| [692. Top K Frequent Words](https://tinyurl.com/yx69p89s) | [Python](https://tinyurl.com/wu6rdaw/692_Top_K_Frequent_Words.py)| [Algoexpert.io](https://tinyurl.com/rjzx5hw), [educative.io](https://tinyurl.com/vtk3de8) | Medium | 📌 Also check Quickselect and heap method |
 |13| [703. Kth Largest Element in a Stream](https://tinyurl.com/wqrgost) | [Python](https://tinyurl.com/wu6rdaw/703_Kth_Largest_Element_in_a_Stream.py)| [educative.io](https://tinyurl.com/uajjww8) | Medium | 📌 --- |
 |14| [895. Maximum Frequency Stack](https://tinyurl.com/szdk34w) | [Python](https://tinyurl.com/wu6rdaw/895_Maximum_Frequency_Stack.py)| [educative.io](https://tinyurl.com/w5cd6yh) | Hard | 📌 TODO: Check again |
-|15| **[378. Kth Smallest Element in a Sorted Matrix](https://tinyurl.com/shz4289)** | [Python](https://tinyurl.com/wu6rdaw/378_Kth_Smallest_Element_in_a_Sorted_Matrix.py)| [educative.io](https://tinyurl.com/scbjgjd) | Hard | 📌 TODO: Check again. Very important |
+|15| **[378. Kth Smallest Element in a Sorted Matrix](https://tinyurl.com/shz4289)** | [Python](https://tinyurl.com/wu6rdaw/378_Kth_Smallest_Element_in_a_Sorted_Matrix.py)| [educative.io](https://tinyurl.com/scbjgjd) | Hard | 📌 TODO: Check again the Binary Search approach. Very important |
+|16| **[632. Smallest Range Covering Elements from K Lists](https://tinyurl.com/v3fshwo)** | [Python](https://tinyurl.com/wu6rdaw/632_Smallest_Range_Covering_Elements_from_K_Lists.py)| [educative.io](https://tinyurl.com/ubfua7f) | Hard | 📌 TODO: Check again. Very important |
 
 
 ### [Binary Search](https://leetcode.com/explore/learn/card/binary-search/)
@@ -253,6 +254,7 @@ I have solved quite a number of problems from several topics. See the below tabl
 |19| [34. Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)| [Python](https://tinyurl.com/wu6rdaw/34_Find_First_and_Last_Position_of_Element_in_Sorted_Array.py)| [Vid 1](https://tinyurl.com/wa2zqff), [Educative.io](https://tinyurl.com/s4hvqqz) | Medium | 📌 **[Binary Search Template III](https://tinyurl.com/vpsn3w8)**|
 |20| [658. Find K Closest Elements](https://tinyurl.com/rkpkjfo)| [Python](https://tinyurl.com/wu6rdaw/658_Find_K_Closest_Elements.py)| [Vid 1](https://tinyurl.com/w5ccjoe), [educative.io](https://tinyurl.com/uogulbz) | Medium | 📌 **[Binary Search Template III](https://tinyurl.com/vpsn3w8)**. TODO: Check Heap approach which is not done|
 |21| [702. Search in a Sorted Array of Unknown Size](https://leetcode.com/problems/search-in-a-sorted-array-of-unknown-size/)| [Python](https://tinyurl.com/wu6rdaw/702_Search_in_a_Sorted_Array_of_Unknown_Size.py)| [Educative.io](https://tinyurl.com/qn6uuel) | Medium | 📌 [Binary Search Template I](https://leetcode.com/explore/learn/card/binary-search/125/template-i/938/) |
+|22| **[378. Kth Smallest Element in a Sorted Matrix](https://tinyurl.com/shz4289)** | [Python](https://tinyurl.com/wu6rdaw/378_Kth_Smallest_Element_in_a_Sorted_Matrix.py)| [educative.io](https://tinyurl.com/scbjgjd) | Hard | 📌 TODO: Check again the Binary Search approach. Very important |
 
 
 ### [Binary Tree](https://leetcode.com/explore/learn/card/data-structure-tree/)
