@@ -227,6 +227,7 @@ I have solved quite a number of problems from several topics. See the below tabl
 |12| [692. Top K Frequent Words](https://tinyurl.com/yx69p89s) | [Python](https://tinyurl.com/wu6rdaw/692_Top_K_Frequent_Words.py)| [Algoexpert.io](https://tinyurl.com/rjzx5hw), [educative.io](https://tinyurl.com/vtk3de8) | Medium | 📌 Also check Quickselect and heap method |
 |13| [703. Kth Largest Element in a Stream](https://tinyurl.com/wqrgost) | [Python](https://tinyurl.com/wu6rdaw/703_Kth_Largest_Element_in_a_Stream.py)| [educative.io](https://tinyurl.com/uajjww8) | Medium | 📌 --- |
 |14| [895. Maximum Frequency Stack](https://tinyurl.com/szdk34w) | [Python](https://tinyurl.com/wu6rdaw/895_Maximum_Frequency_Stack.py)| [educative.io](https://tinyurl.com/w5cd6yh) | Hard | 📌 TODO: Check again |
+|15| **[378. Kth Smallest Element in a Sorted Matrix](https://tinyurl.com/shz4289)** | [Python](https://tinyurl.com/wu6rdaw/378_Kth_Smallest_Element_in_a_Sorted_Matrix.py)| [educative.io](https://tinyurl.com/scbjgjd) | Hard | 📌 TODO: Check again. Very important |
 
 
 ### [Binary Search](https://leetcode.com/explore/learn/card/binary-search/)
