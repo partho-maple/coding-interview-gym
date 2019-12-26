@@ -47,9 +47,6 @@
 
 I have solved quite a number of problems from several topics. See the below table for further details.
 
-## Languages
-- Python, Swift
-
 ## Topics
 - Binary Search
 - Binary Search Tree
