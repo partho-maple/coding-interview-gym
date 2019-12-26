@@ -831,7 +831,11 @@ I have solved quite a number of problems from several topics. See the below tabl
 <p>
 
 
-<b>Strategies</b>
+### 1. Strategies
+
+<details><summary></summary>
+<p>
+
 01. [How a Googler solves coding problems](https://blog.usejournal.com/how-a-googler-solves-coding-problems-ec5d59e73ec5)
 02. [Nail Every Coding Interview by Becoming Asymmetrical](https://www.youtube.com/watch?v=-THCaZWggTk)
 03. [How to get into FAANG](https://drive.google.com/drive/u/0/folders/1sIdNzi4mOQL_YsPF4HAw-JsDtUneHKiu)
@@ -846,16 +850,30 @@ I have solved quite a number of problems from several topics. See the below tabl
 12. [A MUST READ](https://tinyurl.com/vzbn34s)
 13. [10 Steps to Solving a Programming Problem](https://tinyurl.com/s663j6z)
 
+</p>
+</details>
 
-<b>Courses/Books</b>
+
+### 2. Courses/Books
+
+<details><summary></summary>
+<p>
+
 01. [Data Structures in Python: An Interview Refresher](https://www.educative.io/courses/data-structures-in-python-an-interview-refresher)
 02. [Grokking the Coding Interview: Patterns for Coding Questions](https://www.educative.io/courses/grokking-the-coding-interview)
 03. [Grokking Dynamic Programming Patterns for Coding Interviews](https://www.educative.io/courses/grokking-dynamic-programming-patterns-for-coding-interviews)
 04. [Coding Interview Class](https://codinginterviewclass.com/)
 05. [Competitive Programmer’s Handbook](https://cses.fi/book/book.pdf)
 
-<b>Python</b>
-</br>
+</p>
+</details>
+
+
+### 3. Python
+
+<details><summary></summary>
+<p>
+
 Learn the following modules by heart. Just knowing all of the following items will made most of the problem one-liners.
 01. [itertools - Functions creating iterators for efficient looping](https://docs.python.org/3/library/itertools.html) - They will help you, more often than you think
     -   [Iterators and Iterables - What Are They and How Do They Work?](https://www.youtube.com/watch?v=jTYiNjvnHZY)
@@ -876,14 +894,29 @@ Learn the following modules by heart. Just knowing all of the following items wi
 11. [Understanding slice notation](https://stackoverflow.com/questions/509211/understanding-slice-notation) - you will need/use it more than you can imagine
 12. [Magic Methods](https://tinyurl.com/ydhyrgtq)
 
+</p>
+</details>
 
-<b>Channels</b>
+
+### 4. Channels
+
+<details><summary></summary>
+<p>
+
 01. [Tushar Roy - Coding Made Simple](https://www.youtube.com/channel/UCZLJf_R2sWyUtXSKiKlyvAw)
 02. [Back To Back SWE](https://www.youtube.com/channel/UCmJz2DV1a3yfgrR7GqRtUUA)
 03. [William Fiset](https://www.youtube.com/user/purpongie/featured)
 04. [Irfan Baqui](https://www.youtube.com/channel/UCYvQTh9aUgPZmVH0wNHFa1A)
 
-<b>Tree (Tree, BST, BIT, Segment Tree, N-aray Tree, Trie etc)</b>
+</p>
+</details>
+
+
+### 5. Tree (Tree, BST, BIT, Segment Tree, N-aray Tree, Trie etc)
+
+<details><summary></summary>
+<p>
+
 01. [Fenwick Tree or Binary Indexed Tree - youtube](https://www.youtube.com/watch?v=CWDQJGaN1gY)
 02. [Binary Indexed Tree or Fenwick Tree - geeksforgeeks](https://www.geeksforgeeks.org/binary-indexed-tree-or-fenwick-tree-2/)
 03. [Binary Indexed Tree or Fenwick Tree - topcoder](https://www.topcoder.com/community/competitive-programming/tutorials/binary-indexed-trees/)
@@ -896,12 +929,28 @@ Learn the following modules by heart. Just knowing all of the following items wi
 10. [Height, Depth and Level of a Tree](https://tinyurl.com/zvm773n)
 11. [What is the difference between tree depth and height?](https://tinyurl.com/vfnvg8q)
 
-<b>Graph(Dijkstra, Union Find, Kruskal, Prim's, Minimum Spanning Tree, Topological Ordering...etc)</b>
+</p>
+</details>
+
+
+### 6. Graph(Dijkstra, Union Find, Kruskal, Prim's, Minimum Spanning Tree, Topological Ordering...etc)
+
+<details><summary></summary>
+<p>
+
 01. [Graph Theory Playlist](https://tinyurl.com/rfgy88b)
 02. [Union Find \[Disjoint Set\] Playlist](https://tinyurl.com/srz7uua)
 03. [Disjoint Sets Data Structure - Weighted Union and Collapsing Find](https://www.youtube.com/watch?v=wU6udHRIkcc)
 
-<b>Bit Manipulation</b>
+</p>
+</details>
+
+
+### 7. Bit Manipulation
+
+<details><summary></summary>
+<p>
+
 01. [Bit Manipulation - youtube](https://www.youtube.com/watch?v=7jkIUgLC29I)
 02. [Conversion of Binary, Octal and Hexadecimal Numbers](http://www.cs.ucr.edu/~ehwang/courses/cs120a/00winter/binary.pdf)
 03. [Your guide to Bit Manipulation](https://codeburst.io/your-guide-to-bit-manipulation-48e7692f314a)
@@ -925,13 +974,29 @@ Learn the following modules by heart. Just knowing all of the following items wi
 21. [Bitwise operators — Facts and Hacks](https://medium.com/@shashankmohabia/bitwise-operators-facts-and-hacks-903ca516f28c)
 22. [Signed number representations](https://en.wikipedia.org/wiki/Signed_number_representations)
 
-<b>Dynamic Programming</b>
+</p>
+</details>
+
+
+### 8. Dynamic Programming
+
+<details><summary></summary>
+<p>
+
 01. [The FAST method](https://www.byte-by-byte.com/fast-method/)
 02. [A good approach to attack DP](https://leetcode.com/articles/jump-game/)
 03. [Tabulation vs Memoization](https://www.geeksforgeeks.org/tabulation-vs-memoization/)
 04. [Memoization vs Tabulation](https://elvrsn.blogspot.com/2015/02/memoization-vs-tabulation.html)
 
-<b>Greedy</b>
+</p>
+</details>
+
+
+### 9. Greedy
+
+<details><summary></summary>
+<p>
+
 01. [Greedy Method - Introduction](https://www.youtube.com/watch?v=ARvQcqJ_-NY&t=2s)
 02. [Introduction to Greedy Method](https://www.youtube.com/watch?v=xpNWJD24fPA)
 03. [Introduction to Greedy Algorithms | GeeksforGeeks](https://www.youtube.com/watch?v=HzeK7g8cD0Y)
@@ -939,12 +1004,28 @@ Learn the following modules by heart. Just knowing all of the following items wi
 05. [When to try greedy algorithms on problems?](https://codeforces.com/blog/entry/14032)
 06. [How to spot a “greedy” algorithm?](https://stackoverflow.com/questions/7887487/how-to-spot-a-greedy-algorithm) 
 
-<b>DP VS Greedy</b>
+</p>
+</details>
+
+
+### 10. DP VS Greedy
+
+<details><summary></summary>
+<p>
+
 01. [Greedy Algorithm and Dynamic Programming](https://medium.com/cracking-the-data-science-interview/greedy-algorithm-and-dynamic-programming-a8c019928405)
 02. [Greedy approach vs Dynamic programming](https://www.geeksforgeeks.org/greedy-approach-vs-dynamic-programming/)
 03. [What is the difference between dynamic programming and greedy approach?](https://stackoverflow.com/questions/16690249/what-is-the-difference-between-dynamic-programming-and-greedy-approach)
 
-<b>Backtracking</b>
+</p>
+</details>
+
+
+### 11. Backtracking
+
+<details><summary></summary>
+<p>
+
 01. [Backtracking - wiki](https://en.wikipedia.org/wiki/Backtracking)
 02. [Backtracking | Introduction](https://www.geeksforgeeks.org/backtracking-introduction/)
 03. [Introduction to Backtracking - Brute Force Approach](https://www.youtube.com/watch?v=DKCbsiDBN6c)
@@ -954,7 +1035,15 @@ Learn the following modules by heart. Just knowing all of the following items wi
 07. [Foundation of algorithms - Chapter 5 (Backtracking)  notes](https://www.cpp.edu/~ftang/courses/CS331/notes/backtracking.pdf)
 08. [Backtracking Search Algorithms](https://cs.uwaterloo.ca/~vanbeek/Publications/survey06.pdf)
 
-<b>Recursion</b>
+</p>
+</details>
+
+
+### 12. Recursion
+
+<details><summary></summary>
+<p>
+
 01. [Learning to think with recursion, part 1](https://medium.com/@daniel.oliver.king/getting-started-with-recursion-f89f57c5b60e)
 02. [Learning to think with recursion, part 2](https://medium.com/@daniel.oliver.king/learning-to-think-with-recursion-part-2-887bd4c41274)
 03. [What makes a data structure recursive?](https://stackoverflow.com/questions/45761182/what-makes-a-data-structure-recursive)
@@ -963,6 +1052,10 @@ Learn the following modules by heart. Just knowing all of the following items wi
 06. [Thinking Recursively in Python](https://realpython.com/python-thinking-recursively/)
 07. [Breaking out of a recursive function?](https://stackoverflow.com/questions/10544513/breaking-out-of-a-recursive-function)
 08. [Why does recursion return the first call in the stack and not the last?](https://softwareengineering.stackexchange.com/questions/333247/why-does-recursion-return-the-first-call-in-the-stack-and-not-the-last)
+
+</p>
+</details>
+
 
 
 </p>
