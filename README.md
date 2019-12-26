@@ -100,7 +100,7 @@ I have solved quite a number of problems from several topics. See the below tabl
 [![leetcode badge](https://leetcode-badge.chyroc.cn/?name=ParthoBiswas007&leetcode_badge_style=leetcode%20|%20solved/total-{{.solved_question}}/{{.all_question}}-{{if%20le%20.solved_question_rate_float%200.3}}red.svg{{else%20if%20le%20.solved_question_rate_float%200.5}}yellow.svg{{else}}green.svg{{end}}&refresh=true)](https://leetcode.com/ParthoBiswas007/)
 
 
-### [Arrays](https://leetcode.com/explore/learn/card/array-and-string/) , [HashMap](https://leetcode.com/explore/learn/card/hash-table/), Set
+### 1. [Arrays](https://leetcode.com/explore/learn/card/array-and-string/) , [HashMap](https://leetcode.com/explore/learn/card/hash-table/), Set
 
 <details><summary>Leetcode problems with solutions and tutorials/videos</summary>
 <p>
@@ -156,7 +156,11 @@ I have solved quite a number of problems from several topics. See the below tabl
 </details>
 
 
-### [String](https://leetcode.com/explore/learn/card/array-and-string/)
+### 2. [String](https://leetcode.com/explore/learn/card/array-and-string/)
+
+<details><summary>Leetcode problems with solutions and tutorials/videos</summary>
+<p>
+
 | #  | Title | Solution | Tutorial | Level | Remarks |
 | --- | --- | --- | --- | --- | --- |
 |01| [3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)| |
@@ -181,7 +185,15 @@ I have solved quite a number of problems from several topics. See the below tabl
 |19| [844. Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/)| [Python](https://tinyurl.com/wu6rdaw/844_Backspace_String_Compare.py)| --- | Easy | 📌 Two Pointer |
 
 
-### [Linked List](https://leetcode.com/explore/learn/card/linked-list/)
+</p>
+</details>
+
+
+### 3. [Linked List](https://leetcode.com/explore/learn/card/linked-list/)
+
+<details><summary>Leetcode problems with solutions and tutorials/videos</summary>
+<p>
+
 | #  | Title | Solution | Tutorial | Level | Remarks |
 | --- | --- | --- | --- | --- | --- |
 |01| [2. Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)| [Swift](https://tinyurl.com/to2yjbw/leetcode.com/swift/2_Add_Two_Numbers.swift)|
@@ -206,8 +218,16 @@ I have solved quite a number of problems from several topics. See the below tabl
 |20| [160. Intersection of Two Linked Lists](https://tinyurl.com/rz6nrop)| [Python](https://tinyurl.com/wu6rdaw/160_Intersection_of_Tw_Linked_Lists.py)| [Art 1](https://tinyurl.com/urrs7uy), [Art 2](https://tinyurl.com/wkya7ks) | Easy | --- |
 |21| [138. Copy List with Random Pointer](https://tinyurl.com/uhaw95f)| [Python](https://tinyurl.com/wu6rdaw/138_Copy_List_with_Random_Pointer.py)| **[Vid 1](https://tinyurl.com/reaqam9), [Art 1](https://tinyurl.com/tnwofvs)** | Medium | TODO: Check again. Very important. Learned a lot of things |
 
+</p>
+</details>
 
-### [Stack, Queue](https://leetcode.com/explore/learn/card/queue-stack/)
+
+
+### 4.  [Stack, Queue](https://leetcode.com/explore/learn/card/queue-stack/)
+
+<details><summary>Leetcode problems with solutions and tutorials/videos</summary>
+<p>
+
 | #  | Title | Solution | Tutorial | Level | Remarks |
 | --- | --- | --- | --- | --- | --- |
 |01| [20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)| [Python](https://tinyurl.com/wu6rdaw/20_Valid_Parentheses.py)|
@@ -216,8 +236,16 @@ I have solved quite a number of problems from several topics. See the below tabl
 |04| [394. Decode String](https://leetcode.com/problems/decode-string/)| [Python](https://tinyurl.com/wu6rdaw/394_Decode_String.py)| --- | Medium | 📌 Classic stack problem |
 |05| [239. Sliding Window Maximum](https://tinyurl.com/rvhujl5)| [Python](https://tinyurl.com/wu6rdaw/239_Sliding_Window_Maximum.py)| **[Video 1](https://tinyurl.com/v767bl3)**, [Official](https://tinyurl.com/www4np2), [Art 1](https://tinyurl.com/y8nbroux), [Art 2](https://tinyurl.com/s62fzls), **[Art 3](https://tinyurl.com/vd3dtch)**, **[Art 4](https://tinyurl.com/yx3sjp46)** | Hard | 📌 Can be solved using Heap, Deque and DP |
 
+</p>
+</details>
 
-### [Heaps](https://www.youtube.com/watch?v=HqPJF2L5h9U)
+
+
+### 5. [Heaps](https://www.youtube.com/watch?v=HqPJF2L5h9U)
+
+<details><summary>Leetcode problems with solutions and tutorials/videos</summary>
+<p>
+
 | #  | Title | Solution | Tutorial | Level | Remarks |
 | --- | --- | --- | --- | --- | --- |
 |01| **[358. Rearrange String k Distance Apart](https://tinyurl.com/rb5nvc9)** | [Python](https://tinyurl.com/wu6rdaw/358_Rearrange_String_k_Distance_Apart.py)| [Educative.io](https://tinyurl.com/yx3b8y2s), [Educative.io 2](https://tinyurl.com/saw9w7x) | Hard | 📌 Similar to [621. Task Scheduler](https://leetcode.com/problems/task-scheduler/). Very Important. TODO: Check Heap approach |
@@ -238,8 +266,16 @@ I have solved quite a number of problems from several topics. See the below tabl
 |16| **[632. Smallest Range Covering Elements from K Lists](https://tinyurl.com/v3fshwo)** | [Python](https://tinyurl.com/wu6rdaw/632_Smallest_Range_Covering_Elements_from_K_Lists.py)| [educative.io](https://tinyurl.com/ubfua7f) | Hard | 📌 TODO: Check again. Very important |
 |17| **[373. Find K Pairs with Smallest Sums](https://tinyurl.com/w9succr)** | [Python](https://tinyurl.com/wu6rdaw/373_Find_K_Pairs_with_Smallest_Sums.py)| [educative.io](https://tinyurl.com/r8ovn6v) | Hard | 📌 TODO: Check again. |
 
+</p>
+</details>
 
-### [Binary Search](https://leetcode.com/explore/learn/card/binary-search/)
+
+
+### 6. [Binary Search](https://leetcode.com/explore/learn/card/binary-search/)
+
+<details><summary>Leetcode problems with solutions and tutorials/videos</summary>
+<p>
+
 | #  | Title | Solution | Tutorial | Level | Remarks |
 | --- | --- | --- | --- | --- | --- |
 |01| [704. Binary Search](https://leetcode.com/problems/binary-search/)| [Python](https://tinyurl.com/wu6rdaw/704_Binary_Search.py)| --- | Easy | Basics |
@@ -264,8 +300,16 @@ I have solved quite a number of problems from several topics. See the below tabl
 |21| [702. Search in a Sorted Array of Unknown Size](https://leetcode.com/problems/search-in-a-sorted-array-of-unknown-size/)| [Python](https://tinyurl.com/wu6rdaw/702_Search_in_a_Sorted_Array_of_Unknown_Size.py)| [Educative.io](https://tinyurl.com/qn6uuel) | Medium | 📌 [Binary Search Template I](https://leetcode.com/explore/learn/card/binary-search/125/template-i/938/) |
 |22| **[378. Kth Smallest Element in a Sorted Matrix](https://tinyurl.com/shz4289)** | [Python](https://tinyurl.com/wu6rdaw/378_Kth_Smallest_Element_in_a_Sorted_Matrix.py)| [educative.io](https://tinyurl.com/scbjgjd) | Hard | 📌 TODO: Check again the Binary Search approach. Very important |
 
+</p>
+</details>
 
-### [Binary Tree](https://leetcode.com/explore/learn/card/data-structure-tree/)
+
+
+### 7. [Binary Tree](https://leetcode.com/explore/learn/card/data-structure-tree/)
+
+<details><summary>Leetcode problems with solutions and tutorials/videos</summary>
+<p>
+
 | #  | Title | Solution | Tutorial | Level | Remarks |
 | --- | --- | --- | --- | --- | --- |
 |01| [226. Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/solution/)| [Python](https://tinyurl.com/wu6rdaw/226_Invert_Binary_Tree.py)|
@@ -292,8 +336,16 @@ I have solved quite a number of problems from several topics. See the below tabl
 |22| [437. Path Sum III](https://tinyurl.com/ug978np) | [Python](https://tinyurl.com/wu6rdaw/437_Path_Sum_III.py)| [Educative.io](https://tinyurl.com/vyhpcu2), [Art 1](https://tinyurl.com/w6yjxaz), **[Art 2](https://tinyurl.com/wkxjmqv)** | Medium | 📌 A good example of Prefix Sum and DFS. Very Important |
 |23| [543. Diameter of Binary Tree](https://tinyurl.com/womnj8m) | [Python](https://tinyurl.com/wu6rdaw/543_Diameter_of_Binary_Tree.py)| [Educative.io](https://tinyurl.com/w6rrucg), [Art 1](https://tinyurl.com/vfnvg8q) | Medium | 📌 Important |
 
+</p>
+</details>
 
-### [Binary Search Tree](https://leetcode.com/explore/learn/card/introduction-to-data-structure-binary-search-tree/)
+
+
+### 8. [Binary Search Tree](https://leetcode.com/explore/learn/card/introduction-to-data-structure-binary-search-tree/)
+
+<details><summary>Leetcode problems with solutions and tutorials/videos</summary>
+<p>
+
 | #  | Title | Solution | Tutorial | Level | Remarks |
 | --- | --- | --- | --- | --- | --- |
 |01| [701. Insert into a Binary Search Tree](https://leetcode.com/problems/insert-into-a-binary-search-tree/)| [Python](https://tinyurl.com/wu6rdaw/701_Insert_into_a_Binary_Search_Tree.py)| --- | Medium | Fundamentals |
@@ -307,8 +359,15 @@ I have solved quite a number of problems from several topics. See the below tabl
 |09| [108. Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/)| [Python](https://tinyurl.com/wu6rdaw/108_Convert_Sorted_Array_to_Binary_Search_Tree.py)| --- | Easy | Fundamentals |
 |10| [109. Convert Sorted List to Binary Search Tree](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/)| [Python](https://tinyurl.com/wu6rdaw/109_Convert_Sorted_List_to_Binary_Search_Tree.py)| --- | Medium | Classic problem. Very important |
 
+</p>
+</details>
 
-### [N-Ary Tree](https://leetcode.com/explore/learn/card/n-ary-tree/)
+
+### 9. [N-Ary Tree](https://leetcode.com/explore/learn/card/n-ary-tree/)
+
+<details><summary>Leetcode problems with solutions and tutorials/videos</summary>
+<p>
+
 | #  | Title | Solution | Tutorial | Level | Remarks |
 | --- | --- | --- | --- | --- | --- |
 |01| [589. N-ary Tree Preorder Traversal](https://leetcode.com/problems/n-ary-tree-preorder-traversal/)| [Python](https://tinyurl.com/wu6rdaw/589_N-ary_Tree_Preorder_Traversal.py)|
@@ -318,39 +377,79 @@ I have solved quite a number of problems from several topics. See the below tabl
 |05| [431. Encode N-ary Tree to Binary Tree](https://leetcode.com/problems/encode-n-ary-tree-to-binary-tree/submissions/)| [Python](https://tinyurl.com/wu6rdaw/431_Encode_N-ary_Tree_to_Binary_Tree.py)| [Explanation](https://leetcode.com/explore/learn/card/n-ary-tree/131/recursion/922/) |
 |06| [428. Serialize and Deserialize N-ary Tree](https://leetcode.com/problems/serialize-and-deserialize-n-ary-tree/)| [Python](https://tinyurl.com/wu6rdaw/428_Serialize_and_Deserialize_N-ary_Tree.py)|
 
+</p>
+</details>
 
-### Tree
+
+
+### 10. Tree
+
+<details><summary>Leetcode problems with solutions and tutorials/videos</summary>
+<p>
+
 | #  | Title | Solution | Tutorial | Level | Remarks |
 | --- | --- | --- | --- | --- | --- |
 |01| **[315. Count of Smaller Numbers After Self](https://leetcode.com/problems/count-of-smaller-numbers-after-self/)**| [Python](https://tinyurl.com/wu6rdaw/315_Count_of_Smaller_Numbers_After_Self.py)| [Article 1](https://leetcode.com/problems/count-of-smaller-numbers-after-self/discuss/76657/3-ways-(Segment-Tree-Binary-Indexed-Tree-Binary-Search-Tree)-clean-python-code), [Article 2](https://medium.com/@timtim305/leetcode-315-count-of-smaller-numbers-after-self-be529cdfe148), [Vid 1](https://www.youtube.com/watch?v=CWDQJGaN1gY), [Vid 2](https://www.youtube.com/watch?v=ZBHKZF5w4YU) | Hard (Very) |📌 **Very hard and important. First learn [BIT](https://www.youtube.com/watch?v=CWDQJGaN1gY), [ST](https://www.youtube.com/watch?v=ZBHKZF5w4YU), [AVL-Tree](https://www.educative.io/courses/data-structures-in-python-an-interview-refresher/JYlwQZmN7V9) and [Red-Black Tree](https://www.educative.io/courses/data-structures-in-python-an-interview-refresher/YQy7Zlz1mEO) then try again**|
 
+</p>
+</details>
 
-### [Tries](https://leetcode.com/explore/learn/card/trie/)
+
+
+### 11. [Tries](https://leetcode.com/explore/learn/card/trie/)
+
+<details><summary>Leetcode problems with solutions and tutorials/videos</summary>
+<p>
+
 | #  | Title | Solution | Tutorial | Level | Remarks |
 | --- | --- | --- | --- | --- | --- |
 |01| [208. Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/)| [Python](https://tinyurl.com/wu6rdaw/208_Implement_Trie_(Prefix_Tree).py)|
 |02| [211. Add and Search Word. Data structure design](https://leetcode.com/problems/add-and-search-word-data-structure-design/)| [Python](https://tinyurl.com/wu6rdaw/211_Add_and_Search_Word_Data_structure_design.py)| [Video 01](https://www.youtube.com/watch?v=qi2ohSEyyDw), [Video 02](https://www.youtube.com/watch?v=neb_2UK5Kuo&t=13s)|
 |03| [642. Design Search Autocomplete System](https://leetcode.com/problems/design-search-autocomplete-system/)| [Python](https://tinyurl.com/wu6rdaw/642_Design_Search_Autocomplete_System.py)| [Article 01](https://leetcode.com/problems/design-search-autocomplete-system/discuss/105386/Python-Clean-Solution-Using-Trie), [Video 01](https://www.youtube.com/watch?v=us0qySiUsGU)| Hard | --- |
 
+</p>
+</details>
 
-### Graphs 
+
+
+### 12. Graphs 
 **(BFS, DFS, Dijkstra, Union Find, Kruskal, Prim's, Minimum Spanning Tree, Topological Ordering...etc)**
+
+<details><summary>Leetcode problems with solutions and tutorials/videos</summary>
+<p>
+
 
 | #  | Title | Solution | Tutorial | Level | Remarks |
 | --- | --- | --- | --- | --- | --- |
 |01| **[200. Number of Islands](https://leetcode.com/problems/number-of-islands/)** | [Python](https://tinyurl.com/wu6rdaw/200_Number_of_Islands.py)| --- | Medium | DFS, Union Find |
 |02| [695. Max Area of Island](https://leetcode.com/problems/max-area-of-island/)| [Python](https://tinyurl.com/wu6rdaw/695_Max_Area_of_Island.py)| --- | Medium | DFS |
 
+</p>
+</details>
 
-### [Recursion, Iteration](https://leetcode.com/explore/learn/card/recursion-i/)
+
+
+### 13. [Recursion, Iteration](https://leetcode.com/explore/learn/card/recursion-i/)
+
+<details><summary>Leetcode problems with solutions and tutorials/videos</summary>
+<p>
+
 | #  | Title | Solution | Tutorial | Level | Remarks |
 | --- | --- | --- | --- | --- | --- |
 |01| [509. Fibonacci Number](https://leetcode.com/problems/fibonacci-number/)| [Python](https://tinyurl.com/wu6rdaw/509_Fibonacci_Number.py)|
 |02| [50. Pow(x, n)](https://leetcode.com/problems/powx-n/)| [Python](https://tinyurl.com/wu6rdaw/50_Pow(x%2C_n).py)|
 |00| It's a general topics which has been covered on Backtracking and graph problems| --- | --- | --- | --- |
 
+</p>
+</details>
 
-### [Backtracking](https://www.youtube.com/watch?v=DKCbsiDBN6c)
+
+
+### 14. [Backtracking](https://www.youtube.com/watch?v=DKCbsiDBN6c)
+
+<details><summary>Leetcode problems with solutions and tutorials/videos</summary>
+<p>
+
 | #  | Title | Solution | Tutorial | Level | Remarks |
 | --- | --- | --- | --- | --- | --- |
 |01| [211. Add and Search Word. Data structure design](https://leetcode.com/problems/add-and-search-word-data-structure-design/)| [Python](https://tinyurl.com/wu6rdaw/211_Add_and_Search_Word_Data_structure_design.py)| [Video 01](https://www.youtube.com/watch?v=qi2ohSEyyDw), [Video 02](https://www.youtube.com/watch?v=neb_2UK5Kuo&t=13s)|
@@ -373,8 +472,16 @@ I have solved quite a number of problems from several topics. See the below tabl
 |18| [17. Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)| [Python](https://tinyurl.com/wu6rdaw/17_Letter_Combinations_of_a_Phone_Number.py)| [Video 1](https://www.youtube.com/watch?v=a-sMgZ7HGW0), [Video 2 - paid course](https://codinginterviewclass.com/courses/633601/lectures/11653975), [Article 1](https://leetcode.com/problems/letter-combinations-of-a-phone-number/discuss/8067/Python-easy-to-understand-backtracking-solution.) | Medium | Backtracking  Fundamentals |
 |19| [22. Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)| [Python](https://tinyurl.com/wu6rdaw/22_Generate_Parentheses.py)| [educative.io](https://tinyurl.com/wady2xs), [Video 1](https://www.youtube.com/watch?v=sz1qaKt0KGQ), [Article 1](https://leetcode.com/problems/generate-parentheses/discuss/10100/Easy-to-understand-Java-backtracking-solution) | Medium | Backtracking  Fundamentals |
 
+</p>
+</details>
 
-### [Greedy](https://www.youtube.com/watch?v=ARvQcqJ_-NY)
+
+
+### 15. [Greedy](https://www.youtube.com/watch?v=ARvQcqJ_-NY)
+
+<details><summary>Leetcode problems with solutions and tutorials/videos</summary>
+<p>
+
 | #  | Title | Solution | Tutorial | Level | Remarks |
 | --- | --- | --- | --- | --- | --- |
 |01| **[1055. Shortest Way to Form String](https://leetcode.com/problems/shortest-way-to-form-string/)**| [Python](https://tinyurl.com/wu6rdaw/1055_Shortest_Way_to_Form_String.py)| [Art 1](https://tinyurl.com/t6xap4c), [Art 2](https://leetcode.com/problems/shortest-way-to-form-string/discuss/330938/Accept-is-not-enough-to-get-a-hire.-Interviewee-4-follow-up) | Medium | 📌 **[Check BS approach again](https://tinyurl.com/t6xap4c)** |
@@ -393,8 +500,16 @@ I have solved quite a number of problems from several topics. See the below tabl
 |14| [253. Meeting Rooms II](https://tinyurl.com/r8vr7qo)| [Python](https://tinyurl.com/wu6rdaw/253_Meeting_Rooms_II.py)| [Official](https://leetcode.com/problems/meeting-rooms-ii/solution/) | Medium | Greedy and uses heap |
 |15| [759. Employee Free Time](https://tinyurl.com/y5z73vre)| [Python](https://tinyurl.com/wu6rdaw/759_Employee_Free_Time.py)| [Educative.io](https://tinyurl.com/v42vmyr) | Hard | Greedy and uses heap. Not done. Check again |
 
+</p>
+</details>
 
-### [Dynamic Programming](https://www.educative.io/courses/grokking-dynamic-programming-patterns-for-coding-interviews)
+
+
+### 16. [Dynamic Programming](https://www.educative.io/courses/grokking-dynamic-programming-patterns-for-coding-interviews)
+
+<details><summary>Leetcode problems with solutions and tutorials/videos</summary>
+<p>
+
 | #  | Title | Solution | Tutorial | Level | Remarks |
 | --- | --- | --- | --- | --- | --- |
 |01| [53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/submissions/)| [Python](https://tinyurl.com/wu6rdaw/53_Maximum_Subarray.py)|
@@ -421,8 +536,16 @@ I have solved quite a number of problems from several topics. See the below tabl
 |22| [213. House Robber II](https://leetcode.com/problems/house-robber-ii/)| [Python](https://tinyurl.com/wu6rdaw/213_House_Robber_II.py)| [Art 1](https://tinyurl.com/wwza8d5), [Art 2](https://tinyurl.com/qtqwcl4) | Medium | --- |
 |23| [337. House Robber III](https://leetcode.com/problems/house-robber-iii/)| [Python](https://tinyurl.com/wu6rdaw/337_House_Robber_III.py)| **[Art 1](https://tinyurl.com/yd8zjvvj)** | Medium | **[Another gold mine](https://tinyurl.com/yd8zjvvj)**, hidden greedy and DFS |
 
+</p>
+</details>
 
-### Bit Manipulation
+
+
+### 16. Bit Manipulation
+
+<details><summary>Leetcode problems with solutions and tutorials/videos</summary>
+<p>
+
 | #  | Title | Solution | Tutorial | Level | Remarks |
 | --- | --- | --- | --- | --- | --- |
 |01| [78. Subsets](https://leetcode.com/problems/subsets/)| [Python](https://tinyurl.com/wu6rdaw/78_Subsets.py)| [Video 1](https://www.youtube.com/results?search_query=All+Subsets+of+a+Set), [Video 2](https://www.youtube.com/watch?v=MsHFNGltIxw), [Video 3](https://www.youtube.com/watch?v=xTNFs5KRV_g) | Medium |📌 TODO: code it in all 4 ways. First complete DFS, BFS, Bit Manipulation and some easy back tracking problem. ⭐ 😭 Didn't understand, check again |
@@ -440,6 +563,10 @@ I have solved quite a number of problems from several topics. See the below tabl
 |13| [476. Number Complement](https://tinyurl.com/tadg5uf)| [Python](https://tinyurl.com/wu6rdaw/476_Number_Complement.py)| **[Educative.io](https://tinyurl.com/ucwmq5n)** | Easy | ⭐ Check again  |
 |14| [832. Flipping an Image](https://tinyurl.com/uog7h9f)| [Python](https://tinyurl.com/wu6rdaw/832_Flipping_an_Image.py)| **[Educative.io](https://tinyurl.com/wyd8c4g)** | Easy | ⭐ Check again  |
 
+</p>
+</details>
+
+
 
 ---
 
@@ -450,7 +577,11 @@ I have solved quite a number of problems from several topics. See the below tabl
 <b>77 Problems</b>
 
 
-### Arrays
+### 1. Arrays
+
+<details><summary>Problem sstatement from AlgoExpert.io with solutions and tutorials/videos</summary>
+<p>
+
 | #  | Title | Solution | Tutorial | Level | Remarks |
 | --- | --- | --- | --- | --- | --- |
 |01| [Two_Number_Sum](algoexpert.io/questions/Two_Number_Sum.md)| [Swift](algoexpert.io/swift/Two_Number_Sum.swift), [Python](algoexpert.io/python/Two_Number_Sum.py)|
@@ -464,8 +595,15 @@ I have solved quite a number of problems from several topics. See the below tabl
 |08| [Apartment_Hunting](algoexpert.io/questions/Apartment_Hunting.md) | [Python](algoexpert.io/python/Apartment_Hunting.py) |
 |09| [Calendar_Matching](algoexpert.io/questions/Calendar_Matching.md) | [Python](algoexpert.io/python/Calendar_Matching.py) |
 
+</p>
+</details>
 
-### Binary Search Tree
+
+### 2. Binary Search Tree
+
+<details><summary>Problem sstatement from AlgoExpert.io with solutions and tutorials/videos</summary>
+<p>
+
 | #  | Title | Solution | Tutorial | Level | Remarks |
 | --- | --- | --- | --- | --- | --- |
 |01| [BST_Construction_Iterative](algoexpert.io/questions/BST_Construction_Iterative.md) | [Python](algoexpert.io/python/BST_Construction_Iterative.py)|
@@ -474,16 +612,30 @@ I have solved quite a number of problems from several topics. See the below tabl
 |04| [Find_Closest_Value_in_BST](algoexpert.io/questions/Find_Closest_Value_In_BST.md) | [Python](algoexpert.io/python/Find_Closest_Value_in_BST.py)|
 |05| [BST_Traversal](algoexpert.io/questions/BST_Traversal.md) | [Python](algoexpert.io/python/BST_Traversal.py)|
 
+</p>
+</details>
 
-### Binary Tree
+
+### 3. Binary Tree
+
+<details><summary>Problem sstatement from AlgoExpert.io with solutions and tutorials/videos</summary>
+<p>
+
 | #  | Title | Solution | Tutorial | Level | Remarks |
 | --- | --- | --- | --- | --- | --- |
 |01| [Invert_Binary_Tree](algoexpert.io/questions/Invert_Binary_Tree.md) | [Python](algoexpert.io/python/Invert_Binary_Tree.py)|
 |02| [Max_Path_Sum_In_Binary_Tree](algoexpert.io/questions/Max_Path_Sum_In_Binary_Tree.md) | [Python](algoexpert.io/python/Max_Path_Sum_In_Binary_Tree.py) |
 |03| [Iterative_In-order_Traversal](algoexpert.io/questions/Iterative_In-order_Traversal.md) | [Python](algoexpert.io/python/Iterative_In-order_Traversal.py) |
 
+</p>
+</details>
 
-### Dynamic Programming
+
+### 4. Dynamic Programming
+
+<details><summary>Problem sstatement from AlgoExpert.io with solutions and tutorials/videos</summary>
+<p>
+
 | #  | Title | Solution | Tutorial | Level | Remarks |
 | --- | --- | --- | --- | --- | --- |
 |01| [Number_Of_Ways_To_Make_Changes](algoexpert.io/questions/Number_Of_Ways_To_Make_Change.md) | [Python](algoexpert.io/python/Number_Of_Ways_To_Make_Changes.py)|
@@ -501,15 +653,29 @@ I have solved quite a number of problems from several topics. See the below tabl
 |13| [Palindrome_Partitioning_Min_Cuts](algoexpert.io/questions/Palindrome_Partitioning_Min_Cuts.md) | [Python](algoexpert.io/python/Palindrome_Partitioning_Min_Cuts.py) |
 |14| [Longest_Increasing_Subsequence](algoexpert.io/questions/Longest_Increasing_Subsequence.md) | [Python](algoexpert.io/python/Longest_Increasing_Subsequence.py) | [Video 1](https://www.youtube.com/watch?v=fV-TF4OvZpk), [Video 2](https://www.youtube.com/watch?v=CE2b_-XfVDk), , [Video 3](https://www.hackerrank.com/challenges/longest-increasing-subsequent/problem)|
 
+</p>
+</details>
 
-### Famous Algorithm
+
+### 5. Famous Algorithm
+
+<details><summary>Problem sstatement from AlgoExpert.io with solutions and tutorials/videos</summary>
+<p>
+
 | #  | Title | Solution | Tutorial | Level | Remarks |
 | --- | --- | --- | --- | --- | --- |
 |01| [Kadane's_Algorithm](algoexpert.io/questions/Kadane's_Algorithm.md) | [Python](algoexpert.io/python/Kadane's_Algorithm.py)|
 |02| [Topological_Sort](algoexpert.io/questions/Topological_Sort.md) | [Python](algoexpert.io/python/Topological_Sort.py) |
 
+</p>
+</details>
 
-### Graphs
+
+### 6. Graphs
+
+<details><summary>Problem sstatement from AlgoExpert.io with solutions and tutorials/videos</summary>
+<p>
+
 | #  | Title | Solution | Tutorial | Level | Remarks |
 | --- | --- | --- | --- | --- | --- |
 |01| [Youngest_Common_Ancestor](algoexpert.io/questions/Youngest_Common_Ancestor.md) | [Python](algoexpert.io/python/Youngest_Common_Ancestor.py)|
@@ -519,15 +685,29 @@ I have solved quite a number of problems from several topics. See the below tabl
 |05| [Breadth_First_Search](algoexpert.io/questions/Breadth-first_Search.md) | [Python](algoexpert.io/python/Breadth_First_Search.py)|
 |06| [Boggle_Board](algoexpert.io/questions/Boggle_Board.md) | [Python](algoexpert.io/python/Boggle_Board.py) |
 
+</p>
+</details>
 
-### Heaps
+
+### 7. Heaps
+
+<details><summary>Problem sstatement from AlgoExpert.io with solutions and tutorials/videos</summary>
+<p>
+
 | #  | Title | Solution | Tutorial | Level | Remarks |
 | --- | --- | --- | --- | --- | --- |
 |01| [Min_Heap_Construction](algoexpert.io/questions/Min_Heap_Construction.md) | [Python](algoexpert.io/python/Min_Heap_Construction.py) |[Video 1](https://www.youtube.com/watch?v=HqPJF2L5h9U)|
 |02| [Continuous_Median](algoexpert.io/questions/Continuous_Median.md) | [Python](algoexpert.io/python/Continuous_Median.py) |[Video 1](https://www.youtube.com/watch?v=1CxyVdA_654), [Video 2](https://www.youtube.com/watch?v=VmogG01IjYc)|
 
+</p>
+</details>
 
-### Linked List
+
+### 8. Linked List
+
+<details><summary>Problem sstatement from AlgoExpert.io with solutions and tutorials/videos</summary>
+<p>
+
 | #  | Title | Solution | Tutorial | Level | Remarks |
 | --- | --- | --- | --- | --- | --- |
 |01| [Remove_Kth_Node_From_End](algoexpert.io/questions/Remove_Kth_Node_From_End.md) | [Python](algoexpert.io/python/Remove_Kth_Node_From_End.py)|
@@ -536,8 +716,15 @@ I have solved quite a number of problems from several topics. See the below tabl
 |04| [Reverse_Linked_List](algoexpert.io/questions/Reverse_Linked_List.md) | [Python](algoexpert.io/python/Reverse_Linked_List.py)|
 |05| [LRU_Cache](algoexpert.io/questions/LRU_Cache.md) | [Python](algoexpert.io/python/LRU_Cache.py)|
 
+</p>
+</details>
 
-### Recursion
+
+### 9. Recursion
+
+<details><summary>Problem sstatement from AlgoExpert.io with solutions and tutorials/videos</summary>
+<p>
+
 | #  | Title | Solution | Tutorial | Level | Remarks |
 | --- | --- | --- | --- | --- | --- |
 |01| [Powerset](algoexpert.io/questions/Powerset.md) | [Python](algoexpert.io/python/Powerset.py)|
@@ -547,8 +734,15 @@ I have solved quite a number of problems from several topics. See the below tabl
 |05| [Lowest_Common_Manager](algoexpert.io/questions/Lowest_Common_Manager.md) | [Python](algoexpert.io/python/Lowest_Common_Manager.py) |
 |06| [Number_Of_Possible_Binary_Tree_Topologies](algoexpert.io/questions/Number_Of_Possible_Binary_Tree_Topologies.md) | [Python](algoexpert.io/python/Number_Of_Possible_Binary_Tree_Topologies.py) |
 
+</p>
+</details>
 
-### Searching
+
+### 10. Searching
+
+<details><summary>Problem sstatement from AlgoExpert.io with solutions and tutorials/videos</summary>
+<p>
+
 | #  | Title | Solution | Tutorial | Level | Remarks |
 | --- | --- | --- | --- | --- | --- |
 |01| [Search_In_Sorted_Matrix](algoexpert.io/questions/Search_In_Sorted_Matrix.md) | [Python](algoexpert.io/python/Search_In_Sorted_Matrix.py)|
@@ -558,8 +752,15 @@ I have solved quite a number of problems from several topics. See the below tabl
 |05| [Search_For_Range](algoexpert.io/questions/Search_For_Range.md) | [Python](algoexpert.io/python/Search_For_Range.py)|
 |06| [Quick_Select (Kth smallest/largest element)](algoexpert.io/questions/Quick_Select.md) | [Python](algoexpert.io/python/Quick_Select.py)|
 
+</p>
+</details>
 
-### Sorting
+
+### 11. Sorting
+
+<details><summary>Problem sstatement from AlgoExpert.io with solutions and tutorials/videos</summary>
+<p>
+
 | #  | Title | Solution | Tutorial | Level | Remarks |
 | --- | --- | --- | --- | --- | --- |
 |01| [Selection_Sort](algoexpert.io/questions/Selection_Sort.md) | [Python](algoexpert.io/python/Selection_Sort.py)|
@@ -569,15 +770,29 @@ I have solved quite a number of problems from several topics. See the below tabl
 |05| [Heap_Sort](algoexpert.io/questions/Heap_Sort.md) | [Python](algoexpert.io/python/Heap_Sort.py) |
 |06| [Merge_Sort](algoexpert.io/questions/Merge_Sort.md) | [Python](algoexpert.io/python/Merge_Sort.py) |
 
+</p>
+</details>
 
-### Stacks
+
+### 12. Stacks
+
+<details><summary>Problem sstatement from AlgoExpert.io with solutions and tutorials/videos</summary>
+<p>
+
 | #  | Title | Solution | Tutorial | Level | Remarks |
 | --- | --- | --- | --- | --- | --- |
 |01| [Balanced Bracket](algoexpert.io/questions/Balanced_Bracket.md)| [Python](algoexpert.io/python/Balanced_Bracket.py)|
 |02| [Min_Max_Stack_Construction](algoexpert.io/questions/Min_Max_Stack_Construction.md) | [Python](algoexpert.io/python/Min_Max_Stack_Construction.py)|
 
+</p>
+</details>
 
-### String
+
+### 13. String
+
+<details><summary>Problem sstatement from AlgoExpert.io with solutions and tutorials/videos</summary>
+<p>
+
 | #  | Title | Solution | Tutorial | Level | Remarks |
 | --- | --- | --- | --- | --- | --- |
 |01| [Palindrom_Check](algoexpert.io/questions/Palindrome_Check.md) | [Python](algoexpert.io/python/Palindrom_Check.py)|
@@ -587,12 +802,22 @@ I have solved quite a number of problems from several topics. See the below tabl
 |05| [Underscorify_Substring](algoexpert.io/questions/Underscorify_Substring.md) | [Python](algoexpert.io/python/Underscorify_Substring.py)|
 |06| [Pattern_Matcher](algoexpert.io/questions/Pattern_Matcher.md) | [Python](algoexpert.io/python/Pattern_Matcher.py)|
 
+</p>
+</details>
 
-### Tries
+
+### 14. Tries
+
+<details><summary>Problem sstatement from AlgoExpert.io with solutions and tutorials/videos</summary>
+<p>
+
 | #  | Title | Solution | Tutorial | Level | Remarks |
 | --- | --- | --- | --- | --- | --- |
 |01| [Suffix_Trie_Construction](algoexpert.io/questions/Suffix_Trie_Construction.md) | [Python](algoexpert.io/python/Suffix_Trie_Construction.py)|
 |02| [Multi_String_Search](algoexpert.io/questions/Multi_String_Search.md) | [Python](algoexpert.io/python/Multi_String_Search.py)|
+
+</p>
+</details>
 
 
 ---
@@ -602,7 +827,9 @@ I have solved quite a number of problems from several topics. See the below tabl
 
 ## References
 
-Some helpful links, channels, tutorials, blogs.
+<details><summary>Some helpful links, channels, tutorials, blogs.</summary>
+<p>
+
 
 <b>Strategies</b>
 01. [How a Googler solves coding problems](https://blog.usejournal.com/how-a-googler-solves-coding-problems-ec5d59e73ec5)
@@ -736,6 +963,10 @@ Learn the following modules by heart. Just knowing all of the following items wi
 06. [Thinking Recursively in Python](https://realpython.com/python-thinking-recursively/)
 07. [Breaking out of a recursive function?](https://stackoverflow.com/questions/10544513/breaking-out-of-a-recursive-function)
 08. [Why does recursion return the first call in the stack and not the last?](https://softwareengineering.stackexchange.com/questions/333247/why-does-recursion-return-the-first-call-in-the-stack-and-not-the-last)
+
+
+</p>
+</details>
 
 
 
