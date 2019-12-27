@@ -420,6 +420,7 @@ I have solved quite a number of problems from several topics. See the below tabl
 | --- | --- | --- | --- | --- | --- |
 |01| **[200. Number of Islands](https://leetcode.com/problems/number-of-islands/)** | [Python](https://tinyurl.com/wu6rdaw/200_Number_of_Islands.py)| --- | Medium | DFS, Union Find |
 |02| [695. Max Area of Island](https://leetcode.com/problems/max-area-of-island/)| [Python](https://tinyurl.com/wu6rdaw/695_Max_Area_of_Island.py)| --- | Medium | DFS |
+|03| **[207. Course Schedule](https://tinyurl.com/y2n8mekw)** | [Python](https://tinyurl.com/wu6rdaw/207_Course_Schedule.py)| **[educative.io](https://tinyurl.com/s9c4rlh)** | Medium | 📌 Very Important. Check again. Topological Sort |
 
 </p>
 </details>
@@ -938,6 +939,7 @@ Learn the following modules by heart. Just knowing all of the following items wi
 01. [Graph Theory Playlist](https://tinyurl.com/rfgy88b)
 02. [Union Find \[Disjoint Set\] Playlist](https://tinyurl.com/srz7uua)
 03. [Disjoint Sets Data Structure - Weighted Union and Collapsing Find](https://www.youtube.com/watch?v=wU6udHRIkcc)
+04. [Codinginterviewclass.com](https://tinyurl.com/wpgl4nt)
 
 </p>
 </details>
