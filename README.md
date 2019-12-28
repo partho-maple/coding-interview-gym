@@ -422,6 +422,7 @@ I have solved quite a number of problems from several topics. See the below tabl
 |02| [695. Max Area of Island](https://leetcode.com/problems/max-area-of-island/)| [Python](https://tinyurl.com/wu6rdaw/695_Max_Area_of_Island.py)| --- | Medium | DFS |
 |03| **[207. Course Schedule](https://tinyurl.com/y2n8mekw)** | [Python](https://tinyurl.com/wu6rdaw/207_Course_Schedule.py)| **[educative.io](https://tinyurl.com/s9c4rlh)** | Medium | 📌 Very Important. Check again. Topological Sort |
 |04| **[210. Course Schedule II](https://tinyurl.com/t7e74n2)** | [Python](https://tinyurl.com/wu6rdaw/210_Course_Schedule_II.py)| **[educative.io](https://tinyurl.com/wz2a7f2)** | Medium | 📌 Very Important. Check again. Topological Sort |
+|05| **[269. Alien Dictionary](https://tinyurl.com/y6cp4783)** | [Python](https://tinyurl.com/wu6rdaw/269_Alien_Dictionary.py)| **[educative.io](https://tinyurl.com/v9o2bq7)**, [Vid 1](https://tinyurl.com/uyq3rsr), [Vid 2](https://tinyurl.com/t2okooj), [Vid 3](https://tinyurl.com/s2mht66) | Hard | 📌 Very Important. Check again. Topological Sort |
 
 </p>
 </details>
