@@ -425,8 +425,9 @@ I have solved quite a number of problems from several topics. See the below tabl
 |05| **[310. Minimum Height Trees](https://tinyurl.com/u8ej2cp)** | [Python](https://tinyurl.com/wu6rdaw/310_Minimum_Height_Trees.py)| **[educative.io](https://tinyurl.com/t83ley2)** | Hard | 📌 TODO: Check again, very hard, didn't get the intuition. BFS, Topological Sort |
 |06| **[329. Longest Increasing Path in a Matrix](https://tinyurl.com/vmb7btv)** | [Python](https://tinyurl.com/wu6rdaw/329_Longest_Increasing_Path_in_a_Matrix.py)| [Official](https://tinyurl.com/sddke8e), [Art 1](https://tinyurl.com/s2t4dhh), [Art 2](https://tinyurl.com/ra8s2hz) | Hard | ** 📌 TODO: Not Done, very hard and important. DP, Topological Sort ** |
 |07| **[1203. Sort Items by Groups Respecting Dependencies](https://tinyurl.com/vaz5vrk)** | [Python](https://tinyurl.com/wu6rdaw/1203_Sort_Items_by_Groups_Respecting_Dependencies.py)|  | Hard | 📌 TODO: Not Done, very hard, didn't get the intuition. BFS, Topological Sort |
-|08| **[200. Number of Islands](https://leetcode.com/problems/number-of-islands/)** | [Python](https://tinyurl.com/wu6rdaw/200_Number_of_Islands.py)| --- | Medium | DFS, Union Find |
-|09| **[695. Max Area of Island](https://leetcode.com/problems/max-area-of-island/)** | [Python](https://tinyurl.com/wu6rdaw/695_Max_Area_of_Island.py)| --- | Medium | DFS |
+|08| **[200. Number of Islands](https://leetcode.com/problems/number-of-islands/)** | [Python](https://tinyurl.com/wu6rdaw/200_Number_of_Islands.py)| [Algoexpert.io - DFS](https://tinyurl.com/wux27jk), **[Union Find](https://tinyurl.com/tgzexdk)** | Medium | DFS + DFS, Union Find |
+|09| **[305. Number of Islands II](https://tinyurl.com/qpca3gz)** | [Python](https://tinyurl.com/wu6rdaw/305_Number_of_Islands_II.py)|  **[Union Find](https://tinyurl.com/tgzexdk)** | Hard | Union Find |
+|10| **[695. Max Area of Island](https://leetcode.com/problems/max-area-of-island/)** | [Python](https://tinyurl.com/wu6rdaw/695_Max_Area_of_Island.py)| --- | Medium | DFS |
 
 
 </p>
