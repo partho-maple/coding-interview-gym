@@ -399,7 +399,7 @@ I have solved quite a number of problems from several topics. See the below tabl
 
 
 ### 12. Graphs 
-**BFS, DFS, Dijkstra, Union Find, Kruskal, Prim's, Minimum Spanning Tree, Topological Ordering...etc**
+BFS, DFS, Dijkstra, Union Find, Kruskal, Prim's, Minimum Spanning Tree, Topological Ordering, Union Find.
 **Follow [this](https://tinyurl.com/tcpmneh) golden rule to approach any graph problem.**
 <details><summary>Leetcode problems with solutions and tutorials/videos</summary>
 <p>
