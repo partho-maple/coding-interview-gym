@@ -98,7 +98,6 @@ I have solved quite a number of problems from several topics. See the below tabl
 
 
 ### 1. [Arrays](https://leetcode.com/explore/learn/card/array-and-string/) , [HashMap](https://leetcode.com/explore/learn/card/hash-table/), Set
-
 <details><summary>Leetcode problems with solutions and tutorials/videos</summary>
 <p>
 
@@ -154,7 +153,6 @@ I have solved quite a number of problems from several topics. See the below tabl
 
 
 ### 2. [String](https://leetcode.com/explore/learn/card/array-and-string/)
-
 <details><summary>Leetcode problems with solutions and tutorials/videos</summary>
 <p>
 
@@ -187,7 +185,6 @@ I have solved quite a number of problems from several topics. See the below tabl
 
 
 ### 3. [Linked List](https://leetcode.com/explore/learn/card/linked-list/)
-
 <details><summary>Leetcode problems with solutions and tutorials/videos</summary>
 <p>
 
@@ -221,7 +218,6 @@ I have solved quite a number of problems from several topics. See the below tabl
 
 
 ### 4.  [Stack, Queue](https://leetcode.com/explore/learn/card/queue-stack/)
-
 <details><summary>Leetcode problems with solutions and tutorials/videos</summary>
 <p>
 
@@ -239,7 +235,6 @@ I have solved quite a number of problems from several topics. See the below tabl
 
 
 ### 5. [Heaps](https://www.youtube.com/watch?v=HqPJF2L5h9U)
-
 <details><summary>Leetcode problems with solutions and tutorials/videos</summary>
 <p>
 
@@ -269,7 +264,6 @@ I have solved quite a number of problems from several topics. See the below tabl
 
 
 ### 6. [Binary Search](https://leetcode.com/explore/learn/card/binary-search/)
-
 <details><summary>Leetcode problems with solutions and tutorials/videos</summary>
 <p>
 
@@ -303,7 +297,6 @@ I have solved quite a number of problems from several topics. See the below tabl
 
 
 ### 7. [Binary Tree](https://leetcode.com/explore/learn/card/data-structure-tree/)
-
 <details><summary>Leetcode problems with solutions and tutorials/videos</summary>
 <p>
 
@@ -339,7 +332,6 @@ I have solved quite a number of problems from several topics. See the below tabl
 
 
 ### 8. [Binary Search Tree](https://leetcode.com/explore/learn/card/introduction-to-data-structure-binary-search-tree/)
-
 <details><summary>Leetcode problems with solutions and tutorials/videos</summary>
 <p>
 
@@ -361,7 +353,6 @@ I have solved quite a number of problems from several topics. See the below tabl
 
 
 ### 9. [N-Ary Tree](https://leetcode.com/explore/learn/card/n-ary-tree/)
-
 <details><summary>Leetcode problems with solutions and tutorials/videos</summary>
 <p>
 
@@ -380,7 +371,6 @@ I have solved quite a number of problems from several topics. See the below tabl
 
 
 ### 10. Tree
-
 <details><summary>Leetcode problems with solutions and tutorials/videos</summary>
 <p>
 
@@ -394,7 +384,6 @@ I have solved quite a number of problems from several topics. See the below tabl
 
 
 ### 11. [Tries](https://leetcode.com/explore/learn/card/trie/)
-
 <details><summary>Leetcode problems with solutions and tutorials/videos</summary>
 <p>
 
@@ -410,8 +399,8 @@ I have solved quite a number of problems from several topics. See the below tabl
 
 
 ### 12. Graphs 
-**(BFS, DFS, Dijkstra, Union Find, Kruskal, Prim's, Minimum Spanning Tree, Topological Ordering...etc)**
-
+**BFS, DFS, Dijkstra, Union Find, Kruskal, Prim's, Minimum Spanning Tree, Topological Ordering...etc**
+**Follow [this](https://tinyurl.com/tcpmneh) golden rule to approach any graph problem.**
 <details><summary>Leetcode problems with solutions and tutorials/videos</summary>
 <p>
 
@@ -437,7 +426,6 @@ I have solved quite a number of problems from several topics. See the below tabl
 
 
 ### 13. [Recursion, Iteration](https://leetcode.com/explore/learn/card/recursion-i/)
-
 <details><summary>Leetcode problems with solutions and tutorials/videos</summary>
 <p>
 
@@ -453,7 +441,6 @@ I have solved quite a number of problems from several topics. See the below tabl
 
 
 ### 14. [Backtracking](https://www.youtube.com/watch?v=DKCbsiDBN6c)
-
 <details><summary>Leetcode problems with solutions and tutorials/videos</summary>
 <p>
 
@@ -485,7 +472,6 @@ I have solved quite a number of problems from several topics. See the below tabl
 
 
 ### 15. [Greedy](https://www.youtube.com/watch?v=ARvQcqJ_-NY)
-
 <details><summary>Leetcode problems with solutions and tutorials/videos</summary>
 <p>
 
@@ -513,7 +499,6 @@ I have solved quite a number of problems from several topics. See the below tabl
 
 
 ### 16. [Dynamic Programming](https://www.educative.io/courses/grokking-dynamic-programming-patterns-for-coding-interviews)
-
 <details><summary>Leetcode problems with solutions and tutorials/videos</summary>
 <p>
 
@@ -548,7 +533,7 @@ I have solved quite a number of problems from several topics. See the below tabl
 
 
 
-### 16. Bit Manipulation
+### 17. Bit Manipulation
 
 <details><summary>Leetcode problems with solutions and tutorials/videos</summary>
 <p>
