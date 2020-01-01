@@ -16,13 +16,15 @@ class Solution(object):
         allComboDict = defaultdict(list)
         for word in wordList:
             for i in range(wordLen):
-                allComboDict[word[:i] + "*" + word[i + 1:]].append(word)
+                allComboDict[word[:i] + "*" + word[i + 1:]].append(
+                    word)  # Creating the adjacency list of . the intermediate nodes/words. Every Node has 3 intermediate nodes
         queue = deque([(beginWord, 1)])
         visited = {beginWord: True}
         while queue:
-            currentWord, level = queue.popleft()
+            currentWord, level = queue.popleft()  # Here the words are the nodes
             for i in range(wordLen):
-                intermediateWord = currentWord[:i] + "*" + currentWord[i + 1:]
+                intermediateWord = currentWord[:i] + "*" + currentWord[
+                                                           i + 1:]  # here the words are the . intermediate nodes. Every Node has 3 intermediate nodes. And here, the nodes doesn't have the adjacency list. The intermediate node has it.
                 for word in allComboDict[intermediateWord]:
                     if word == endWord:
                         return level + 1
