@@ -425,6 +425,7 @@ BFS, DFS, Dijkstra, Union Find, Kruskal, Prim's, Minimum Spanning Tree, Topologi
 |16| **[126. Word Ladder II](https://tinyurl.com/jubpmll)** | [Python](https://tinyurl.com/wu6rdaw/126_Word_Ladder_II.py)|  **[codinginterviewclass.com](https://tinyurl.com/trglttn)**, **[Official](https://tinyurl.com/y99azp8z)**, **[Vid 1](https://tinyurl.com/ws465le)** | Hard | **TODO: Not Done. Extremely tricky. Modified BFS. Learned [Bidirectional Search](https://tinyurl.com/vx3oqbf)** |
 |17| **[785. Is Graph Bipartite?](https://tinyurl.com/wvwqw2j)** | [Python](https://tinyurl.com/wu6rdaw/785_Is_Graph_Bipartite.py)|  **[codinginterviewclass.com](https://tinyurl.com/s4qseoz)**, **[Official](https://tinyurl.com/rynbqly)** | Medium | **Important, Learned new things. Undirected Graph** |
 |18| **[133. Clone Graph](https://tinyurl.com/y42nwqz8)** | [Python](https://tinyurl.com/wu6rdaw/133_Clone_Graph.py)|  **[codinginterviewclass.com](https://tinyurl.com/tnca94n)**, **[Official](https://tinyurl.com/usxjk49)** | Medium | **Important, Learned new things. Undirected Graph** |
+|19| **[332. Reconstruct Itinerary](https://tinyurl.com/gn2mv3k)** | [Python](https://tinyurl.com/wu6rdaw/332_Reconstruct_Itinerary.py)|  [Vid 1](https://tinyurl.com/w47evd9), [Vid 2](https://tinyurl.com/uvop34p), [Art 1](https://tinyurl.com/tsy24pl), [Art 2](https://tinyurl.com/srazxo3), [Art 3](https://tinyurl.com/wluob5j), **[Art 4](https://tinyurl.com/y4s9crf6)** | Medium | **Important, Learned new things. Directed Graph. Eulerian path and top Sort** |
 
 
 </p>
