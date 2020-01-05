@@ -1,9 +1,8 @@
-#
 import heapq
 from collections import deque
 from collections import defaultdict
 
-"""
+# """
 # Source: https://tinyurl.com/rmcr2xk. Uses simple DFS - Accepted
 class Solution(object):
     def networkDelayTime(self, times, N, K):
@@ -21,7 +20,7 @@ class Solution(object):
         distance[node] = elapsedTimeSoFar
         for neighbour, time in sorted(graph[node]):
             self.DFS(graph, distance, neighbour, elapsedTimeSoFar + time)
-"""
+# """
 
 
 # """
@@ -63,6 +62,49 @@ class Solution:
 
 
 
+
+# """
+# Belman Ford - Accepted
+class Solution:
+    def networkDelayTime(self, times, N, K):
+        elapsedTime, graph, queue = [0] + [float("inf")] * N, defaultdict(list), deque([(0, K)])
+        elapsedTime[K] = 0
+        for u, v, w in times:
+            graph[u].append((v, w))
+        while queue:
+            time, node = queue.popleft()
+            for neighbour in graph[node]:
+                v, w = neighbour
+                if time + w < elapsedTime[v]:
+                    elapsedTime[v] = time + w
+                    queue.append((time + w, v))
+        mx = max(elapsedTime)
+        return mx if mx < float("inf") else -1
+# """
+
+
+
+
+
+# """
+# Source: https://tinyurl.com/roq3udj    Floyd Warshall - Accepted
+class Solution:
+    def networkDelayTime(self, times, N, K):
+        elapsedTimeMatrix = [[float("inf") for _ in range(N)] for _ in range(N)]
+        for u, v, w in times:
+            elapsedTimeMatrix[u - 1][v - 1] = w
+        for i in range(N):                      #   Assigning 0 to the diagonal cells
+            elapsedTimeMatrix[i][i] = 0
+        for k in range(N):
+            for i in range(N):
+                for j in range(N):
+                    elapsedTimeMatrix[i][j] = min(elapsedTimeMatrix[i][j], elapsedTimeMatrix[i][k] + elapsedTimeMatrix[k][j])
+        mx = max(elapsedTimeMatrix[K - 1])
+        return mx if mx < float("inf") else -1
+# """
+
+
+
 sol = Solution()
 # times = [[2,1,1],[2,3,1],[3,4,1]]
 # N = 4
@@ -75,6 +117,6 @@ sol = Solution()
 times = [[1,2,1],[2,3,2],[1,3,2]]
 N = 3
 K = 1
-out =  sol.networkDelayTime(times, N, K)
+out = sol.networkDelayTime(times, N, K)
 print("RES: ", out)
 
