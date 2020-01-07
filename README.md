@@ -428,7 +428,8 @@ BFS, DFS, Dijkstra, Floyd–Warshall, Bellman-Ford, Kruskal, Prim's, Minimum Spa
 |19| **[332. Reconstruct Itinerary](https://tinyurl.com/gn2mv3k)** | [Python](https://tinyurl.com/wu6rdaw/332_Reconstruct_Itinerary.py)|  [Vid 1](https://tinyurl.com/w47evd9), [Vid 2](https://tinyurl.com/uvop34p), [Art 1](https://tinyurl.com/tsy24pl), [Art 2](https://tinyurl.com/srazxo3), [Art 3](https://tinyurl.com/wluob5j), **[Art 4](https://tinyurl.com/y4s9crf6)** | Medium | **Important, Learned new things. Directed Graph. Eulerian path and top Sort** |
 |20| **[1153. String Transforms Into Another String](https://tinyurl.com/sv9hpo8)** | [Python](https://tinyurl.com/wu6rdaw/1153_String_Transforms_Into_Another_String.py)|  **[Vid 1](https://tinyurl.com/ty2ga7d)**, [Vid 2](https://tinyurl.com/vxr9zxp), [Art 1](https://tinyurl.com/rklzgkk), [Art 2](https://tinyurl.com/seb6vqq), [Art 3](https://tinyurl.com/vfjwn5h), [Art 4](https://tinyurl.com/w62hpq2), [Art 5](https://tinyurl.com/tteucry), [Art 6](https://tinyurl.com/uvctnvz) | Extremely Hard | **TODO: Check again. Very Important and tricky, Learned new things. Digraph.** |
 |21| **[743. Network Delay Time](https://tinyurl.com/yd88jryl)** | [Python](https://tinyurl.com/wu6rdaw/743_Network_Delay_Time.py)|  **[Official](https://tinyurl.com/rmcr2xk)**, **[Dijkstra 1](https://tinyurl.com/r8omw8l)**, **[Dijkstra 2](https://tinyurl.com/sscslz7)**, [Vid 1](https://tinyurl.com/vucexbc), **[Art 1](https://tinyurl.com/vbetlaq)**, [Art 2](https://tinyurl.com/yxdzrw3k), **[Art 3](https://tinyurl.com/whnbv4o)**, **[Art 4](https://tinyurl.com/roq3udj)** | Medium | **TODO: Check again. Very Important. Learned (Dijkstra, Bellman, Floyed).  Check references section** |
-|22| [261. Graph Valid Tree](https://tinyurl.com/uw9ndt6) | [Python](https://tinyurl.com/wu6rdaw/261_Graph_Valid_Tree.py)|  [Art 1](https://tinyurl.com/yx6ehrfu), **[Art 2](https://tinyurl.com/tlw6vda)**, **[Art 3](https://tinyurl.com/yhs85tj3)**, [Art 4](https://tinyurl.com/ydkfcc5x) | Medium | Important. BFS, DFS and [Union Find](https://tinyurl.com/yhs85tj3) |
+|22| **[261. Graph Valid Tree](https://tinyurl.com/uw9ndt6)** | [Python](https://tinyurl.com/wu6rdaw/261_Graph_Valid_Tree.py)|  [Art 1](https://tinyurl.com/yx6ehrfu), **[Art 2](https://tinyurl.com/tlw6vda)**, **[Art 3](https://tinyurl.com/yhs85tj3)**, [Art 4](https://tinyurl.com/ydkfcc5x) | Medium | Important. BFS, DFS and [Union Find](https://tinyurl.com/yhs85tj3) |
+|23| **[1168. Optimize Water Distribution in a Village](https://tinyurl.com/ygh8sahd)** | [Python](https://tinyurl.com/wu6rdaw/1168_Optimize_Water_Distribution_in_a_Village.py)|  **[Art 1](https://tinyurl.com/yjwwoxv3)**, **[Art 2](https://tinyurl.com/yhc3a7yr)**, **[Art 3](https://tinyurl.com/yf7fjz4v)**, [Art 4](https://tinyurl.com/yh7n9wps) | Hard | TODO: Check AGain. Prim's and Kruskal's algorithm. Important. |
 
 
 </p>
@@ -936,12 +937,14 @@ Learn the following modules by heart. Just knowing all of the following items wi
 <p>
 
 01. [Graph Theory Playlist](https://tinyurl.com/rfgy88b)
-02. [Graph Theory Playlist 2](https://tinyurl.com/vgbgdl2)
+02. [Graph Theory Playlist 2](https://tinyurl.com/yfa57nc5)
 03. [Union Find \[Disjoint Set\] Playlist](https://tinyurl.com/srz7uua)
 04. [Disjoint Sets Data Structure - Weighted Union and Collapsing Find](https://www.youtube.com/watch?v=wU6udHRIkcc)
 05. [Codinginterviewclass.com](https://tinyurl.com/wpgl4nt)
 06. Single/All Source Shortest Path Algorithms: Dijkstra ([1](https://tinyurl.com/r8omw8l), [2](https://tinyurl.com/sscslz7)), Bellman-Ford([1](https://tinyurl.com/tghcsmz), [2](https://tinyurl.com/rdcax5b)), Floyd–Warshall([1](https://tinyurl.com/vsp4ulb), [2](https://tinyurl.com/s5wjb5a))
 07. Dijkstra’s Algorithm Vs Bellman-Ford Algorithm Vs Floyd Warshall Algorithm ([1](https://tinyurl.com/vxwc2je), [2](https://tinyurl.com/s6vff87), [3](https://tinyurl.com/s5o57nz)
+08. Minimum Spanning Tree Algorithm: Prim's ([1](https://tinyurl.com/vgbgdl2), [2](https://tinyurl.com/yecuqtty), Kruskal's ([1](https://tinyurl.com/vgbgdl2), [2](https://tinyurl.com/yhxpvpkn)
+09. Kruskal's algorithm Vs Prim's algorithm ([1](https://qr.ae/TSEPGc), [2](https://tinyurl.com/yz6399ck), [3](https://tinyurl.com/yz3q7vox)
 
 </p>
 </details>
