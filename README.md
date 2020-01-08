@@ -989,6 +989,9 @@ Learn the following modules by heart. Just knowing all of the following items wi
 02. [A good approach to attack DP](https://leetcode.com/articles/jump-game/)
 03. [Tabulation vs Memoization](https://www.geeksforgeeks.org/tabulation-vs-memoization/)
 04. [Memoization vs Tabulation](https://elvrsn.blogspot.com/2015/02/memoization-vs-tabulation.html)
+05. [1D Subproblems vs. 2D Subproblems](https://tinyurl.com/yfopxwjq)
+06. [Memoization (1D, 2D and 3D)](https://tinyurl.com/ydw8sy6l)
+07. [Introduction to Multi-dimensional Dynamic Programming](https://tinyurl.com/ydwjq3rl)
 
 </p>
 </details>
