@@ -511,6 +511,7 @@ BFS, DFS, Dijkstra, Floyd–Warshall, Bellman-Ford, Kruskal, Prim's, Minimum Spa
 
 
 ### 16. [Dynamic Programming](https://www.educative.io/courses/grokking-dynamic-programming-patterns-for-coding-interviews)
+**Follow [this](https://tinyurl.com/vmmaxbe) golden rule to approach any DP problem.**
 <details><summary>Leetcode problems with solutions and tutorials/videos</summary>
 <p>
 
@@ -539,7 +540,8 @@ BFS, DFS, Dijkstra, Floyd–Warshall, Bellman-Ford, Kruskal, Prim's, Minimum Spa
 |21| **[198. House Robber](https://leetcode.com/problems/house-robber/)**| [Python](https://tinyurl.com/wu6rdaw/198_House_Robber.py)| **[Must](https://tinyurl.com/vp9v27d)** | Easy | A Gold Mine |
 |22| [213. House Robber II](https://leetcode.com/problems/house-robber-ii/)| [Python](https://tinyurl.com/wu6rdaw/213_House_Robber_II.py)| [Art 1](https://tinyurl.com/wwza8d5), [Art 2](https://tinyurl.com/qtqwcl4) | Medium | --- |
 |23| [337. House Robber III](https://leetcode.com/problems/house-robber-iii/)| [Python](https://tinyurl.com/wu6rdaw/337_House_Robber_III.py)| **[Art 1](https://tinyurl.com/yd8zjvvj)** | Medium | **[Another gold mine](https://tinyurl.com/yd8zjvvj)**, hidden greedy and DFS |
-|24| [416. Partition Equal Subset Sum](https://tinyurl.com/rmf5upz)| [Python](https://tinyurl.com/wu6rdaw/416_Partition_Equal_Subset_Sum.py)| **[educative.io](https://tinyurl.com/wpxxyjy)**, [Art 1](https://tinyurl.com/we99l2n), [Vid 1](https://tinyurl.com/vvtavaw), [Vid 2](https://tinyurl.com/wabhu46), [Vid 3](https://tinyurl.com/sk89wa3), [Vid 4](https://tinyurl.com/z352yjj) | Medium | **0/1 Knapsack**, Very important |
+|24| **[416. Partition Equal Subset Sum](https://tinyurl.com/rmf5upz)** | [Python](https://tinyurl.com/wu6rdaw/416_Partition_Equal_Subset_Sum.py)| **[educative.io](https://tinyurl.com/wpxxyjy)**, [Art 1](https://tinyurl.com/we99l2n), [Vid 1](https://tinyurl.com/vvtavaw), [Vid 2](https://tinyurl.com/wabhu46), [Vid 3](https://tinyurl.com/sk89wa3), [Vid 4](https://tinyurl.com/z352yjj) | Medium | **0/1 Knapsack**, Very important |
+|25| **[494. Target Sum](https://tinyurl.com/ro8wdkz)** | [Python](https://tinyurl.com/wu6rdaw/494_Target_Sum.py)| **[educative.io](https://tinyurl.com/wfhzh29)**, **[MUST MUST READ](https://tinyurl.com/vmmaxbe)** | Medium | **0/1 Knapsack**, Very important |
 
 </p>
 </details>
