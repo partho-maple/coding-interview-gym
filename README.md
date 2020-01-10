@@ -542,6 +542,7 @@ BFS, DFS, Dijkstra, Floyd–Warshall, Bellman-Ford, Kruskal, Prim's, Minimum Spa
 |23| [337. House Robber III](https://leetcode.com/problems/house-robber-iii/)| [Python](https://tinyurl.com/wu6rdaw/337_House_Robber_III.py)| **[Art 1](https://tinyurl.com/yd8zjvvj)** | Medium | **[Another gold mine](https://tinyurl.com/yd8zjvvj)**, hidden greedy and DFS |
 |24| **[416. Partition Equal Subset Sum](https://tinyurl.com/rmf5upz)** | [Python](https://tinyurl.com/wu6rdaw/416_Partition_Equal_Subset_Sum.py)| **[educative.io](https://tinyurl.com/wpxxyjy)**, [Art 1](https://tinyurl.com/we99l2n), [Vid 1](https://tinyurl.com/vvtavaw), [Vid 2](https://tinyurl.com/wabhu46), [Vid 3](https://tinyurl.com/sk89wa3), [Vid 4](https://tinyurl.com/z352yjj) | Medium | **0/1 Knapsack**, Very important |
 |25| **[494. Target Sum](https://tinyurl.com/ro8wdkz)** | [Python](https://tinyurl.com/wu6rdaw/494_Target_Sum.py)| **[educative.io](https://tinyurl.com/wfhzh29)**, **[MUST MUST READ](https://tinyurl.com/vmmaxbe)** | Medium | **0/1 Knapsack**, Very important. TODO: Not  DOne. Check again |
+|26| **[343. Integer Break](https://tinyurl.com/qsmmtc3)** | [Python](https://tinyurl.com/wu6rdaw/343_Integer_Break.py)| **[Art 1](https://tinyurl.com/wfhzh29)**, **[Art 2](https://tinyurl.com/t2rky7o)** | Medium | **0/1 Knapsack**. TODO: Not Done. Check again |
 
 </p>
 </details>
