@@ -518,8 +518,8 @@ BFS, DFS, Dijkstra, Floyd–Warshall, Bellman-Ford, Kruskal, Prim's, Minimum Spa
 | #  | Title | Solution | Tutorial | Level | Remarks |
 | --- | --- | --- | --- | --- | --- |
 |01| [53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/submissions/)| [Python](https://tinyurl.com/wu6rdaw/53_Maximum_Subarray.py)|
-|02| [518. Coin Change 2](https://leetcode.com/problems/coin-change-2/)| [Python](https://tinyurl.com/wu6rdaw/518_Coin_Change_2.py)|
-|03| [322. Coin Change](https://leetcode.com/problems/coin-change/solution/)| [Python](https://tinyurl.com/wu6rdaw/322_Coin_Change.py)|
+|02| [518. Coin Change 2](https://leetcode.com/problems/coin-change-2/)| [Python](https://tinyurl.com/wu6rdaw/518_Coin_Change_2.py)| **[educative.io](https://tinyurl.com/ro6das2)**, [Vid 1](https://tinyurl.com/wj5xxmw), [codinginterviewclass.com](https://tinyurl.com/urd4fg5), [Algoexpert.io](https://tinyurl.com/rv4r9e6) | Medium | Unbounded Knapsack |
+|03| [322. Coin Change](https://leetcode.com/problems/coin-change/solution/)| [Python](https://tinyurl.com/wu6rdaw/322_Coin_Change.py)| **[educative.io](https://tinyurl.com/w7t6jpo)**, [Vid 1](https://tinyurl.com/qlqrz6z), [Algoexpert.io](https://tinyurl.com/sv32o4z) | Medium | Unbounded Knapsack |
 |04| [72. Edit Distance](https://leetcode.com/problems/edit-distance/)| [Python](https://tinyurl.com/wu6rdaw/72_Edit_Distance.py)| [Video 01](https://tinyurl.com/y4a7ohay)|
 |05| [70. Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)| [Python](https://tinyurl.com/wu6rdaw/70_Climbing_Stairs.py)|
 |06| [96. Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/)| [Python](https://tinyurl.com/wu6rdaw/96_Unique_Binary_Search_Trees.py)| [educative.io](https://tinyurl.com/s9y9sya), [Vid 1](https://tinyurl.com/ut8wh4u), [Art 1](https://tinyurl.com/wuzpywc), [Vid 2](https://tinyurl.com/vb3s4jm), [Vis 3](https://tinyurl.com/uhet84g) | Medium | 📌 Fundamentals |
@@ -541,7 +541,7 @@ BFS, DFS, Dijkstra, Floyd–Warshall, Bellman-Ford, Kruskal, Prim's, Minimum Spa
 |22| [213. House Robber II](https://leetcode.com/problems/house-robber-ii/)| [Python](https://tinyurl.com/wu6rdaw/213_House_Robber_II.py)| [Art 1](https://tinyurl.com/wwza8d5), [Art 2](https://tinyurl.com/qtqwcl4) | Medium | --- |
 |23| [337. House Robber III](https://leetcode.com/problems/house-robber-iii/)| [Python](https://tinyurl.com/wu6rdaw/337_House_Robber_III.py)| **[Art 1](https://tinyurl.com/yd8zjvvj)** | Medium | **[Another gold mine](https://tinyurl.com/yd8zjvvj)**, hidden greedy and DFS |
 |24| **[416. Partition Equal Subset Sum](https://tinyurl.com/rmf5upz)** | [Python](https://tinyurl.com/wu6rdaw/416_Partition_Equal_Subset_Sum.py)| **[educative.io](https://tinyurl.com/wpxxyjy)**, [Art 1](https://tinyurl.com/we99l2n), [Vid 1](https://tinyurl.com/vvtavaw), [Vid 2](https://tinyurl.com/wabhu46), [Vid 3](https://tinyurl.com/sk89wa3), [Vid 4](https://tinyurl.com/z352yjj) | Medium | **0/1 Knapsack**, Very important |
-|25| **[494. Target Sum](https://tinyurl.com/ro8wdkz)** | [Python](https://tinyurl.com/wu6rdaw/494_Target_Sum.py)| **[educative.io](https://tinyurl.com/wfhzh29)**, **[MUST MUST READ](https://tinyurl.com/vmmaxbe)** | Medium | **0/1 Knapsack**, Very important |
+|25| **[494. Target Sum](https://tinyurl.com/ro8wdkz)** | [Python](https://tinyurl.com/wu6rdaw/494_Target_Sum.py)| **[educative.io](https://tinyurl.com/wfhzh29)**, **[MUST MUST READ](https://tinyurl.com/vmmaxbe)** | Medium | **0/1 Knapsack**, Very important. TODO: Not  DOne. Check again |
 
 </p>
 </details>
