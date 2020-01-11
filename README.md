@@ -545,6 +545,7 @@ BFS, DFS, Dijkstra, Floyd–Warshall, Bellman-Ford, Kruskal, Prim's, Minimum Spa
 |26| **[343. Integer Break](https://tinyurl.com/qsmmtc3)** | [Python](https://tinyurl.com/wu6rdaw/343_Integer_Break.py)| **[Art 1](https://tinyurl.com/wfhzh29)**, **[Art 2](https://tinyurl.com/t2rky7o)** | Medium | **Unbounded Knapsack**. TODO: Not Done. Check again |
 |27| **[516. Longest Palindromic Subsequence](https://tinyurl.com/r7rege5)** | [Python](https://tinyurl.com/wu6rdaw/516_Longest_Palindromic_Subsequence.py)| **[educative.io](https://tinyurl.com/rvh2x2v)**, **[Vid 1](https://tinyurl.com/vjodfau)**, [Vid 2](https://tinyurl.com/uob2dhd) | Medium | --- |
 |28| [647. Palindromic Substrings](https://tinyurl.com/qw3blls) | [Python](https://tinyurl.com/wu6rdaw/647_Palindromic_Substrings.py)| **[educative.io](https://tinyurl.com/wbc4eqb)** | Medium | --- |
+|29| [680. Valid Palindrome II](https://tinyurl.com/rcdbykq) | [Python](https://tinyurl.com/wu6rdaw/680_Valid_Palindrome_II.py)| **[educative.io](https://tinyurl.com/vehzweg)**, [Art 1](https://tinyurl.com/twetoqk), [Art 2](https://tinyurl.com/wve6da4) | Medium | --- |
 
 
 </p>
