@@ -125,40 +125,6 @@ class Solution(object):
 
 
 
-        return self.minCutHelper(s, 0, strLen - 1, dpMinCuts, dpIsPalingrome)
 
 
-    def minCutHelper(self, string, startIdx, endIdx, dpMinCuts, dpIsPalingrome):
-        # we don't need to cut the string if it is a palindrome
-        if startIdx >= endIdx or self.isPalindrome(string, startIdx, endIdx, dpIsPalingrome):
-            return 0
 
-        if dpMinCuts[startIdx][endIdx] == -1:
-            # at max, we need to cut the string into its 'length-1' pieces
-            minimumCuts = endIdx - startIdx
-            for idx in range(startIdx, endIdx + 1):
-                if self.isPalindrome(string, startIdx, idx, dpIsPalingrome):
-                    # we can cut here as we have a palindrome from 'startIndex' to 'i'
-                    nextCut = self.minCutHelper(string, idx + 1, endIdx, dpMinCuts, dpIsPalingrome)
-                    minimumCuts = min(minimumCuts, 1 + nextCut)
-            dpMinCuts[startIdx][endIdx] = minimumCuts
-
-        return dpMinCuts[startIdx][endIdx]
-
-
-    def isPalindrome(self, st, x, y, dpIsPalindrome):
-        if dpIsPalindrome[x][y] == -1:
-            dpIsPalindrome[x][y] = 1
-            i, j = x, y
-            while i < j:
-                if st[i] != st[j]:
-                    dpIsPalindrome[x][y] = 0
-                    break
-                i += 1
-                j -= 1
-                # use memoization to find if the remaining string is a palindrome
-                if i < j and dpIsPalindrome[i][j] != -1:
-                    dpIsPalindrome[x][y] = dpIsPalindrome[i][j]
-                    break
-
-        return True if dpIsPalindrome[x][y] == 1 else False
