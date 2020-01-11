@@ -543,6 +543,8 @@ BFS, DFS, Dijkstra, Floyd–Warshall, Bellman-Ford, Kruskal, Prim's, Minimum Spa
 |24| **[416. Partition Equal Subset Sum](https://tinyurl.com/rmf5upz)** | [Python](https://tinyurl.com/wu6rdaw/416_Partition_Equal_Subset_Sum.py)| **[educative.io](https://tinyurl.com/wpxxyjy)**, [Art 1](https://tinyurl.com/we99l2n), [Vid 1](https://tinyurl.com/vvtavaw), [Vid 2](https://tinyurl.com/wabhu46), [Vid 3](https://tinyurl.com/sk89wa3), [Vid 4](https://tinyurl.com/z352yjj) | Medium | **0/1 Knapsack**, Very important |
 |25| **[494. Target Sum](https://tinyurl.com/ro8wdkz)** | [Python](https://tinyurl.com/wu6rdaw/494_Target_Sum.py)| **[educative.io](https://tinyurl.com/wfhzh29)**, **[MUST MUST READ](https://tinyurl.com/vmmaxbe)** | Medium | **0/1 Knapsack**, Very important. TODO: Not  DOne. Check again |
 |26| **[343. Integer Break](https://tinyurl.com/qsmmtc3)** | [Python](https://tinyurl.com/wu6rdaw/343_Integer_Break.py)| **[Art 1](https://tinyurl.com/wfhzh29)**, **[Art 2](https://tinyurl.com/t2rky7o)** | Medium | **Unbounded Knapsack**. TODO: Not Done. Check again |
+|277| **[516. Longest Palindromic Subsequence](https://tinyurl.com/r7rege5)** | [Python](https://tinyurl.com/wu6rdaw/516_Longest_Palindromic_Subsequence.py)| **[educative.io](https://tinyurl.com/rvh2x2v)**, **[Vid 1](https://tinyurl.com/vjodfau)**, [Vid 2](https://tinyurl.com/uob2dhd) | Medium | --- |
+
 
 </p>
 </details>
