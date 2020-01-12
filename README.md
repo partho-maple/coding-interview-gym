@@ -548,6 +548,7 @@ BFS, DFS, Dijkstra, Floyd–Warshall, Bellman-Ford, Kruskal, Prim's, Minimum Spa
 |29| [680. Valid Palindrome II](https://tinyurl.com/rcdbykq) | [Python](https://tinyurl.com/wu6rdaw/680_Valid_Palindrome_II.py)| **[educative.io](https://tinyurl.com/vehzweg)**, [Art 1](https://tinyurl.com/twetoqk), [Art 2](https://tinyurl.com/wve6da4) | Medium | --- |
 |30| [1312. Minimum Insertion Steps to Make a String Palindrome](https://tinyurl.com/rhzxwa6) | [Python](https://tinyurl.com/wu6rdaw/1312_Minimum_Insertion_Steps_to_Make_a_String_Palindrome.py)| **[educative.io](https://tinyurl.com/vehzweg)** | Hard | --- |
 |31| **[132. Palindrome Partitioning II](https://tinyurl.com/t2rqddx)** | [Python](https://tinyurl.com/wu6rdaw/132_Palindrome_Partitioning_II.py)| **[educative.io](https://tinyurl.com/ruuewtc)**, [algoexpert.io](https://tinyurl.com/u4l4zdk), [Vid 1](https://tinyurl.com/rkq7lbu), [Vid 2](https://tinyurl.com/t9cgysf) | Hard | TODO: Check again. Very difficult and important |
+|32| **[718. Maximum Length of Repeated Subarray](https://tinyurl.com/t5ykzen)** | [Python](https://tinyurl.com/wu6rdaw/718_Maximum_Length_of_Repeated_Subarray.py)| **[educative.io](https://tinyurl.com/teew37b)** | Medium | **Longest Common Substring** variation |
 
 
 </p>
