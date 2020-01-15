@@ -77,4 +77,3 @@ class Solution(object):
                         dp[s1Index][s2Index] |= dp[s1Index][s2Index - 1]
 
         return dp[s1Len][s2Len]
-    
