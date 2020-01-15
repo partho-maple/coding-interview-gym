@@ -20,7 +20,7 @@
 ![Visitors in today](https://visitor-count-badge.herokuapp.com/today.svg?repo_id=az69802909)
 
 
-<h4 align="center">Around 200 Leetcode.com and 77 Algoexpert.io problems with solutions using Swift and Python</h4>
+<h4 align="center">This repo contains around 300 Leetcode.com and 85 Algoexpert.io problems with solutions using Swift and Python</h4>
 
 <p align="center">
   This repo contains my solutions to algorithmic problems in <a href="https://leetcode.com/parthobiswas007/">leetcode.com</a> and <a href="https://www.algoexpert.io/questions">algoexpert.io</a> written in <b>Swift</b> and <b>Python</b>.
@@ -520,7 +520,7 @@ BFS, DFS, Dijkstra, Floyd–Warshall, Bellman-Ford, Kruskal, Prim's, Minimum Spa
 |01| [53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/submissions/)| [Python](https://tinyurl.com/wu6rdaw/53_Maximum_Subarray.py)|
 |02| [518. Coin Change 2](https://leetcode.com/problems/coin-change-2/)| [Python](https://tinyurl.com/wu6rdaw/518_Coin_Change_2.py)| **[educative.io](https://tinyurl.com/ro6das2)**, [Vid 1](https://tinyurl.com/wj5xxmw), [codinginterviewclass.com](https://tinyurl.com/urd4fg5), [Algoexpert.io](https://tinyurl.com/rv4r9e6) | Medium | Unbounded Knapsack |
 |03| [322. Coin Change](https://leetcode.com/problems/coin-change/solution/)| [Python](https://tinyurl.com/wu6rdaw/322_Coin_Change.py)| **[educative.io](https://tinyurl.com/w7t6jpo)**, [Vid 1](https://tinyurl.com/qlqrz6z), [Algoexpert.io](https://tinyurl.com/sv32o4z) | Medium | Unbounded Knapsack |
-|04| **[72. Edit Distance](https://leetcode.com/problems/edit-distance/)** | [Python](https://tinyurl.com/wu6rdaw/72_Edit_Distance.py)| [educative.com](https://tinyurl.com/wzxp6ef), [algoexpert.io](https://tinyurl.com/szk8rub), [codinginterviewclass.com](https://tinyurl.com/rj6d8fm), [Vid 1](https://tinyurl.com/y6chhmm9), [Vid 2](https://tinyurl.com/y4a7ohay)| Hard | TODO: Check again. Very important and classic. Levenshtein Distance |
+|04| **[72. Edit Distance](https://leetcode.com/problems/edit-distance/)** | [Python](https://tinyurl.com/wu6rdaw/72_Edit_Distance.py)| **[educative.com](https://tinyurl.com/wzxp6ef)**, **[algoexpert.io](https://tinyurl.com/szk8rub)**, **[codinginterviewclass.com](https://tinyurl.com/rj6d8fm)**, [Vid 1](https://tinyurl.com/y6chhmm9), [Vid 2](https://tinyurl.com/y4a7ohay)| Hard | TODO: Check again. Very important and classic. Levenshtein Distance |
 |05| [70. Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)| [Python](https://tinyurl.com/wu6rdaw/70_Climbing_Stairs.py)| **[educative.io](https://tinyurl.com/rs9jfvd)** | Easy | Fibonacci sequence pattern |
 |06| [96. Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/)| [Python](https://tinyurl.com/wu6rdaw/96_Unique_Binary_Search_Trees.py)| [educative.io](https://tinyurl.com/s9y9sya), [Vid 1](https://tinyurl.com/ut8wh4u), [Art 1](https://tinyurl.com/wuzpywc), [Vid 2](https://tinyurl.com/vb3s4jm), [Vis 3](https://tinyurl.com/uhet84g) | Medium | 📌 Fundamentals |
 |07| [95. Unique Binary Search Trees II](https://leetcode.com/problems/unique-binary-search-trees-ii/)| [Python](https://tinyurl.com/wu6rdaw/95_Unique_Binary_Search_Trees_II.py)| [educative.io](https://tinyurl.com/s9y9sya) |  Medium | --- |
