@@ -553,6 +553,7 @@ BFS, DFS, Dijkstra, Floyd–Warshall, Bellman-Ford, Kruskal, Prim's, Minimum Spa
 |34| [1092. Shortest Common Supersequence](https://tinyurl.com/qlpc52j) | [Python](https://tinyurl.com/wu6rdaw/1092_Shortest_Common_Supersequence.py)| **[educative.io](https://tinyurl.com/qmro98q)**, [Art 1](https://tinyurl.com/t87jfgg) | Hard | TODO: Not Done |
 |35| [115. Distinct Subsequences](https://tinyurl.com/gudjxts) | [Python](https://tinyurl.com/wu6rdaw/115_Distinct_Subsequences.py)| **[educative.io](https://tinyurl.com/yx6s5c4m)** | Hard | TODO: Check again |
 |36| **[97. Interleaving String](https://tinyurl.com/qmp8yn5)** | [Python](https://tinyurl.com/wu6rdaw/97_Interleaving_String.py)| **[educative.io](https://tinyurl.com/uzbogsf)**, [Vid 1](https://tinyurl.com/wlmpvjo) | Hard | TODO: Check again. Very difficult and tricky to understand |
+|37| [1048. Longest String Chain](https://tinyurl.com/uvb5v6s) | [Python](https://tinyurl.com/wu6rdaw/1048_Longest_String_Chain.py)| [Art 1](https://tinyurl.com/tcslm9l) | Medium | Modified LIS |
 
 
 </p>
