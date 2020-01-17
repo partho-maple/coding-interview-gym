@@ -301,6 +301,7 @@ I have solved quite a number of problems from several topics. See the below tabl
 ### 7. [Binary Tree](https://leetcode.com/explore/learn/card/data-structure-tree/)
 <details><summary>Leetcode problems with solutions and tutorials/videos</summary>
 <p>
+Check this [golden](https://tinyurl.com/ujopecz) post.
 
 | #  | Title | Solution | Tutorial | Level | Remarks |
 | --- | --- | --- | --- | --- | --- |
@@ -327,6 +328,8 @@ I have solved quite a number of problems from several topics. See the below tabl
 |21| [113. Path Sum II](https://tinyurl.com/qm9gc2v) | [Python](https://tinyurl.com/wu6rdaw/113_Path_Sum_II.py)| [Art 1](https://tinyurl.com/rynd6fy), [Art 2](https://tinyurl.com/tn2o75s) | Medium | --- |
 |22| [437. Path Sum III](https://tinyurl.com/ug978np) | [Python](https://tinyurl.com/wu6rdaw/437_Path_Sum_III.py)| [Educative.io](https://tinyurl.com/vyhpcu2), [Art 1](https://tinyurl.com/w6yjxaz), **[Art 2](https://tinyurl.com/wkxjmqv)** | Medium | 📌 A good example of Prefix Sum and DFS. Very Important |
 |23| [543. Diameter of Binary Tree](https://tinyurl.com/womnj8m) | [Python](https://tinyurl.com/wu6rdaw/543_Diameter_of_Binary_Tree.py)| [Educative.io](https://tinyurl.com/w6rrucg), [Art 1](https://tinyurl.com/vfnvg8q) | Medium | 📌 Important |
+|24| **[1110. Delete Nodes And Return Forest](https://tinyurl.com/rg8qomj)** | [Python](https://tinyurl.com/wu6rdaw/1110_Delete_Nodes_And_Return_Forest.py)| [Vid 1](https://tinyurl.com/t9rax3x), [Vid 2](https://tinyurl.com/uw6y3zk), [Art 1](https://tinyurl.com/ujopecz), [Art 2](https://tinyurl.com/tppglsu) | Medium | 📌 **TODO: Check again. Important |
+
 
 </p>
 </details>
