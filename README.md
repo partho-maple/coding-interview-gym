@@ -147,6 +147,7 @@ I have solved quite a number of problems from several topics. See the below tabl
 |42| [287. Find the Duplicate Number](https://tinyurl.com/ua342v6)| [Python](https://tinyurl.com/wu6rdaw/287_Find_the_Duplicate_Number.py)| --- | Medium | Cyclic Sort. TODO: Check all other approaches |
 |43| [442. Find All Duplicates in an Array](https://tinyurl.com/yxxs4vvn)| [Python](https://tinyurl.com/wu6rdaw/442_Find_All_Duplicates_in_an_Array.py)| --- | Medium | Cyclic Sort TODO: Check all other approaches |
 |44| [41. First Missing Positive](https://tinyurl.com/tfewwtv)| [Python](https://tinyurl.com/wu6rdaw/41_First_Missing_Positive.py)| --- | Hard | Cyclic Sort, Very important |
+|45| **[939. Minimum Area Rectangle](https://tinyurl.com/tcr34w3)** | [Python](https://tinyurl.com/wu6rdaw/939_Minimum_Area_Rectangle.py)| [Art 1](https://tinyurl.com/wfgjaf3) | Medium | Hash and Set, Very important |
 
 </p>
 </details>
