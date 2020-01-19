@@ -300,6 +300,7 @@ I have solved quite a number of problems from several topics. See the below tabl
 
 
 ### 7. [Binary Tree](https://leetcode.com/explore/learn/card/data-structure-tree/)
+[Binary Tree Bootcamp](https://tinyurl.com/ut5oglh)
 <details><summary>Leetcode problems with solutions and tutorials/videos</summary>
 <p>
 Check this [golden](https://tinyurl.com/ujopecz) post.
@@ -315,9 +316,9 @@ Check this [golden](https://tinyurl.com/ujopecz) post.
 |07| [100. Same Tree](https://leetcode.com/problems/same-tree/)| [Python](https://tinyurl.com/wu6rdaw/100_Same_Tree.py)| |
 |08| [111. Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/)| [Python](https://tinyurl.com/wu6rdaw/111_Minimum_Depth_of_Binary_Tree.py)| | Easy | --- |
 |09| [110. Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/)| [Python](https://tinyurl.com/wu6rdaw/110_Balanced_Binary_Tree.py)| [Video 1](https://www.youtube.com/watch?v=LU4fGD-fgJQ), [Article 1](https://leetcode.com/problems/balanced-binary-tree/discuss/36042/Two-different-definitions-of-balanced-binary-tree-result-in-two-different-judgments), [Article 2](https://leetcode.com/problems/balanced-binary-tree/discuss/35708/VERY-SIMPLE-Python-solutions-(iterative-and-recursive)-both-beat-90) | Easy | --- |
-|10| [105. Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/)| [Python](https://tinyurl.com/wu6rdaw/105_Construct_Binary_Tree_from_Preorder_and_Inorder_Traversal.py)| --- | Medium | DFS, Very Important |
-|11| [106. Construct Binary Tree from Inorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/)| [Python](https://tinyurl.com/wu6rdaw/106_Construct_Binary_Tree_from_Inorder_and_Postorder_Traversal.py)| [Art 1](https://tinyurl.com/vlntqrp) | Medium | DFS, Very Important |
-|12| [257. Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/)| [Python](https://tinyurl.com/wu6rdaw/257_Binary_Tree_Paths.py)| --- | Easy | DFS |
+|10| [105. Construct Binary Tree from Preorder and Inorder Traversal](https://tinyurl.com/y4s62xbu)| [Python](https://tinyurl.com/wu6rdaw/105_Construct_Binary_Tree_from_Preorder_and_Inorder_Traversal.py)| [Art 1](https://tinyurl.com/y3megvpm), [Art 2](https://tinyurl.com/tazaoyz), [Vid 1](https://tinyurl.com/qoqdsqv) | Medium | DFS, Very Important |
+|11| [106. Construct Binary Tree from Inorder and Postorder Traversal](https://tinyurl.com/yx78og6g)| [Python](https://tinyurl.com/wu6rdaw/106_Construct_Binary_Tree_from_Inorder_and_Postorder_Traversal.py)| [Art 1](https://tinyurl.com/vlntqrp) | Medium | DFS, Very Important |
+|12| **[889. Construct Binary Tree from Preorder and Postorder Traversal](https://tinyurl.com/y578ty5u)** | [Python](https://tinyurl.com/wu6rdaw/889_Construct_Binary_Tree_from_Preorder_and_Postorder_Traversal.py)| [Vid 1](https://tinyurl.com/r6d4ym5), [Art 1](https://tinyurl.com/tflqhp9) | Medium | 📌 **TODO: Check again. Important** |
 |13| **[124. Binary Tree Maximum Path Sum](https://tinyurl.com/yycvxmmy)**| [Python](https://tinyurl.com/wu6rdaw/124_Binary_Tree_Maximum_Path_Sum.py)| [Art 1](https://tinyurl.com/uocr9np), [Art 2](https://tinyurl.com/s23sqhe), [Vid 1](https://tinyurl.com/wwe95qx), [AlgoExpert](https://tinyurl.com/vofbonm) | Very Hard | **Very important and tricky** |
 |14| **[979. Distribute Coins in Binary Tree](https://leetcode.com/problems/distribute-coins-in-binary-tree/)**| [Python](https://tinyurl.com/wu6rdaw/979_Distribute_Coins_in_Binary_Tree.py)| [Art 1](https://tinyurl.com/rugoa38), [Art 2](https://tinyurl.com/whkdbl4), [Art 3](https://tinyurl.com/s62fws7) | Medium | **Very important. Postorder DFS** |
 |15| [116. Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/)| [Python](https://tinyurl.com/wu6rdaw/116_Populating_Next_Right_Pointers_in_Each_Node.py)| [Art 1](https://tinyurl.com/t6p8kjb), [Art 2](https://tinyurl.com/ujzrhkj), **[Art 3](https://tinyurl.com/unrow77)** | Medium | BFS/DFS, Level order traversal |
@@ -330,7 +331,7 @@ Check this [golden](https://tinyurl.com/ujopecz) post.
 |22| [437. Path Sum III](https://tinyurl.com/ug978np) | [Python](https://tinyurl.com/wu6rdaw/437_Path_Sum_III.py)| [Educative.io](https://tinyurl.com/vyhpcu2), [Art 1](https://tinyurl.com/w6yjxaz), **[Art 2](https://tinyurl.com/wkxjmqv)** | Medium | 📌 A good example of Prefix Sum and DFS. Very Important |
 |23| [543. Diameter of Binary Tree](https://tinyurl.com/womnj8m) | [Python](https://tinyurl.com/wu6rdaw/543_Diameter_of_Binary_Tree.py)| [Educative.io](https://tinyurl.com/w6rrucg), [Art 1](https://tinyurl.com/vfnvg8q) | Medium | 📌 Important |
 |24| **[1110. Delete Nodes And Return Forest](https://tinyurl.com/rg8qomj)** | [Python](https://tinyurl.com/wu6rdaw/1110_Delete_Nodes_And_Return_Forest.py)| [Vid 1](https://tinyurl.com/t9rax3x), [Vid 2](https://tinyurl.com/uw6y3zk), [Art 1](https://tinyurl.com/ujopecz), [Art 2](https://tinyurl.com/tppglsu) | Medium | 📌 **TODO: Check again. Important |
-
+|25| [257. Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/)| [Python](https://tinyurl.com/wu6rdaw/257_Binary_Tree_Paths.py)| --- | Easy | DFS |
 
 </p>
 </details>
