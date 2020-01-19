@@ -74,10 +74,12 @@ I have solved quite a number of problems from several topics. See the below tabl
 - ...
 
 ## My other related repos
-- [Coding Interview Patterns](https://github.com/partho-maple/coding-interview-patterns)
-- [OOD Patterns Principles](https://github.com/partho-maple/OOD-Patterns-Principles)
-- [Swift Cheat Sheet](https://github.com/partho-maple/Swift_Cheat_Sheet)
-- [iOS Architecture by Example](https://github.com/partho-maple/iOS-Architecture-by-Example)
+- [Coding Interview Patterns](https://tinyurl.com/wluap5j)
+- [Coding Interview Gym](https://tinyurl.com/wt2dbym)
+- [iOS Interview Gym](https://tinyurl.com/wt5vyzq)
+- [Behavioural Interview Gym](https://tinyurl.com/v65wlwf)
+- [System Design Interview Gym](https://tinyurl.com/tr2xkze)
+- [Object Oriented Design Interview Gym](https://tinyurl.com/uhlp9sc)
 
 ## My leetcode account
 - [ParthoBiswas007](https://leetcode.com/ParthoBiswas007/)
