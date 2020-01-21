@@ -181,6 +181,7 @@ I have solved quite a number of problems from several topics. See the below tabl
 |17| [438. Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/)| [Python](https://tinyurl.com/wu6rdaw/438_Find_All_Anagrams_in_a_String.py)| **[Must](https://tinyurl.com/y8jsku3f)**, [Art 1](https://tinyurl.com/wzdp4yp) | Medium | 📌 Sliding window |
 |18| [567. Permutation in String](https://leetcode.com/problems/permutation-in-string/)| [Python](https://tinyurl.com/wu6rdaw/567_Permutation_in_String.py)| **[Must](https://tinyurl.com/y8jsku3f)** | Medium | 📌 Sliding window |
 |19| [844. Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/)| [Python](https://tinyurl.com/wu6rdaw/844_Backspace_String_Compare.py)| --- | Easy | 📌 Two Pointer |
+|20| **[809. Expressive Words](https://tinyurl.com/vuv9uud)**| [Python](https://tinyurl.com/wu6rdaw/809_Expressive_Words.py)| [Art 1](https://tinyurl.com/rzlvfn7) | Medium | 📌 Logic ad analytical prolem |
 
 
 </p>
