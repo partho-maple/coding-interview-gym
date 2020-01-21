@@ -334,6 +334,7 @@ Check this [golden](https://tinyurl.com/ujopecz) post.
 |23| [543. Diameter of Binary Tree](https://tinyurl.com/womnj8m) | [Python](https://tinyurl.com/wu6rdaw/543_Diameter_of_Binary_Tree.py)| [Educative.io](https://tinyurl.com/w6rrucg), [Art 1](https://tinyurl.com/vfnvg8q) | Medium | 📌 Important |
 |24| **[1110. Delete Nodes And Return Forest](https://tinyurl.com/rg8qomj)** | [Python](https://tinyurl.com/wu6rdaw/1110_Delete_Nodes_And_Return_Forest.py)| [Vid 1](https://tinyurl.com/t9rax3x), [Vid 2](https://tinyurl.com/uw6y3zk), [Art 1](https://tinyurl.com/ujopecz), [Art 2](https://tinyurl.com/tppglsu) | Medium | 📌 **TODO: Check again. Important |
 |25| [257. Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/)| [Python](https://tinyurl.com/wu6rdaw/257_Binary_Tree_Paths.py)| --- | Easy | DFS |
+|26| **[1145. Binary Tree Coloring Game](https://tinyurl.com/uukf2nm)**| [Python](https://tinyurl.com/wu6rdaw/1145_Binary_Tree_Coloring_Game.py)| [Art 1](https://tinyurl.com/v4k7jaj), [Art 2](https://tinyurl.com/rvwsjar) | Medium | DFS |
 
 </p>
 </details>
