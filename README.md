@@ -151,6 +151,7 @@ I have solved quite a number of problems from several topics. See the below tabl
 |44| [41. First Missing Positive](https://tinyurl.com/tfewwtv)| [Python](https://tinyurl.com/wu6rdaw/41_First_Missing_Positive.py)| --- | Hard | Cyclic Sort, Very important |
 |45| **[939. Minimum Area Rectangle](https://tinyurl.com/tcr34w3)** | [Python](https://tinyurl.com/wu6rdaw/939_Minimum_Area_Rectangle.py)| [Art 1](https://tinyurl.com/wfgjaf3) | Medium | Hash and Set, Very important |
 
+
 </p>
 </details>
 
@@ -296,6 +297,7 @@ I have solved quite a number of problems from several topics. See the below tabl
 |20| [658. Find K Closest Elements](https://tinyurl.com/rkpkjfo)| [Python](https://tinyurl.com/wu6rdaw/658_Find_K_Closest_Elements.py)| [Vid 1](https://tinyurl.com/w5ccjoe), [educative.io](https://tinyurl.com/uogulbz) | Medium | 📌 **[Binary Search Template III](https://tinyurl.com/vpsn3w8)**. TODO: Check Heap approach which is not done|
 |21| [702. Search in a Sorted Array of Unknown Size](https://leetcode.com/problems/search-in-a-sorted-array-of-unknown-size/)| [Python](https://tinyurl.com/wu6rdaw/702_Search_in_a_Sorted_Array_of_Unknown_Size.py)| [Educative.io](https://tinyurl.com/qn6uuel) | Medium | 📌 [Binary Search Template I](https://leetcode.com/explore/learn/card/binary-search/125/template-i/938/) |
 |22| **[378. Kth Smallest Element in a Sorted Matrix](https://tinyurl.com/shz4289)** | [Python](https://tinyurl.com/wu6rdaw/378_Kth_Smallest_Element_in_a_Sorted_Matrix.py)| [educative.io](https://tinyurl.com/scbjgjd) | Hard | 📌 TODO: Check again the Binary Search approach. Very important |
+|23| **[1146. Snapshot Array](https://tinyurl.com/v3nb29v)** | [Python](https://tinyurl.com/wu6rdaw/1146_Snapshot_Array.py)| [Art 1](https://tinyurl.com/v3nb29v) | Medium | Tricky use of binary search |
 
 </p>
 </details>
