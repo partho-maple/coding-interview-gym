@@ -446,6 +446,7 @@ BFS, DFS, Dijkstra, Floyd–Warshall, Bellman-Ford, Kruskal, Prim's, Minimum Spa
 |23| **[1168. Optimize Water Distribution in a Village](https://tinyurl.com/ygh8sahd)** | [Python](https://tinyurl.com/wu6rdaw/1168_Optimize_Water_Distribution_in_a_Village.py)|  **[Art 1](https://tinyurl.com/yjwwoxv3)**, **[Art 2](https://tinyurl.com/yhc3a7yr)**, **[Art 3](https://tinyurl.com/yf7fjz4v)**, [Art 4](https://tinyurl.com/yh7n9wps) | Hard | TODO: Check AGain. Prim's and Kruskal's algorithm. Important. |
 |24| **[1197. Minimum Knight Moves](https://tinyurl.com/svox8jw)** | [Python](https://tinyurl.com/wu6rdaw/1197_Minimum_Knight_Moves.py)|  **[Art 1](https://tinyurl.com/wed5c6s)** | Medium | TODO: Check AGain. Important. |
 |25| **[1066. Campus Bikes II](https://leetcode.com/problems/campus-bikes-ii/)** | [Python](https://tinyurl.com/wu6rdaw/1066_Campus_Bikes_II.py)| [Vid 1](https://tinyurl.com/qq6obzv), **[Art 1](https://tinyurl.com/r4wtfbo)** | Medium |📌 **TODO: CHECK Dijkstra approach again. Backtracking solution is getting TLE. Solve it and implement it with DP also. Very important** |
+|26| **[752. Open the Lock](https://tinyurl.com/yxpwjn7r)** | [Python](https://tinyurl.com/wu6rdaw/752_Open_the_Lock.py)| **[Art 1](https://tinyurl.com/s3oskv8)**, **[Art 2](https://tinyurl.com/rsr4tz9)** | Medium |📌 **TODO: CHECK again. Very important  and interesting problem. Loved it** |
 
 
 </p>
