@@ -264,6 +264,7 @@ I have solved quite a number of problems from several topics. See the below tabl
 |14| [895. Maximum Frequency Stack](https://tinyurl.com/szdk34w) | [Python](https://tinyurl.com/wu6rdaw/895_Maximum_Frequency_Stack.py)| [educative.io](https://tinyurl.com/w5cd6yh) | Hard | 📌 TODO: Check again |
 |15| **[378. Kth Smallest Element in a Sorted Matrix](https://tinyurl.com/shz4289)** | [Python](https://tinyurl.com/wu6rdaw/378_Kth_Smallest_Element_in_a_Sorted_Matrix.py)| [educative.io](https://tinyurl.com/scbjgjd) | Hard | 📌 TODO: Check again the Binary Search approach. Very important |
 |16| **[632. Smallest Range Covering Elements from K Lists](https://tinyurl.com/v3fshwo)** | [Python](https://tinyurl.com/wu6rdaw/632_Smallest_Range_Covering_Elements_from_K_Lists.py)| [educative.io](https://tinyurl.com/ubfua7f) | Hard | 📌 TODO: Check again. Very important |
+|17| **[846. Hand of Straights](https://tinyurl.com/y2hfqqsv)** | [Python](https://tinyurl.com/wu6rdaw/846_Hand_of_Straights.py)| **[Art 1](https://tinyurl.com/tp46c6s)** | Hard | 📌 TODO: Check again. Very important |
 
 </p>
 </details>
