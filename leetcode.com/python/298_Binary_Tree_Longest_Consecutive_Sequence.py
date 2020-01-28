@@ -1,9 +1,9 @@
 # Definition for a binary tree node.
-# class TreeNode(object):
-#     def __init__(self, x):
-#         self.val = x
-#         self.left = None
-#         self.right = None
+class TreeNode(object):
+    def __init__(self, x):
+        self.val = x
+        self.left = None
+        self.right = None
 
 # Top-Down approach - Accepted
 class Solution(object):
@@ -34,7 +34,7 @@ class Solution(object):
 
 
 
-# Bottom-Up approach - Accepted
+# Bottom-Up approach - Not Accepted
 class Solution(object):
     def longestConsecutive(self, root):
         """
@@ -54,10 +54,11 @@ class Solution(object):
         leftLength, leftVal = self.longestConsecutiveHelper(root.left)
         rightLength, rightVal = self.longestConsecutiveHelper(root.right)
 
-        if leftVal != float("-inf") and root.val == leftVal - 1:
+        if leftVal != float("-inf") and root.val + 1 == leftVal:
             leftLength += 1
-        elif rightVal != float("-inf") and root.val == rightVal - 1:
+        if rightVal != float("-inf") and root.val + 1 == rightVal:
             rightLength += 1
         longestSeque = max(leftLength, rightLength, 1)
 
         return (longestSeque, root.val)
+
