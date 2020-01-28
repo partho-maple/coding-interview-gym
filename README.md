@@ -300,6 +300,7 @@ I have solved quite a number of problems from several topics. See the below tabl
 |21| [702. Search in a Sorted Array of Unknown Size](https://leetcode.com/problems/search-in-a-sorted-array-of-unknown-size/)| [Python](https://tinyurl.com/wu6rdaw/702_Search_in_a_Sorted_Array_of_Unknown_Size.py)| [Educative.io](https://tinyurl.com/qn6uuel) | Medium | 📌 [Binary Search Template I](https://leetcode.com/explore/learn/card/binary-search/125/template-i/938/) |
 |22| **[378. Kth Smallest Element in a Sorted Matrix](https://tinyurl.com/shz4289)** | [Python](https://tinyurl.com/wu6rdaw/378_Kth_Smallest_Element_in_a_Sorted_Matrix.py)| [educative.io](https://tinyurl.com/scbjgjd) | Hard | 📌 TODO: Check again the Binary Search approach. Very important |
 |23| **[1146. Snapshot Array](https://tinyurl.com/v3nb29v)** | [Python](https://tinyurl.com/wu6rdaw/1146_Snapshot_Array.py)| [Art 1](https://tinyurl.com/v3nb29v) | Medium | Tricky use of binary search |
+|24| **[1170. Compare Strings by Frequency of the Smallest Character](https://tinyurl.com/tcr34w3)** | [Python](https://tinyurl.com/wu6rdaw/1170_Compare_Strings_by_Frequency_of_the_Smallest_Character.py)| --- | Easy | Binary Search, Very important |
 
 </p>
 </details>
