@@ -344,6 +344,7 @@ Check this [golden](https://tinyurl.com/ujopecz) post.
 |26| **[1145. Binary Tree Coloring Game](https://tinyurl.com/uukf2nm)**| [Python](https://tinyurl.com/wu6rdaw/1145_Binary_Tree_Coloring_Game.py)| [Art 1](https://tinyurl.com/v4k7jaj), [Art 2](https://tinyurl.com/rvwsjar) | Medium | DFS |
 |27| **[298. Binary Tree Longest Consecutive Sequence](https://tinyurl.com/rw2sqxr)**| [Python](https://tinyurl.com/wu6rdaw/298_Binary_Tree_Longest_Consecutive_Sequence.py)| **[Art 1](https://tinyurl.com/wmlq6md)** | Medium | DFS |
 |28| **[951. Flip Equivalent Binary Trees](https://tinyurl.com/wj4bqms)**| [Python](https://tinyurl.com/wu6rdaw/951_Flip_Equivalent_Binary_Trees.py)| **[Vid 1](https://tinyurl.com/uw378m8)**, [Art 1](https://tinyurl.com/r5d6jkk) | Medium | DFS |
+|29| **[528. Random Pick with Weight](https://tinyurl.com/vf8bruk)**| [Python](https://tinyurl.com/wu6rdaw/528_Random_Pick_with_Weight.py)| **[Vid 1](https://tinyurl.com/usd5r25)**, **[Art 1](https://tinyurl.com/rgwt57q)** | Medium | Very tricky |
 
 </p>
 </details>
