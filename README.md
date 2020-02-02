@@ -349,6 +349,7 @@ Check this [golden](https://tinyurl.com/ujopecz) post.
 |27| **[298. Binary Tree Longest Consecutive Sequence](https://tinyurl.com/rw2sqxr)**| [Python](https://tinyurl.com/wu6rdaw/298_Binary_Tree_Longest_Consecutive_Sequence.py)| **[Art 1](https://tinyurl.com/wmlq6md)** | Medium | DFS |
 |28| **[951. Flip Equivalent Binary Trees](https://tinyurl.com/wj4bqms)**| [Python](https://tinyurl.com/wu6rdaw/951_Flip_Equivalent_Binary_Trees.py)| **[Vid 1](https://tinyurl.com/uw378m8)**, [Art 1](https://tinyurl.com/r5d6jkk) | Medium | DFS |
 |29| **[528. Random Pick with Weight](https://tinyurl.com/vf8bruk)**| [Python](https://tinyurl.com/wu6rdaw/528_Random_Pick_with_Weight.py)| **[Vid 1](https://tinyurl.com/usd5r25)**, **[Art 1](https://tinyurl.com/rgwt57q)** | Medium | Very tricky |
+|30| **[236. Lowest Common Ancestor of a Binary Tree](https://tinyurl.com/y54e6gco)**| [Python](https://tinyurl.com/wu6rdaw/236_Lowest_Common_Ancestor_of_a_Binary_Tree.py)| **[Vid 1](https://tinyurl.com/udf9oa9)**, **[Vid 2](https://tinyurl.com/stknbyu)**, **[Algoexpert.io](https://tinyurl.com/wwz4m5t)**, **[Official](https://tinyurl.com/yx28t8ff)**, **[Art 1](https://tinyurl.com/v86wcky)**, **[Art 2](https://tinyurl.com/tu7jdzq)**, **[Art 3](https://tinyurl.com/tgvyy7p)** | Medium | TODO: Check Again. Very Important |
 
 </p>
 </details>
