@@ -85,6 +85,7 @@ I have solved quite a number of problems from several topics. See the below tabl
 - [ParthoBiswas007](https://leetcode.com/ParthoBiswas007/)
 
 ## Tips
+- Check this **[Golden](https://tinyurl.com/uboo399)** post first.
 - Whenever you solve a new question with some new techniques/algorithms, try to solve atleast 2 similar problem in a row. This way, your understanding to the new techniques/algorithms will be better.
 - Solve all [leetcode cards](https://leetcode.com/explore/learn/)
 - ...
@@ -592,7 +593,7 @@ BFS, DFS, Dijkstra, Floyd–Warshall, Bellman-Ford, Kruskal, Prim's, Minimum Spa
 |40| **[139. Word Break](https://tinyurl.com/yyyy9dqz)** | [Python](https://tinyurl.com/wu6rdaw/139_Word_Break.py)| **[Must](https://tinyurl.com/sdzmo32)**, [Vid 1](https://tinyurl.com/s4hvakw), [Vis 2](https://tinyurl.com/rjwjanc), [Vid 3](https://tinyurl.com/rdxmwwg) | Medium | TODO: Check again. Very Important. |
 |41| **[62. Unique Paths](https://tinyurl.com/j8xmh7u)** | [Python](https://tinyurl.com/wu6rdaw/62_Unique_Paths.py)| **[Vid 1](https://tinyurl.com/wp6vsqq)**, [Art 1](https://tinyurl.com/roammlg), [Art 2](https://tinyurl.com/tt5fpjk) | Medium | TODO: Check again |
 |42| **[152. Maximum Product Subarray](https://tinyurl.com/rxbfx5k)** | [Python](https://tinyurl.com/wu6rdaw/152_Maximum_Product_Subarray.py), [Swift](https://tinyurl.com/wuja3c4/152_Maximum_Product_Subarray.swift)| **[Vid 1](https://tinyurl.com/t24rc22)**, [Art 1](https://tinyurl.com/uzdpw4k) | Medium | Kadane's algorithm on multiplication |
-|43| **[64. Minimum Path Sum](https://tinyurl.com/ugnoql2)** | [Python](https://tinyurl.com/wu6rdaw/64_Minimum_Path_Sum.py), [Swift](https://tinyurl.com/wuja3c4/64_Minimum_Path_Sum.swift)| --- | Medium | Kadane's algorithm on multiplication |
+|43| **[64. Minimum Path Sum](https://tinyurl.com/ugnoql2)** | [Python](https://tinyurl.com/wu6rdaw/64_Minimum_Path_Sum.py), [Swift](https://tinyurl.com/wuja3c4/64_Minimum_Path_Sum.swift)| --- | Medium | --- |
 
 
 </p>
@@ -893,6 +894,9 @@ BFS, DFS, Dijkstra, Floyd–Warshall, Bellman-Ford, Kruskal, Prim's, Minimum Spa
 ### 1. Strategies
 <details><summary></summary>
 <p>
+Check this **[Golden](https://tinyurl.com/uboo399)** posts first.
+
+-   **[Comprehensive Data Structure and Algorithm Study Guide](https://tinyurl.com/uboo399)**
 
 01. [How a Googler solves coding problems](https://blog.usejournal.com/how-a-googler-solves-coding-problems-ec5d59e73ec5)
 02. [Nail Every Coding Interview by Becoming Asymmetrical](https://www.youtube.com/watch?v=-THCaZWggTk)
