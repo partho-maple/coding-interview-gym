@@ -591,7 +591,7 @@ BFS, DFS, Dijkstra, Floyd–Warshall, Bellman-Ford, Kruskal, Prim's, Minimum Spa
 |39| **[279. Perfect Squares](https://tinyurl.com/jcjc6kf)** | [Python](https://tinyurl.com/wu6rdaw/279_Perfect_Squares.py)| **[Must](https://tinyurl.com/raomm4y)**, [Vid 1](https://tinyurl.com/rxpaqe8), [Vis 2](https://tinyurl.com/uevqohx) | Medium | TODO: Check again. Very Important. Very analytical and tricky to come up with |
 |40| **[139. Word Break](https://tinyurl.com/yyyy9dqz)** | [Python](https://tinyurl.com/wu6rdaw/139_Word_Break.py)| **[Must](https://tinyurl.com/sdzmo32)**, [Vid 1](https://tinyurl.com/s4hvakw), [Vis 2](https://tinyurl.com/rjwjanc), [Vid 3](https://tinyurl.com/rdxmwwg) | Medium | TODO: Check again. Very Important. |
 |41| **[62. Unique Paths](https://tinyurl.com/j8xmh7u)** | [Python](https://tinyurl.com/wu6rdaw/62_Unique_Paths.py)| **[Vid 1](https://tinyurl.com/wp6vsqq)**, [Art 1](https://tinyurl.com/roammlg), [Art 2](https://tinyurl.com/tt5fpjk) | Medium | TODO: Check again |
-|42| **[152. Maximum Product Subarray](https://tinyurl.com/rxbfx5k)** | [Python](https://tinyurl.com/wu6rdaw/152_Maximum_Product_Subarray.py)| **[Vid 1](https://tinyurl.com/t24rc22)**, [Art 1](https://tinyurl.com/roammlg), [Art 2](https://tinyurl.com/tt5fpjk) | Medium | Kadane's algorithm on multiplication |
+|42| **[152. Maximum Product Subarray](https://tinyurl.com/rxbfx5k)** | [Python](https://tinyurl.com/wu6rdaw/152_Maximum_Product_Subarray.py), [Swift](https://tinyurl.com/vm3op4y/152_Maximum_Product_Subarray.py)| **[Vid 1](https://tinyurl.com/t24rc22)**, [Art 1](https://tinyurl.com/roammlg), [Art 2](https://tinyurl.com/tt5fpjk) | Medium | Kadane's algorithm on multiplication |
 
 
 </p>
