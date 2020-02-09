@@ -550,7 +550,7 @@ BFS, DFS, Dijkstra, Floyd–Warshall, Bellman-Ford, Kruskal, Prim's, Minimum Spa
 
 | #  | Title | Solution | Tutorial | Level | Remarks |
 | --- | --- | --- | --- | --- | --- |
-|01| [53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/submissions/)| [Python](https://tinyurl.com/wu6rdaw/53_Maximum_Subarray.py)|
+|01| [53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/submissions/)| [Python](https://tinyurl.com/wu6rdaw/53_Maximum_Subarray.py)| [Vid 1](https://tinyurl.com/wnjuna5), [Algoexpert.io](https://tinyurl.com/vqcznww) | Easy | Kadane's Algorithm |
 |02| [518. Coin Change 2](https://leetcode.com/problems/coin-change-2/)| [Python](https://tinyurl.com/wu6rdaw/518_Coin_Change_2.py)| **[educative.io](https://tinyurl.com/ro6das2)**, [Vid 1](https://tinyurl.com/wj5xxmw), [codinginterviewclass.com](https://tinyurl.com/urd4fg5), [Algoexpert.io](https://tinyurl.com/rv4r9e6) | Medium | Unbounded Knapsack |
 |03| [322. Coin Change](https://leetcode.com/problems/coin-change/solution/)| [Python](https://tinyurl.com/wu6rdaw/322_Coin_Change.py)| **[educative.io](https://tinyurl.com/w7t6jpo)**, [Vid 1](https://tinyurl.com/qlqrz6z), [Algoexpert.io](https://tinyurl.com/sv32o4z) | Medium | Unbounded Knapsack |
 |04| **[72. Edit Distance](https://leetcode.com/problems/edit-distance/)** | [Python](https://tinyurl.com/wu6rdaw/72_Edit_Distance.py)| **[educative.com](https://tinyurl.com/wzxp6ef)**, **[algoexpert.io](https://tinyurl.com/szk8rub)**, **[codinginterviewclass.com](https://tinyurl.com/rj6d8fm)**, [Vid 1](https://tinyurl.com/y6chhmm9), [Vid 2](https://tinyurl.com/y4a7ohay)| Hard | TODO: Check again. Very important and classic. Levenshtein Distance |
@@ -591,6 +591,7 @@ BFS, DFS, Dijkstra, Floyd–Warshall, Bellman-Ford, Kruskal, Prim's, Minimum Spa
 |39| **[279. Perfect Squares](https://tinyurl.com/jcjc6kf)** | [Python](https://tinyurl.com/wu6rdaw/279_Perfect_Squares.py)| **[Must](https://tinyurl.com/raomm4y)**, [Vid 1](https://tinyurl.com/rxpaqe8), [Vis 2](https://tinyurl.com/uevqohx) | Medium | TODO: Check again. Very Important. Very analytical and tricky to come up with |
 |40| **[139. Word Break](https://tinyurl.com/yyyy9dqz)** | [Python](https://tinyurl.com/wu6rdaw/139_Word_Break.py)| **[Must](https://tinyurl.com/sdzmo32)**, [Vid 1](https://tinyurl.com/s4hvakw), [Vis 2](https://tinyurl.com/rjwjanc), [Vid 3](https://tinyurl.com/rdxmwwg) | Medium | TODO: Check again. Very Important. |
 |41| **[62. Unique Paths](https://tinyurl.com/j8xmh7u)** | [Python](https://tinyurl.com/wu6rdaw/62_Unique_Paths.py)| **[Vid 1](https://tinyurl.com/wp6vsqq)**, [Art 1](https://tinyurl.com/roammlg), [Art 2](https://tinyurl.com/tt5fpjk) | Medium | TODO: Check again |
+|42| **[152. Maximum Product Subarray](https://tinyurl.com/rxbfx5k)** | [Python](https://tinyurl.com/wu6rdaw/152_Maximum_Product_Subarray.py)| **[Vid 1](https://tinyurl.com/t24rc22)**, [Art 1](https://tinyurl.com/roammlg), [Art 2](https://tinyurl.com/tt5fpjk) | Medium | Kadane's algorithm on multiplication |
 
 
 </p>
