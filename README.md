@@ -153,6 +153,7 @@ I have solved quite a number of problems from several topics. See the below tabl
 |45| **[939. Minimum Area Rectangle](https://tinyurl.com/tcr34w3)** | [Python](https://tinyurl.com/wu6rdaw/939_Minimum_Area_Rectangle.py)| [Art 1](https://tinyurl.com/wfgjaf3) | Medium | Hash and Set, Very important |
 |46| **[359. Logger Rate Limiter](https://tinyurl.com/tcr34w3)** | [Python](https://tinyurl.com/wu6rdaw/359_Logger_Rate_Limiter.py)| --- | Easy | Hash and Set, Very important |
 |47| **[48. Rotate Image](https://tinyurl.com/yy3z9hab)** | [Python](https://tinyurl.com/wu6rdaw/48_Rotate_Image.py)| [Must](https://tinyurl.com/tr62top), [Vid  1](https://tinyurl.com/uhnruzt) | Medium | Very important |
+|48| **[362. Design Hit Counter](https://tinyurl.com/sswrcc3)** | [Python](https://tinyurl.com/wu6rdaw/362_Design_Hit_Counter.py), [Swift](https://tinyurl.com/wuja3c4/362_Design_Hit_Counter.swift)| --- | Medium | --- |
 
 
 </p>
