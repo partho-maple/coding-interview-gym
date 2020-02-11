@@ -28,7 +28,7 @@ class HitCounter {
         var hitCount = 0
         var startIdx = 0
         for i in stride(from: self.timestamps.count - 1, to: -1, by: -1) {
-            var startTime = self.timestamps[i]
+            let startTime = self.timestamps[i]
             if timestamp - startTime < 300 {
                 hitCount += self.timestampHitMap[startTime] ?? 0
                 startIdx = i
