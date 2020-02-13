@@ -155,6 +155,7 @@ I have solved quite a number of problems from several topics. See the below tabl
 |47| **[48. Rotate Image](https://tinyurl.com/yy3z9hab)** | [Python](https://tinyurl.com/wu6rdaw/48_Rotate_Image.py)| [Must](https://tinyurl.com/tr62top), [Vid  1](https://tinyurl.com/uhnruzt) | Medium | Very important |
 |48| **[362. Design Hit Counter](https://tinyurl.com/sswrcc3)** | [Python](https://tinyurl.com/wu6rdaw/362_Design_Hit_Counter.py), [Swift](https://tinyurl.com/wuja3c4/362_Design_Hit_Counter.swift)| --- | Medium | --- |
 |49| **[289. Game of Life](https://tinyurl.com/y5ujyvu5)** | [Python](https://tinyurl.com/wu6rdaw/289_Game_of_Life.py), [Swift](https://tinyurl.com/wuja3c4/289_Game_of_Life.swift)| --- | Medium | --- |
+|50| **[54. Spiral Matrix](https://tinyurl.com/yy5rnvce)** | [Python](https://tinyurl.com/wu6rdaw/54_Spiral_Matrix.py), [Swift](https://tinyurl.com/wuja3c4/54_Spiral_Matrix.swift)| [Official](https://tinyurl.com/s6np53k) | Medium | --- |
 
 
 </p>
