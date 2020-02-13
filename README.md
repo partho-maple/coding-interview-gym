@@ -156,6 +156,7 @@ I have solved quite a number of problems from several topics. See the below tabl
 |48| **[362. Design Hit Counter](https://tinyurl.com/sswrcc3)** | [Python](https://tinyurl.com/wu6rdaw/362_Design_Hit_Counter.py), [Swift](https://tinyurl.com/wuja3c4/362_Design_Hit_Counter.swift)| --- | Medium | --- |
 |49| **[289. Game of Life](https://tinyurl.com/y5ujyvu5)** | [Python](https://tinyurl.com/wu6rdaw/289_Game_of_Life.py), [Swift](https://tinyurl.com/wuja3c4/289_Game_of_Life.swift)| --- | Medium | --- |
 |50| **[54. Spiral Matrix](https://tinyurl.com/yy5rnvce)** | [Python](https://tinyurl.com/wu6rdaw/54_Spiral_Matrix.py), [Swift](https://tinyurl.com/wuja3c4/54_Spiral_Matrix.swift)| [Official](https://tinyurl.com/s6np53k) | Medium | --- |
+|51| **[380. Insert Delete GetRandom O(1)](https://tinyurl.com/y3urnkfj)** | [Python](https://tinyurl.com/wu6rdaw/380_Insert_Delete_GetRandom_O(1).py), [Swift](https://tinyurl.com/wuja3c4/380_Insert_Delete_GetRandom_O(1).swift)| [Official](https://tinyurl.com/t4t38od) | Medium | --- |
 
 
 </p>
