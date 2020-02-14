@@ -601,6 +601,7 @@ BFS, DFS, Dijkstra, Floyd–Warshall, Bellman-Ford, Kruskal, Prim's, Minimum Spa
 |41| **[62. Unique Paths](https://tinyurl.com/j8xmh7u)** | [Python](https://tinyurl.com/wu6rdaw/62_Unique_Paths.py)| **[Vid 1](https://tinyurl.com/wp6vsqq)**, [Art 1](https://tinyurl.com/roammlg), [Art 2](https://tinyurl.com/tt5fpjk) | Medium | TODO: Check again |
 |42| **[152. Maximum Product Subarray](https://tinyurl.com/rxbfx5k)** | [Python](https://tinyurl.com/wu6rdaw/152_Maximum_Product_Subarray.py), [Swift](https://tinyurl.com/wuja3c4/152_Maximum_Product_Subarray.swift)| **[Vid 1](https://tinyurl.com/t24rc22)**, [Art 1](https://tinyurl.com/uzdpw4k) | Medium | Kadane's algorithm on multiplication |
 |43| **[64. Minimum Path Sum](https://tinyurl.com/ugnoql2)** | [Python](https://tinyurl.com/wu6rdaw/64_Minimum_Path_Sum.py), [Swift](https://tinyurl.com/wuja3c4/64_Minimum_Path_Sum.swift)| --- | Medium | --- |
+|44| **[91. Decode Ways](https://tinyurl.com/t5yx86t)** | [Python](https://tinyurl.com/wu6rdaw/91_Decode_Ways.py), [Swift](https://tinyurl.com/wuja3c4/91_Decode_Ways.swift)| [Vid 1](https://tinyurl.com/wxc7jlj) | Medium | --- |
 
 
 </p>
