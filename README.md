@@ -544,6 +544,7 @@ BFS, DFS, Dijkstra, Floyd–Warshall, Bellman-Ford, Kruskal, Prim's, Minimum Spa
 |16| [659. Split Array into Consecutive Subsequences](https://tinyurl.com/vsbddyl) | [Python](https://tinyurl.com/wu6rdaw/659_Split_Array_into_Consecutive_Subsequences.py)| [Art 0](https://tinyurl.com/qq5jucw), [Art 1](https://tinyurl.com/qk7m78s), [Art 2](https://tinyurl.com/sjkdtre), [Art 3](https://tinyurl.com/tnewgqa), **[Vid 1](https://tinyurl.com/u2hnq84)**, **[Art 4](https://tinyurl.com/w3j4yqp)** | Medium | 📌 It's a fucking unclear problem. TODO: Not done. Check again later |
 |16| **[843. Guess the Word](https://tinyurl.com/vyk9ynp)** | [Python](https://tinyurl.com/wu6rdaw/843_Guess_the_Word.py)| --- | Hard | TODO: NOT DONE |
 |16| **[68. Text Justification](https://tinyurl.com/r7bzsul)** | [Python](https://tinyurl.com/wu6rdaw/68_Text_Justification.py)| [Vid 1](https://tinyurl.com/jkx2usg), [Vid 2](https://tinyurl.com/wd7rja2), [Vid 3](https://tinyurl.com/qlbsfqf), [Art 0](https://tinyurl.com/u5r5cuy), [Art 1](https://tinyurl.com/s84dym2) | Hard | TODO: Check again later. Very Important |
+|17| **[134. Gas Station](https://tinyurl.com/skyh4lj)** | [Python](https://tinyurl.com/wu6rdaw/134_Gas_Station.py), [Python](https://tinyurl.com/wu6rdaw/134_Gas_Station.py), [Swift](https://tinyurl.com/wuja3c4/134_Gas_Station.swift) | [Vid 1](https://tinyurl.com/qq8xf4v), [Art 1](https://tinyurl.com/ss9sxju) | Medium | TODO: Check again later. Very Important |
 
 </p>
 </details>
