@@ -249,6 +249,7 @@ I have solved quite a number of problems from several topics. See the below tabl
 |04| [394. Decode String](https://leetcode.com/problems/decode-string/)| [Python](https://tinyurl.com/wu6rdaw/394_Decode_String.py)| --- | Medium | 📌 Classic stack problem |
 |05| [239. Sliding Window Maximum](https://tinyurl.com/rvhujl5)| [Python](https://tinyurl.com/wu6rdaw/239_Sliding_Window_Maximum.py)| **[Video 1](https://tinyurl.com/v767bl3)**, [Official](https://tinyurl.com/www4np2), [Art 1](https://tinyurl.com/y8nbroux), [Art 2](https://tinyurl.com/s62fzls), **[Art 3](https://tinyurl.com/vd3dtch)**, **[Art 4](https://tinyurl.com/yx3sjp46)** | Hard | 📌 Can be solved using Heap, Deque and DP |
 |06| [739. Daily Temperatures](https://tinyurl.com/ybbezzmt)| [Python](https://tinyurl.com/wu6rdaw/739_Daily_Temperatures.py)| **[Video 1](https://tinyurl.com/sdbkh3z)**, **[Video 2](https://tinyurl.com/rbvaozl)**, [Art 1](https://tinyurl.com/ss3d9tx) | Medium | 📌 TODO: Check again. A tricky one |
+|07| **[150. Evaluate Reverse Polish Notation](https://tinyurl.com/y2xrje8v)** | [Python](https://tinyurl.com/wu6rdaw/150_Evaluate_Reverse_Polish_Notation.py), [Swift](https://tinyurl.com/wuja3c4/150_Evaluate_Reverse_Polish_Notation.swift)| [Vid 1](https://tinyurl.com/s92fp4r) | Medium | --- |
 
 </p>
 </details>
