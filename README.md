@@ -253,6 +253,7 @@ I have solved quite a number of problems from several topics. See the below tabl
 |08| **[341. Flatten Nested List Iterator](https://tinyurl.com/y6saxwjz)** | [Python](https://tinyurl.com/wu6rdaw/341_Flatten_Nested_List_Iterator.py), [Swift](https://tinyurl.com/wuja3c4/341_Flatten_Nested_List_Iterator.swift)| [Vid 1](https://tinyurl.com/vkj4qll), [Art 1](https://tinyurl.com/wnvvafx), [Art 2](https://tinyurl.com/wmrlxmz), [Art 3](https://tinyurl.com/uplntb3), **[Art 4](https://tinyurl.com/v3q9qfw)**, **[Art 5](https://tinyurl.com/rotxca8)** | Medium | TODO: Check again. Very Important. Learned new things |
 |09| **[173. Binary Search Tree Iterator](https://tinyurl.com/wp2o8h2)** | [Python](https://tinyurl.com/wu6rdaw/173_Binary_Search_Tree_Iterator.py), [Swift](https://tinyurl.com/wuja3c4/173_Binary_Search_Tree_Iterator.swift)| [Vid 1](https://tinyurl.com/vb62v3q), **[Art 1](https://tinyurl.com/smu9ku3)** | Medium | TODO: Check again. Very Important. Learned new things |
 |10| **[284. Peeking Iterator](https://tinyurl.com/wp2o8h2)** | [Python](https://tinyurl.com/wu6rdaw/284_Peeking_Iterator.py), [Swift](https://tinyurl.com/wuja3c4/284_Peeking_Iterator.swift)| **[Art 1](https://tinyurl.com/wv4ufcz)** | Medium | --- |
+|11| **[281. Zigzag Iterator](https://tinyurl.com/rxgn345)** | [Python](https://tinyurl.com/wu6rdaw/281_Zigzag_Iterator.py), [Swift](https://tinyurl.com/wuja3c4/281_Zigzag_Iterator.swift)| **[Art 1](https://tinyurl.com/wv4ufcz)** | Medium | --- |
 
 </p>
 </details>
