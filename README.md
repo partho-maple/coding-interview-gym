@@ -641,6 +641,20 @@ BFS, DFS, Dijkstra, Floyd–Warshall, Bellman-Ford, Kruskal, Prim's, Minimum Spa
 
 
 
+### 18. Miscellaneous ([Line Swap](https://tinyurl.com/yx5pwdao), [Binary Indexed Tree](), [Segment Tree](https://tinyurl.com/w6jxpcg), [Minimax](https://tinyurl.com/twgbp6n) etc)
+<details><summary>Leetcode problems with solutions and tutorials/videos</summary>
+<p>
+
+| #  | Title | Solution | Tutorial | Level | Remarks |
+| --- | --- | --- | --- | --- | --- |
+|01| **[218. The Skyline Problem](https://tinyurl.com/y8om73ah)** | [Python](https://tinyurl.com/wu6rdaw/218_The_Skyline_Problem.py), [Swift](https://tinyurl.com/wuja3c4/218_The_Skyline_Problem.swift)| [Vid 1](https://tinyurl.com/ryu2f5u), [Vid 2](https://tinyurl.com/rae83uz), [Vid 3](https://tinyurl.com/scmrjke), [Vid 4](https://tinyurl.com/vv5pjdz), [Art 1](https://tinyurl.com/nxotn8v) | Hard | TODO: Not Done. Very important. |
+
+
+</p>
+</details>
+
+
+
 ---
 
 ---
