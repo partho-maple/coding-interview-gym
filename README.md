@@ -195,6 +195,7 @@ I have solved quite a number of problems from several topics. See the below tabl
 |23| **[833. Find And Replace in String](https://tinyurl.com/yxsjcjym)**| [Python](https://tinyurl.com/wu6rdaw/833_Find_And_Replace_in_String.py)| [Art 1](https://tinyurl.com/y5hod6np) | Medium | --- |
 |24| **[49. Group Anagrams](https://tinyurl.com/rdcu89b)**| [Python](https://tinyurl.com/wu6rdaw/49_Group_Anagrams.py)| [Art 1](https://tinyurl.com/yxyb5pel), [Algoexpert.io](https://tinyurl.com/qwannee) | Medium | --- |
 |25| [551. Student Attendance Record I](https://tinyurl.com/qu89xt8)| [Python](https://tinyurl.com/wu6rdaw/551_Student_Attendance_Record_I.py)|  | Easy | --- |
+|26| [242. Valid Anagram](https://tinyurl.com/yguqjw2g)| [Python](https://tinyurl.com/wu6rdaw/242_Valid_Anagram.py), [Swift](https://tinyurl.com/wuja3c4/242_Valid_Anagram.swift) |  | Easy | --- |
 
 
 </p>
@@ -404,7 +405,7 @@ Check this [golden](https://tinyurl.com/ujopecz) post.
 |03| [429. N-ary Tree Level Order Traversal](https://leetcode.com/problems/n-ary-tree-level-order-traversal/)| [Python](https://tinyurl.com/wu6rdaw/429_N-ary_Tree_Level_Order_Traversal.py)|
 |04| [559. Maximum Depth of N-ary Tree](https://leetcode.com/problems/maximum-depth-of-n-ary-tree/)| [Python](https://tinyurl.com/wu6rdaw/559_Maximum_Depth_of_N-ary_Tree.py)|
 |05| [431. Encode N-ary Tree to Binary Tree](https://leetcode.com/problems/encode-n-ary-tree-to-binary-tree/submissions/)| [Python](https://tinyurl.com/wu6rdaw/431_Encode_N-ary_Tree_to_Binary_Tree.py)| [Explanation](https://leetcode.com/explore/learn/card/n-ary-tree/131/recursion/922/) |
-|06| [428. Serialize and Deserialize N-ary Tree](https://leetcode.com/problems/serialize-and-deserialize-n-ary-tree/)| [Python](https://tinyurl.com/wu6rdaw/428_Serialize_and_Deserialize_N-ary_Tree.py)|
+|06| **[428. Serialize and Deserialize N-ary Tree](https://leetcode.com/problems/serialize-and-deserialize-n-ary-tree/)** | [Python](https://tinyurl.com/wu6rdaw/428_Serialize_and_Deserialize_N-ary_Tree.py)| [Art 1](https://tinyurl.com/tgg874u), **[Official](https://tinyurl.com/sxds3zk)** | Hard | Very important |
 
 </p>
 </details>

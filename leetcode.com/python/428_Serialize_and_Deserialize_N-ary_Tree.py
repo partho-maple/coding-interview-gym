@@ -8,9 +8,6 @@ class Node(object):
 
 
 # Idea: preorder recursive traversal; add number of children after root val, in order to know when to terminate.
-# Example: The example in description is serialized as: "1,3,3,2,5,0,6,0,2,0,4,0"
-# Ref: https://leetcode.com/problems/serialize-and-deserialize-n-ary-tree/discuss/151421/Java-preorder-recursive-solution-using-queue/169724
-
 class Codec:
 
     def serialize(self, root):
@@ -21,7 +18,6 @@ class Codec:
         """
         nodeList = []
         self.serializeHelper(root, nodeList)
-        # print('Serialized Input: ', ','.join(map(str, nodeList)))
         return ','.join(map(str, nodeList))
 
 
@@ -43,22 +39,20 @@ class Codec:
         if len(data) <= 0:
             return None
         nodeList = data.split(",")
-        indexs = [0]
-        deserializedData = self.deserializeHelper(nodeList, indexs)
-        # print('Deserialized Output: ', deserializedData)
+        currentNodeIndexs = [0]
+        deserializedData = self.deserializeHelper(nodeList, currentNodeIndexs)
         return deserializedData
 
 
-    def deserializeHelper(self, nodeList, indexs):
-        if indexs[0] == len(nodeList):
+    def deserializeHelper(self, nodeList, currentNodeIndexs):
+        if currentNodeIndexs[0] == len(nodeList):
             return None
-        root = Node(int(nodeList[indexs[0]]), [])
-        indexs[0] += 1
-        childrenSize = int(nodeList[indexs[0]])
-        indexs[0] += 1
+        root = Node(int(nodeList[currentNodeIndexs[0]]), [])
+        currentNodeIndexs[0] += 1
+        childrenSize = int(nodeList[currentNodeIndexs[0]])
+        currentNodeIndexs[0] += 1
         for index in range(childrenSize):
-            root.children.append(self.deserializeHelper(nodeList, indexs))
-            # print('root.children: ', root.children)
+            root.children.append(self.deserializeHelper(nodeList, currentNodeIndexs))
         return root
 
 
