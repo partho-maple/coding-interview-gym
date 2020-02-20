@@ -33,7 +33,7 @@ public class Solution_2 {
         var currentNode = dummyHead
         
         while ((p != nil) || (q != nil)) {
-            let x:Int = p?.val ?? Int(0) // Doc: https://developer.apple.com/library/content/documentation/Swift/Conceptual/Swift_Programming_Language/BasicOperators.html
+            let x:Int = p?.val ?? Int(0) 
             let y:Int = q?.val ?? Int(0)
             let sum = x + y + carry
             carry = sum/10
@@ -58,3 +58,22 @@ public class Solution_2 {
 }
 
 
+
+
+
+/**
+ * Definition for singly-linked list.
+ * public class ListNode {
+ *     public var val: Int
+ *     public var next: ListNode?
+ *     public init(_ val: Int) {
+ *         self.val = val
+ *         self.next = nil
+ *     }
+ * }
+ */
+class Solution {
+    func addTwoNumbers(_ l1: ListNode?, _ l2: ListNode?) -> ListNode? {
+        
+    }
+}

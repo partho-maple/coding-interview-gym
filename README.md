@@ -208,7 +208,7 @@ I have solved quite a number of problems from several topics. See the below tabl
 
 | #  | Title | Solution | Tutorial | Level | Remarks |
 | --- | --- | --- | --- | --- | --- |
-|01| [2. Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)| [Swift](https://tinyurl.com/to2yjbw/leetcode.com/swift/2_Add_Two_Numbers.swift)|
+|01| [2. Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)| [Python](https://tinyurl.com/wu6rdaw/2_Add_Two_Numbers.py), [Swift](https://tinyurl.com/wuja3c4/2_Add_Two_Numbers.swift)| --- | Medium | Fundamental |
 |02| [707. Design Linked List](https://leetcode.com/problems/design-linked-list/)| [Python](https://tinyurl.com/wu6rdaw/707_Design_Linked_List.py)|
 |03| [21. Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)| [Python](https://tinyurl.com/wu6rdaw/21_Merge_Two_Sorted_Lists.py)| [Algoexpert.io](https://tinyurl.com/r9azs3n), [Vid 1](https://tinyurl.com/t55smdg) | Easy | Fundamental and very very important |
 |04| [234. Palindrome Linked List](http://bit.ly/2PuZQAx)| [Python](https://tinyurl.com/wu6rdaw/234_Palindrome_Linked_List.py)| --- | Easy | Fast pointer Slow pointer |
