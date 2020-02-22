@@ -196,6 +196,7 @@ I have solved quite a number of problems from several topics. See the below tabl
 |24| **[49. Group Anagrams](https://tinyurl.com/rdcu89b)**| [Python](https://tinyurl.com/wu6rdaw/49_Group_Anagrams.py)| [Art 1](https://tinyurl.com/yxyb5pel), [Algoexpert.io](https://tinyurl.com/qwannee) | Medium | --- |
 |25| [551. Student Attendance Record I](https://tinyurl.com/qu89xt8)| [Python](https://tinyurl.com/wu6rdaw/551_Student_Attendance_Record_I.py)|  | Easy | --- |
 |26| [242. Valid Anagram](https://tinyurl.com/yguqjw2g)| [Python](https://tinyurl.com/wu6rdaw/242_Valid_Anagram.py), [Swift](https://tinyurl.com/wuja3c4/242_Valid_Anagram.swift) |  | Easy | --- |
+|27| [1358. Number of Substrings Containing All Three Characters](https://tinyurl.com/ufhkahy)| [Python](https://tinyurl.com/wu6rdaw/1358_Number_of_Substrings_Containing_All_Three_Characters.py), [Swift](https://tinyurl.com/wuja3c4/1358_Number_of_Substrings_Containing_All_Three_Characters.swift) | [Art 1](https://tinyurl.com/sespxql) | Medium | Sliding Window |
 
 
 </p>
@@ -612,6 +613,7 @@ BFS, DFS, Dijkstra, Floyd–Warshall, Bellman-Ford, Kruskal, Prim's, Minimum Spa
 |42| **[152. Maximum Product Subarray](https://tinyurl.com/rxbfx5k)** | [Python](https://tinyurl.com/wu6rdaw/152_Maximum_Product_Subarray.py), [Swift](https://tinyurl.com/wuja3c4/152_Maximum_Product_Subarray.swift)| **[Vid 1](https://tinyurl.com/t24rc22)**, [Art 1](https://tinyurl.com/uzdpw4k) | Medium | Kadane's algorithm on multiplication |
 |43| **[64. Minimum Path Sum](https://tinyurl.com/ugnoql2)** | [Python](https://tinyurl.com/wu6rdaw/64_Minimum_Path_Sum.py), [Swift](https://tinyurl.com/wuja3c4/64_Minimum_Path_Sum.swift)| --- | Medium | --- |
 |44| **[91. Decode Ways](https://tinyurl.com/t5yx86t)** | [Python](https://tinyurl.com/wu6rdaw/91_Decode_Ways.py), [Swift](https://tinyurl.com/wuja3c4/91_Decode_Ways.swift)| [Vid 1](https://tinyurl.com/wxc7jlj) | Medium | --- |
+|45| **[975. Odd Even Jump](https://tinyurl.com/y5ovyklj)** | [Python](https://tinyurl.com/wu6rdaw/975_Odd_Even_Jump.py), [Swift](https://tinyurl.com/wuja3c4/975_Odd_Even_Jump.swift)| [Vid 1](https://tinyurl.com/vxyed3g), **[Art 1](https://tinyurl.com/wbjrnyt)** | Hard | DP using stack. Interesting problem, loved it |
 
 
 </p>
