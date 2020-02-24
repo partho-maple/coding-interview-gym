@@ -615,7 +615,7 @@ BFS, DFS, Dijkstra, Floyd–Warshall, Bellman-Ford, Kruskal, Prim's, Minimum Spa
 |42| **[152. Maximum Product Subarray](https://tinyurl.com/rxbfx5k)** | [Python](https://tinyurl.com/wu6rdaw/152_Maximum_Product_Subarray.py), [Swift](https://tinyurl.com/wuja3c4/152_Maximum_Product_Subarray.swift)| **[Vid 1](https://tinyurl.com/t24rc22)**, [Art 1](https://tinyurl.com/uzdpw4k) | Medium | Kadane's algorithm on multiplication |
 |43| **[64. Minimum Path Sum](https://tinyurl.com/ugnoql2)** | [Python](https://tinyurl.com/wu6rdaw/64_Minimum_Path_Sum.py), [Swift](https://tinyurl.com/wuja3c4/64_Minimum_Path_Sum.swift)| --- | Medium | --- |
 |44| **[91. Decode Ways](https://tinyurl.com/t5yx86t)** | [Python](https://tinyurl.com/wu6rdaw/91_Decode_Ways.py), [Swift](https://tinyurl.com/wuja3c4/91_Decode_Ways.swift)| [Vid 1](https://tinyurl.com/wxc7jlj) | Medium | --- |
-|45| **[975. Odd Even Jump](https://tinyurl.com/y5ovyklj)** | [Python](https://tinyurl.com/wu6rdaw/975_Odd_Even_Jump.py), [Swift](https://tinyurl.com/wuja3c4/975_Odd_Even_Jump.swift)| [Vid 1](https://tinyurl.com/vxyed3g), **[Art 1](https://tinyurl.com/wbjrnyt)** | Hard | DP using stack. Interesting problem, loved it |
+|45| **[975. Odd Even Jump](https://tinyurl.com/y5ovyklj)** | [Python](https://tinyurl.com/wu6rdaw/975_Odd_Even_Jump.py), [Swift](https://tinyurl.com/wuja3c4/975_Odd_Even_Jump.swift)| [Vid 1](https://tinyurl.com/vxyed3g), **[Art 1](https://tinyurl.com/wbjrnyt)** | Hard | DP using stack. Vary tricky and Interesting problem, loved it |
 
 
 </p>
