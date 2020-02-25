@@ -528,6 +528,7 @@ BFS, DFS, Dijkstra, Floyd–Warshall, Bellman-Ford, Kruskal, Prim's, Minimum Spa
 |17| [40. Combination Sum II](https://tinyurl.com/roqgnjf)| [Python](https://tinyurl.com/wu6rdaw/40_Combination_Sum_II.py)| --- | Medium | Backtracking  Fundamentals |
 |18| [17. Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)| [Python](https://tinyurl.com/wu6rdaw/17_Letter_Combinations_of_a_Phone_Number.py)| [Video 1](https://www.youtube.com/watch?v=a-sMgZ7HGW0), [Video 2 - paid course](https://codinginterviewclass.com/courses/633601/lectures/11653975), [Article 1](https://leetcode.com/problems/letter-combinations-of-a-phone-number/discuss/8067/Python-easy-to-understand-backtracking-solution.) | Medium | Backtracking  Fundamentals |
 |19| [22. Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)| [Python](https://tinyurl.com/wu6rdaw/22_Generate_Parentheses.py), [Swift](https://tinyurl.com/wuja3c4/22_Generate_Parentheses.swift) | [educative.io](https://tinyurl.com/wady2xs), [Video 1](https://www.youtube.com/watch?v=sz1qaKt0KGQ), [Article 1](https://leetcode.com/problems/generate-parentheses/discuss/10100/Easy-to-understand-Java-backtracking-solution) | Medium | Backtracking  Fundamentals |
+|20| [1088. Confusing Number II](https://tinyurl.com/tb7w75j)| [Python](https://tinyurl.com/wu6rdaw/1088_Confusing_Number_II.py), [Swift](https://tinyurl.com/wuja3c4/1088_Confusing_Number_II.swift) | [Art 1](https://tinyurl.com/wby5h93) | Hard | Very interesting |
 
 </p>
 </details>
