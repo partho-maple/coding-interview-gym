@@ -556,9 +556,8 @@ BFS, DFS, Dijkstra, Floyd–Warshall, Bellman-Ford, Kruskal, Prim's, Minimum Spa
 |14| [253. Meeting Rooms II](https://tinyurl.com/r8vr7qo)| [Python](https://tinyurl.com/wu6rdaw/253_Meeting_Rooms_II.py)| [Official](https://leetcode.com/problems/meeting-rooms-ii/solution/) | Medium | Greedy and uses heap |
 |15| [759. Employee Free Time](https://tinyurl.com/y5z73vre)| [Python](https://tinyurl.com/wu6rdaw/759_Employee_Free_Time.py)| [Educative.io](https://tinyurl.com/v42vmyr) | Hard | Greedy and uses heap. Not done. Check again |
 |16| [659. Split Array into Consecutive Subsequences](https://tinyurl.com/vsbddyl) | [Python](https://tinyurl.com/wu6rdaw/659_Split_Array_into_Consecutive_Subsequences.py)| [Art 0](https://tinyurl.com/qq5jucw), [Art 1](https://tinyurl.com/qk7m78s), [Art 2](https://tinyurl.com/sjkdtre), [Art 3](https://tinyurl.com/tnewgqa), **[Vid 1](https://tinyurl.com/u2hnq84)**, **[Art 4](https://tinyurl.com/w3j4yqp)** | Medium | 📌 It's a fucking unclear problem. TODO: Not done. Check again later |
-|16| **[843. Guess the Word](https://tinyurl.com/vyk9ynp)** | [Python](https://tinyurl.com/wu6rdaw/843_Guess_the_Word.py)| --- | Hard | TODO: NOT DONE |
-|16| **[68. Text Justification](https://tinyurl.com/r7bzsul)** | [Python](https://tinyurl.com/wu6rdaw/68_Text_Justification.py)| [Vid 1](https://tinyurl.com/jkx2usg), [Vid 2](https://tinyurl.com/wd7rja2), [Vid 3](https://tinyurl.com/qlbsfqf), [Art 0](https://tinyurl.com/u5r5cuy), [Art 1](https://tinyurl.com/s84dym2) | Hard | TODO: Check again later. Very Important |
-|17| **[134. Gas Station](https://tinyurl.com/skyh4lj)** | [Python](https://tinyurl.com/wu6rdaw/134_Gas_Station.py), [Python](https://tinyurl.com/wu6rdaw/134_Gas_Station.py), [Swift](https://tinyurl.com/wuja3c4/134_Gas_Station.swift) | [Vid 1](https://tinyurl.com/qq8xf4v), [Art 1](https://tinyurl.com/ss9sxju) | Medium | TODO: Check again later. Very Important |
+|17| **[68. Text Justification](https://tinyurl.com/r7bzsul)** | [Python](https://tinyurl.com/wu6rdaw/68_Text_Justification.py)| [Vid 1](https://tinyurl.com/jkx2usg), [Vid 2](https://tinyurl.com/wd7rja2), [Vid 3](https://tinyurl.com/qlbsfqf), [Art 0](https://tinyurl.com/u5r5cuy), [Art 1](https://tinyurl.com/s84dym2) | Hard | TODO: Check again later. Very Important |
+|18| **[134. Gas Station](https://tinyurl.com/skyh4lj)** | [Python](https://tinyurl.com/wu6rdaw/134_Gas_Station.py), [Python](https://tinyurl.com/wu6rdaw/134_Gas_Station.py), [Swift](https://tinyurl.com/wuja3c4/134_Gas_Station.swift) | [Vid 1](https://tinyurl.com/qq8xf4v), [Art 1](https://tinyurl.com/ss9sxju) | Medium | TODO: Check again later. Very Important |
 
 </p>
 </details>
@@ -659,6 +658,7 @@ BFS, DFS, Dijkstra, Floyd–Warshall, Bellman-Ford, Kruskal, Prim's, Minimum Spa
 | --- | --- | --- | --- | --- | --- |
 |01| **[218. The Skyline Problem](https://tinyurl.com/y8om73ah)** | [Python](https://tinyurl.com/wu6rdaw/218_The_Skyline_Problem.py), [Swift](https://tinyurl.com/wuja3c4/218_The_Skyline_Problem.swift)| [Vid 1](https://tinyurl.com/ryu2f5u), [Vid 2](https://tinyurl.com/rae83uz), [Vid 3](https://tinyurl.com/scmrjke), [Vid 4](https://tinyurl.com/vv5pjdz), [Art 1](https://tinyurl.com/nxotn8v) | Hard | TODO: Not Done. Very important. |
 |02| **[375. Guess Number Higher or Lower II](https://tinyurl.com/y6ywak9n)** | [Python](https://tinyurl.com/wu6rdaw/375_Guess_Number_Higher_or_Lower_II.py), [Swift](https://tinyurl.com/wuja3c4/375_Guess_Number_Higher_or_Lower_II.swift)| [Art 1](https://tinyurl.com/oaqgkp9), [Art2 2](https://tinyurl.com/vpu9gt2), [Art 3](https://tinyurl.com/rpr83um) | Hard | TODO: Not Done. Very important. Did't understand properly |
+|03| **[843. Guess the Word](https://tinyurl.com/vyk9ynp)** | [Python](https://tinyurl.com/wu6rdaw/843_Guess_the_Word.py)| **[Art 1](https://tinyurl.com/wqy5ll4)** | Hard | **Minimax**. TODO: Check again. Very important and interesting |
 
 
 </p>
@@ -1153,6 +1153,18 @@ Learn the following modules by heart. Just knowing all of the following items wi
 06. [Thinking Recursively in Python](https://realpython.com/python-thinking-recursively/)
 07. [Breaking out of a recursive function?](https://stackoverflow.com/questions/10544513/breaking-out-of-a-recursive-function)
 08. [Why does recursion return the first call in the stack and not the last?](https://softwareengineering.stackexchange.com/questions/333247/why-does-recursion-return-the-first-call-in-the-stack-and-not-the-last)
+
+</p>
+</details>
+
+
+### 13. Game Theory
+<details><summary></summary>
+<p>
+
+01. [Intuition for Solving a MiniMax Problems](https://tinyurl.com/ryxxott)
+02. [Game theory — Minimax](https://tinyurl.com/qtfn9jl)
+03. [How to make your Tic Tac Toe game unbeatable by using the minimax algorithm](https://tinyurl.com/t9tedyf)
 
 </p>
 </details>
