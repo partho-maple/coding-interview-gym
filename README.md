@@ -257,6 +257,7 @@ I have solved quite a number of problems from several topics. See the below tabl
 |09| **[173. Binary Search Tree Iterator](https://tinyurl.com/wp2o8h2)** | [Python](https://tinyurl.com/wu6rdaw/173_Binary_Search_Tree_Iterator.py), [Swift](https://tinyurl.com/wuja3c4/173_Binary_Search_Tree_Iterator.swift)| [Vid 1](https://tinyurl.com/vb62v3q), **[Art 1](https://tinyurl.com/smu9ku3)** | Medium | TODO: Check again. Very Important. Learned new things |
 |10| **[284. Peeking Iterator](https://tinyurl.com/wp2o8h2)** | [Python](https://tinyurl.com/wu6rdaw/284_Peeking_Iterator.py), [Swift](https://tinyurl.com/wuja3c4/284_Peeking_Iterator.swift)| **[Art 1](https://tinyurl.com/wv4ufcz)** | Medium | --- |
 |11| **[281. Zigzag Iterator](https://tinyurl.com/rxgn345)** | [Python](https://tinyurl.com/wu6rdaw/281_Zigzag_Iterator.py), [Swift](https://tinyurl.com/wuja3c4/281_Zigzag_Iterator.swift)| **[Art 1](https://tinyurl.com/wv4ufcz)** | Medium | --- |
+|12| **[946. Validate Stack Sequences](https://tinyurl.com/u8wbaqp)** | [Python](https://tinyurl.com/wu6rdaw/946_Validate_Stack_Sequences.py), [Swift](https://tinyurl.com/wuja3c4/946_Validate_Stack_Sequences.swift)| **[Art 1](https://tinyurl.com/um2r3bf)**, **[Art 2](https://tinyurl.com/vc5wmlj)** | Medium | --- |
 
 </p>
 </details>
