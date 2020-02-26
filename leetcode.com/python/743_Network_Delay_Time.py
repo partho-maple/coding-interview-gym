@@ -3,7 +3,7 @@ from collections import deque
 from collections import defaultdict
 
 # """
-# Source: https://tinyurl.com/rmcr2xk. Uses simple DFS - Accepted
+# Source: https://tinyurl.com/rmcr2xk. Uses simple DFS - Time Limit Exceeded
 class Solution(object):
     def networkDelayTime(self, times, N, K):
         graph = defaultdict(list)
@@ -15,7 +15,7 @@ class Solution(object):
         return totalTime if totalTime < float("inf") else -1
 
     def DFS(self, graph, distance, node, elapsedTimeSoFar):
-        if elapsedTimeSoFar >= distance[node]:
+        if elapsedTimeSoFar >= distance[node]:  # Here we are essentially checking if our existing/already calculated disstance is grater than out current culculated time. If our current path is greated than already traverssed path then this path is't going to give us any better solution. so we leave this path.
             return
         distance[node] = elapsedTimeSoFar
         for neighbour, time in sorted(graph[node]):
@@ -24,7 +24,7 @@ class Solution(object):
 
 
 # """
-# Source: https://tinyurl.com/vbetlaq. Uses simple BFS - Accepted
+# Source: https://tinyurl.com/vbetlaq. Uses simple BFS - Accepted. Here BFS if preferable over DFS
 class Solution:
     def networkDelayTime(self, times, N, K):
         elapsedTime, graph, queue = [0] + [float("inf")] * N, defaultdict(list), deque([(0, K)])
