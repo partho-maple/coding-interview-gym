@@ -655,7 +655,7 @@ BFS, DFS, Dijkstra, Floyd–Warshall, Bellman-Ford, Kruskal, Prim's, Minimum Spa
 
 
 
-### 18. Miscellaneous ([Line Swap](https://tinyurl.com/yx5pwdao), [Binary Indexed Tree](), [Segment Tree](https://tinyurl.com/w6jxpcg), [Minimax](https://tinyurl.com/twgbp6n) etc)
+### 18. Miscellaneous ([Line Swap](https://tinyurl.com/yx5pwdao), [Binary Indexed Tree](), [Segment Tree](https://tinyurl.com/w6jxpcg), [Minimax](https://tinyurl.com/twgbp6n), [Math](https://tinyurl.com/wb2h2mo) etc)
 <details><summary>Leetcode problems with solutions and tutorials/videos</summary>
 <p>
 
@@ -664,6 +664,7 @@ BFS, DFS, Dijkstra, Floyd–Warshall, Bellman-Ford, Kruskal, Prim's, Minimum Spa
 |01| **[218. The Skyline Problem](https://tinyurl.com/y8om73ah)** | [Python](https://tinyurl.com/wu6rdaw/218_The_Skyline_Problem.py), [Swift](https://tinyurl.com/wuja3c4/218_The_Skyline_Problem.swift)| [Vid 1](https://tinyurl.com/ryu2f5u), [Vid 2](https://tinyurl.com/rae83uz), [Vid 3](https://tinyurl.com/scmrjke), [Vid 4](https://tinyurl.com/vv5pjdz), [Art 1](https://tinyurl.com/nxotn8v) | Hard | TODO: Not Done. Very important. |
 |02| **[375. Guess Number Higher or Lower II](https://tinyurl.com/y6ywak9n)** | [Python](https://tinyurl.com/wu6rdaw/375_Guess_Number_Higher_or_Lower_II.py), [Swift](https://tinyurl.com/wuja3c4/375_Guess_Number_Higher_or_Lower_II.swift)| [Art 1](https://tinyurl.com/oaqgkp9), [Art2 2](https://tinyurl.com/vpu9gt2), [Art 3](https://tinyurl.com/rpr83um) | Hard | TODO: Not Done. Very important. Did't understand properly |
 |03| **[843. Guess the Word](https://tinyurl.com/vyk9ynp)** | [Python](https://tinyurl.com/wu6rdaw/843_Guess_the_Word.py)| **[Art 1](https://tinyurl.com/wqy5ll4)** | Hard | **Minimax**. TODO: Check again. Very important and interesting |
+|04| [593. Valid Square](https://tinyurl.com/rr2z8l7) | [Python](https://tinyurl.com/wu6rdaw/593_Valid_Square.py)| [Art 1](https://tinyurl.com/w7gucmn), [Art 2](https://tinyurl.com/qlw7tn4) | Medium | **Math** |
 
 
 </p>
