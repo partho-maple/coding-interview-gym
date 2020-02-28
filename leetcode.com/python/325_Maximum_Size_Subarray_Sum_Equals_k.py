@@ -10,7 +10,7 @@ class Solution(object):
         # Sliding Window -- No, because the array contains negative number
         # Dictionary + prefixSum technique
         maxSubarrayLen, currentSum, prefixSum = 0, 0, 0
-        prefixSumIndexCounter = Counter()
+        prefixSumIndexCounter = Counter()       # Stores the indexes of the elements not the occurrences
         prefixSumIndexCounter[0] = -1
         for idx in range(len(nums)):
             currentSum += nums[idx] #  increment current sum
