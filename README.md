@@ -67,6 +67,7 @@ I have solved quite a number of problems from several topics. See the below tabl
 - and more...
 
 ## Questions from
+
 - [Leetcode](https://leetcode.com)
 - [Algoexpert.io](Algoexpert.io)
 - Glassdoor
@@ -74,6 +75,7 @@ I have solved quite a number of problems from several topics. See the below tabl
 - ...
 
 ## My other related repos
+
 - [Coding Interview Patterns](https://tinyurl.com/wluap5j)
 - [Coding Interview Gym](https://tinyurl.com/wt2dbym)
 - [iOS Interview Gym](https://tinyurl.com/wt5vyzq)
@@ -82,9 +84,11 @@ I have solved quite a number of problems from several topics. See the below tabl
 - [Object Oriented Design Interview Gym](https://tinyurl.com/uhlp9sc)
 
 ## My leetcode account
+
 - [ParthoBiswas007](https://leetcode.com/ParthoBiswas007/)
 
 ## Tips
+
 - Check this **[Golden](https://tinyurl.com/uboo399)** post first.
 - Whenever you solve a new question with some new techniques/algorithms, try to solve atleast 2 similar problem in a row. This way, your understanding to the new techniques/algorithms will be better.
 - Solve all [leetcode cards](https://leetcode.com/explore/learn/)
@@ -324,6 +328,7 @@ I have solved quite a number of problems from several topics. See the below tabl
 |24| **[1170. Compare Strings by Frequency of the Smallest Character](https://tinyurl.com/tcr34w3)** | [Python](https://tinyurl.com/wu6rdaw/1170_Compare_Strings_by_Frequency_of_the_Smallest_Character.py)| --- | Easy | Binary Search, Very important |
 |25| [852. Peak Index in a Mountain Array](https://tinyurl.com/rh5c4hs) | [Python](https://tinyurl.com/wu6rdaw/852_Peak_Index_in_a_Mountain_Array.py), [Swift](https://tinyurl.com/wuja3c4/852_Peak_Index_in_a_Mountain_Array.swift) | --- | Easy | --- |
 |25| **[209. Minimum Size Subarray Sum](https://tinyurl.com/wy5g8c4)** | [Python](https://tinyurl.com/wu6rdaw/209_Minimum_Size_Subarray_Sum.py), [Swift](https://tinyurl.com/wuja3c4/209_Minimum_Size_Subarray_Sum.swift) | --- | Medium | Sliding window and Binary Search |
+|26| **[363. Max Sum of Rectangle No Larger Than K](https://tinyurl.com/wxc73z6)** | [Python](https://tinyurl.com/wu6rdaw/363_Max_Sum_of_Rectangle_No_Larger_Than_K.py), [Swift](https://tinyurl.com/wuja3c4/363_Max_Sum_of_Rectangle_No_Larger_Than_K.swift) | [Vid 1](https://tinyurl.com/rq5sgfp), [Vid 2](https://tinyurl.com/wtyob94), [Art 1](https://tinyurl.com/vtj3d2d), [Art 2](https://tinyurl.com/w29ebes), [Art 3](https://tinyurl.com/yxx4yzvn) | Hard | DP and BS. Disn't understand S part. TODO: Check again |
 
 
 </p>
@@ -448,7 +453,9 @@ Check this [golden](https://tinyurl.com/ujopecz) post.
 
 ### 12. Graphs 
 BFS, DFS, Dijkstra, Floyd–Warshall, Bellman-Ford, Kruskal, Prim's, Minimum Spanning Tree, Topological Ordering, Union Find.
+
 **Follow [this](https://tinyurl.com/tcpmneh) golden rule to approach any graph problem.**
+
 <details><summary>Leetcode problems with solutions and tutorials/videos</summary>
 <p>
 
@@ -569,7 +576,9 @@ BFS, DFS, Dijkstra, Floyd–Warshall, Bellman-Ford, Kruskal, Prim's, Minimum Spa
 
 
 ### 16. [Dynamic Programming](https://www.educative.io/courses/grokking-dynamic-programming-patterns-for-coding-interviews)
+
 **Follow [this](https://tinyurl.com/vmmaxbe) golden rule to approach any DP problem.**
+
 <details><summary>Leetcode problems with solutions and tutorials/videos</summary>
 <p>
 
@@ -938,6 +947,7 @@ BFS, DFS, Dijkstra, Floyd–Warshall, Bellman-Ford, Kruskal, Prim's, Minimum Spa
 ### 1. Strategies
 <details><summary></summary>
 <p>
+
 Check this **[Golden](https://tinyurl.com/uboo399)** posts first.
 
 -   **[Comprehensive Data Structure and Algorithm Study Guide](https://tinyurl.com/uboo399)**
