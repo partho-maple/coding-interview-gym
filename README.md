@@ -330,6 +330,7 @@ I have solved quite a number of problems from several topics. See the below tabl
 |25| **[209. Minimum Size Subarray Sum](https://tinyurl.com/wy5g8c4)** | [Python](https://tinyurl.com/wu6rdaw/209_Minimum_Size_Subarray_Sum.py), [Swift](https://tinyurl.com/wuja3c4/209_Minimum_Size_Subarray_Sum.swift) | --- | Medium | Sliding window and Binary Search |
 |26| **[363. Max Sum of Rectangle No Larger Than K](https://tinyurl.com/wxc73z6)** | [Python](https://tinyurl.com/wu6rdaw/363_Max_Sum_of_Rectangle_No_Larger_Than_K.py), [Swift](https://tinyurl.com/wuja3c4/363_Max_Sum_of_Rectangle_No_Larger_Than_K.swift) | [Vid 1](https://tinyurl.com/rq5sgfp), [Vid 2](https://tinyurl.com/wtyob94), [Art 1](https://tinyurl.com/vtj3d2d), [Art 2](https://tinyurl.com/w29ebes), [Art 3](https://tinyurl.com/yxx4yzvn) | Hard | DP and BS. Disn't understand S part. TODO: Check again |
 |27| **[875. Koko Eating Bananas](https://tinyurl.com/wjygtev)** | [Python](https://tinyurl.com/wu6rdaw/875_Koko_Eatin_Bananas.py), [Swift](https://tinyurl.com/wuja3c4/875_Koko_Eatin_Bananas.swift) | --- | Medium | I loved this problem |
+|28| **[1060. Missing Element in Sorted Array](https://tinyurl.com/t3z7cav)** | [Python](https://tinyurl.com/wu6rdaw/1060_Missing_Element_in_Sorted_Array.py), [Swift](https://tinyurl.com/wuja3c4/1060_Missing_Element_in_Sorted_Array.swift) | --- | Medium | I loved this problem |
 
 
 </p>
