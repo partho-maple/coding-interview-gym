@@ -42,7 +42,7 @@ class Solution(object):
 
 
 
-# Approach 1: Prefix sum + Binary Search
+# Approach 1: Prefix sum + Binary Search. Prefix sum for a col is sorted. sso we can perform BS
 # Time: O(Cols x  min(Rows, Cols) x log Rows)
 class Solution(object):
     def maxSideLength(self, mat, threshold):
