@@ -1,4 +1,5 @@
 # https://tinyurl.com/vf43ly3
+# Approach 1: Brute force using DFS. Time limit exceeded
 class Solution(object):
     def splitArray(self, nums, m):
         """
@@ -24,3 +25,29 @@ class Solution(object):
                      max(currentMax, currentSum + nums[currentIdx]))
         if subarrayCount < m:
             self.dfs(nums, m, currentIdx + 1, subarrayCount + 1, nums[currentIdx], max(currentMax, nums[currentIdx]))
+
+
+
+
+# Approach 2: Binary search. Accepted
+class Solution:
+    def splitArray(self, nums, m):
+        low, high = max(nums), sum(nums)
+        while low <= high:
+            mid = low + (high - low) // 2
+            pieces = self.split(nums, mid)
+            if pieces > m:
+                low = mid + 1
+            else:
+                high = mid - 1
+        return low
+
+    def split(self, nums, upperLimit):
+        currentPrefixSum, currentPieces = 0, 1
+        for num in nums:
+            if currentPrefixSum + num > upperLimit:
+                currentPrefixSum = num
+                currentPieces += 1
+            else:
+                currentPrefixSum += num
+        return currentPieces
