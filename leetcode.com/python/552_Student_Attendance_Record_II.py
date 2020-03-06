@@ -42,7 +42,7 @@ class Solution(object):
                 return False
         return True
 
-# Approach 2: Brute force solution. Pruning state state space tree. Time Limit exceeded
+# Approach 2: Brute force solution. Pruning state state space tree. Time Limit exceeded. 17 / 58 test cases passed.
 class Solution(object):
     def checkRecord(self, n):
         """
