@@ -90,3 +90,27 @@ class Solution(object):
                 return False
         return True
 
+
+# Approach 3: DP
+class Solution(object):
+    def checkRecord(self, n):
+        """
+        :type n: int
+        :rtype: int
+        """
+        if n == 1:
+            return 3
+        if n == 0:
+            return 0
+        mod = 1000000007
+        dp = [0 for i in range(n + 1)]
+        dp[0], dp[1], dp[2] = 1, 2, 4
+        for i in range(3, n + 1):
+            dp[i] = (dp[i - 1] + dp[i - 2] + dp[i - 3]) % mod
+        res = dp[n]
+
+        # inserting A into (n-1)-length strings
+        for i in range(1, n + 1):
+            res += ((dp[i - 1] * dp[n - i]) % mod)
+        res = res % mod
+        return res
