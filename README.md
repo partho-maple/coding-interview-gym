@@ -202,6 +202,7 @@ I have solved quite a number of problems from several topics. See the below tabl
 |25| [551. Student Attendance Record I](https://tinyurl.com/qu89xt8)| [Python](https://tinyurl.com/wu6rdaw/551_Student_Attendance_Record_I.py)|  | Easy | --- |
 |26| [242. Valid Anagram](https://tinyurl.com/yguqjw2g)| [Python](https://tinyurl.com/wu6rdaw/242_Valid_Anagram.py), [Swift](https://tinyurl.com/wuja3c4/242_Valid_Anagram.swift) |  | Easy | --- |
 |27| [1358. Number of Substrings Containing All Three Characters](https://tinyurl.com/ufhkahy)| [Python](https://tinyurl.com/wu6rdaw/1358_Number_of_Substrings_Containing_All_Three_Characters.py), [Swift](https://tinyurl.com/wuja3c4/1358_Number_of_Substrings_Containing_All_Three_Characters.swift) | [Art 1](https://tinyurl.com/sespxql) | Medium | Sliding Window |
+|28| **[459. Repeated Substring Pattern](https://tinyurl.com/tg4sjty)** | [Python](https://tinyurl.com/wu6rdaw/459_Repeated_Substring_Pattern.py), [Swift](https://tinyurl.com/wuja3c4/459_Repeated_Substring_Pattern.swift) | [Art 1](https://tinyurl.com/rrqo8rj) | Easy | Interesting problem |
 
 
 </p>
@@ -636,7 +637,8 @@ BFS, DFS, Dijkstra, Floyd–Warshall, Bellman-Ford, Kruskal, Prim's, Minimum Spa
 |44| **[91. Decode Ways](https://tinyurl.com/t5yx86t)** | [Python](https://tinyurl.com/wu6rdaw/91_Decode_Ways.py), [Swift](https://tinyurl.com/wuja3c4/91_Decode_Ways.swift)| [Vid 1](https://tinyurl.com/wxc7jlj) | Medium | --- |
 |45| **[975. Odd Even Jump](https://tinyurl.com/y5ovyklj)** | [Python](https://tinyurl.com/wu6rdaw/975_Odd_Even_Jump.py), [Swift](https://tinyurl.com/wuja3c4/975_Odd_Even_Jump.swift)| [Vid 1](https://tinyurl.com/vxyed3g), **[Art 1](https://tinyurl.com/wbjrnyt)** | Hard | DP using stack. Vary tricky and Interesting problem, loved it |
 |46| **[562. Longest Line of Consecutive One in Matrix](https://tinyurl.com/u2fb4a6)** | [Python](https://tinyurl.com/wu6rdaw/562_Longest_Line_of_Consecutive_One_in_Matrix.py), [Swift](https://tinyurl.com/wuja3c4/562_Longest_Line_of_Consecutive_One_in_Matrix.swift)| [Art 1](https://tinyurl.com/vqppbae), [Art 2](https://tinyurl.com/t3xtfq8) | Medium |  |
-|47| **[552. Student Attendance Record II](https://tinyurl.com/tnxj5oa)** | [Python](https://tinyurl.com/wu6rdaw/552_Student_Attendance_Record_II.py.py), [Swift](https://tinyurl.com/wuja3c4/552_Student_Attendance_Record_II.swift)| [Art 1](https://tinyurl.com/rdt2cgr), [Art 2](https://tinyurl.com/s8okmdb), [Art 3](https://tinyurl.com/uhggppt) | Hard | **This is a FUCKING difficult DP problem. Don't dare to solve it** |
+|47| **[552. Student Attendance Record II](https://tinyurl.com/tnxj5oa)** | [Python](https://tinyurl.com/wu6rdaw/552_Student_Attendance_Record_II.py), [Swift](https://tinyurl.com/wuja3c4/552_Student_Attendance_Record_II.swift)| [Art 1](https://tinyurl.com/rdt2cgr), [Art 2](https://tinyurl.com/s8okmdb), [Art 3](https://tinyurl.com/uhggppt) | Hard | **This is a FUCKING difficult DP problem. Don't dare to solve it** |
+|48| **[1320. Minimum Distance to Type a Word Using Two Fingers](https://tinyurl.com/ur876a6)** | [Python](https://tinyurl.com/wu6rdaw/1320_Minimum_Distance_to_Type_a_Word_Using_Two_Fingers.py), [Swift](https://tinyurl.com/wuja3c4/1320_Minimum_Distance_to_Type_a_Word_Using_Two_Fingers.swift)| [Vid 1](https://tinyurl.com/u5fcb3z), [Art 2](https://tinyurl.com/s8okmdb), [Art 3](https://tinyurl.com/uhggppt) | Hard | **Important. TODO: Check again** |
 
 
 </p>
