@@ -202,7 +202,8 @@ I have solved quite a number of problems from several topics. See the below tabl
 |25| [551. Student Attendance Record I](https://tinyurl.com/qu89xt8)| [Python](https://tinyurl.com/wu6rdaw/551_Student_Attendance_Record_I.py)|  | Easy | --- |
 |26| [242. Valid Anagram](https://tinyurl.com/yguqjw2g)| [Python](https://tinyurl.com/wu6rdaw/242_Valid_Anagram.py), [Swift](https://tinyurl.com/wuja3c4/242_Valid_Anagram.swift) |  | Easy | --- |
 |27| [1358. Number of Substrings Containing All Three Characters](https://tinyurl.com/ufhkahy)| [Python](https://tinyurl.com/wu6rdaw/1358_Number_of_Substrings_Containing_All_Three_Characters.py), [Swift](https://tinyurl.com/wuja3c4/1358_Number_of_Substrings_Containing_All_Three_Characters.swift) | [Art 1](https://tinyurl.com/sespxql) | Medium | Sliding Window |
-|28| **[459. Repeated Substring Pattern](https://tinyurl.com/tg4sjty)** | [Python](https://tinyurl.com/wu6rdaw/459_Repeated_Substring_Pattern.py), [Swift](https://tinyurl.com/wuja3c4/459_Repeated_Substring_Pattern.swift) | [Art 1](https://tinyurl.com/rrqo8rj) | Easy | Interesting problem |
+|28| **[459. Repeated Substring Pattern](https://tinyurl.com/tg4sjty)** | [Python](https://tinyurl.com/wu6rdaw/459_Repeated_Substring_Pattern.py), [Swift](https://tinyurl.com/wuja3c4/459_Repeated_Substring_Pattern.swift) | [Art 1](https://tinyurl.com/rrqo8rj) | Easy | I fucking love this problem |
+|29| **[681. Next Closest Time](https://tinyurl.com/rdz29j6)** | [Python](https://tinyurl.com/wu6rdaw/681_Next_Closest_Time.py), [Swift](https://tinyurl.com/wuja3c4/681_Next_Closest_Time.swift) | [Art 1](https://tinyurl.com/vupwnhw) | Medium | I feel stupid after trying my first solution |
 
 
 </p>
