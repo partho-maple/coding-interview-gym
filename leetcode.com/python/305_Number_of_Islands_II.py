@@ -8,6 +8,7 @@ class Solution(object):
     # Class to represent
     # Disjoint Set Data structure
     class DisjointUnionSets(object):
+
         def __init__(self, n):
             self.rank = [0] * n
             self.parent = [0] * n
@@ -21,9 +22,7 @@ class Solution(object):
             for i in range(self.n):
                 self.parent[i] = i
 
-                # Finds the representative of the set that x
-
-        # is an element of
+        # Finds the representative of the set that x is an element of
         def find(self, x):
             if (self.parent[x] != x):
                 # if x is not the parent of itself,
@@ -35,9 +34,7 @@ class Solution(object):
                 return self.find(self.parent[x])
             return x
 
-            # Unites the set that includes x and
-
-        # the set that includes y
+        # Unites the set that includes x and the set that includes y
         def Union(self, x, y):
 
             # Find the representatives(or the root nodes)
@@ -61,7 +58,6 @@ class Solution(object):
             # remains less
             elif self.rank[yRoot] < self.rank[xRoot]:
                 self.parent[yRoot] = xRoot
-
             else:
 
                 # Else if their ranks are the same
@@ -118,7 +114,6 @@ class Solution(object):
 
 
 # SOURCE:   https://tinyurl.com/qohtl3m
-
 class UnionFind(object):
     def __init__(self):
         self.parents = {}

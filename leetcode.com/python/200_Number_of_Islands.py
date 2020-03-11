@@ -7,6 +7,7 @@ class Solution(object):
     # Class to represent
     # Disjoint Set Data structure
     class DisjointUnionSets(object):
+
         def __init__(self, n):
             self.rank = [0] * n
             self.parent = [0] * n
@@ -20,9 +21,7 @@ class Solution(object):
             for i in range(self.n):
                 self.parent[i] = i
 
-                # Finds the representative of the set that x
-
-        # is an element of
+        # Finds the representative of the set that x is an element of
         def find(self, x):
             if (self.parent[x] != x):
                 # if x is not the parent of itself,
@@ -34,9 +33,7 @@ class Solution(object):
                 return self.find(self.parent[x])
             return x
 
-            # Unites the set that includes x and
-
-        # the set that includes y
+        # Unites the set that includes x and the set that includes y
         def Union(self, x, y):
 
             # Find the representatives(or the root nodes)
@@ -60,7 +57,6 @@ class Solution(object):
             # remains less
             elif self.rank[yRoot] < self.rank[xRoot]:
                 self.parent[yRoot] = xRoot
-
             else:
 
                 # Else if their ranks are the same
@@ -71,6 +67,7 @@ class Solution(object):
                 # And increment the result tree's
                 # rank by 1
                 self.rank[xRoot] = self.rank[xRoot] + 1
+
 
     # Returns number of islands in a[][]
     def numIslands(self, grid):
@@ -134,56 +131,56 @@ class Solution(object):
 
 
 
-# # Approach 2: Using DFS - Accepted
-# class Solution(object):
-#     def numIslands(self, grid):
-#         """
-#         :type grid: List[List[str]]
-#         :rtype: int
-#         """
-#         sizes = []
-#         visited = [[False for value in row] for row in grid]
-#         for i in range(len(grid)):
-#             for j in range(len(grid[i])):
-#                 if visited[i][j]:
-#                     continue
-#                 else:
-#                     self.traverseNode(i, j, grid, visited, sizes)
-#         return len(sizes)
-#
-#
-#     def traverseNode(self, i, j, grid, visited, sizes):
-#         currentRiverSize = 0
-#         nodesToExplore = [[i, j]]
-#         while len(nodesToExplore):
-#             currentNode = nodesToExplore.pop()
-#             i = currentNode[0]
-#             j = currentNode[1]
-#             if visited[i][j]:
-#                 continue
-#             visited[i][j] = True
-#             if grid[i][j] == "0":
-#                 continue
-#             currentRiverSize += 1
-#             unvisitedNeighbours = self.getUnvisitedNeighbour(i, j, grid, visited)
-#             for neighbour in unvisitedNeighbours:
-#                 nodesToExplore.append(neighbour)
-#         if currentRiverSize > 0:
-#             sizes.append(currentRiverSize)
-#
-#
-#
-#     def getUnvisitedNeighbour(self, i, j, grid, visited):
-#         unvisitedNeighbours = []
-#         if i > 0 and not visited[i - 1][j]:
-#             unvisitedNeighbours.append([i - 1, j])
-#         if i < len(grid) - 1 and not visited[i + 1][j]:
-#             unvisitedNeighbours.append([i + 1, j])
-#         if j > 0 and not visited[i][j - 1]:
-#             unvisitedNeighbours.append([i, j - 1])
-#         if j < len(grid[0]) - 1 and not visited[i][j + 1]:
-#             unvisitedNeighbours.append([i, j + 1])
-#         return unvisitedNeighbours
+# Approach 2: Using DFS - Accepted
+class Solution(object):
+    def numIslands(self, grid):
+        """
+        :type grid: List[List[str]]
+        :rtype: int
+        """
+        sizes = []
+        visited = [[False for value in row] for row in grid]
+        for i in range(len(grid)):
+            for j in range(len(grid[i])):
+                if visited[i][j]:
+                    continue
+                else:
+                    self.traverseNode(i, j, grid, visited, sizes)
+        return len(sizes)
+
+
+    def traverseNode(self, i, j, grid, visited, sizes):
+        currentRiverSize = 0
+        nodesToExplore = [[i, j]]
+        while len(nodesToExplore):
+            currentNode = nodesToExplore.pop()
+            i = currentNode[0]
+            j = currentNode[1]
+            if visited[i][j]:
+                continue
+            visited[i][j] = True
+            if grid[i][j] == "0":
+                continue
+            currentRiverSize += 1
+            unvisitedNeighbours = self.getUnvisitedNeighbour(i, j, grid, visited)
+            for neighbour in unvisitedNeighbours:
+                nodesToExplore.append(neighbour)
+        if currentRiverSize > 0:
+            sizes.append(currentRiverSize)
+
+
+
+    def getUnvisitedNeighbour(self, i, j, grid, visited):
+        unvisitedNeighbours = []
+        if i > 0 and not visited[i - 1][j]:
+            unvisitedNeighbours.append([i - 1, j])
+        if i < len(grid) - 1 and not visited[i + 1][j]:
+            unvisitedNeighbours.append([i + 1, j])
+        if j > 0 and not visited[i][j - 1]:
+            unvisitedNeighbours.append([i, j - 1])
+        if j < len(grid[0]) - 1 and not visited[i][j + 1]:
+            unvisitedNeighbours.append([i, j + 1])
+        return unvisitedNeighbours
 
 
 

@@ -498,6 +498,7 @@ BFS, DFS, Dijkstra, Floyd–Warshall, Bellman-Ford, Kruskal, Prim's, Minimum Spa
 |26| **[752. Open the Lock](https://tinyurl.com/yxpwjn7r)** | [Python](https://tinyurl.com/wu6rdaw/752_Open_the_Lock.py)| **[Art 1](https://tinyurl.com/s3oskv8)**, **[Art 2](https://tinyurl.com/rsr4tz9)** | Medium |📌 **TODO: CHECK again. Very important  and interesting problem. Loved it** |
 |27| **[489. Robot Room Cleaner](https://tinyurl.com/yxpwjn7r)** | [Python](https://tinyurl.com/wu6rdaw/489_Robot_Room_Cleaner.py), [Swift](https://tinyurl.com/wuja3c4/489_Robot_Room_Cleaner.swift) | **[Vid 1](https://tinyurl.com/vahalvm)**, **[Vid 2](https://tinyurl.com/qpumkro)**, **[Art 1](https://tinyurl.com/rnu8679)** | Hard |📌 **TODO: CHECK again. Very important  and interesting problem. I fucking loved it** |
 |28| **[1136. Parallel Courses](https://tinyurl.com/yxpwjn7r)** | [Python](https://tinyurl.com/wu6rdaw/11136_Parallel_Courses.py), [Swift](https://tinyurl.com/wuja3c4/11136_Parallel_Courses.swift) | --- | Hard |📌 Topological sort. |
+|29| **[947. Most Stones Removed with Same Row or Column](https://tinyurl.com/rrm6w2a)** | [Python](https://tinyurl.com/wu6rdaw/947_Most_Stones_Removed_with_Same_Row_or_Column.py), [Swift](https://tinyurl.com/wuja3c4/947_Most_Stones_Removed_with_Same_Row_or_Column.swift) | [Vid 1](https://tinyurl.com/sc2g6eg), [Art 1](https://tinyurl.com/sxyzxkr), [Vid 2](https://tinyurl.com/wocnrhn), [Art 2](https://tinyurl.com/sogsj74), [Art 3](https://tinyurl.com/w4pk463) | Medium |📌 DFS and Union FInd |
 
 
 </p>
