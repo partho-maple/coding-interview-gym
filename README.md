@@ -1079,8 +1079,8 @@ Learn the following modules by heart. Just knowing all of the following items wi
 05. [Codinginterviewclass.com](https://tinyurl.com/wpgl4nt)
 06. Single/All Source Shortest Path Algorithms: Dijkstra ([1](https://tinyurl.com/r8omw8l), [2](https://tinyurl.com/sscslz7)), Bellman-Ford([1](https://tinyurl.com/tghcsmz), [2](https://tinyurl.com/rdcax5b)), Floyd–Warshall([1](https://tinyurl.com/vsp4ulb), [2](https://tinyurl.com/s5wjb5a))
 07. Dijkstra’s Algorithm Vs Bellman-Ford Algorithm Vs Floyd Warshall Algorithm ( [1](https://tinyurl.com/vxwc2je), [2](https://tinyurl.com/s6vff87), [3](https://tinyurl.com/s5o57nz) )
-08. Minimum Spanning Tree Algorithm: Prim's ([1](https://tinyurl.com/vgbgdl2), [2](https://tinyurl.com/yecuqtty), Kruskal's ([1](https://tinyurl.com/vgbgdl2), [2](https://tinyurl.com/yhxpvpkn)
-09. Kruskal's algorithm Vs Prim's algorithm ([1](https://qr.ae/TSEPGc), [2](https://tinyurl.com/yz6399ck), [3](https://tinyurl.com/yz3q7vox)
+08. Minimum Spanning Tree Algorithm: Prim's ( [1](https://tinyurl.com/vgbgdl2), [2](https://tinyurl.com/yecuqtty), Kruskal's ([1](https://tinyurl.com/vgbgdl2), [2](https://tinyurl.com/yhxpvpkn) )
+09. Kruskal's algorithm Vs Prim's algorithm ( [1](https://qr.ae/TSEPGc), [2](https://tinyurl.com/yz6399ck), [3](https://tinyurl.com/yz3q7vox) )
 
 </p>
 </details>
