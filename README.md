@@ -1036,10 +1036,22 @@ Learn the following modules by heart. Just knowing all of the following items wi
 </details>
 
 
-### 5. Tree (Tree, BST, BIT, Segment Tree, N-aray Tree, Trie etc)
+### 5. Tree (Binary Tree, BST, AVL, Red-Black, B-Tree, B+ Tree, Segment Tree, BIT, N-aray Tree, Trie etc)
 <details><summary></summary>
 <p>
 
+#### Tree Basics (or not so basics)
+01. [Binary Tree playlist - Tushar Roy - Coding Made Simple](https://tinyurl.com/txeffh4)
+02. [8 Useful Tree Data Structures Worth Knowing](https://tinyurl.com/t4f8mxg)
+03. [Segment Tree Range Minimum Query](https://tinyurl.com/t3eltjb)
+04. [Exploring Segment Trees](https://tinyurl.com/uqfgfyn)
+05. [AVL Tree - Insertion and Rotations](https://tinyurl.com/qmtgtoc)
+06. [B Trees and B+ Trees. How they are useful in Databases](https://tinyurl.com/v6n9fkm)
+07. [Red Black Tree Insertion](https://tinyurl.com/vb4kf76) ---  NOTE: Partho, read this
+08. [Fenwick Tree or Binary Indexed Tree](https://tinyurl.com/ulq6shu)
+09. [Fenwick Tree ( Binary Index Tree )](https://tinyurl.com/u95w7ud) ---  NOTE: Partho, read this
+
+#### inary Indexed Tree Vs Fenwick Tree 
 01. [Fenwick Tree or Binary Indexed Tree - youtube](https://www.youtube.com/watch?v=CWDQJGaN1gY)
 02. [Binary Indexed Tree or Fenwick Tree - geeksforgeeks](https://www.geeksforgeeks.org/binary-indexed-tree-or-fenwick-tree-2/)
 03. [Binary Indexed Tree or Fenwick Tree - topcoder](https://www.topcoder.com/community/competitive-programming/tutorials/binary-indexed-trees/)
