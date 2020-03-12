@@ -1051,7 +1051,7 @@ Learn the following modules by heart. Just knowing all of the following items wi
 08. [Fenwick Tree or Binary Indexed Tree](https://tinyurl.com/ulq6shu)
 09. [Fenwick Tree ( Binary Index Tree )](https://tinyurl.com/u95w7ud) ---  NOTE: Partho, read this
 
-#### inary Indexed Tree Vs Fenwick Tree 
+#### Binary Indexed Tree Vs Fenwick Tree 
 01. [Fenwick Tree or Binary Indexed Tree - youtube](https://www.youtube.com/watch?v=CWDQJGaN1gY)
 02. [Binary Indexed Tree or Fenwick Tree - geeksforgeeks](https://www.geeksforgeeks.org/binary-indexed-tree-or-fenwick-tree-2/)
 03. [Binary Indexed Tree or Fenwick Tree - topcoder](https://www.topcoder.com/community/competitive-programming/tutorials/binary-indexed-trees/)
