@@ -265,6 +265,7 @@ I have solved quite a number of problems from several topics. See the below tabl
 |11| **[281. Zigzag Iterator](https://tinyurl.com/rxgn345)** | [Python](https://tinyurl.com/wu6rdaw/281_Zigzag_Iterator.py), [Swift](https://tinyurl.com/wuja3c4/281_Zigzag_Iterator.swift)| **[Art 1](https://tinyurl.com/wv4ufcz)** | Medium | --- |
 |12| **[946. Validate Stack Sequences](https://tinyurl.com/u8wbaqp)** | [Python](https://tinyurl.com/wu6rdaw/946_Validate_Stack_Sequences.py), [Swift](https://tinyurl.com/wuja3c4/946_Validate_Stack_Sequences.swift)| **[Art 1](https://tinyurl.com/um2r3bf)**, **[Art 2](https://tinyurl.com/vc5wmlj)** | Medium | --- |
 |13| **[862. Shortest Subarray with Sum at Least K](https://tinyurl.com/wzdraag)** | [Python](https://tinyurl.com/wu6rdaw/862_Shortest_Subarray_with_Sum_at_Least_K.py), [Swift](https://tinyurl.com/wuja3c4/862_Shortest_Subarray_with_Sum_at_Least_K.swift)| **[Art 1](https://tinyurl.com/rn7rsnf)**, **[Art 2](https://tinyurl.com/ra3ttcg)**, **[Art 3](https://tinyurl.com/swqs6cq)**, **[Art 4](https://tinyurl.com/t8tjjk2)** | Hard | Learned Monotonic Queue. Very interesting problem |
+|14| [346. Moving Average from Data Stream](https://tinyurl.com/sfmwtr5) | [Python](https://tinyurl.com/wu6rdaw/346_Moving_Average_from_Data_Stream.py), [Swift](https://tinyurl.com/wuja3c4/346_Moving_Average_from_Data_Stream.swift)|  | Easy |  |
 
 </p>
 </details>
