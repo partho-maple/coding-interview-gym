@@ -689,6 +689,7 @@ BFS, DFS, Dijkstra, Floyd–Warshall, Bellman-Ford, Kruskal, Prim's, Minimum Spa
 |04| [593. Valid Square](https://tinyurl.com/rr2z8l7) | [Python](https://tinyurl.com/wu6rdaw/593_Valid_Square.py)| [Art 1](https://tinyurl.com/w7gucmn), [Art 2](https://tinyurl.com/qlw7tn4) | Medium | **Math** |
 |05| [1272. Remove Interval](https://tinyurl.com/syvucrt) | [Python](https://tinyurl.com/wu6rdaw/1272_Remove_Interval.py)| [Art 1](https://tinyurl.com/srv4knp) | Medium | **Line Swap** |
 |06| [1288. Remove Covered Intervals](https://tinyurl.com/wc72tcx) | [Python](https://tinyurl.com/wu6rdaw/1288_Remove_Covered_Intervals.py)| [Art 1](https://tinyurl.com/vpp5hnx) | Medium | **Line Swap with Greedy**. A must read solution. A gold mie, learned a lot |
+|07| [1229. Meeting Scheduler](https://tinyurl.com/t6vtlph) | [Python](https://tinyurl.com/wu6rdaw/1229_Meeting_Scheduler.py)| [Art 1](https://tinyurl.com/rau4xcb) | Medium | **Line Swap**, learned a lot |
 
 </p>
 </details>
