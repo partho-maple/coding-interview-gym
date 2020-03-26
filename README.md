@@ -688,9 +688,10 @@ BFS, DFS, Dijkstra, Floyd–Warshall, Bellman-Ford, Kruskal, Prim's, Minimum Spa
 |03| **[843. Guess the Word](https://tinyurl.com/vyk9ynp)** | [Python](https://tinyurl.com/wu6rdaw/843_Guess_the_Word.py)| **[Art 1](https://tinyurl.com/wqy5ll4)** | Hard | **Minimax**. TODO: Check again. Very important and interesting |
 |04| [593. Valid Square](https://tinyurl.com/rr2z8l7) | [Python](https://tinyurl.com/wu6rdaw/593_Valid_Square.py)| [Art 1](https://tinyurl.com/w7gucmn), [Art 2](https://tinyurl.com/qlw7tn4) | Medium | **Math** |
 |05| [1272. Remove Interval](https://tinyurl.com/syvucrt) | [Python](https://tinyurl.com/wu6rdaw/1272_Remove_Interval.py)| [Art 1](https://tinyurl.com/srv4knp) | Medium | **Line Swap** |
-|06| [1288. Remove Covered Intervals](https://tinyurl.com/wc72tcx) | [Python](https://tinyurl.com/wu6rdaw/1288_Remove_Covered_Intervals.py)| [Art 1](https://tinyurl.com/vpp5hnx) | Medium | **Line Swap with Greedy**. A must read solution. A gold mie, learned a lot |
-|07| [1229. Meeting Scheduler](https://tinyurl.com/t6vtlph) | [Python](https://tinyurl.com/wu6rdaw/1229_Meeting_Scheduler.py)| [Art 1](https://tinyurl.com/rau4xcb) | Medium | **Line Swap**, learned a lot |
-|08| [850. Rectangle Area II](https://tinyurl.com/utc58vb) | [Python](https://tinyurl.com/wu6rdaw/850_Rectangle_Area_II.py)| [Art 1](https://tinyurl.com/t59zg3e), [Vid 1](https://tinyurl.com/sumo5b6), [Art 2](https://tinyurl.com/s27k9o4) | Hard | **Line Swap using heap and Segmet Tree**. TODO: Solve it using Segment Tree |
+|06| **[1288. Remove Covered Intervals](https://tinyurl.com/wc72tcx)** | [Python](https://tinyurl.com/wu6rdaw/1288_Remove_Covered_Intervals.py)| [Art 1](https://tinyurl.com/vpp5hnx) | Medium | **Line Swap with Greedy**. A must read solution. A gold mie, learned a lot |
+|07| **[1229. Meeting Scheduler](https://tinyurl.com/t6vtlph)** | [Python](https://tinyurl.com/wu6rdaw/1229_Meeting_Scheduler.py)| [Art 1](https://tinyurl.com/rau4xcb) | Medium | **Line Swap**, learned a lot |
+|08| **[850. Rectangle Area II](https://tinyurl.com/utc58vb)** | [Python](https://tinyurl.com/wu6rdaw/850_Rectangle_Area_II.py)| [Art 1](https://tinyurl.com/t59zg3e), [Vid 1](https://tinyurl.com/sumo5b6), [Art 2](https://tinyurl.com/s27k9o4) | Hard | **Line Swap using heap and Segment Tree**. TODO: Solve it using Segment Tree |
+|09| **[307. Range Sum Query - Mutable](https://tinyurl.com/utc58vb)** | [Python](https://tinyurl.com/wu6rdaw/307_Range_Sum_Query_-_Mutable.py)| **[Vid 1](https://tinyurl.com/sumo5b6), [Art 1](https://tinyurl.com/r54yf9y), [Art 2](https://tinyurl.com/srucx8l)** | Medium | **Segment Tree Basics**. Very Important |
 
 </p>
 </details>
