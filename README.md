@@ -162,6 +162,7 @@ I have solved quite a number of problems from several topics. See the below tabl
 |50| **[54. Spiral Matrix](https://tinyurl.com/yy5rnvce)** | [Python](https://tinyurl.com/wu6rdaw/54_Spiral_Matrix.py), [Swift](https://tinyurl.com/wuja3c4/54_Spiral_Matrix.swift)| [Official](https://tinyurl.com/s6np53k) | Medium | --- |
 |51| **[380. Insert Delete GetRandom O(1)](https://tinyurl.com/y3urnkfj)** | [Python](https://tinyurl.com/wu6rdaw/380_Insert_Delete_GetRandom_O(1).py), [Swift](https://tinyurl.com/wuja3c4/380_Insert_Delete_GetRandom_O(1).swift)| [Official](https://tinyurl.com/t4t38od) | Medium | --- |
 |52| **[835. Image Overlap](https://tinyurl.com/r9x9nkm)** | [Python](https://tinyurl.com/wu6rdaw/835_Image_Overlap.py), [Swift](https://tinyurl.com/wuja3c4/835_Image_Overlap.swift)| [Art 1](https://tinyurl.com/tx3gd98), [Art 2](https://tinyurl.com/tnmj6du) | Medium | --- |
+|53| **[1051. Height Checker](https://tinyurl.com/scupmnz)** | [Python](https://tinyurl.com/wu6rdaw/1051_Height_Checker.py), [Swift](https://tinyurl.com/wuja3c4/1051_Height_Checker.swift) | --- | Easy |  |
 
 
 </p>
@@ -204,6 +205,7 @@ I have solved quite a number of problems from several topics. See the below tabl
 |27| [1358. Number of Substrings Containing All Three Characters](https://tinyurl.com/ufhkahy)| [Python](https://tinyurl.com/wu6rdaw/1358_Number_of_Substrings_Containing_All_Three_Characters.py), [Swift](https://tinyurl.com/wuja3c4/1358_Number_of_Substrings_Containing_All_Three_Characters.swift) | [Art 1](https://tinyurl.com/sespxql) | Medium | Sliding Window |
 |28| **[459. Repeated Substring Pattern](https://tinyurl.com/tg4sjty)** | [Python](https://tinyurl.com/wu6rdaw/459_Repeated_Substring_Pattern.py), [Swift](https://tinyurl.com/wuja3c4/459_Repeated_Substring_Pattern.swift) | [Art 1](https://tinyurl.com/rrqo8rj) | Easy | I fucking love this problem |
 |29| **[681. Next Closest Time](https://tinyurl.com/rdz29j6)** | [Python](https://tinyurl.com/wu6rdaw/681_Next_Closest_Time.py), [Swift](https://tinyurl.com/wuja3c4/681_Next_Closest_Time.swift) | [Art 1](https://tinyurl.com/vupwnhw) | Medium | I feel stupid after trying my first solution |
+|30| **[925. Long Pressed Name](https://tinyurl.com/s4jbmmk)** | [Python](https://tinyurl.com/wu6rdaw/925_Long_Pressed_Name.py), [Swift](https://tinyurl.com/wuja3c4/925_Long_Pressed_Name.swift) | --- | Easy |  |
 
 
 </p>
