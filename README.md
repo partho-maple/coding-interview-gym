@@ -692,6 +692,7 @@ BFS, DFS, Dijkstra, Floyd–Warshall, Bellman-Ford, Kruskal, Prim's, Minimum Spa
 |07| **[1229. Meeting Scheduler](https://tinyurl.com/t6vtlph)** | [Python](https://tinyurl.com/wu6rdaw/1229_Meeting_Scheduler.py)| [Art 1](https://tinyurl.com/rau4xcb) | Medium | **Line Swap**, learned a lot |
 |08| **[850. Rectangle Area II](https://tinyurl.com/utc58vb)** | [Python](https://tinyurl.com/wu6rdaw/850_Rectangle_Area_II.py)| [Art 1](https://tinyurl.com/t59zg3e), [Vid 1](https://tinyurl.com/sumo5b6), [Art 2](https://tinyurl.com/s27k9o4) | Hard | **Line Swap using heap and Segment Tree**. TODO: Solve it using Segment Tree |
 |09| **[307. Range Sum Query - Mutable](https://tinyurl.com/utc58vb)** | [Python](https://tinyurl.com/wu6rdaw/307_Range_Sum_Query_-_Mutable.py)| **[Vid 1](https://tinyurl.com/sumo5b6), [Art 1](https://tinyurl.com/r54yf9y), [Art 2](https://tinyurl.com/srucx8l)** | Medium | **Segment Tree Basics**. Very Important |
+|10| **[327. Count of Range Sum](https://tinyurl.com/ulofnqj)** | [Python](https://tinyurl.com/wu6rdaw/327_Count_of_Range_Sum.py)| **[Vid 1](https://tinyurl.com/sumo5b6), [Art 1](https://tinyurl.com/rlmha9k), [Art 2](https://tinyurl.com/qlqod4c)** | Hard | **Segment Tree Basics**. Very Important |
 
 </p>
 </details>
