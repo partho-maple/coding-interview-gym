@@ -258,7 +258,7 @@ I have solved quite a number of problems from several topics. See the below tabl
 |02| [155. Min Stack](https://leetcode.com/problems/min-stack/)| [Python](https://tinyurl.com/wu6rdaw/155_Min_Stack.py)|
 |03| [84. Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/)| [Python](https://tinyurl.com/wu6rdaw/84_Largest_Rectangle_in_Histogram.py)| [Video 01](https://www.youtube.com/watch?v=VNbkzsnllsU), [Video 02](https://www.youtube.com/watch?v=RVIh0snn4Qc), [Article 01](https://leetcode.com/problems/largest-rectangle-in-histogram/solution/), [Article 02](https://leetcode.com/problems/largest-rectangle-in-histogram/discuss/28917/AC-Python-clean-solution-using-stack-76ms) | Hard | 📌 Need to revise |
 |04| [394. Decode String](https://leetcode.com/problems/decode-string/)| [Python](https://tinyurl.com/wu6rdaw/394_Decode_String.py)| --- | Medium | 📌 Classic stack problem |
-|05| [239. Sliding Window Maximum](https://tinyurl.com/rvhujl5)| [Python](https://tinyurl.com/wu6rdaw/239_Sliding_Window_Maximum.py)| **[Video 1](https://tinyurl.com/v767bl3)**, [Official](https://tinyurl.com/www4np2), [Art 1](https://tinyurl.com/y8nbroux), [Art 2](https://tinyurl.com/s62fzls), **[Art 3](https://tinyurl.com/vd3dtch)**, **[Art 4](https://tinyurl.com/yx3sjp46)** | Hard | 📌 Can be solved using Heap, Deque and DP |
+|05| **[239. Sliding Window Maximum](https://tinyurl.com/rvhujl5)** | [Python](https://tinyurl.com/wu6rdaw/239_Sliding_Window_Maximum.py)| **[Video 1](https://tinyurl.com/v767bl3)**, [Official](https://tinyurl.com/www4np2), [Art 1](https://tinyurl.com/y8nbroux), [Art 2](https://tinyurl.com/s62fzls), **[Art 3](https://tinyurl.com/vd3dtch)**, **[Art 4](https://tinyurl.com/yx3sjp46)** | Hard | 📌 Can be solved using Heap, Deque and DP |
 |06| [739. Daily Temperatures](https://tinyurl.com/ybbezzmt)| [Python](https://tinyurl.com/wu6rdaw/739_Daily_Temperatures.py)| **[Video 1](https://tinyurl.com/sdbkh3z)**, **[Video 2](https://tinyurl.com/rbvaozl)**, [Art 1](https://tinyurl.com/ss3d9tx) | Medium | 📌 TODO: Check again. A tricky one |
 |07| **[150. Evaluate Reverse Polish Notation](https://tinyurl.com/y2xrje8v)** | [Python](https://tinyurl.com/wu6rdaw/150_Evaluate_Reverse_Polish_Notation.py), [Swift](https://tinyurl.com/wuja3c4/150_Evaluate_Reverse_Polish_Notation.swift)| [Vid 1](https://tinyurl.com/s92fp4r) | Medium | --- |
 |08| **[341. Flatten Nested List Iterator](https://tinyurl.com/y6saxwjz)** | [Python](https://tinyurl.com/wu6rdaw/341_Flatten_Nested_List_Iterator.py), [Swift](https://tinyurl.com/wuja3c4/341_Flatten_Nested_List_Iterator.swift)| [Vid 1](https://tinyurl.com/vkj4qll), [Art 1](https://tinyurl.com/wnvvafx), [Art 2](https://tinyurl.com/wmrlxmz), [Art 3](https://tinyurl.com/uplntb3), **[Art 4](https://tinyurl.com/v3q9qfw)**, **[Art 5](https://tinyurl.com/rotxca8)** | Medium | TODO: Check again. Very Important. Learned new things |
@@ -679,7 +679,7 @@ BFS, DFS, Dijkstra, Floyd–Warshall, Bellman-Ford, Kruskal, Prim's, Minimum Spa
 
 
 
-### 18. Miscellaneous ([Line Swap](https://tinyurl.com/yx5pwdao), [Binary Indexed Tree](), [Segment Tree](https://tinyurl.com/w6jxpcg), [Minimax](https://tinyurl.com/twgbp6n), [Math](https://tinyurl.com/wb2h2mo) etc)
+### 18. Miscellaneous ([Line Swap](https://tinyurl.com/yx5pwdao), [Binary Indexed Tree](), [Segment Tree](https://tinyurl.com/w6jxpcg), [Minimax](https://tinyurl.com/twgbp6n), [Math](https://tinyurl.com/wb2h2mo), AVL Tree, Red-Black Tree, etc)
 <details><summary>Leetcode problems with solutions and tutorials/videos</summary>
 <p>
 
@@ -695,6 +695,7 @@ BFS, DFS, Dijkstra, Floyd–Warshall, Bellman-Ford, Kruskal, Prim's, Minimum Spa
 |08| **[850. Rectangle Area II](https://tinyurl.com/utc58vb)** | [Python](https://tinyurl.com/wu6rdaw/850_Rectangle_Area_II.py)| [Art 1](https://tinyurl.com/t59zg3e), [Vid 1](https://tinyurl.com/sumo5b6), [Art 2](https://tinyurl.com/s27k9o4) | Hard | **Line Swap using heap and Segment Tree**. TODO: Solve it using Segment Tree |
 |09| **[307. Range Sum Query - Mutable](https://tinyurl.com/utc58vb)** | [Python](https://tinyurl.com/wu6rdaw/307_Range_Sum_Query_-_Mutable.py)| **[Vid 1](https://tinyurl.com/sumo5b6), [Art 1](https://tinyurl.com/r54yf9y), [Art 2](https://tinyurl.com/srucx8l)** | Medium | **Segment Tree Basics**. Very Important |
 |10| **[327. Count of Range Sum](https://tinyurl.com/ulofnqj)** | [Python](https://tinyurl.com/wu6rdaw/327_Count_of_Range_Sum.py)| **[Vid 1](https://tinyurl.com/sumo5b6), [Art 1](https://tinyurl.com/rlmha9k), [Art 2](https://tinyurl.com/qlqod4c)** | Hard | **Segment Tree Basics**. Very Important |
+|11| **[239. Sliding Window Maximum](https://tinyurl.com/rvhujl5)** | [Python](https://tinyurl.com/wu6rdaw/239_Sliding_Window_Maximum.py)| **[Video 1](https://tinyurl.com/v767bl3)**, [Official](https://tinyurl.com/www4np2), [Art 1](https://tinyurl.com/y8nbroux), [Art 2](https://tinyurl.com/s62fzls), **[Art 3](https://tinyurl.com/vd3dtch)**, **[Art 4](https://tinyurl.com/yx3sjp46)** | Hard | 📌 Here, I have specifically focused on solving it with AVL and Red-Black Tree. A "Queue" approach can be found o Queue section  |
 
 </p>
 </details>
@@ -1072,6 +1073,18 @@ Learn the following modules by heart. Just knowing all of the following items wi
 09. [What are the differences between segment trees, interval trees, binary indexed trees and range trees?](https://stackoverflow.com/questions/17466218/what-are-the-differences-between-segment-trees-interval-trees-binary-indexed-t)
 10. [Height, Depth and Level of a Tree](https://tinyurl.com/zvm773n)
 11. [What is the difference between tree depth and height?](https://tinyurl.com/vfnvg8q)
+
+#### Self Balancing Binary Search Trees
+01. [Self-balancing binary search tree](https://tinyurl.com/zlq297z)
+02. [Self-Balancing-Binary-Search-Trees (Comparisons)](https://tinyurl.com/rq23p56)
+03. [Self-Balancing Binary Search Trees 101](https://tinyurl.com/rtjr996)
+04. [10.1 AVL Tree - Insertion and Rotations](https://tinyurl.com/qmtgtoc)
+05. [Red Black tree | Introduction to Red Black trees | Data structure](https://tinyurl.com/urrwf5m)
+06. [Red Black Tree Insertion](https://tinyurl.com/wd2z45k)
+07. [Title](https://tinyurl.com/txeffh4)
+08. [Title](https://tinyurl.com/txeffh4)
+09. [Title](https://tinyurl.com/txeffh4)
+
 
 </p>
 </details>
