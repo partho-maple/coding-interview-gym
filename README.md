@@ -206,6 +206,7 @@ I have solved quite a number of problems from several topics. See the below tabl
 |28| **[459. Repeated Substring Pattern](https://tinyurl.com/tg4sjty)** | [Python](https://tinyurl.com/wu6rdaw/459_Repeated_Substring_Pattern.py), [Swift](https://tinyurl.com/wuja3c4/459_Repeated_Substring_Pattern.swift) | [Art 1](https://tinyurl.com/rrqo8rj) | Easy | I fucking love this problem |
 |29| **[681. Next Closest Time](https://tinyurl.com/rdz29j6)** | [Python](https://tinyurl.com/wu6rdaw/681_Next_Closest_Time.py), [Swift](https://tinyurl.com/wuja3c4/681_Next_Closest_Time.swift) | [Art 1](https://tinyurl.com/vupwnhw) | Medium | I feel stupid after trying my first solution |
 |30| **[925. Long Pressed Name](https://tinyurl.com/s4jbmmk)** | [Python](https://tinyurl.com/wu6rdaw/925_Long_Pressed_Name.py), [Swift](https://tinyurl.com/wuja3c4/925_Long_Pressed_Name.swift) | --- | Easy |  |
+|31| **[949. Largest Time for Given Digits](https://tinyurl.com/ux8dk9e)** | [Python](https://tinyurl.com/wu6rdaw/949_Largest_Time_for_Given_Digits.py), [Swift](https://tinyurl.com/wuja3c4/949_Largest_Time_for_Given_Digits.swift) | --- | Easy | Not so easy |
 
 
 </p>
