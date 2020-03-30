@@ -503,6 +503,7 @@ BFS, DFS, Dijkstra, Floyd–Warshall, Bellman-Ford, Kruskal, Prim's, Minimum Spa
 |27| **[489. Robot Room Cleaner](https://tinyurl.com/yxpwjn7r)** | [Python](https://tinyurl.com/wu6rdaw/489_Robot_Room_Cleaner.py), [Swift](https://tinyurl.com/wuja3c4/489_Robot_Room_Cleaner.swift) | **[Vid 1](https://tinyurl.com/vahalvm)**, **[Vid 2](https://tinyurl.com/qpumkro)**, **[Art 1](https://tinyurl.com/rnu8679)** | Hard |📌 **TODO: CHECK again. Very important  and interesting problem. I fucking loved it** |
 |28| **[1136. Parallel Courses](https://tinyurl.com/yxpwjn7r)** | [Python](https://tinyurl.com/wu6rdaw/11136_Parallel_Courses.py), [Swift](https://tinyurl.com/wuja3c4/11136_Parallel_Courses.swift) | --- | Hard |📌 Topological sort. |
 |29| **[947. Most Stones Removed with Same Row or Column](https://tinyurl.com/rrm6w2a)** | [Python](https://tinyurl.com/wu6rdaw/947_Most_Stones_Removed_with_Same_Row_or_Column.py), [Swift](https://tinyurl.com/wuja3c4/947_Most_Stones_Removed_with_Same_Row_or_Column.swift) | [Vid 1](https://tinyurl.com/sc2g6eg), [Art 1](https://tinyurl.com/sxyzxkr), [Vid 2](https://tinyurl.com/wocnrhn), [Art 2](https://tinyurl.com/sogsj74), [Art 3](https://tinyurl.com/w4pk463) | Medium |📌 DFS and Union FInd |
+|29| [1042. Flower Planting With No Adjacent](https://tinyurl.com/unwlzyy) | [Python](https://tinyurl.com/wu6rdaw/1042_Flower_Planting_With_No_Adjacent.py), [Swift](https://tinyurl.com/wuja3c4/1042_Flower_Planting_With_No_Adjacent.swift) | --- | Easy |📌 Could be done using DFS, BFS |
 
 
 </p>
@@ -552,6 +553,7 @@ BFS, DFS, Dijkstra, Floyd–Warshall, Bellman-Ford, Kruskal, Prim's, Minimum Spa
 |19| [22. Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)| [Python](https://tinyurl.com/wu6rdaw/22_Generate_Parentheses.py), [Swift](https://tinyurl.com/wuja3c4/22_Generate_Parentheses.swift) | [educative.io](https://tinyurl.com/wady2xs), [Video 1](https://www.youtube.com/watch?v=sz1qaKt0KGQ), [Article 1](https://leetcode.com/problems/generate-parentheses/discuss/10100/Easy-to-understand-Java-backtracking-solution) | Medium | Backtracking  Fundamentals |
 |20| [1088. Confusing Number II](https://tinyurl.com/tb7w75j)| [Python](https://tinyurl.com/wu6rdaw/1088_Confusing_Number_II.py), [Swift](https://tinyurl.com/wuja3c4/1088_Confusing_Number_II.swift) | [Art 1](https://tinyurl.com/wby5h93), [Ref 1](https://tinyurl.com/w54thz5) | Hard | Very interesting |
 |21| [465. Optimal Account Balancing](https://tinyurl.com/smsbk4t)| [Python](https://tinyurl.com/wu6rdaw/465_Optimal_Account_Balancing.py), [Swift](https://tinyurl.com/wuja3c4/465_Optimal_Account_Balancing.swift) | **[Art 1](https://tinyurl.com/txuvptu)** | Hard | Loved the question, awsome real life description |
+|22| [1079. Letter Tile Possibilities](https://tinyurl.com/r5xjymk) | [Python](https://tinyurl.com/wu6rdaw/1079_Letter_Tile_Possibilities.py), [Swift](https://tinyurl.com/wuja3c4/1079_Letter_Tile_Possibilities.swift) | --- | Medium |📌 Could be done using DFS, backtracking |
 
 </p>
 </details>
