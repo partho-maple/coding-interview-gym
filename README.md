@@ -989,6 +989,7 @@ Check this **[Golden](https://tinyurl.com/uboo399)** posts first.
 11. [Software Engineering Interviews: The Golden Path To Passing](https://tinyurl.com/vb77j83)
 12. [A MUST READ](https://tinyurl.com/vzbn34s)
 13. [10 Steps to Solving a Programming Problem](https://tinyurl.com/s663j6z)
+14. [Preparing to Apply or Interview at Google - Youtue playlist](https://tinyurl.com/yx7wceza)
 
 </p>
 </details>
@@ -1106,6 +1107,7 @@ Learn the following modules by heart. Just knowing all of the following items wi
 07. Dijkstra’s Algorithm Vs Bellman-Ford Algorithm Vs Floyd Warshall Algorithm ( [1](https://tinyurl.com/vxwc2je), [2](https://tinyurl.com/s6vff87), [3](https://tinyurl.com/s5o57nz) )
 08. Minimum Spanning Tree Algorithm: Prim's ( [1](https://tinyurl.com/vgbgdl2), [2](https://tinyurl.com/yecuqtty), Kruskal's ([1](https://tinyurl.com/vgbgdl2), [2](https://tinyurl.com/yhxpvpkn) )
 09. Kruskal's algorithm Vs Prim's algorithm ( [1](https://qr.ae/TSEPGc), [2](https://tinyurl.com/yz6399ck), [3](https://tinyurl.com/yz3q7vox) )
+10. [Tushar Roy - Coding Made Simple - Grapy Algorithm Playlist](https://tinyurl.com/y7qeb9ae)
 
 </p>
 </details>
