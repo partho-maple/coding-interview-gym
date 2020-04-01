@@ -163,6 +163,7 @@ I have solved quite a number of problems from several topics. See the below tabl
 |51| **[380. Insert Delete GetRandom O(1)](https://tinyurl.com/y3urnkfj)** | [Python](https://tinyurl.com/wu6rdaw/380_Insert_Delete_GetRandom_O(1).py), [Swift](https://tinyurl.com/wuja3c4/380_Insert_Delete_GetRandom_O(1).swift)| [Official](https://tinyurl.com/t4t38od) | Medium | --- |
 |52| **[835. Image Overlap](https://tinyurl.com/r9x9nkm)** | [Python](https://tinyurl.com/wu6rdaw/835_Image_Overlap.py), [Swift](https://tinyurl.com/wuja3c4/835_Image_Overlap.swift)| [Art 1](https://tinyurl.com/tx3gd98), [Art 2](https://tinyurl.com/tnmj6du) | Medium | --- |
 |53| **[1051. Height Checker](https://tinyurl.com/scupmnz)** | [Python](https://tinyurl.com/wu6rdaw/1051_Height_Checker.py), [Swift](https://tinyurl.com/wuja3c4/1051_Height_Checker.swift) | --- | Easy |  |
+|55| **[683. K Empty Slots](https://tinyurl.com/rbyxknc)** | [Python](https://tinyurl.com/wu6rdaw/683_K_Empty_Slots.py), [Swift](https://tinyurl.com/wuja3c4/683_K_Empty_Slots.swift) | [Art 1](https://tinyurl.com/qsenvnd), [Art 2](https://tinyurl.com/u7g6hhy), [Art 3](https://tinyurl.com/vw42pp7) | Hard | TODO: Check monotonic queue approach. Solved it with sliding widow |
 
 
 </p>
