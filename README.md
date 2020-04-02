@@ -164,6 +164,7 @@ I have solved quite a number of problems from several topics. See the below tabl
 |52| **[835. Image Overlap](https://tinyurl.com/r9x9nkm)** | [Python](https://tinyurl.com/wu6rdaw/835_Image_Overlap.py), [Swift](https://tinyurl.com/wuja3c4/835_Image_Overlap.swift)| [Art 1](https://tinyurl.com/tx3gd98), [Art 2](https://tinyurl.com/tnmj6du) | Medium | --- |
 |53| **[1051. Height Checker](https://tinyurl.com/scupmnz)** | [Python](https://tinyurl.com/wu6rdaw/1051_Height_Checker.py), [Swift](https://tinyurl.com/wuja3c4/1051_Height_Checker.swift) | --- | Easy |  |
 |55| **[683. K Empty Slots](https://tinyurl.com/rbyxknc)** | [Python](https://tinyurl.com/wu6rdaw/683_K_Empty_Slots.py), [Swift](https://tinyurl.com/wuja3c4/683_K_Empty_Slots.swift) | [Art 1](https://tinyurl.com/qsenvnd), [Art 2](https://tinyurl.com/u7g6hhy), [Art 3](https://tinyurl.com/vw42pp7) | Hard | TODO: Check monotonic queue approach. Solved it with sliding widow |
+|56| **[849. Maximize Distance to Closest Person](https://tinyurl.com/v44bs88)** | [Python](https://tinyurl.com/wu6rdaw/849_Maximize_Distance_to_Closest_Person.py), [Swift](https://tinyurl.com/wuja3c4/849_Maximize_Distance_to_Closest_Person.swift) | [Art 1](https://tinyurl.com/qsenvnd) | Easy | Not so easy and intuitive. Can be solve is a variety of way. I have used Binary search(A bit over engineered solution). Can be simplifies |
 
 
 </p>
@@ -208,6 +209,7 @@ I have solved quite a number of problems from several topics. See the below tabl
 |29| **[681. Next Closest Time](https://tinyurl.com/rdz29j6)** | [Python](https://tinyurl.com/wu6rdaw/681_Next_Closest_Time.py), [Swift](https://tinyurl.com/wuja3c4/681_Next_Closest_Time.swift) | [Art 1](https://tinyurl.com/vupwnhw) | Medium | I feel stupid after trying my first solution |
 |30| **[925. Long Pressed Name](https://tinyurl.com/s4jbmmk)** | [Python](https://tinyurl.com/wu6rdaw/925_Long_Pressed_Name.py), [Swift](https://tinyurl.com/wuja3c4/925_Long_Pressed_Name.swift) | --- | Easy |  |
 |31| **[949. Largest Time for Given Digits](https://tinyurl.com/ux8dk9e)** | [Python](https://tinyurl.com/wu6rdaw/949_Largest_Time_for_Given_Digits.py), [Swift](https://tinyurl.com/wuja3c4/949_Largest_Time_for_Given_Digits.swift) | --- | Easy | Not so easy |
+|32| [788. Rotated Digits](https://tinyurl.com/t9gelfm) | [Python](https://tinyurl.com/wu6rdaw/788_Rotated_Digits.py), [Swift](https://tinyurl.com/wuja3c4/788_Rotated_Digits.swift) | --- | Easy | --- |
 
 
 </p>
@@ -1232,6 +1234,16 @@ Learn the following modules by heart. Just knowing all of the following items wi
 01. [Intuition for Solving a MiniMax Problems](https://tinyurl.com/ryxxott)
 02. [Game theory — Minimax](https://tinyurl.com/qtfn9jl)
 03. [How to make your Tic Tac Toe game unbeatable by using the minimax algorithm](https://tinyurl.com/t9tedyf)
+
+</p>
+</details>
+
+### 14. Few special DS
+<details><summary></summary>
+<p>
+
+01. [Monotonic Queue Explained with LeetCode Problems](https://tinyurl.com/rn7rsnf)
+
 
 </p>
 </details>
