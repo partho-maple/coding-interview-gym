@@ -767,6 +767,7 @@ BFS, DFS, Dijkstra, Floyd–Warshall, Bellman-Ford, Kruskal, Prim's, Minimum Spa
 |01| [Invert_Binary_Tree](algoexpert.io/questions/Invert_Binary_Tree.md) | [Python](algoexpert.io/python/Invert_Binary_Tree.py)|
 |02| [Max_Path_Sum_In_Binary_Tree](algoexpert.io/questions/Max_Path_Sum_In_Binary_Tree.md) | [Python](algoexpert.io/python/Max_Path_Sum_In_Binary_Tree.py) |
 |03| [Iterative_In-order_Traversal](algoexpert.io/questions/Iterative_In-order_Traversal.md) | [Python](algoexpert.io/python/Iterative_In-order_Traversal.py) |
+|04| ![alt text](algoexpert.io/questions/Right_Sibling_Tree.png "Right_Sibling_Tree") | [Python](algoexpert.io/python/Right_Sibling_Tree.py) |
 
 </p>
 </details>
