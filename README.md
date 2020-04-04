@@ -165,6 +165,7 @@ I have solved quite a number of problems from several topics. See the below tabl
 |53| **[1051. Height Checker](https://tinyurl.com/scupmnz)** | [Python](https://tinyurl.com/wu6rdaw/1051_Height_Checker.py), [Swift](https://tinyurl.com/wuja3c4/1051_Height_Checker.swift) | --- | Easy |  |
 |55| **[683. K Empty Slots](https://tinyurl.com/rbyxknc)** | [Python](https://tinyurl.com/wu6rdaw/683_K_Empty_Slots.py), [Swift](https://tinyurl.com/wuja3c4/683_K_Empty_Slots.swift) | [Art 1](https://tinyurl.com/qsenvnd), [Art 2](https://tinyurl.com/u7g6hhy), [Art 3](https://tinyurl.com/vw42pp7) | Hard | TODO: Check monotonic queue approach. Solved it with sliding widow |
 |56| **[849. Maximize Distance to Closest Person](https://tinyurl.com/v44bs88)** | [Python](https://tinyurl.com/wu6rdaw/849_Maximize_Distance_to_Closest_Person.py), [Swift](https://tinyurl.com/wuja3c4/849_Maximize_Distance_to_Closest_Person.swift) | [Art 1](https://tinyurl.com/qsenvnd) | Easy | Not so easy and intuitive. Can be solve is a variety of way. I have used Binary search(A bit over engineered solution). Can be simplifies |
+|57| **[283. Move Zeroes](https://tinyurl.com/y5kxjuvc)** | [Python](https://tinyurl.com/wu6rdaw/283_Move_Zeroes.py), [Swift](https://tinyurl.com/wuja3c4/283_Move_Zeroes.swift) | --- | Easy | Not so easy and intuitive. Uses fast and slow pointer |
 
 
 </p>
