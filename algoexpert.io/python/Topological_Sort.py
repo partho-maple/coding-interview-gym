@@ -1,6 +1,4 @@
-
 # SOLUTION #1
-
 class JobNode:
     def __init__(self, job):
         self.job = job
@@ -8,45 +6,37 @@ class JobNode:
         self.visited = False
         self.visiting = False
 
-
 class JobGraph:
     def __init__(self, jobs):
         self.nodes = []
         self.graph = {}
         for job in jobs:
-            self.addNodes(job)
-
+            self.addNode(job)
 
     def addPrereq(self, job, prereq):
         jobNode = self.getNode(job)
         prereqNode = self.getNode(prereq)
         jobNode.prereqs.append(prereqNode)
 
-
     def addNode(self, job):
         self.graph[job] = JobNode(job)
         self.nodes.append(self.graph[job])
-
 
     def getNode(self, job):
         if job not in self.graph:
             self.addNode(job)
         return self.graph[job]
 
-
-
 #   O(v + e) time | O(v + e) space
 def topologicalSort(jobs, deps):
     jobGraph = createJobGraph(jobs, deps)
     return getOrderedJobs(jobGraph)
-
 
 def createJobGraph(jobs, deps):
     graph = JobGraph(jobs)
     for prereq, job in deps:
         graph.addPrereq(job, prereq)
     return graph
-
 
 def getOrderedJobs(graph):
     orderedJobs = []
@@ -57,7 +47,6 @@ def getOrderedJobs(graph):
         if containsCycle:
             return []
     return orderedJobs
-
 
 def depthFirstTraverse(node, orderedJobs):
     if node.visited:
@@ -75,27 +64,19 @@ def depthFirstTraverse(node, orderedJobs):
     return False
 
 
-
-
-
-
-
 # SOLUTION #2
-
 class JobNode:
     def __init__(self, job):
         self.job = job
         self.deps = []
         self.numOfPrereqs = 0
 
-
 class JobGraph:
     def __init__(self, jobs):
         self.nodes = []
         self.graph = {}
         for job in jobs:
-            self.addNodes(job)
-
+            self.addNode(job)
 
     def addDep(self, job, dep):
         jobNode = self.getNode(job)
@@ -103,31 +84,25 @@ class JobGraph:
         jobNode.dep.append(depNode)
         depNode.numOfPrereqs += 1
 
-
     def addNode(self, job):
         self.graph[job] = JobNode(job)
         self.nodes.append(self.graph[job])
-
 
     def getNode(self, job):
         if job not in self.graph:
             self.addNode(job)
         return self.graph[job]
 
-
-
 #   O(v + e) time | O(v + e) space
 def topologicalSort(jobs, deps):
     jobGraph = createJobGraph(jobs, deps)
     return getOrderedJobs(jobGraph)
-
 
 def createJobGraph(jobs, deps):
     graph = JobGraph(jobs)
     for job, dep in deps:
         graph.addDep(job, dep)
     return graph
-
 
 def getOrderedJobs(graph):
     orderedJobs = []
@@ -138,7 +113,6 @@ def getOrderedJobs(graph):
         removeDeps(node, nodesWithNoPrereqs)
     graphHasEdges = any(node.numOfPrereqs for node in graph.nodes)
     return [] if graphHasEdges else orderedJobs
-
 
 def removeDeps(node, nodesWithNoPrereqs):
     while len(node.deps):

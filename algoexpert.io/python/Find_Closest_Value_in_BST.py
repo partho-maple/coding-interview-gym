@@ -1,5 +1,3 @@
-
-
 class BST:
     def __init__(self, value):
         self.value = value
@@ -23,7 +21,7 @@ class BST:
 def findClosestValueInBst(tree, target):
     return findClosestValueInBstHelper(tree, target, float("inf"))
 
-# Solution 1 starts here
+# Solution 1
 # Avarage: O(log(n)) time | O(log(n)) space
 # Worst: O(n) time | O(n) space
 def findClosestValueInBstHelper(tree, target, closest):
@@ -37,9 +35,8 @@ def findClosestValueInBstHelper(tree, target, closest):
         return findClosestValueInBstHelper(tree.right, target, closest)
     else:
         return closest
-# Solution 1 ends here
 
-# Solution 2 starts here
+# Solution 2
 # Avarage: O(log(n)) time | O(1) space
 # Worst: O(n) time | O() space
 def findClosestValueInBstHelper_2(tree, target, closest):
@@ -54,7 +51,6 @@ def findClosestValueInBstHelper_2(tree, target, closest):
         else:
             break
     return closest
-# Solution 2 ends here
 
 
 test_tree = BST(100).insert(5).insert(15).insert(5).insert(2).insert(1).insert(22) \

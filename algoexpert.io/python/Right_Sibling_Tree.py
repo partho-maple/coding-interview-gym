@@ -5,7 +5,6 @@ class BinaryTree:
         self.left = left
         self.right = right
 
-
 def rightSiblingTree(root):
     mutate(root, None, None)
 	return root

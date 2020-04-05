@@ -809,6 +809,7 @@ BFS, DFS, Dijkstra, Floyd–Warshall, Bellman-Ford, Kruskal, Prim's, Minimum Spa
 | --- | --- | --- | --- | --- | --- |
 |01| [Kadane's_Algorithm](algoexpert.io/questions/Kadane's_Algorithm.md) | [Python](algoexpert.io/python/Kadane's_Algorithm.py)|
 |02| [Topological_Sort](algoexpert.io/questions/Topological_Sort.md) | [Python](algoexpert.io/python/Topological_Sort.py) |
+|03| [KMP_Algorithm](algoexpert.io/questions/KMP_Algorithm.md) | [Python](algoexpert.io/python/KMP_Algorithm.py) |
 
 </p>
 </details>
@@ -942,7 +943,7 @@ BFS, DFS, Dijkstra, Floyd–Warshall, Bellman-Ford, Kruskal, Prim's, Minimum Spa
 |02| [Longest_Palindromic_Substring](algoexpert.io/questions/Longest_Palindromic_Substring.md) | [Python](algoexpert.io/python/Longest_Palindromic_Substring.py)|
 |03| [Caesar_Cipher_Encryptor](algoexpert.io/questions/Caesar_Cipher_Encryptor.md) | [Python](algoexpert.io/python/Caesar_Cipher_Encryptor.py)|
 |04| [Longest_Substring_Without_Duplication](algoexpert.io/questions/Longest_Substring_Without_Duplication.md) | [Python](algoexpert.io/python/Longest_Substring_Without_Duplication.py)|
-|05| [Underscorify_Substring](algoexpert.io/questions/Underscorify_Substring.md) | [Python](algoexpert.io/python/Underscorify_Substring.py)|
+|05| [Underscorify_Substring](algoexpert.io/questions/Underscorify_Substring.md) | [Python](algoexpert.io/python/Underscorify_Substring.py)| --- | Hard | TODO: Check again. Difficult to analyse the space ad time complexity |
 |06| [Pattern_Matcher](algoexpert.io/questions/Pattern_Matcher.md) | [Python](algoexpert.io/python/Pattern_Matcher.py)|
 
 </p>

@@ -1,6 +1,3 @@
-
-
-
 # Solution #1   -   Recursive SOlution
 # O(logn) time  |  O(logn) space
 def searchForRange(array,  target):
@@ -8,7 +5,6 @@ def searchForRange(array,  target):
     alteredBinarySearch(array, target, 0, len(array) - 1, finalRange, True)
     alteredBinarySearch(array, target, 0, len(array) - 1, finalRange, False)
     return finalRange
-
 
 def alteredBinarySearch(array, target, left, right, finalRange, goLeft):
     if left > right:
@@ -31,9 +27,6 @@ def alteredBinarySearch(array, target, left, right, finalRange, goLeft):
                 alteredBinarySearch(array, target, mid + 1, right, finalRange, goLeft)
 
 
-
-
-
 # Solution #2   -   Iterative SOlution
 # O(logn) time  |  O(1) space
 def searchForRange(array,  target):
@@ -41,7 +34,6 @@ def searchForRange(array,  target):
     alteredBinarySearch(array, target, 0, len(array) - 1, finalRange, True)
     alteredBinarySearch(array, target, 0, len(array) - 1, finalRange, False)
     return finalRange
-
 
 def alteredBinarySearch(array, target, left, right, finalRange, goLeft):
     while left <= right:
@@ -64,5 +56,10 @@ def alteredBinarySearch(array, target, left, right, finalRange, goLeft):
 
 
 
-
-
+# Solution 3  - using python bisect library
+import bisect
+def searchForRange(array, target):
+    # Write your code here.
+    left = bisect.bisect_left(array, target)
+	right = bisect.bisect_right(array, target)
+	return [left, right - 1] if left < right else [-1, -1]

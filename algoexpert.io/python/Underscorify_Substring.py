@@ -1,4 +1,3 @@
-
 # O(n*m) time |  O(n) space
 def underscorifySubstring(string, substring):
     locations = collapse(getLocations(string, substring))
@@ -39,7 +38,7 @@ def underscorify(string, locations):
     inBetweenUnderscores = False
     finalChars = []
     i = 0
-    while stringIdx < len(string) and locationsIdx < len(locationsIdx):
+    while stringIdx < len(string) and locationsIdx < len(locations):
         if stringIdx ==  locations[locationsIdx][i]:
             finalChars.append("_")
             inBetweenUnderscores = not inBetweenUnderscores
@@ -53,6 +52,7 @@ def underscorify(string, locations):
     elif stringIdx < len(string):
         finalChars.append(string[stringIdx:])
     return "".join(finalChars)
+
 
 
 
