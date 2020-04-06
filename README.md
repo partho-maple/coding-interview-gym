@@ -859,6 +859,7 @@ BFS, DFS, Dijkstra, Floyd–Warshall, Bellman-Ford, Kruskal, Prim's, Minimum Spa
 |03| [Find_Loop](algoexpert.io/questions/Find_Loop.md) | [Python](algoexpert.io/python/Find_Loop.py)|
 |04| [Reverse_Linked_List](algoexpert.io/questions/Reverse_Linked_List.md) | [Python](algoexpert.io/python/Reverse_Linked_List.py)|
 |05| [LRU_Cache](algoexpert.io/questions/LRU_Cache.md) | [Python](algoexpert.io/python/LRU_Cache.py)|
+|06| [Merge_Linked_List](algoexpert.io/questions/Merge_Linked_List.md) | [Python](algoexpert.io/python/Merge_Linked_List.py)|
 
 </p>
 </details>
