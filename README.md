@@ -166,6 +166,7 @@ I have solved quite a number of problems from several topics. See the below tabl
 |55| **[683. K Empty Slots](https://tinyurl.com/rbyxknc)** | [Python](https://tinyurl.com/wu6rdaw/683_K_Empty_Slots.py), [Swift](https://tinyurl.com/wuja3c4/683_K_Empty_Slots.swift) | [Art 1](https://tinyurl.com/qsenvnd), [Art 2](https://tinyurl.com/u7g6hhy), [Art 3](https://tinyurl.com/vw42pp7) | Hard | TODO: Check monotonic queue approach. Solved it with sliding widow |
 |56| **[849. Maximize Distance to Closest Person](https://tinyurl.com/v44bs88)** | [Python](https://tinyurl.com/wu6rdaw/849_Maximize_Distance_to_Closest_Person.py), [Swift](https://tinyurl.com/wuja3c4/849_Maximize_Distance_to_Closest_Person.swift) | [Art 1](https://tinyurl.com/qsenvnd) | Easy | Not so easy and intuitive. Can be solve is a variety of way. I have used Binary search(A bit over engineered solution). Can be simplifies |
 |57| **[283. Move Zeroes](https://tinyurl.com/y5kxjuvc)** | [Python](https://tinyurl.com/wu6rdaw/283_Move_Zeroes.py), [Swift](https://tinyurl.com/wuja3c4/283_Move_Zeroes.swift) | --- | Easy | Not so easy and intuitive. Uses fast and slow pointer |
+|58| **[163. Missing Ranges](https://tinyurl.com/s297jm7)** | [Python](https://tinyurl.com/wu6rdaw/163_Missing_Ranges.py), [Swift](https://tinyurl.com/wuja3c4/163_Missing_Ranges.swift) | --- | Medium | Man, it's a very trick problem |
 
 
 </p>
@@ -212,6 +213,7 @@ I have solved quite a number of problems from several topics. See the below tabl
 |31| **[949. Largest Time for Given Digits](https://tinyurl.com/ux8dk9e)** | [Python](https://tinyurl.com/wu6rdaw/949_Largest_Time_for_Given_Digits.py), [Swift](https://tinyurl.com/wuja3c4/949_Largest_Time_for_Given_Digits.swift) | --- | Easy | Not so easy |
 |32| [788. Rotated Digits](https://tinyurl.com/t9gelfm) | [Python](https://tinyurl.com/wu6rdaw/788_Rotated_Digits.py), [Swift](https://tinyurl.com/wuja3c4/788_Rotated_Digits.swift) | --- | Easy | --- |
 |33| [388. Longest Absolute File Path](https://tinyurl.com/svfa3rc) | [Python](https://tinyurl.com/wu6rdaw/388_Longest_Absolute_File_Path.py), [Swift](https://tinyurl.com/wuja3c4/388_Longest_Absolute_File_Path.swift) | --- | Medium | --- |
+|34| [616. Add Bold Tag in String](https://tinyurl.com/taftav2) | [Python](https://tinyurl.com/wu6rdaw/616_Add_Bold_Tag_in_String.py), [Swift](https://tinyurl.com/wuja3c4/616_Add_Bold_Tag_in_String.swift) | --- | Medium | Merge intervals(hidden) |
 
 
 </p>
