@@ -1,7 +1,4 @@
-# https://www.algoexpert.io/questions/Longest%20Palindromic%20Substring
-
-
-# Solution 1
+# Algoexpert Provided Solution 1
 # O(n^3) time | O(1) space
 def longest_palindromic_substring(string):
     longest = ""
@@ -24,7 +21,7 @@ def is_palindrome(string):
     return True
 
 
-# Solution 2 - prefered solution
+# Algoexpert Provided Solution 2 - prefered solution
 # O(n^2) time | O(1) space
 def longest_palindromic_substring(string):
     current_longest = [0, 1]
@@ -45,6 +42,27 @@ def get_longest_pelindrome_from(string, left_index, right_index):
     return [left_index + 1, right_index - 1]
 
 
+# My solution - using 2d dp - preferd solution
+def longestPalindromicSubstring(string):
+    L = len(string)
+    if L <= 1:
+        return string
 
+    dp = [[None for _ in range(L)] for _ in range(L)]
 
+    # Populating diagonal line
+    for i in range(L):
+        dp[i][i] = string[i]
 
+    maxPalStr = ""
+    for startIdx in range(L - 1, -1, -1):
+        for endIdx in range(startIdx + 1, L):
+            if string[startIdx] == string[endIdx]:
+                if endIdx - startIdx == 1 or dp[startIdx + 1][endIdx - 1]:
+                    dp[startIdx][endIdx] = string[startIdx:endIdx + 1]
+                    maxPalStr = max(maxPalStr, dp[startIdx][endIdx], key=len)
+    return maxPalStr
+
+strig = "abcdefghfedcbaa"
+out = longestPalindromicSubstring(strig)
+print("Out: ", out)
