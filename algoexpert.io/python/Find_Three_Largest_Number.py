@@ -1,4 +1,17 @@
+# My solution using Hepa
+import heapq
+def findThreeLargestNumbers(array):
+    hp = []
+	for num in array:
+		if len(hp) < 3:
+			heapq.heappush(hp, num)
+		else:
+			if hp[0] < num:
+				heapq.heappop(hp)
+				heapq.heappush(hp, num)
+	return sorted(hp)
 
+# Solution providd by Algoexpert
 # O(n) time | O(1) space
 def find_three_largest_number(array):
     three_largest_number = [None, None, None]

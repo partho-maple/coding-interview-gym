@@ -1,6 +1,3 @@
-
-
-
 def heapSort(array):
     buildMaxHeap(array)
     for endIdx in reversed(range(1, len(array))):
