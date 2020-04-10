@@ -1,6 +1,3 @@
-# https://www.algoexpert.io/questions/Permutations
-
-
 # Solution 1
 # Upper Bound: O(n^2*n) time | O(n*n!) space
 # Roughly: O(n*n!)  time | O(n*n!) space
@@ -40,6 +37,27 @@ def permutation_helper(i, array, total_permutations):
 
 def swap(array, i, j):
     array[i], array[j] = array[j], array[i]
+
+
+# -----------------------
+
+
+# My solution
+def getPermutations(array):
+	if len(array) <= 0:
+		return []
+    result = []
+	permutationHelper(array, 0, [], result)
+	return result
+
+def permutationHelper(nums, currentNumIdx, currentPermutation, result):
+	if currentNumIdx == len(nums):
+		result.append(currentPermutation)
+	else:
+		for i in range(len(currentPermutation) + 1):  # create a new permutation by adding the current number at every position
+			newPerm = list(currentPermutation)
+			newPerm.insert(i, nums[currentNumIdx])
+			permutationHelper(nums, currentNumIdx + 1, newPerm, result)
 
 
 

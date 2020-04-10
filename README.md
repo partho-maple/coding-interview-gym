@@ -776,6 +776,7 @@ BFS, DFS, Dijkstra, Floyd–Warshall, Bellman-Ford, Kruskal, Prim's, Minimum Spa
 |02| [Max_Path_Sum_In_Binary_Tree](algoexpert.io/questions/Max_Path_Sum_In_Binary_Tree.md) | [Python](algoexpert.io/python/Max_Path_Sum_In_Binary_Tree.py) |
 |03| [Iterative_In-order_Traversal](algoexpert.io/questions/Iterative_In-order_Traversal.md) | [Python](algoexpert.io/python/Iterative_In-order_Traversal.py) |
 |04| [Right_Sibling_Tree](algoexpert.io/questions/Right_Sibling_Tree.md) | [Python](algoexpert.io/python/Right_Sibling_Tree.py) |
+|05| [Branch_Sums](algoexpert.io/questions/Branch_Sums.md) | [Python](algoexpert.io/python/Branch_Sums.py) |
 
 </p>
 </details>
