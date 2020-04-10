@@ -159,7 +159,7 @@ I have solved quite a number of problems from several topics. See the below tabl
 |47| **[48. Rotate Image](https://tinyurl.com/yy3z9hab)** | [Python](https://tinyurl.com/wu6rdaw/48_Rotate_Image.py)| [Must](https://tinyurl.com/tr62top), [Vid  1](https://tinyurl.com/uhnruzt) | Medium | Very important |
 |48| **[362. Design Hit Counter](https://tinyurl.com/sswrcc3)** | [Python](https://tinyurl.com/wu6rdaw/362_Design_Hit_Counter.py), [Swift](https://tinyurl.com/wuja3c4/362_Design_Hit_Counter.swift)| --- | Medium | --- |
 |49| **[289. Game of Life](https://tinyurl.com/y5ujyvu5)** | [Python](https://tinyurl.com/wu6rdaw/289_Game_of_Life.py), [Swift](https://tinyurl.com/wuja3c4/289_Game_of_Life.swift)| --- | Medium | --- |
-|50| **[54. Spiral Matrix](https://tinyurl.com/yy5rnvce)** | [Python](https://tinyurl.com/wu6rdaw/54_Spiral_Matrix.py), [Swift](https://tinyurl.com/wuja3c4/54_Spiral_Matrix.swift)| [Official](https://tinyurl.com/s6np53k) | Medium | --- |
+|50| **[54. Spiral Matrix](https://tinyurl.com/yy5rnvce)** | [Python](https://tinyurl.com/wu6rdaw/54_Spiral_Matrix.py), [Swift](https://tinyurl.com/wuja3c4/54_Spiral_Matrix.swift)| [Official](https://tinyurl.com/s6np53k), [Algoexpert.io](https://www.algoexpert.io/questions/Spiral%20Traverse) | Medium | --- |
 |51| **[380. Insert Delete GetRandom O(1)](https://tinyurl.com/y3urnkfj)** | [Python](https://tinyurl.com/wu6rdaw/380_Insert_Delete_GetRandom_O(1).py), [Swift](https://tinyurl.com/wuja3c4/380_Insert_Delete_GetRandom_O(1).swift)| [Official](https://tinyurl.com/t4t38od) | Medium | --- |
 |52| **[835. Image Overlap](https://tinyurl.com/r9x9nkm)** | [Python](https://tinyurl.com/wu6rdaw/835_Image_Overlap.py), [Swift](https://tinyurl.com/wuja3c4/835_Image_Overlap.swift)| [Art 1](https://tinyurl.com/tx3gd98), [Art 2](https://tinyurl.com/tnmj6du) | Medium | --- |
 |53| **[1051. Height Checker](https://tinyurl.com/scupmnz)** | [Python](https://tinyurl.com/wu6rdaw/1051_Height_Checker.py), [Swift](https://tinyurl.com/wuja3c4/1051_Height_Checker.swift) | --- | Easy |  |
@@ -170,6 +170,7 @@ I have solved quite a number of problems from several topics. See the below tabl
 |59| **[1089. Duplicate Zeros](https://tinyurl.com/vdlwjwa)** | [Python](https://tinyurl.com/wu6rdaw/1089_Duplicate_Zeros.py), [Swift](https://tinyurl.com/wuja3c4/1089_Duplicate_Zeros.swift) | [Art 1](https://tinyurl.com/y3b2ynd4) | Easy | Not so easy and intuitive. Check again |
 |60| [941. Valid Mountain Array](https://tinyurl.com/tgdqrrk) | [Python](https://tinyurl.com/wu6rdaw/941_Valid_Mountain_Array.py), [Swift](https://tinyurl.com/wuja3c4/941_Valid_Mountain_Array.swift) |  | Easy |  |
 |61| [731. My Calendar II](https://tinyurl.com/sde6smv) | [Python](https://tinyurl.com/wu6rdaw/731_My_Calendar_II.py), [Swift](https://tinyurl.com/wuja3c4/731_My_Calendar_II.swift) |  | Medium | Merge interval |
+|62| [59. Spiral Matrix II](https://tinyurl.com/pqfjvm7) | [Python](https://tinyurl.com/wu6rdaw/59_Spiral_Matrix_II.py), [Swift](https://tinyurl.com/wuja3c4/59_Spiral_Matrix_II.swift) |  | Medium | loved it |
 
 
 </p>
@@ -726,7 +727,7 @@ BFS, DFS, Dijkstra, Floyd–Warshall, Bellman-Ford, Kruskal, Prim's, Minimum Spa
 
 ### 1. Arrays
 
-<details><summary>Problem sstatement from AlgoExpert.io with solutions and tutorials/videos</summary>
+<details><summary>Problem statement from AlgoExpert.io with solutions and tutorials/videos</summary>
 <p>
 
 | #  | Title | Solution | Tutorial | Level | Remarks |
@@ -741,6 +742,7 @@ BFS, DFS, Dijkstra, Floyd–Warshall, Bellman-Ford, Kruskal, Prim's, Minimum Spa
 |08| [Zigzag_Traverse](algoexpert.io/questions/Zigzag_Traverse.md) | [Python](algoexpert.io/python/Zigzag_Traverse.py) |
 |08| [Apartment_Hunting](algoexpert.io/questions/Apartment_Hunting.md) | [Python](algoexpert.io/python/Apartment_Hunting.py) |
 |09| [Calendar_Matching](algoexpert.io/questions/Calendar_Matching.md) | [Python](algoexpert.io/python/Calendar_Matching.py) |
+|10| [Spiral_Traverse](algoexpert.io/questions/Spiral_Traverse.md) | [Python](algoexpert.io/python/Spiral_Traverse.py) |
 
 </p>
 </details>
