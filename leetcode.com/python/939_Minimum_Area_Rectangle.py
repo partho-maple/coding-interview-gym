@@ -1,3 +1,32 @@
+# My initial try - Brute force
+# Off-course TLE.
+# Time: O(n^4)
+import itertools
+class Solution(object):
+    def minAreaRect(self, points):
+        """
+        :type points: List[List[int]]
+        :rtype: int
+        """
+        minArea = float("inf")
+        possibleRects = itertools.combinations(points, 4)
+        for coords in possibleRects:
+            area = self.getRectArea(coords)
+            minArea = min(minArea, area)
+        return 0 if minArea == float("inf") else minArea
+
+    def getRectArea(self, coords):
+        if len(coords) != 4:
+            return float("inf")
+        tA, tB, tC, tD = sorted(coords)
+        if (tA[0] == tB[0] and tC[0] == tD[0] and tA[1] == tC[1] and tB[1] == tD[1]) == False:
+            return float("inf")
+        else:
+            width = tC[0] - tA[0]
+            height = tB[1] - tA[1]
+            return width * height
+
+# Source: https://tinyurl.com/wfgjaf3
 class Solution(object):
     def minAreaRect(self, points):
         """

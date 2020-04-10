@@ -20,7 +20,7 @@
 ![Visitors in today](https://visitor-count-badge.herokuapp.com/today.svg?repo_id=az69802909)
 
 
-<h4 align="center">This repo contains around 300 Leetcode.com and 85 Algoexpert.io problems with solutions using Swift and Python</h4>
+<h4 align="center">This repo contains around 400 Leetcode.com and 90 Algoexpert.io problems with solutions using Swift and Python</h4>
 
 <p align="center">
   This repo contains my solutions to algorithmic problems in <a href="https://leetcode.com/parthobiswas007/">leetcode.com</a> and <a href="https://www.algoexpert.io/questions">algoexpert.io</a> written in <b>Swift</b> and <b>Python</b>.
@@ -168,6 +168,8 @@ I have solved quite a number of problems from several topics. See the below tabl
 |57| **[283. Move Zeroes](https://tinyurl.com/y5kxjuvc)** | [Python](https://tinyurl.com/wu6rdaw/283_Move_Zeroes.py), [Swift](https://tinyurl.com/wuja3c4/283_Move_Zeroes.swift) | --- | Easy | Not so easy and intuitive. Uses fast and slow pointer |
 |58| **[163. Missing Ranges](https://tinyurl.com/s297jm7)** | [Python](https://tinyurl.com/wu6rdaw/163_Missing_Ranges.py), [Swift](https://tinyurl.com/wuja3c4/163_Missing_Ranges.swift) | --- | Medium | Man, it's a very trick problem |
 |59| **[1089. Duplicate Zeros](https://tinyurl.com/vdlwjwa)** | [Python](https://tinyurl.com/wu6rdaw/1089_Duplicate_Zeros.py), [Swift](https://tinyurl.com/wuja3c4/1089_Duplicate_Zeros.swift) | [Art 1](https://tinyurl.com/y3b2ynd4) | Easy | Not so easy and intuitive. Check again |
+|60| [941. Valid Mountain Array](https://tinyurl.com/tgdqrrk) | [Python](https://tinyurl.com/wu6rdaw/941_Valid_Mountain_Array.py), [Swift](https://tinyurl.com/wuja3c4/941_Valid_Mountain_Array.swift) |  | Easy |  |
+|61| [731. My Calendar II](https://tinyurl.com/sde6smv) | [Python](https://tinyurl.com/wu6rdaw/731_My_Calendar_II.py), [Swift](https://tinyurl.com/wuja3c4/731_My_Calendar_II.swift) |  | Medium | Merge interval |
 
 
 </p>
@@ -418,7 +420,7 @@ Check this [golden](https://tinyurl.com/ujopecz) post.
 |08| [145. Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/)| [Python](https://tinyurl.com/wu6rdaw/145_Binary_Tree_Postorder_Traversal.py)| --- | Hard | Fundamentals |
 |09| [108. Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/)| [Python](https://tinyurl.com/wu6rdaw/108_Convert_Sorted_Array_to_Binary_Search_Tree.py)| --- | Easy | Fundamentals |
 |10| [109. Convert Sorted List to Binary Search Tree](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/)| [Python](https://tinyurl.com/wu6rdaw/109_Convert_Sorted_List_to_Binary_Search_Tree.py)| --- | Medium | Classic problem. Very important |
-|11| **[729. My Calendar I](https://tinyurl.com/r3ew2lb)** | [Python](https://tinyurl.com/wu6rdaw/729_My_Calendar_I.py), [Swift](https://tinyurl.com/wuja3c4/729_My_Calendar_I.swift)| [Art 1](https://tinyurl.com/tbd2z7u) | Medium | Use self balancing BST for O(nlogn) solution |
+|11| **[729. My Calendar I](https://tinyurl.com/r3ew2lb)** | [Python](https://tinyurl.com/wu6rdaw/729_My_Calendar_I.py), [Swift](https://tinyurl.com/wuja3c4/729_My_Calendar_I.swift)| [Art 1](https://tinyurl.com/tbd2z7u), [Art 2](https://tinyurl.com/t35fp3e) | Medium | Use self balancing BST for O(nlogn) solution. **Very important** |
 |12| **[449. Serialize and Deserialize BST](https://tinyurl.com/rx9rn3l)** | [Python](https://tinyurl.com/wu6rdaw/449_Serialize_and_Deserialize_BST.py), [Swift](https://tinyurl.com/wuja3c4/449_Serialize_and_Deserialize_BST.swift)| [Art 1](https://tinyurl.com/t6e2b97) | Medium | --- |
 
 </p>
@@ -690,7 +692,7 @@ BFS, DFS, Dijkstra, Floyd–Warshall, Bellman-Ford, Kruskal, Prim's, Minimum Spa
 
 
 
-### 18. Miscellaneous ([Line Swap](https://tinyurl.com/yx5pwdao), [Binary Indexed Tree](), [Segment Tree](https://tinyurl.com/w6jxpcg), [Minimax](https://tinyurl.com/twgbp6n), [Math](https://tinyurl.com/wb2h2mo), AVL Tree, Red-Black Tree, etc)
+### 18. Miscellaneous ([Line Swap](https://tinyurl.com/yx5pwdao), [Binary Indexed Tree](), [Segment Tree](https://tinyurl.com/w6jxpcg), [Minimax](https://tinyurl.com/twgbp6n), [Math](https://tinyurl.com/wb2h2mo), AVL Tree, Red-Black Tree, Interval Tree etc)
 <details><summary>Leetcode problems with solutions and tutorials/videos</summary>
 <p>
 
@@ -719,7 +721,7 @@ BFS, DFS, Dijkstra, Floyd–Warshall, Bellman-Ford, Kruskal, Prim's, Minimum Spa
 
 
 ## AlgoExpert
-<b>77 Problems</b>
+<b>90 Problems</b>
 
 
 ### 1. Arrays
@@ -1061,7 +1063,7 @@ Learn the following modules by heart. Just knowing all of the following items wi
 </details>
 
 
-### 5. Tree (Binary Tree, BST, AVL, Red-Black, B-Tree, B+ Tree, Segment Tree, BIT, N-aray Tree, Trie etc)
+### 5. Tree (Binary Tree, BST, AVL, Red-Black, B-Tree, B+ Tree, Segment Tree, Interval Tree, Range Tree, BIT, N-aray Tree, Trie etc)
 <details><summary></summary>
 <p>
 
@@ -1099,6 +1101,14 @@ Learn the following modules by heart. Just knowing all of the following items wi
 07. [Title](https://tinyurl.com/txeffh4)
 08. [Title](https://tinyurl.com/txeffh4)
 09. [Title](https://tinyurl.com/txeffh4)
+
+#### Augmented Binary Search Trees(Interval BS Vs Segment Tree Vs Range Tree)
+01. [Interval Search Trees - video](https://tinyurl.com/s9xl3p8)
+02. [Interval Tree](https://tinyurl.com/u8fnct9)
+03. [What are the differences between segment trees, interval trees, binary indexed trees and range trees?](https://tinyurl.com/qn3vwpz)
+04. [Interval Trees: One step beyond BST](https://tinyurl.com/v9k5ckt)
+05. [Title](https://tinyurl.com/txeffh4)
+06. [Title](https://tinyurl.com/txeffh4)
 
 
 </p>

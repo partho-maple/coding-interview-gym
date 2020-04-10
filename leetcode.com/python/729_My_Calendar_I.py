@@ -5,26 +5,25 @@ class TreeNode:
         self.left = None
         self.right = None
 
-class MyCalendar(object):
-
-    def __init__(self):
-        self.root = None
-
-    def bookHelper(self, start, end, node):
-        if start >= node.end:
-            if node.right:
-                return self.bookHelper(start, end, node.right)
+    def insert(self, start, end):
+        if self.start >= end:
+            if self.left:
+                return self.left.insert(start, end)
             else:
-                node.right = TreeNode(start, end)
+                self.left = TreeNode(start, end)
                 return True
-        elif end <= node.start:
-            if node.left:
-                return self.bookHelper(start, end, node.left)
+        elif self.end <= start:
+            if self.right:
+                return self.right.insert(start, end)
             else:
-                node.left = TreeNode(start, end)
+                self.right = TreeNode(start, end)
                 return True
         else:
             return False
+
+class MyCalendar(object):
+    def __init__(self):
+        self.root = None
 
     def book(self, start, end):
         """
@@ -35,7 +34,7 @@ class MyCalendar(object):
         if not self.root:
             self.root = TreeNode(start, end)
             return True
-        return self.bookHelper(start, end, self.root)
+        return self.root.insert(start, end)
 
 # Your MyCalendar object will be instantiated and called as such:
 # obj = MyCalendar()
