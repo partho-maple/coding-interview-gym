@@ -1,28 +1,36 @@
-
 #   Solution 1
 #   O(n^2) time | O(n) space
 def longestIncreasingSubsequence(array):
-    sequences = [None for i in array]
-    lengths = [1 for i in array]
-    maxLengthIdx = 0
+    if len(array) <= 1:
+        return array
+    sequences = [None for _ in range(len(array))]
+    lengths = [1 for _ in range(len(array))]
+    maxLenIdx = 0
     for i in range(len(array)):
-        currentNum = array[i]
-        for j in range(0, i):
+        curNum = array[i]
+        for j in range(i):
             otherNum = array[j]
-            if otherNum < currentNum and lengths[j] + 1 >= lengths[i]:
+            if otherNum < curNum and lengths[i] < lengths[j] + 1:
                 lengths[i] = lengths[j] + 1
                 sequences[i] = j
-        if lengths[i] >= lengths[maxLengthIdx]:
-            maxLengthIdx = i
-    return buildSequence(array, sequences, maxLengthIdx)
+                maxLenIdx = i
+    print("--------------")
+    print("lengths: ", lengths)
+    print("sequences: ", sequences)
+    print("maxLenIdx: ", maxLenIdx)
+    print("")
+    return buildSequence(array, sequences, maxLenIdx)
+
+def buildSequence(nums, sequences, maxLenIdx):
+    result = [nums[maxLenIdx]]
+    while sequences[maxLenIdx] is not None:
+        maxLenIdx = sequences[maxLenIdx]
+        result.append(nums[maxLenIdx])
+    return list(reversed(result))
 
 
-def buildSequence(array, sequences, currentIdx):
-    sequence = []
-    while currentIdx is not None:
-        sequences.append(array[currentIdx])
-        currentIdx = sequences[currentIdx]
-    return list(reversed(sequence))
+
+
 
 
 

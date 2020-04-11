@@ -743,6 +743,7 @@ BFS, DFS, Dijkstra, Floyd–Warshall, Bellman-Ford, Kruskal, Prim's, Minimum Spa
 |08| [Apartment_Hunting](algoexpert.io/questions/Apartment_Hunting.md) | [Python](algoexpert.io/python/Apartment_Hunting.py) |
 |09| [Calendar_Matching](algoexpert.io/questions/Calendar_Matching.md) | [Python](algoexpert.io/python/Calendar_Matching.py) |
 |10| [Spiral_Traverse](algoexpert.io/questions/Spiral_Traverse.md) | [Python](algoexpert.io/python/Spiral_Traverse.py) |
+|11| [Monotonic_Array](algoexpert.io/questions/Monotonic_Array.md) | [Python](algoexpert.io/python/Monotonic_Array.py) |
 
 </p>
 </details>
@@ -1006,6 +1007,9 @@ Check this **[Golden](https://tinyurl.com/uboo399)** posts first.
 12. [A MUST READ](https://tinyurl.com/vzbn34s)
 13. [10 Steps to Solving a Programming Problem](https://tinyurl.com/s663j6z)
 14. [Preparing to Apply or Interview at Google - Youtue playlist](https://tinyurl.com/yx7wceza)
+15. [Amazon ও Google এ চাকরির সুযোগ পাওয়ার প্রস্তুতি পর্ব](https://tinyurl.com/t7dnzs8)
+16. [Coding Interviews](https://tinyurl.com/rofaykt)
+17. **[Tech Interview Handbook](https://tinyurl.com/rofaykt)**
 
 </p>
 </details>
