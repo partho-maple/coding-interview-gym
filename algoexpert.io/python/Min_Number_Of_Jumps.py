@@ -1,6 +1,4 @@
 # Solution #1
-
-
 #   O(n^2) time | O(n) space
 def minNumberOfJumps(array):
     jumps = [float("inf")  for x in array]
@@ -11,15 +9,8 @@ def minNumberOfJumps(array):
                 jumps[i] = min(jumps[i], jumps[j] + 1)
     return jumps[-1]
 
-
-
-
-
-
 # Solution #2
-
-
-#   O(n) time | O(1) space
+# O(n) time | O(1) space
 def minNumberOfJumps(array):
     if len(array) == 1:
         return 0
