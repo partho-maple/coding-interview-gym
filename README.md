@@ -171,6 +171,7 @@ I have solved quite a number of problems from several topics. See the below tabl
 |60| [941. Valid Mountain Array](https://tinyurl.com/tgdqrrk) | [Python](https://tinyurl.com/wu6rdaw/941_Valid_Mountain_Array.py), [Swift](https://tinyurl.com/wuja3c4/941_Valid_Mountain_Array.swift) |  | Easy |  |
 |61| [731. My Calendar II](https://tinyurl.com/sde6smv) | [Python](https://tinyurl.com/wu6rdaw/731_My_Calendar_II.py), [Swift](https://tinyurl.com/wuja3c4/731_My_Calendar_II.swift) |  | Medium | Merge interval |
 |62| [59. Spiral Matrix II](https://tinyurl.com/pqfjvm7) | [Python](https://tinyurl.com/wu6rdaw/59_Spiral_Matrix_II.py), [Swift](https://tinyurl.com/wuja3c4/59_Spiral_Matrix_II.swift) |  | Medium | loved it |
+|63| **[525. Contiguous Array](https://tinyurl.com/txbs9wh)** | [Python](https://tinyurl.com/wu6rdaw/525_Contiguous_Array.py), [Swift](https://tinyurl.com/wuja3c4/525_Contiguous_Array.swift) | [Art 1](https://tinyurl.com/qmbd2vl) | Medium | loved it. Check again |
 
 
 </p>
