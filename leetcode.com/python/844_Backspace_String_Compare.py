@@ -1,4 +1,3 @@
-
 # O(N + N)  time |  # O(N + N)  space
 class Solution(object):
     def backspaceCompare(self, S, T):
@@ -18,10 +17,6 @@ class Solution(object):
                 if originalStr:
                     originalStr.pop()
         return "".join(originalStr)
-
-
-
-
 
 
 # O(N + N)  time |  # O(1)  space -- Two Pointer solution
@@ -62,3 +57,28 @@ class Solution(object):
 
 
 
+# My solution during Leetcode Mock Interview
+class Solution(object):
+    def backspaceCompare(self, S, T):
+        """
+        :type S: str
+        :type T: str
+        :rtype: bool
+        """
+        sV = []
+        for sc in S:
+            if sc == "#":
+                if sV and len(sV) > 0:
+                    sV.pop()
+            else:
+                sV.append(sc)
+
+        tV = []
+        for tc in T:
+            if tc == "#":
+                if tV and len(tV) > 0:
+                    tV.pop()
+            else:
+                tV.append(tc)
+
+        return "".join(sV) == "".join(tV)

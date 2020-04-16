@@ -6,7 +6,6 @@
 #         self.right = None
 
 class Solution(object):
-
     def countDepth(self, node):
         depth = 0
         while node.left:
@@ -45,3 +44,17 @@ class Solution(object):
                 right = pivot - 1
         return (2 ** depth - 1) + left
 
+
+# My solution during Leetcode Mock Interview
+class Solution(object):
+    def countNodes(self, root):
+        """
+        :type root: TreeNode
+        :rtype: int
+        """
+        if not root:
+            return 0
+        leftCount = self.countNodes(root.left)
+        rightCount = self.countNodes(root.right)
+        totalCount = leftCount + 1 + rightCount
+        return totalCount

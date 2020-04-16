@@ -136,3 +136,30 @@ class Solution(object):
                     maxOnes = max([maxOnes, dp[rowIdx][colIdx][0], dp[rowIdx][colIdx][1], dp[rowIdx][colIdx][2], dp[rowIdx][colIdx][3]])
 
         return maxOnes
+
+
+# My solutions during Leetcode Mock Interview
+class Solution(object):
+    def longestLine(self, M):
+        """
+        :type M: List[List[int]]
+        :rtype: int
+        """
+        if not M:
+            return 0
+
+        dp = [[[0, 0, 0, 0] for _ in range(len(M[0]) + 2)] for _ in range(len(M) + 1)]
+        maxLen = 0
+        for i in range(1, len(M) + 1):
+            for j in range(1, len(M[0]) + 1):
+                if M[i - 1][j - 1] == 1:
+                    ho = dp[i][j - 1][0] + 1
+                    vt = dp[i - 1][j][1] + 1
+                    di = dp[i - 1][j - 1][2] + 1
+                    ad = dp[i - 1][j + 1][3] + 1
+                    lineLengths = [ho, vt, di, ad]
+                    dp[i][j] = lineLengths
+                    currentMaxLen = max(lineLengths)
+                    maxLen = max(maxLen, currentMaxLen)
+        # print("DP: ", dp)
+        return maxLen
