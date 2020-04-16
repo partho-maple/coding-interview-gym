@@ -218,6 +218,7 @@ I have solved quite a number of problems from several topics. See the below tabl
 |32| [788. Rotated Digits](https://tinyurl.com/t9gelfm) | [Python](https://tinyurl.com/wu6rdaw/788_Rotated_Digits.py), [Swift](https://tinyurl.com/wuja3c4/788_Rotated_Digits.swift) | --- | Easy | --- |
 |33| [388. Longest Absolute File Path](https://tinyurl.com/svfa3rc) | [Python](https://tinyurl.com/wu6rdaw/388_Longest_Absolute_File_Path.py), [Swift](https://tinyurl.com/wuja3c4/388_Longest_Absolute_File_Path.swift) | --- | Medium | --- |
 |34| [616. Add Bold Tag in String](https://tinyurl.com/taftav2) | [Python](https://tinyurl.com/wu6rdaw/616_Add_Bold_Tag_in_String.py), [Swift](https://tinyurl.com/wuja3c4/616_Add_Bold_Tag_in_String.swift) | --- | Medium | Merge intervals(hidden) |
+|35| **[678. Valid Parenthesis String](https://tinyurl.com/y9a3g9kq)** | [Python](https://tinyurl.com/wu6rdaw/678_Valid_Parenthesis_String.py), [Swift](https://tinyurl.com/wuja3c4/678_Valid_Parenthesis_String.swift) | [Art 1](https://tinyurl.com/yad2akx6), [Art 2](https://tinyurl.com/y4odwzll), [Art 3](https://tinyurl.com/y7lkgfom), [Art 4](https://tinyurl.com/ycxpeyzn) | Medium | Super tricky. Much check again |
 
 
 </p>
