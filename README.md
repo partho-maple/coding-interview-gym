@@ -172,6 +172,9 @@ I have solved quite a number of problems from several topics. See the below tabl
 |61| [731. My Calendar II](https://tinyurl.com/sde6smv) | [Python](https://tinyurl.com/wu6rdaw/731_My_Calendar_II.py), [Swift](https://tinyurl.com/wuja3c4/731_My_Calendar_II.swift) |  | Medium | Merge interval |
 |62| [59. Spiral Matrix II](https://tinyurl.com/pqfjvm7) | [Python](https://tinyurl.com/wu6rdaw/59_Spiral_Matrix_II.py), [Swift](https://tinyurl.com/wuja3c4/59_Spiral_Matrix_II.swift) |  | Medium | loved it |
 |63| **[525. Contiguous Array](https://tinyurl.com/txbs9wh)** | [Python](https://tinyurl.com/wu6rdaw/525_Contiguous_Array.py), [Swift](https://tinyurl.com/wuja3c4/525_Contiguous_Array.swift) | [Art 1](https://tinyurl.com/qmbd2vl) | Medium | loved it. Check again |
+|64| **[379. Design Phone Directory](https://tinyurl.com/ybs3848v)** | [Python](https://tinyurl.com/wu6rdaw/379_Design_Phone_Directory.py), [Swift](https://tinyurl.com/wuja3c4/379_Design_Phone_Directory.swift) |  | Medium |  |
+|65| **[280. Wiggle Sort](https://tinyurl.com/ybnjn6fs)** | [Python](https://tinyurl.com/wu6rdaw/280_Wiggle_Sort.py), [Swift](https://tinyurl.com/wuja3c4/280_Wiggle_Sort.swift) |  | Medium |  |
+|66| [246. Strobogrammatic Number](https://tinyurl.com/ycqwsozh) | [Python](https://tinyurl.com/wu6rdaw/246_Strobogrammatic_Number.py), [Swift](https://tinyurl.com/wuja3c4/246_Strobogrammatic_Number.swift) |  | Easy |  |
 
 
 </p>
@@ -516,7 +519,7 @@ BFS, DFS, Dijkstra, Floyd–Warshall, Bellman-Ford, Kruskal, Prim's, Minimum Spa
 |27| **[489. Robot Room Cleaner](https://tinyurl.com/yxpwjn7r)** | [Python](https://tinyurl.com/wu6rdaw/489_Robot_Room_Cleaner.py), [Swift](https://tinyurl.com/wuja3c4/489_Robot_Room_Cleaner.swift) | **[Vid 1](https://tinyurl.com/vahalvm)**, **[Vid 2](https://tinyurl.com/qpumkro)**, **[Art 1](https://tinyurl.com/rnu8679)** | Hard |📌 **TODO: CHECK again. Very important  and interesting problem. I fucking loved it** |
 |28| **[1136. Parallel Courses](https://tinyurl.com/yxpwjn7r)** | [Python](https://tinyurl.com/wu6rdaw/11136_Parallel_Courses.py), [Swift](https://tinyurl.com/wuja3c4/11136_Parallel_Courses.swift) | --- | Hard |📌 Topological sort. |
 |29| **[947. Most Stones Removed with Same Row or Column](https://tinyurl.com/rrm6w2a)** | [Python](https://tinyurl.com/wu6rdaw/947_Most_Stones_Removed_with_Same_Row_or_Column.py), [Swift](https://tinyurl.com/wuja3c4/947_Most_Stones_Removed_with_Same_Row_or_Column.swift) | [Vid 1](https://tinyurl.com/sc2g6eg), [Art 1](https://tinyurl.com/sxyzxkr), [Vid 2](https://tinyurl.com/wocnrhn), [Art 2](https://tinyurl.com/sogsj74), [Art 3](https://tinyurl.com/w4pk463) | Medium |📌 DFS and Union FInd |
-|29| [1042. Flower Planting With No Adjacent](https://tinyurl.com/unwlzyy) | [Python](https://tinyurl.com/wu6rdaw/1042_Flower_Planting_With_No_Adjacent.py), [Swift](https://tinyurl.com/wuja3c4/1042_Flower_Planting_With_No_Adjacent.swift) | --- | Easy |📌 Could be done using DFS, BFS |
+|30| [1042. Flower Planting With No Adjacent](https://tinyurl.com/unwlzyy) | [Python](https://tinyurl.com/wu6rdaw/1042_Flower_Planting_With_No_Adjacent.py), [Swift](https://tinyurl.com/wuja3c4/1042_Flower_Planting_With_No_Adjacent.swift) | --- | Easy |📌 Could be done using DFS, BFS |
 
 
 </p>
