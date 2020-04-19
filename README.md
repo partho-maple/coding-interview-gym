@@ -1191,6 +1191,7 @@ Learn the following modules by heart. Just knowing all of the following items wi
 08. **[Dynamic Programming Patterns - MUST READ](https://tinyurl.com/tenzf8b)**
 09. **[My experience and notes for learning DP](https://tinyurl.com/rjg4vtg)**
 10. **[DP IS EASY! 5 Steps to Think Through DP Questions](https://tinyurl.com/vmmaxbe)**
+11. **[Dynamic Programming Patterns](https://tinyurl.com/tenzf8b)**
 
 </p>
 </details>

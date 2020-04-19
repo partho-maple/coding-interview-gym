@@ -7,9 +7,15 @@ class Solution(object):
             return start
 
         if record[start][end] is None:
-            record[start][end] = min(
-                (i + max(self.dfs(start, i - 1, record), self.dfs(i + 1, end, record))) for i in range(start, end + 1)
-            )
+            pays = []
+            for i in range(start, end + 1):
+                prevPay = self.dfs(start, i - 1, record)
+                nextPay = self.dfs(i + 1, end, record)
+                currPay = i
+                totlPay = currPay + max(prevPay, nextPay)
+                pays.append(totlPay)
+
+            record[start][end] = min(pays)
 
         return record[start][end]
 
