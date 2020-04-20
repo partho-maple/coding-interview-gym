@@ -1,5 +1,3 @@
-
-
 class OrgInfo:
     def __init__(self, lowestCommonManager, numImportantReports):
         self.lowestCommonManager = lowestCommonManager
@@ -11,7 +9,7 @@ class Node:
 
 
 # O(n) time | O(d) spaces
-def getLowestCommonnManager(topManager: Node, reportOne, reportTwo):
+def getLowestCommonManager(topManager, reportOne, reportTwo):
     return getOrgInfo(topManager, reportOne, reportTwo).lowestCommonManager
 
 
@@ -26,7 +24,3 @@ def getOrgInfo(manager: Node, reportOne, reportTwo):
         numImportantReports += 1
     lowestCommonManager = manager if numImportantReports == 2 else None
     return OrgInfo(lowestCommonManager, numImportantReports)
-
-
-
-
