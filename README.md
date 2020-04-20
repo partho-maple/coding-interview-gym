@@ -891,7 +891,8 @@ BFS, DFS, Dijkstra, Floyd–Warshall, Bellman-Ford, Kruskal, Prim's, Minimum Spa
 |03| [Nth_Fibonacci](algoexpert.io/questions/Nth_Fibonacci.md) | [Python](algoexpert.io/python/Nth_Fibonacci.py)|
 |04| [Product_Sum](algoexpert.io/questions/Product_Sum.md) | [Python](algoexpert.io/python/Product_Sum.py) |
 |05| [Lowest_Common_Manager](algoexpert.io/questions/Lowest_Common_Manager.md) | [Python](algoexpert.io/python/Lowest_Common_Manager.py) |
-|06| [Number_Of_Possible_Binary_Tree_Topologies](algoexpert.io/questions/Number_Of_Possible_Binary_Tree_Topologies.md) | [Python](algoexpert.io/python/Number_Of_Possible_Binary_Tree_Topologies.py) |
+|06| [Number_Of_Possible_Binary_Tree_Topologies](algoexpert.io/questions/Number_Of_Binary_Tree_Topologies.md) | [Python](algoexpert.io/python/Number_Of_Possible_Binary_Tree_Topologies.py) |
+|07| [Interweaving_Strings](algoexpert.io/questions/Interweaving_Strings.md) | [Python](algoexpert.io/python/Interweaving_Strings.py) |
 
 </p>
 </details>
@@ -949,7 +950,7 @@ BFS, DFS, Dijkstra, Floyd–Warshall, Bellman-Ford, Kruskal, Prim's, Minimum Spa
 
 ### 13. String
 
-<details><summary>Problem sstatement from AlgoExpert.io with solutions and tutorials/videos</summary>
+<details><summary>Problem statement from AlgoExpert.io with solutions and tutorials/videos</summary>
 <p>
 
 | #  | Title | Solution | Tutorial | Level | Remarks |

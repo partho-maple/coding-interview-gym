@@ -1,5 +1,3 @@
-
-
 #   Solution 1
 #   O(nk) time | O(nk) space
 def maxProfitWithKTransaction(prices, k):
@@ -12,8 +10,6 @@ def maxProfitWithKTransaction(prices, k):
             maxThusFar = max(maxThusFar, profits[transaction - 1][day - 1] - prices[day - 1])
             profits[transaction][day] = max(profits[transaction][day - 1], maxThusFar + prices[day])
     return profits[-1][-1]
-
-
 
 
 #   Solution 2

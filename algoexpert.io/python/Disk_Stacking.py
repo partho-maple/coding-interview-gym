@@ -1,5 +1,3 @@
-
-
 # O(n^2) time | O(n) space
 def diskStacking(disks):
     disks.sort(key = lambda disk: disks[2])

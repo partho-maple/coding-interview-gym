@@ -1,6 +1,3 @@
-# https://www.algoexpert.io/questions/Powerset
-
-
 # Solution 1 - Recursive
 # O(n*2^n) time | O(n*2^n) space
 def power_set(array, index = None):
