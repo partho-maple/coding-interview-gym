@@ -23,24 +23,28 @@ class TreeNode(object):
 
 
 class Solution(object):
-
     def closestValue(self, root, target):
+        """
+        :type root: TreeNode
+        :type target: float
+        :rtype: int
+        """
         return self.closestValueHelper(root, target, float("inf"))
 
-    def closestValueHelper(self, root, target, closest):
+    def closestValueHelper(self, root, targetVal, currentClosestNodeVal):
         currentNode = root
         while currentNode is not None:
-            t1 = abs(target - closest)
-            t2 = abs(currentNode.val - target)
-            if t1 > t2:
-                closest = currentNode.val
-            if target < currentNode.val:
+            currentClosestDiff = abs(targetVal - currentClosestNodeVal)
+            currentDiff = abs(currentNode.val - targetVal)
+            if currentClosestDiff > currentDiff:
+                currentClosestNodeVal = currentNode.val
+            if targetVal < currentNode.val:
                 currentNode = currentNode.left
-            elif target > currentNode.val:
+            elif targetVal > currentNode.val:
                 currentNode = currentNode.right
             else:
                 break
-        return closest
+        return currentClosestNodeVal
 
 
 test_tree = TreeNode(4).insert(2).insert(5).insert(1).insert(3)
