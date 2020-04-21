@@ -40,9 +40,6 @@ class BSTIterator(object):
         return self.nextIndex < len(self.nodesSorted)
 
 
-
-
-
 # Approach 2: https://tinyurl.com/smu9ku3
 class BSTIterator(object):
 
@@ -54,8 +51,9 @@ class BSTIterator(object):
         self.__leftMostInorder(root)
 
     def __leftMostInorder(self, root):
+        curentStack = self.stack
         while root:
-            self.stack.append(root)
+            curentStack.append(root)
             root = root.left
 
     def next(self):
@@ -63,7 +61,8 @@ class BSTIterator(object):
         @return the next smallest number
         :rtype: int
         """
-        topMostNode = self.stack.pop()
+        curentStack = self.stack
+        topMostNode = curentStack.pop()
         if topMostNode.right:
             self.__leftMostInorder(topMostNode.right)
         return topMostNode.val
@@ -73,4 +72,5 @@ class BSTIterator(object):
         @return whether we have a next smallest number
         :rtype: bool
         """
-        return len(self.stack) > 0
+        curentStack = self.stack
+        return len(curentStack) > 0
