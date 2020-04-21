@@ -102,32 +102,37 @@ class NestedIterator:
         return self.__position >= len(self.__nestedList)
 
 
+
+# Most optimal and preferd approach
 # https://tinyurl.com/rotxca8
+# Debug the code to get a clear idea
 class NestedIterator(object):
 
     def __init__(self, nestedList):
-        self.nestedListStack = [[nestedList, 0]]  # <list, next element index/position>
+        self.nestedListStack = [[nestedList, 0]]  # <list, current element index/position on the nested list>
 
     # Here, next method does't have any dependency over hasNext
     def next(self):
-        # print("------")
-        # print("1 self.nestedListStack: ", self.nestedListStack)
-        self.hasNext()
-        # print("2 self.nestedListStack: ", self.nestedListStack)
-        nestedList, position = self.nestedListStack[-1]
-        self.nestedListStack[-1][1] += 1
-        return nestedList[position].getInteger()
+        currentNestedListStack = self.nestedListStack
+        nestedList, currentPositionIdx = currentNestedListStack[-1]
+        currentNestedListStack[-1][
+            1] += 1  # updating currentPositionIdx by 1, since we are sending the current integer here, on next line
+        return nestedList[currentPositionIdx].getInteger()
 
     def hasNext(self):
         currentNestedListStack = self.nestedListStack
         while currentNestedListStack:
-            nestedList, position = currentNestedListStack[-1]
-            if position == len(nestedList):
-                currentNestedListStack.pop()    #  this nestedList is already processed, remove from stack
+            nestedList, currentPositionIdx = currentNestedListStack[-1]
+            if currentPositionIdx == len(nestedList):  # we are done with this nested list, let's pop it out.
+                currentNestedListStack.pop()
             else:
-                currentItem = nestedList[position]
+                currentItem = nestedList[currentPositionIdx]
                 if currentItem.isInteger():
                     return True
                 currentNestedListStack[-1][1] += 1  # incremets current nestedListStack index
                 currentNestedListStack.append([currentItem.getList(), 0])
         return False
+
+# Your NestedIterator object will be instantiated and called as such:
+# i, v = NestedIterator(nestedList), []
+# while i.hasNext(): v.append(i.next())
