@@ -1,21 +1,17 @@
-
 #   Solution 02
 #   O(b^2 + ns) time | O(b^2 + n) space
 def multiStringSearch(bigString, smallStrings):
     modifiedSuffixTrie = ModifiedSuffixTrie(bigString)
     return [modifiedSuffixTrie.conntains(string) for string in smallStrings]
 
-
 class ModifiedSuffixTrie:
     def __init__(self, string):
         self.root = {}
         self.populateModifiedSuffixTrieFrom(string)
 
-
     def populateModifiedSuffixTrieFrom(self, string):
         for i in range(len(string)):
             self.insertSubstringStartinngAt(i, string)
-
 
     def insertSubstringStartinngAt(self, idx, string):
         node = self.root
@@ -25,7 +21,6 @@ class ModifiedSuffixTrie:
                 node[letter] = {}
             node = node[letter]
 
-
     def conntains(self, string):
         node = self.root
         for letter in string:
@@ -33,10 +28,6 @@ class ModifiedSuffixTrie:
                 return False
             node = node[letter]
         return True
-
-
-
-
 
 
 #   Solution 03
@@ -50,7 +41,6 @@ def multiStringSearch(bigString, smallStrings):
         findSmallStringsIn(bigString, i, trie, containedString)
     return [string in containedString for string in smallStrings]
 
-
 def findSmallStringsIn(string, startIdx, trie, containedStringns):
     currentNode = trie.root
     for i in range(startIdx, len(string)):
@@ -61,12 +51,10 @@ def findSmallStringsIn(string, startIdx, trie, containedStringns):
         if trie.endSymbol in currentNode:
             containedStringns[currentNode[trie.endSymbol]] = True
 
-
 class Trie:
     def __init__(self):
         self.root = {}
         self.endSymbol = '*'
-
 
     def insert(self, string):
         current = self.root

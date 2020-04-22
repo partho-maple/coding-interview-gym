@@ -750,6 +750,7 @@ BFS, DFS, Dijkstra, Floyd–Warshall, Bellman-Ford, Kruskal, Prim's, Minimum Spa
 |09| [Calendar_Matching](algoexpert.io/questions/Calendar_Matching.md) | [Python](algoexpert.io/python/Calendar_Matching.py) |
 |10| [Spiral_Traverse](algoexpert.io/questions/Spiral_Traverse.md) | [Python](algoexpert.io/python/Spiral_Traverse.py) |
 |11| [Monotonic_Array](algoexpert.io/questions/Monotonic_Array.md) | [Python](algoexpert.io/python/Monotonic_Array.py) |
+|12| [Move_Element_To_End](algoexpert.io/questions/Move_Element_To_End.md) | [Python](algoexpert.io/python/Move_Element_To_End.py) |
 
 </p>
 </details>
