@@ -791,7 +791,7 @@ BFS, DFS, Dijkstra, Floyd–Warshall, Bellman-Ford, Kruskal, Prim's, Minimum Spa
 
 ### 4. Dynamic Programming
 
-<details><summary>Problem sstatement from AlgoExpert.io with solutions and tutorials/videos</summary>
+<details><summary>Problem statement from AlgoExpert.io with solutions and tutorials/videos</summary>
 <p>
 
 | #  | Title | Solution | Tutorial | Level | Remarks |
@@ -810,6 +810,7 @@ BFS, DFS, Dijkstra, Floyd–Warshall, Bellman-Ford, Kruskal, Prim's, Minimum Spa
 |12| [Max_Profit_With_K_Transactions](algoexpert.io/questions/Max_Profit_With_K_Transactions.md) | [Python](algoexpert.io/python/Max_Profit_With_K_Transactions.py) |
 |13| [Palindrome_Partitioning_Min_Cuts](algoexpert.io/questions/Palindrome_Partitioning_Min_Cuts.md) | [Python](algoexpert.io/python/Palindrome_Partitioning_Min_Cuts.py) |
 |14| [Longest_Increasing_Subsequence](algoexpert.io/questions/Longest_Increasing_Subsequence.md) | [Python](algoexpert.io/python/Longest_Increasing_Subsequence.py) | [Video 1](https://www.youtube.com/watch?v=fV-TF4OvZpk), [Video 2](https://www.youtube.com/watch?v=CE2b_-XfVDk), , [Video 3](https://www.hackerrank.com/challenges/longest-increasing-subsequent/problem)|
+|15| [Longest_String_Chain](algoexpert.io/questions/Longest_String_Chain.md) | [Python](algoexpert.io/python/Longest_String_Chain.py) | --- |
 
 </p>
 </details>
@@ -817,7 +818,7 @@ BFS, DFS, Dijkstra, Floyd–Warshall, Bellman-Ford, Kruskal, Prim's, Minimum Spa
 
 ### 5. Famous Algorithm
 
-<details><summary>Problem sstatement from AlgoExpert.io with solutions and tutorials/videos</summary>
+<details><summary>Problem statement from AlgoExpert.io with solutions and tutorials/videos</summary>
 <p>
 
 | #  | Title | Solution | Tutorial | Level | Remarks |
