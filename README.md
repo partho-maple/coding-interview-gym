@@ -175,6 +175,7 @@ I have solved quite a number of problems from several topics. See the below tabl
 |64| **[379. Design Phone Directory](https://tinyurl.com/ybs3848v)** | [Python](https://tinyurl.com/wu6rdaw/379_Design_Phone_Directory.py), [Swift](https://tinyurl.com/wuja3c4/379_Design_Phone_Directory.swift) |  | Medium |  |
 |65| **[280. Wiggle Sort](https://tinyurl.com/ybnjn6fs)** | [Python](https://tinyurl.com/wu6rdaw/280_Wiggle_Sort.py), [Swift](https://tinyurl.com/wuja3c4/280_Wiggle_Sort.swift) |  | Medium |  |
 |66| [246. Strobogrammatic Number](https://tinyurl.com/ycqwsozh) | [Python](https://tinyurl.com/wu6rdaw/246_Strobogrammatic_Number.py), [Swift](https://tinyurl.com/wuja3c4/246_Strobogrammatic_Number.swift) |  | Easy |  |
+|67| **[845. Longest Mountain in Array](https://tinyurl.com/y9h5uah5)** | [Python](https://tinyurl.com/wu6rdaw/845_Longest_Mountain_in_Array.py), [Swift](https://tinyurl.com/wuja3c4/845_Longest_Mountain_in_Array.swift) |  | Medium |  |
 
 
 </p>
@@ -751,6 +752,7 @@ BFS, DFS, Dijkstra, Floyd–Warshall, Bellman-Ford, Kruskal, Prim's, Minimum Spa
 |10| [Spiral_Traverse](algoexpert.io/questions/Spiral_Traverse.md) | [Python](algoexpert.io/python/Spiral_Traverse.py) |
 |11| [Monotonic_Array](algoexpert.io/questions/Monotonic_Array.md) | [Python](algoexpert.io/python/Monotonic_Array.py) |
 |12| [Move_Element_To_End](algoexpert.io/questions/Move_Element_To_End.md) | [Python](algoexpert.io/python/Move_Element_To_End.py) |
+|13| [Longest_Peak](algoexpert.io/questions/Longest_Peak.md) | [Python](algoexpert.io/python/Longest_Peak.py) |
 
 </p>
 </details>
