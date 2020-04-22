@@ -1,14 +1,10 @@
-
-
 class LRUCache:
     def __init__(self, maxSize):
-        self.cache = {}
         self.maxSize = maxSize or 1
+        self.cache = {}
         self.currentSize = 0
         self.listOfMostRecent = DoublyLinkedList()
 
-
-    # O(1) time | O(1) space
     def insertKeyValuePair(self, key, value):
         if key not in self.cache:
             if self.currentSize == self.maxSize:
@@ -20,45 +16,32 @@ class LRUCache:
             self.replaceKey(key, value)
         self.updateMostRecent(self.cache[key])
 
-
-    # O(1) time | O(1) space
     def getValueFromKey(self, key):
         if key not in self.cache:
             return None
         self.updateMostRecent(self.cache[key])
         return self.cache[key].value
 
-
-    # O(1) time | O(1) space
     def getMostRecentKey(self):
         return self.listOfMostRecent.head.key
-
 
     def evictLeastRecent(self):
         keyToRemove = self.listOfMostRecent.tail.key
         self.listOfMostRecent.removeTail()
         del self.cache[keyToRemove]
 
-
-    def updateMostRecent(self, node):
-        self.listOfMostRecent.setToHead(node)
-
-
     def replaceKey(self, key, value):
-        if key not in self.cache:
-            raise Exception("The provided key isn't in the cache!")
         self.cache[key].value = value
 
-
-
+    def updateMostRecent(self, listNode):
+        self.listOfMostRecent.setHeadTo(listNode)
 
 class DoublyLinkedList:
     def __init__(self):
         self.head = None
         self.tail = None
 
-
-    def setToHead(self, node):
+    def setHeadTo(self, node):
         if self.head == node:
             return
         elif self.head is None:
@@ -71,41 +54,35 @@ class DoublyLinkedList:
         else:
             if self.tail == node:
                 self.removeTail()
-            node.removeBindings()
+            node.removeBinding()
             self.head.prev = node
             node.next = self.head
             self.head = node
 
-
     def removeTail(self):
         if self.tail is None:
             return
-        if self.tail == self.head:
+        if self.head == self.tail:
             self.head = None
             self.tail = None
             return
         self.tail = self.tail.prev
         self.tail.next = None
 
-
 class DoublyLinkedListNode:
-    def __init__(self, key, value):
+    def __init__(self, key, val):
         self.key = key
-        self.value = value
-        self.prev = None
+        self.value = val
         self.next = None
+        self.prev = None
 
-
-    def removeBindings(self):
+    def removeBinding(self):
         if self.prev is not None:
             self.prev.next = self.next
         if self.next is not None:
             self.next.prev = self.prev
-        self.prev = None
         self.next = None
-
-
-
+        self.prev = None
 
 
 
