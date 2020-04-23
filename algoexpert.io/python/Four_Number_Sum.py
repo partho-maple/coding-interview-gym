@@ -14,7 +14,7 @@ def fourNumberSum(array, targetSum):
         for k in range(0, i):
             currentSum = array[i] +  array[k]
             if currentSum not in allPairSums:
-                allPairSums[currentSum] = [array[k], array[i]]
+                allPairSums[currentSum] = [[array[k], array[i]]]
             else:
                 allPairSums[currentSum].append([array[k], array[i]])
     return quadruplets
