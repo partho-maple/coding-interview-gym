@@ -969,6 +969,7 @@ BFS, DFS, Dijkstra, Floyd–Warshall, Bellman-Ford, Kruskal, Prim's, Minimum Spa
 |05| [Underscorify_Substring](algoexpert.io/questions/Underscorify_Substring.md) | [Python](algoexpert.io/python/Underscorify_Substring.py)| --- | Hard | TODO: Check again. Difficult to analyse the space ad time complexity |
 |06| [Pattern_Matcher](algoexpert.io/questions/Pattern_Matcher.md) | [Python](algoexpert.io/python/Pattern_Matcher.py)|
 |07| [Smallest_Substring_Containing](algoexpert.io/questions/Smallest_Substring_Containing.md) | [Python](algoexpert.io/python/Smallest_Substring_Containing.py)|
+|08| [Group_Anagrams](algoexpert.io/questions/Group_Anagrams.md) | [Python](algoexpert.io/python/Group_Anagrams.py)|
 
 </p>
 </details>

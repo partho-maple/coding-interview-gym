@@ -1,8 +1,4 @@
-# https://www.algoexpert.io/questions/Min%20Max%20Stack%20Construction
-
-
 class MinMaxStack:
-
     def __init__(self):
         # only contains the min and max value at any given time
         # min_max_stack is an array of dictionary, which is the same length of stack
@@ -24,21 +20,14 @@ class MinMaxStack:
         if len(self.min_max_stack):
             last_min_max = self.min_max_stack[len(self.min_max_stack) - 1]
             new_min_max["min"] = min(last_min_max["min"], number)
-            new_min_max["max"] = min(last_min_max["max"], number)
+            new_min_max["max"] = max(last_min_max["max"], number)
         self.min_max_stack.append(new_min_max)
         self.stack.append(number)
 
     # O(1) time | O(1) space
-    def get_min(self):
+    def getMin(self):
         return self.min_max_stack[len(self.min_max_stack) - 1]["min"]
 
     # O(1) time | O(1) space
-    def get_max(self):
+    def getMax(self):
         return self.min_max_stack[len(self.min_max_stack) - 1]["max"]
-
-
-
-
-
-
-
