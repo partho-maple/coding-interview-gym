@@ -770,6 +770,7 @@ BFS, DFS, Dijkstra, Floyd–Warshall, Bellman-Ford, Kruskal, Prim's, Minimum Spa
 |03| [Validate_BST](algoexpert.io/questions/Validate_BST.md) | [Python](algoexpert.io/python/Validate_BST.py)|
 |04| [Find_Closest_Value_in_BST](algoexpert.io/questions/Find_Closest_Value_In_BST.md) | [Python](algoexpert.io/python/Find_Closest_Value_in_BST.py)|
 |05| [BST_Traversal](algoexpert.io/questions/BST_Traversal.md) | [Python](algoexpert.io/python/BST_Traversal.py)|
+|06| [Same_BSTs](algoexpert.io/questions/Same_BSTs.md) | [Python](algoexpert.io/python/Same_BSTs.py)|
 
 </p>
 </details>
