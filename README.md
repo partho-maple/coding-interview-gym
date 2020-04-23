@@ -788,6 +788,7 @@ BFS, DFS, Dijkstra, Floyd–Warshall, Bellman-Ford, Kruskal, Prim's, Minimum Spa
 |03| [Iterative_In-order_Traversal](algoexpert.io/questions/Iterative_In-order_Traversal.md) | [Python](algoexpert.io/python/Iterative_In-order_Traversal.py) |
 |04| [Right_Sibling_Tree](algoexpert.io/questions/Right_Sibling_Tree.md) | [Python](algoexpert.io/python/Right_Sibling_Tree.py) |
 |05| [Branch_Sums](algoexpert.io/questions/Branch_Sums.md) | [Python](algoexpert.io/python/Branch_Sums.py) |
+|06| [Flatten_Binary_Tree](algoexpert.io/questions/Flatten_Binary_Tree.md) | [Python](algoexpert.io/python/Flatten_Binary_Tree.py) |
 
 </p>
 </details>
