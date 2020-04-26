@@ -176,6 +176,7 @@ I have solved quite a number of problems from several topics. See the below tabl
 |65| **[280. Wiggle Sort](https://tinyurl.com/ybnjn6fs)** | [Python](https://tinyurl.com/wu6rdaw/280_Wiggle_Sort.py), [Swift](https://tinyurl.com/wuja3c4/280_Wiggle_Sort.swift) |  | Medium |  |
 |66| [246. Strobogrammatic Number](https://tinyurl.com/ycqwsozh) | [Python](https://tinyurl.com/wu6rdaw/246_Strobogrammatic_Number.py), [Swift](https://tinyurl.com/wuja3c4/246_Strobogrammatic_Number.swift) |  | Easy |  |
 |67| **[845. Longest Mountain in Array](https://tinyurl.com/y9h5uah5)** | [Python](https://tinyurl.com/wu6rdaw/845_Longest_Mountain_in_Array.py), [Swift](https://tinyurl.com/wuja3c4/845_Longest_Mountain_in_Array.swift) |  | Medium |  |
+|68| **[66. Plus One](https://tinyurl.com/yd67rugq)** | [Python](https://tinyurl.com/wu6rdaw/66_Plus_One.py), [Swift](https://tinyurl.com/wuja3c4/66_Plus_One.swift) |  | Easy |  |
 
 
 </p>
@@ -522,6 +523,7 @@ BFS, DFS, Dijkstra, Floyd–Warshall, Bellman-Ford, Kruskal, Prim's, Minimum Spa
 |28| **[1136. Parallel Courses](https://tinyurl.com/yxpwjn7r)** | [Python](https://tinyurl.com/wu6rdaw/11136_Parallel_Courses.py), [Swift](https://tinyurl.com/wuja3c4/11136_Parallel_Courses.swift) | --- | Hard |📌 Topological sort. |
 |29| **[947. Most Stones Removed with Same Row or Column](https://tinyurl.com/rrm6w2a)** | [Python](https://tinyurl.com/wu6rdaw/947_Most_Stones_Removed_with_Same_Row_or_Column.py), [Swift](https://tinyurl.com/wuja3c4/947_Most_Stones_Removed_with_Same_Row_or_Column.swift) | [Vid 1](https://tinyurl.com/sc2g6eg), [Art 1](https://tinyurl.com/sxyzxkr), [Vid 2](https://tinyurl.com/wocnrhn), [Art 2](https://tinyurl.com/sogsj74), [Art 3](https://tinyurl.com/w4pk463) | Medium |📌 DFS and Union FInd |
 |30| [1042. Flower Planting With No Adjacent](https://tinyurl.com/unwlzyy) | [Python](https://tinyurl.com/wu6rdaw/1042_Flower_Planting_With_No_Adjacent.py), [Swift](https://tinyurl.com/wuja3c4/1042_Flower_Planting_With_No_Adjacent.swift) | --- | Easy |📌 Could be done using DFS, BFS |
+|31| **[994_Rotting_Oranges](https://tinyurl.com/yavrnvu5)** | [Python](https://tinyurl.com/wu6rdaw/994_Rotting_Oranges.py), [Swift](https://tinyurl.com/wuja3c4/994_Rotting_Oranges.swift) | --- | Medium |📌 BFS |
 
 
 </p>
