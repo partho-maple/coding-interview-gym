@@ -525,6 +525,7 @@ BFS, DFS, Dijkstra, Floyd–Warshall, Bellman-Ford, Kruskal, Prim's, Minimum Spa
 |29| **[947. Most Stones Removed with Same Row or Column](https://tinyurl.com/rrm6w2a)** | [Python](https://tinyurl.com/wu6rdaw/947_Most_Stones_Removed_with_Same_Row_or_Column.py), [Swift](https://tinyurl.com/wuja3c4/947_Most_Stones_Removed_with_Same_Row_or_Column.swift) | [Vid 1](https://tinyurl.com/sc2g6eg), [Art 1](https://tinyurl.com/sxyzxkr), [Vid 2](https://tinyurl.com/wocnrhn), [Art 2](https://tinyurl.com/sogsj74), [Art 3](https://tinyurl.com/w4pk463) | Medium |📌 DFS and Union FInd |
 |30| [1042. Flower Planting With No Adjacent](https://tinyurl.com/unwlzyy) | [Python](https://tinyurl.com/wu6rdaw/1042_Flower_Planting_With_No_Adjacent.py), [Swift](https://tinyurl.com/wuja3c4/1042_Flower_Planting_With_No_Adjacent.swift) | --- | Easy |📌 Could be done using DFS, BFS |
 |31| **[994_Rotting_Oranges](https://tinyurl.com/yavrnvu5)** | [Python](https://tinyurl.com/wu6rdaw/994_Rotting_Oranges.py), [Swift](https://tinyurl.com/wuja3c4/994_Rotting_Oranges.swift) | --- | Medium |📌 BFS |
+|32| **[909. Snakes and Ladders](https://tinyurl.com/yazkm38f)** | [Python](https://tinyurl.com/wu6rdaw/909_Snakes_and_Ladders.py), [Swift](https://tinyurl.com/wuja3c4/909_Snakes_and_Ladders.swift) | [Art 1](https://tinyurl.com/ya45spcc), [Art 2](https://tinyurl.com/ycafdfr4), [Art 3](https://tinyurl.com/yc3hdaw9), [Vid 1](https://tinyurl.com/yc3hdaw9), [Vid 2](https://tinyurl.com/y99hrfvk), | Medium |📌 BFS |
 
 
 </p>
