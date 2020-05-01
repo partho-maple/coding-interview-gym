@@ -287,6 +287,7 @@ I have solved quite a number of problems from several topics. See the below tabl
 |12| **[946. Validate Stack Sequences](https://tinyurl.com/u8wbaqp)** | [Python](https://tinyurl.com/wu6rdaw/946_Validate_Stack_Sequences.py), [Swift](https://tinyurl.com/wuja3c4/946_Validate_Stack_Sequences.swift)| **[Art 1](https://tinyurl.com/um2r3bf)**, **[Art 2](https://tinyurl.com/vc5wmlj)** | Medium | --- |
 |13| **[862. Shortest Subarray with Sum at Least K](https://tinyurl.com/wzdraag)** | [Python](https://tinyurl.com/wu6rdaw/862_Shortest_Subarray_with_Sum_at_Least_K.py), [Swift](https://tinyurl.com/wuja3c4/862_Shortest_Subarray_with_Sum_at_Least_K.swift)| **[Art 1](https://tinyurl.com/rn7rsnf)**, **[Art 2](https://tinyurl.com/ra3ttcg)**, **[Art 3](https://tinyurl.com/swqs6cq)**, **[Art 4](https://tinyurl.com/t8tjjk2)** | Hard | Learned Monotonic Queue. Very interesting problem |
 |14| [346. Moving Average from Data Stream](https://tinyurl.com/sfmwtr5) | [Python](https://tinyurl.com/wu6rdaw/346_Moving_Average_from_Data_Stream.py), [Swift](https://tinyurl.com/wuja3c4/346_Moving_Average_from_Data_Stream.swift)|  | Easy |  |
+|15| **[71. Simplify Path](https://tinyurl.com/y9eqaxkh)** | [Python](https://tinyurl.com/wu6rdaw/71_Simplify_Path.py), [Swift](https://tinyurl.com/wuja3c4/71_Simplify_Path.swift)|  | Medium |  |
 
 </p>
 </details>
