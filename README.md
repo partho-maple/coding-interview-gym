@@ -177,6 +177,7 @@ I have solved quite a number of problems from several topics. See the below tabl
 |66| [246. Strobogrammatic Number](https://tinyurl.com/ycqwsozh) | [Python](https://tinyurl.com/wu6rdaw/246_Strobogrammatic_Number.py), [Swift](https://tinyurl.com/wuja3c4/246_Strobogrammatic_Number.swift) |  | Easy |  |
 |67| **[845. Longest Mountain in Array](https://tinyurl.com/y9h5uah5)** | [Python](https://tinyurl.com/wu6rdaw/845_Longest_Mountain_in_Array.py), [Swift](https://tinyurl.com/wuja3c4/845_Longest_Mountain_in_Array.swift) |  | Medium |  |
 |68| **[66. Plus One](https://tinyurl.com/yd67rugq)** | [Python](https://tinyurl.com/wu6rdaw/66_Plus_One.py), [Swift](https://tinyurl.com/wuja3c4/66_Plus_One.swift) |  | Easy |  |
+|69| **[957. Prison Cells After N Days](https://tinyurl.com/yag46zkm)** | [Python](https://tinyurl.com/wu6rdaw/957_Prison_Cells_After_N_Days.py), [Swift](https://tinyurl.com/wuja3c4/957_Prison_Cells_After_N_Days.swift) | [Art 1](https://tinyurl.com/y7cbf32e), [Art 2](https://tinyurl.com/yd2y66dn), [Art 3](https://tinyurl.com/yczdwnwu), [Art 4](https://tinyurl.com/y8j9b593), [Art 5](https://tinyurl.com/y6u2u42m) | Medium |  |
 
 
 </p>
