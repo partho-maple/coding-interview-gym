@@ -858,6 +858,7 @@ BFS, DFS, Dijkstra, Floyd–Warshall, Bellman-Ford, Kruskal, Prim's, Minimum Spa
 |04| [Depth_First_Search](algoexpert.io/questions/Depth-first_Search.md) | [Python](algoexpert.io/python/Depth_First_Search.py)|
 |05| [Breadth_First_Search](algoexpert.io/questions/Breadth-first_Search.md) | [Python](algoexpert.io/python/Breadth_First_Search.py)|
 |06| [Boggle_Board](algoexpert.io/questions/Boggle_Board.md) | [Python](algoexpert.io/python/Boggle_Board.py) |
+|07| [Rectangle_Mania](algoexpert.io/questions/Rectangle_Mania.md) | [Python](algoexpert.io/python/Rectangle_Mania.py) |
 
 </p>
 </details>
