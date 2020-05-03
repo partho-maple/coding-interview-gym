@@ -1,7 +1,5 @@
 from collections import defaultdict
 from collections import deque
-
-
 class Solution(object):
     def ladderLength(self, beginWord, endWord, wordList):
         """
@@ -34,6 +32,53 @@ class Solution(object):
 
                 allComboDict[intermediateWord] = []
         return 0
+
+
+# Using BFS. My own solution during Mock Test
+import collections
+class Solution(object):
+    def ladderLength(self, beginWord, endWord, wordList):
+        """
+        :type beginWord: str
+        :type endWord: str
+        :type wordList: List[str]
+        :rtype: int
+        """
+        if endWord not in wordList or not endWord or not beginWord or not wordList:
+            return 0
+
+        wordLen = len(beginWord)
+        patterToWordMap = defaultdict(list)
+        wordList.append(beginWord)
+        for word in wordList:
+            for i in range(wordLen):
+                pattern = word[:i] + "*" + word[i + 1:]
+                patterToWordMap[pattern].append(word)
+
+        graph = defaultdict(list)
+        for word in wordList:
+            for i in range(wordLen):
+                pattern = word[:i] + "*" + word[i + 1:]
+                nodeList = patterToWordMap[pattern]
+                graph[word].extend(nodeList)
+
+        queue = deque([(beginWord, 1)])
+        visited = set()
+        visited.add(beginWord)
+        while queue:
+            currentLevelSize = len(queue)
+            while currentLevelSize > 0:
+                currentWord, level = queue.popleft()
+                currentLevelSize -= 1
+                for neighbours in graph[currentWord]:
+                    if neighbours == endWord:
+                        return level + 1
+                    else:
+                        if neighbours not in visited:
+                            visited.add(neighbours)
+                            queue.append((neighbours, level + 1))
+        return 0
+
 
 
 sol = Solution()
