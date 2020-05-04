@@ -45,7 +45,7 @@ def palindromePartitioningMinCuts(string):
                 palindromes[i][j] = string[i] == string[j]
             else:
                 palindromes[i][j] = string[i] == string[j] and palindromes[i + 1][j - 1]
-    cuts = [float('-inf') for i in len(string)]
+    cuts = [float('-inf') for i in string]
     for i in range(len(string)):
         if palindromes[0][i]:
             cuts[i] = 0
