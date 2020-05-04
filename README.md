@@ -739,7 +739,8 @@ BFS, DFS, Dijkstra, Floyd–Warshall, Bellman-Ford, Kruskal, Prim's, Minimum Spa
 
 ## AlgoExpert
 <b>90 Problems</b>
-
+The real product of AlgoExpert.io is their video explanation on each question, which is great(I have never seen anything like it before). So posting the questions and my solutions doesn't really dishonor the policies and product. Because all(allmost all) of the questions are taken from leetcode, and the solutions are mine.
+BTW, it's a great interview prep tool. You will never go wrong with this and your money will be well spent. It's just an end user's review(I am no way connected to the product and promotions).  
 
 ### 1. Arrays
 
