@@ -860,6 +860,7 @@ BTW, it's a great interview prep tool. You will never go wrong with this and you
 |05| [Breadth_First_Search](algoexpert.io/questions/Breadth-first_Search.md) | [Python](algoexpert.io/python/Breadth_First_Search.py)|
 |06| [Boggle_Board](algoexpert.io/questions/Boggle_Board.md) | [Python](algoexpert.io/python/Boggle_Board.py) |
 |07| [Rectangle_Mania](algoexpert.io/questions/Rectangle_Mania.md) | [Python](algoexpert.io/python/Rectangle_Mania.py) |
+|07| [Airport_Connections](algoexpert.io/questions/Airport_Connections.md) | [Python](algoexpert.io/python/Airport_Connections.py) |
 
 </p>
 </details>
