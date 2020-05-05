@@ -25,7 +25,9 @@
 <p align="center">
   This repo contains my solutions to algorithmic problems in <a href="https://leetcode.com/parthobiswas007/">leetcode.com</a> and <a href="https://www.algoexpert.io/questions">algoexpert.io</a> written in <b>Swift</b> and <b>Python</b>.
   </br>
-  Here is my <a href="https://leetcode.com/parthobiswas007/">leetcode profile</a>. 
+  Here is my <a href="https://leetcode.com/parthobiswas007/">leetcode profile</a>
+  </br>
+  <a href="https://certificate.algoexpert.io/AE-ea0a67c587">And my Algoexpert.io certificate of completion</a>
 </p>
 
 <h4 align="center">Show your support by giving it a STAR</h4>
@@ -739,6 +741,7 @@ BFS, DFS, Dijkstra, Floyd–Warshall, Bellman-Ford, Kruskal, Prim's, Minimum Spa
 
 ## AlgoExpert
 <b>90 Problems</b>
+[My certificate of completion](https://certificate.algoexpert.io/AE-ea0a67c587)
 The real product of AlgoExpert.io is their video explanation on each question, which is great(I have never seen anything like it before). So posting the questions and my solutions doesn't really dishonor the policies and product. Because all(allmost all) of the questions are taken from leetcode, and the solutions are mine.
 BTW, it's a great interview prep tool. You will never go wrong with this and your money will be well spent. It's just an end user's review(I am no way connected to the product and promotions).  
 
