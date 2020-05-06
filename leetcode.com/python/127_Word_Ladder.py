@@ -48,18 +48,18 @@ class Solution(object):
             return 0
 
         wordLen = len(beginWord)
-        patterToWordMap = defaultdict(list)
+        letterToWordMap = defaultdict(list)
         wordList.append(beginWord)
         for word in wordList:
             for i in range(wordLen):
                 pattern = word[:i] + "*" + word[i + 1:]
-                patterToWordMap[pattern].append(word)
+                letterToWordMap[pattern].append(word)
 
         graph = defaultdict(list)
         for word in wordList:
             for i in range(wordLen):
                 pattern = word[:i] + "*" + word[i + 1:]
-                nodeList = patterToWordMap[pattern]
+                nodeList = letterToWordMap[pattern]
                 graph[word].extend(nodeList)
 
         queue = deque([(beginWord, 1)])
