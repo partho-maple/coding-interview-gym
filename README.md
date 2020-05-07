@@ -482,6 +482,7 @@ Check this [golden](https://tinyurl.com/ujopecz) post.
 |01| [208. Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/)| [Python](https://tinyurl.com/wu6rdaw/208_Implement_Trie_(Prefix_Tree).py)|
 |02| [211. Add and Search Word. Data structure design](https://leetcode.com/problems/add-and-search-word-data-structure-design/)| [Python](https://tinyurl.com/wu6rdaw/211_Add_and_Search_Word_Data_structure_design.py)| [Video 01](https://www.youtube.com/watch?v=qi2ohSEyyDw), [Video 02](https://www.youtube.com/watch?v=neb_2UK5Kuo&t=13s)|
 |03| [642. Design Search Autocomplete System](https://leetcode.com/problems/design-search-autocomplete-system/)| [Python](https://tinyurl.com/wu6rdaw/642_Design_Search_Autocomplete_System.py)| [Article 01](https://leetcode.com/problems/design-search-autocomplete-system/discuss/105386/Python-Clean-Solution-Using-Trie), [Video 01](https://www.youtube.com/watch?v=us0qySiUsGU)| Hard | --- |
+|04| [472. Concatenated Words](https://tinyurl.com/y9cv6dk5)| [Python](https://tinyurl.com/wu6rdaw/472_Concatenated_Words.py)| [Art 01](https://tinyurl.com/ycjm6fuo), [Art 02](https://tinyurl.com/ybvl3kbv)| Hard | Very important |
 
 </p>
 </details>
