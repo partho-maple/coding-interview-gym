@@ -417,6 +417,7 @@ Check this [golden](https://tinyurl.com/ujopecz) post.
 |31| **[114. Flatten Binary Tree to Linked List](https://tinyurl.com/yyc6ol5w)**| [Python](https://tinyurl.com/wu6rdaw/114_Flatten_Binary_Tree_to_Linked_List.py)| [Art 1](https://tinyurl.com/v5s5axv) | Medium | Classic Prolem |
 |32| **[297. Serialize and Deserialize Binary Tree](https://tinyurl.com/ycfugzww)**| [Python](https://tinyurl.com/wu6rdaw/297_Serialize_and_Deserialize_Binary_Tree.py), [Swift](https://tinyurl.com/wuja3c4/297_Serialize_and_Deserialize_Binary_Tree.swift) | [Vid 1](https://tinyurl.com/yx4w25u4) | Hard | Classic Prolem |
 |33| **[993. Cousins in Binary Tree](https://tinyurl.com/ybtzjhnb)**| [Python](https://tinyurl.com/wu6rdaw/993_Cousins_in_Binary_Tree.py), [Swift](https://tinyurl.com/wuja3c4/993_Cousins_in_Binary_Tree.swift) |  | Easy(Not so) |  |
+|34| **[572. Subtree of Another Tree](https://tinyurl.com/ybeerky9)**| [Python](https://tinyurl.com/wu6rdaw/572_Subtree_of_Another_Tree.py), [Swift](https://tinyurl.com/wuja3c4/572_Subtree_of_Another_Tree.swift) | [Art 1](https://tinyurl.com/y9epsrfa) | Easy(Not so) |  |
 
 </p>
 </details>
