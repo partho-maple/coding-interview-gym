@@ -545,6 +545,7 @@ BFS, DFS, Dijkstra, Floyd–Warshall, Bellman-Ford, Kruskal, Prim's, Minimum Spa
 |33| **[1192. Critical Connections in a Network](https://tinyurl.com/y6u2p7qw)** | [Python](https://tinyurl.com/wu6rdaw/1192_Critical_Connections_in_a_Network.py), [Swift](https://tinyurl.com/wuja3c4/1192_Critical_Connections_in_a_Network.swift) | [Art 1](https://tinyurl.com/yc2tzb4k), [Art 2](https://tinyurl.com/ycjd3rrr), [Art 3](https://tinyurl.com/ybj5nux8), [Art 4](https://tinyurl.com/y9wz5w8o), [Vid 1](https://tinyurl.com/y76cux54), [Vid 2](https://tinyurl.com/ybmgmv5l), [Vid 3](https://tinyurl.com/y7sa5oou) | Hard |📌 **Important, Learned new things.Tarjans SCCs algorithm. Check again** |
 |34| **[694. Number of Distinct Islands](https://tinyurl.com/ybf8cedn)** | [Python](https://tinyurl.com/wu6rdaw/694_Number_of_Distinct_Islands.py), [Swift](https://tinyurl.com/wuja3c4/694_Number_of_Distinct_Islands.swift) | [Art 1](https://tinyurl.com/y7rapyk6), [Art 2](https://tinyurl.com/yde8dqbb) | Medium |📌  |
 |35| [997. Find the Town Judge](https://tinyurl.com/y7875kls) | [Python](https://tinyurl.com/wu6rdaw/997_Find_the_Town_Judge.py), [Swift](https://tinyurl.com/wuja3c4/997_Find_the_Town_Judge.swift) | --- | Easy |📌  |
+|36| [733. Flood Fill](https://tinyurl.com/y9pecfd8) | [Python](https://tinyurl.com/wu6rdaw/733_Flood_Fill.py), [Swift](https://tinyurl.com/wuja3c4/733_Flood_Fill.swift) | --- | Easy |📌  |
 
 
 </p>
