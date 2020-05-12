@@ -182,6 +182,7 @@ I have solved quite a number of problems from several topics. See the below tabl
 |69| **[957. Prison Cells After N Days](https://tinyurl.com/yag46zkm)** | [Python](https://tinyurl.com/wu6rdaw/957_Prison_Cells_After_N_Days.py), [Swift](https://tinyurl.com/wuja3c4/957_Prison_Cells_After_N_Days.swift) | [Art 1](https://tinyurl.com/y7cbf32e), [Art 2](https://tinyurl.com/yd2y66dn), [Art 3](https://tinyurl.com/yczdwnwu), [Art 4](https://tinyurl.com/y8j9b593), [Art 5](https://tinyurl.com/y6u2u42m) | Medium |  |
 |70| [1232. Check If It Is a Straight Line](https://tinyurl.com/y932lhyb) | [Python](https://tinyurl.com/wu6rdaw/1232_Check_If_It_Is_a_Straight_Line.py), [Swift](https://tinyurl.com/wuja3c4/1232_Check_If_It_Is_a_Straight_Line.swift) |  | Easy |  |
 |71| **[348. Design Tic-Tac-Toe](https://tinyurl.com/ybtrbuso)** | [Python](https://tinyurl.com/wu6rdaw/348_Design_Tic-Tac-Toe.py), [Swift](https://tinyurl.com/wuja3c4/348_Design_Tic-Tac-Toe.swift) | [Vid 1](https://tinyurl.com/y745qzme), [Art 1](https://tinyurl.com/ybvjnmuo) | Medium | A fucking tricky question |
+|72| **[1152. Analyze User Website Visit Pattern](https://tinyurl.com/y8q3nw6u)** | [Python](https://tinyurl.com/wu6rdaw/1152_Analyze_User_Website_Visit_Pattern.py), [Swift](https://tinyurl.com/wuja3c4/1152_Analyze_User_Website_Visit_Pattern.swift) | [Art 1](https://tinyurl.com/y9vqr6ja), [Art 2](https://tinyurl.com/y77nax4d), [Art 3](https://tinyurl.com/y8kbvk5y), [Art 4](https://tinyurl.com/ydyxd57p) | Medium | A fucking unclear question and problem. I Fucking disliked it. |
 
 
 </p>
