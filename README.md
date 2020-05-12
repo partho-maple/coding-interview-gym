@@ -495,6 +495,7 @@ Check this [golden](https://tinyurl.com/ujopecz) post.
 |03| [642. Design Search Autocomplete System](https://leetcode.com/problems/design-search-autocomplete-system/)| [Python](https://tinyurl.com/wu6rdaw/642_Design_Search_Autocomplete_System.py)| [Article 01](https://leetcode.com/problems/design-search-autocomplete-system/discuss/105386/Python-Clean-Solution-Using-Trie), [Video 01](https://www.youtube.com/watch?v=us0qySiUsGU)| Hard | --- |
 |04| [472. Concatenated Words](https://tinyurl.com/y9cv6dk5)| [Python](https://tinyurl.com/wu6rdaw/472_Concatenated_Words.py)| [Art 01](https://tinyurl.com/ycjm6fuo), [Art 02](https://tinyurl.com/ybvl3kbv)| Hard | Very important |
 |05| **[588. Design In-Memory File System](https://tinyurl.com/ya238cp4)** | [Python](https://tinyurl.com/wu6rdaw/588_Design_In_Memory_File_System.py)| --- | Hard | --- |
+|06| **[212. Word Search II](https://tinyurl.com/y8vcw472)** | [Python](https://tinyurl.com/wu6rdaw/212_Word_Search_II.py)| [Art 1](https://tinyurl.com/y7td7eag) | Hard | --- |
 
 </p>
 </details>
