@@ -20,7 +20,7 @@
 ![Visitors in today](https://visitor-count-badge.herokuapp.com/today.svg?repo_id=az69802909)
 
 
-<h4 align="center">This repo contains around 400 Leetcode.com and 90 Algoexpert.io problems with solutions using Swift and Python</h4>
+<h4 align="center">This repo contains around 600 (500 Leetcode.com and 100 Algoexpert.io) problems in total, with solutions using Swift and Python</h4>
 
 <p align="center">
   This repo contains my solutions to algorithmic problems in <a href="https://leetcode.com/parthobiswas007/">leetcode.com</a> and <a href="https://www.algoexpert.io/questions">algoexpert.io</a> written in <b>Swift</b> and <b>Python</b>.
@@ -268,7 +268,8 @@ I have solved quite a number of problems from several topics. See the below tabl
 |20| [160. Intersection of Two Linked Lists](https://tinyurl.com/rz6nrop)| [Python](https://tinyurl.com/wu6rdaw/160_Intersection_of_Tw_Linked_Lists.py)| [Art 1](https://tinyurl.com/urrs7uy), [Art 2](https://tinyurl.com/wkya7ks) | Easy | --- |
 |21| **[138. Copy List with Random Pointer](https://tinyurl.com/uhaw95f)** | [Python](https://tinyurl.com/wu6rdaw/138_Copy_List_with_Random_Pointer.py)| **[Vid 1](https://tinyurl.com/reaqam9), [Art 1](https://tinyurl.com/tnwofvs)** | Medium | **TODO: Check again. Very important. Learned a lot of things** |
 |22| **[430. Flatten a Multilevel Doubly Linked List](https://tinyurl.com/sgpamoh)** | [Python](https://tinyurl.com/wu6rdaw/430_Flatten_a_Multilevel_Doubly_Linked_List.py)| [backtobackswe.com](https://tinyurl.com/y9mptlro), **[Vid 1](https://tinyurl.com/tbp99p2), [Art 1](https://tinyurl.com/un8p7f2)** | Medium | **TODO: Check again. Very important. Learned a lot of things** |
-|23| **[146. LRU Cache](https://tinyurl.com/zu2qbfl)** | [Python](https://tinyurl.com/wu6rdaw/146_LRU_Cache.py)| **[Vid 1](https://tinyurl.com/rtnhhys), [backtobackswe.com](https://tinyurl.com/vbpvjdc), [algoexpert.io](https://tinyurl.com/t2uhpgn)** | Medium | **TODO: Check again. Very important. Learned a lot of things** |
+|23| **[146. LRU Cache](https://tinyurl.com/zu2qbfl)** | [Python](https://tinyurl.com/wu6rdaw/146_LRU_Cache.py)| **[Vid 1](https://tinyurl.com/rtnhhys), [backtobackswe.com](https://tinyurl.com/vbpvjdc), [algoexpert.io](https://tinyurl.com/t2uhpgn)** | Hard | **TODO: Check again. Very important. Learned a lot of things** |
+|24| **[460. LFU Cache](https://tinyurl.com/yannrugv)** | [Python](https://tinyurl.com/wu6rdaw/460_LFU_Cache.py)| **[Vid 1](https://tinyurl.com/rtnhhys), [backtobackswe.com](https://tinyurl.com/vbpvjdc), [algoexpert.io](https://tinyurl.com/t2uhpgn)** | Hard | **TODO: Check again. Very important. Learned a lot of things** |
 
 
 </p>
@@ -760,7 +761,7 @@ BFS, DFS, Dijkstra, Floyd–Warshall, Bellman-Ford, Kruskal, Prim's, Minimum Spa
 
 
 ## AlgoExpert
-<b>90 Problems</b>
+<b>100 Problems</b>
 
 [My certificate of completion](https://certificate.algoexpert.io/AE-ea0a67c587)
 
