@@ -1083,7 +1083,17 @@ Check this **[Golden](https://tinyurl.com/uboo399)** posts first.
 </details>
 
 
-### 3. Python
+### 3. Swift
+<details><summary></summary>
+<p>
+
+01. []()
+
+</p>
+</details>
+
+
+### 4. Python
 <details><summary></summary>
 <p>
 
@@ -1111,7 +1121,7 @@ Learn the following modules by heart. Just knowing all of the following items wi
 </details>
 
 
-### 4. Channels
+### 5. Channels
 <details><summary></summary>
 <p>
 
@@ -1124,7 +1134,7 @@ Learn the following modules by heart. Just knowing all of the following items wi
 </details>
 
 
-### 5. Tree (Binary Tree, BST, AVL, Red-Black, B-Tree, B+ Tree, Segment Tree, Interval Tree, Range Tree, BIT, N-aray Tree, Trie etc)
+### 6. Tree (Binary Tree, BST, AVL, Red-Black, B-Tree, B+ Tree, Segment Tree, Interval Tree, Range Tree, BIT, N-aray Tree, Trie etc)
 <details><summary></summary>
 <p>
 
@@ -1176,7 +1186,7 @@ Learn the following modules by heart. Just knowing all of the following items wi
 </details>
 
 
-### 6. Graph(Dijkstra, Union Find, Kruskal, Prim's, Minimum Spanning Tree, Topological Ordering...etc)
+### 7. Graph(Dijkstra, Union Find, Kruskal, Prim's, Minimum Spanning Tree, Topological Ordering...etc)
 <details><summary></summary>
 <p>
 
@@ -1195,7 +1205,7 @@ Learn the following modules by heart. Just knowing all of the following items wi
 </details>
 
 
-### 7. Bit Manipulation
+### 8. Bit Manipulation
 <details><summary></summary>
 <p>
 
@@ -1226,7 +1236,7 @@ Learn the following modules by heart. Just knowing all of the following items wi
 </details>
 
 
-### 8. Dynamic Programming
+### 9. Dynamic Programming
 <details><summary></summary>
 <p>
 
@@ -1246,7 +1256,7 @@ Learn the following modules by heart. Just knowing all of the following items wi
 </details>
 
 
-### 9. Greedy
+### 10. Greedy
 <details><summary></summary>
 <p>
 
@@ -1261,7 +1271,7 @@ Learn the following modules by heart. Just knowing all of the following items wi
 </details>
 
 
-### 10. DP VS Greedy
+### 11. DP VS Greedy
 <details><summary></summary>
 <p>
 
@@ -1273,7 +1283,7 @@ Learn the following modules by heart. Just knowing all of the following items wi
 </details>
 
 
-### 11. Backtracking
+### 12. Backtracking
 <details><summary></summary>
 <p>
 
@@ -1290,7 +1300,7 @@ Learn the following modules by heart. Just knowing all of the following items wi
 </details>
 
 
-### 12. Recursion
+### 13. Recursion
 <details><summary></summary>
 <p>
 
@@ -1307,7 +1317,7 @@ Learn the following modules by heart. Just knowing all of the following items wi
 </details>
 
 
-### 13. Game Theory
+### 14. Game Theory
 <details><summary></summary>
 <p>
 
@@ -1318,7 +1328,7 @@ Learn the following modules by heart. Just knowing all of the following items wi
 </p>
 </details>
 
-### 14. Few special DS
+### 15. Few special DS
 <details><summary></summary>
 <p>
 
