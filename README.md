@@ -270,6 +270,7 @@ I have solved quite a number of problems from several topics. See the below tabl
 |22| **[430. Flatten a Multilevel Doubly Linked List](https://tinyurl.com/sgpamoh)** | [Python](https://tinyurl.com/wu6rdaw/430_Flatten_a_Multilevel_Doubly_Linked_List.py)| [backtobackswe.com](https://tinyurl.com/y9mptlro), **[Vid 1](https://tinyurl.com/tbp99p2), [Art 1](https://tinyurl.com/un8p7f2)** | Medium | **TODO: Check again. Very important. Learned a lot of things** |
 |23| **[146. LRU Cache](https://tinyurl.com/zu2qbfl)** | [Python](https://tinyurl.com/wu6rdaw/146_LRU_Cache.py)| **[Vid 1](https://tinyurl.com/rtnhhys), [backtobackswe.com](https://tinyurl.com/vbpvjdc), [algoexpert.io](https://tinyurl.com/t2uhpgn)** | Hard | **TODO: Check again. Very important. Learned a lot of things** |
 |24| **[460. LFU Cache](https://tinyurl.com/yannrugv)** | [Python](https://tinyurl.com/wu6rdaw/460_LFU_Cache.py)| **[Vid 1](https://tinyurl.com/rtnhhys), [backtobackswe.com](https://tinyurl.com/vbpvjdc), [algoexpert.io](https://tinyurl.com/t2uhpgn)** | Hard | **TODO: Check again. Very important. Learned a lot of things** |
+|25| **[460. LFU Cache](https://tinyurl.com/y7qokgr8)** | [Python](https://tinyurl.com/wu6rdaw/237_Delete_Node_in_a_Linked_List.py)| [Art 1](https://tinyurl.com/rtnhhys) | Easy |  |
 
 
 </p>
