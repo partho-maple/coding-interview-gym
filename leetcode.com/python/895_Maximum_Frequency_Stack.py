@@ -1,30 +1,11 @@
-import heapq
 from collections import defaultdict
-
-
-# Custom object to store the required values
-class Element:
-    def __init__(self, frequency, sequence, number):
-        self.frequency = frequency
-        self.sequence = sequence
-        self.number = number
-
-
-    def __lt__(self, other):
-        # higher frequency wins
-        if self.frequency != other.frequency:
-            return self.frequency > other.frequency
-
-        # if both elements have same frequency, return the element that was pushed later
-        return self.sequence > other.sequence
-
-
+import heapq
 
 class FreqStack(object):
 
     def __init__(self):
-        self.sequence = 0
-        self.frequencyMap = defaultdict(int)
+        self.counter = defaultdict(int)
+        self.stackIdx = -1  # initially the stack is empty
         self.maxHeap = []
 
     def push(self, x):
@@ -32,17 +13,18 @@ class FreqStack(object):
         :type x: int
         :rtype: None
         """
-        self.frequencyMap[x] += 1
-        heapq.heappush(self.maxHeap, Element(self.frequencyMap[x], self.sequence, x))
-        self.sequence += 1
+        self.counter[x] += 1
+        self.stackIdx += 1
+        heapq.heappush(self.maxHeap, (-self.counter[x], -self.stackIdx, x))
 
     def pop(self):
         """
         :rtype: int
         """
-        numberToPop = heapq.heappop(self.maxHeap).number
-        self.frequencyMap[numberToPop] -= 1
-        return numberToPop
+        topElement = heapq.heappop(self.maxHeap)
+        count, idx, x = -topElement[0], -topElement[1], topElement[2]
+        self.counter[x] -= 1
+        return x
 
 # Your FreqStack object will be instantiated and called as such:
 # obj = FreqStack()
