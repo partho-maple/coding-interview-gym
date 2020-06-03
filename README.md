@@ -374,6 +374,7 @@ I have solved quite a number of problems from several topics. See the below tabl
 |30| **[774. Minimize Max Distance to Gas Station](https://tinyurl.com/w2hznvj)** | [Python](https://tinyurl.com/wu6rdaw/774_Minimize_Max_Distance_to_Gas_Station.py), [Swift](https://tinyurl.com/wuja3c4/774_Minimize_Max_Distance_to_Gas_Station.swift) | [Vid 1](https://tinyurl.com/tjmrjgq), [Art 1](https://tinyurl.com/teqxwh8), [Art 2](https://tinyurl.com/szc6bjw), [Art 1](https://tinyurl.com/sfc5d2j) | Hard | I loved this problem. Very important |
 |31| **[1231. Divide Chocolate](https://tinyurl.com/rduxzj3)** | [Python](https://tinyurl.com/wu6rdaw/1231_Divide_Chocolate.py), [Swift](https://tinyurl.com/wuja3c4/1231_Divide_Chocolate.swift) | [Art 1](https://tinyurl.com/sl7w7cb), [Art 2](https://tinyurl.com/w9wbcyl), [Art 3](https://tinyurl.com/te6wq5e) | Hard | I loved this problem. Very important |
 |32| **[1268. Search Suggestions System](https://tinyurl.com/ybwcd5nx)** | [Python](https://tinyurl.com/wu6rdaw/1268_Search_Suggestions_System.py), [Swift](https://tinyurl.com/wuja3c4/1268_Search_Suggestions_System.swift) | [Art 1](https://tinyurl.com/yac3kvrp), [Art 2](https://tinyurl.com/y9u3g66q), [Art 3](https://tinyurl.com/yc2u3mrx) | Medium | I loved this problem. Very versatile, ca be solved in a lot of different ways |
+|33| **[540. Single Element in a Sorted Array](https://tinyurl.com/y78xdorh)** | [Python](https://tinyurl.com/wu6rdaw/540_Single_Element_in_a_Sorted_Array.py), [Swift](https://tinyurl.com/wuja3c4/1268_Search_Suggestions_System.swift) |  | Medium | --- |
 
 
 </p>
@@ -425,6 +426,7 @@ Check this [golden](https://tinyurl.com/ujopecz) post.
 |34| **[572. Subtree of Another Tree](https://tinyurl.com/ybeerky9)**| [Python](https://tinyurl.com/wu6rdaw/572_Subtree_of_Another_Tree.py), [Swift](https://tinyurl.com/wuja3c4/572_Subtree_of_Another_Tree.swift) | [Art 1](https://tinyurl.com/y9epsrfa) | Easy(Not so) |  |
 |35| **[314. Binary Tree Vertical Order Traversal](https://tinyurl.com/y7qx79no)**| [Python](https://tinyurl.com/wu6rdaw/314_Binary_Tree_Vertical_Order_Traversal.py), [Swift](https://tinyurl.com/wuja3c4/314_Binary_Tree_Vertical_Order_Traversal.swift) | [Vid 1](https://tinyurl.com/ybb6amfl) | Medium |  |
 |36| **[987. Vertical Order Traversal of a Binary Tree](https://tinyurl.com/y8vqh9hk)**| [Python](https://tinyurl.com/wu6rdaw/987_Vertical_Order_Traversal_of_a_Binary_Tree.py), [Swift](https://tinyurl.com/wuja3c4/987_Vertical_Order_Traversal_of_a_Binary_Tree.swift) | [Vid 1](https://tinyurl.com/y8byrezh), [Art 1](https://tinyurl.com/yajsqrpp), [Art 2](https://tinyurl.com/yadjj6sy) | Medium |  |
+|37| **[958. Check Completeness of a Binary Tree](https://tinyurl.com/yd6dsk88)**| [Python](https://tinyurl.com/wu6rdaw/958_Check_Completeness_of_a_Binary_Tree.py), [Swift](https://tinyurl.com/wuja3c4/958_Check_Completeness_of_a_Binary_Tree.swift) | [Art 1](https://tinyurl.com/y729zfol) | Medium |  |
 
 </p>
 </details>
