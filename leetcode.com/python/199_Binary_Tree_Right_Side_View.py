@@ -28,3 +28,27 @@ class Solution(object):
                     rightView.append(node.val)
         return rightView
 
+
+
+#  My solution during mock contest
+from collections import deque
+class Solution(object):
+    def rightSideView(self, root):
+        """
+        :type root: TreeNode
+        :rtype: List[int]
+        """
+        queue = deque([root])
+        rightView = []
+        while queue:
+            currentLevelLen = len(queue)
+            for i in range(currentLevelLen):
+                currentNode = queue.popleft()
+                if currentNode:
+                    if i == currentLevelLen - 1:
+                        rightView.append(currentNode.val)
+                    if currentNode.left:
+                        queue.append(currentNode.left)
+                    if currentNode.right:
+                        queue.append(currentNode.right)
+        return rightView
