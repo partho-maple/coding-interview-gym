@@ -32,3 +32,29 @@ class Solution(object):
             result.append(verticalNodeMap[key])
         return result
 
+
+# My solution during mock, getting TLE, don't know why
+from collections import defaultdict
+from collections import deque
+class Solution(object):
+    def verticalOrder(self, root):
+        """
+        :type root: TreeNode
+        :rtype: List[List[int]]
+        """
+        if not root:
+            return []
+        orderMap = defaultdict(list)
+        queue = deque([(root, 0)])
+
+        while queue:
+            currentNode, vLine = queue.popleft()
+            if currentNode:
+                orderMap[vLine].append(root.val)
+                queue.append((root.left, vLine - 1))
+                queue.append((root.right, vLine + 1))
+
+        result = []
+        for i in range(min(orderMap.keys()), max(orderMap.keys()) + 1):
+            result.append(orderMap[i])
+        return result
