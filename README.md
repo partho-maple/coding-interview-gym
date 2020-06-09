@@ -235,6 +235,7 @@ I have solved quite a number of problems from several topics. See the below tabl
 |36| **[273. Integer to English Words](https://tinyurl.com/y7pps4u9)** | [Python](https://tinyurl.com/wu6rdaw/273_Integer_to_English_Words.py), [Swift](https://tinyurl.com/wuja3c4/273_Integer_to_English_Words.swift) |  | Hard | MUST check again |
 |37| **[763. Partition Labels](https://tinyurl.com/yapt4n6v)** | [Python](https://tinyurl.com/wu6rdaw/763_Partition_Labels.py), [Swift](https://tinyurl.com/wuja3c4/763_Partition_Labels.swift) |  | Medium |  |
 |38| [819. Most Common Word](https://tinyurl.com/ydhwgc33) | [Python](https://tinyurl.com/wu6rdaw/819_Most_Common_Word.py), [Swift](https://tinyurl.com/wuja3c4/819_Most_Common_Word.swift) | [Art 1](https://tinyurl.com/y7u4pzeu) | Easy |  |
+|39| [350. Intersection of Two Arrays II](https://tinyurl.com/y9kdrubz) | [Python](https://tinyurl.com/wu6rdaw/350_Intersection_of_Two_Arrays_II.py), [Swift](https://tinyurl.com/wuja3c4/350_Intersection_of_Two_Arrays_II.swift) | --- | Easy | Check the follow-ups |
 
 
 </p>
