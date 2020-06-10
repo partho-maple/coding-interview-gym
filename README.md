@@ -430,6 +430,7 @@ Check this [golden](https://tinyurl.com/ujopecz) post.
 |36| **[987. Vertical Order Traversal of a Binary Tree](https://tinyurl.com/y8vqh9hk)**| [Python](https://tinyurl.com/wu6rdaw/987_Vertical_Order_Traversal_of_a_Binary_Tree.py), [Swift](https://tinyurl.com/wuja3c4/987_Vertical_Order_Traversal_of_a_Binary_Tree.swift) | [Vid 1](https://tinyurl.com/y8byrezh), [Art 1](https://tinyurl.com/yajsqrpp), [Art 2](https://tinyurl.com/yadjj6sy) | Medium |  |
 |37| **[958. Check Completeness of a Binary Tree](https://tinyurl.com/yd6dsk88)**| [Python](https://tinyurl.com/wu6rdaw/958_Check_Completeness_of_a_Binary_Tree.py), [Swift](https://tinyurl.com/wuja3c4/958_Check_Completeness_of_a_Binary_Tree.swift) | [Art 1](https://tinyurl.com/y729zfol) | Medium |  |
 |38| **[865. Smallest Subtree with all the Deepest Nodes](https://tinyurl.com/y8cbxe4f)**| [Python](https://tinyurl.com/wu6rdaw/865_Smallest_Subtree_with_all_the_Deepest_Nodes.py), [Swift](https://tinyurl.com/wuja3c4/865_Smallest_Subtree_with_all_the_Deepest_Nodes.swift) | [Art 1](https://tinyurl.com/y9vq89jq), [Art 2](https://tinyurl.com/ydhfjr8t), [Art 3](https://tinyurl.com/y8z5p8u2), [Art 4](https://tinyurl.com/y8jm985p) | Medium | Vary ambigious question |
+|39| [1315. Sum of Nodes with Even-Valued Grandparent](https://tinyurl.com/y72q6hfn) | [Python](https://tinyurl.com/wu6rdaw/1315_Sum_of_Nodes_with_Even_Valued_Grandparent.py), [Swift](https://tinyurl.com/wuja3c4/1315_Sum_of_Nodes_with_Even_Valued_Grandparent.swift) | -- | Medium | -- |
 
 </p>
 </details>
