@@ -641,6 +641,7 @@ BFS, DFS, Dijkstra, Floyd–Warshall, Bellman-Ford, Kruskal, Prim's, Minimum Spa
 |17| **[68. Text Justification](https://tinyurl.com/r7bzsul)** | [Python](https://tinyurl.com/wu6rdaw/68_Text_Justification.py)| [Vid 1](https://tinyurl.com/jkx2usg), [Vid 2](https://tinyurl.com/wd7rja2), [Vid 3](https://tinyurl.com/qlbsfqf), [Art 0](https://tinyurl.com/u5r5cuy), [Art 1](https://tinyurl.com/s84dym2) | Hard | TODO: Check again later. Very Important |
 |18| **[134. Gas Station](https://tinyurl.com/skyh4lj)** | [Python](https://tinyurl.com/wu6rdaw/134_Gas_Station.py), [Python](https://tinyurl.com/wu6rdaw/134_Gas_Station.py), [Swift](https://tinyurl.com/wuja3c4/134_Gas_Station.swift) | [Vid 1](https://tinyurl.com/qq8xf4v), [Art 1](https://tinyurl.com/ss9sxju) | Medium | TODO: Check again later. Very Important |
 |19| [1288. Remove Covered Intervals](https://tinyurl.com/wc72tcx) | [Python](https://tinyurl.com/wu6rdaw/1288_Remove_Covered_Intervals.py)| [Art 1](https://tinyurl.com/vpp5hnx) | Medium | **Line Swap with Greedy**. A must read solution. A gold mie, learned a lot |
+|20| [1296. Divide Array in Sets of K Consecutive Numbers](https://tinyurl.com/ycfysu46) | [Python](https://tinyurl.com/wu6rdaw/1296_Divide_Array_in_Sets_of_K_Consecutive_Numbers.swift.py), [Swift](https://tinyurl.com/wuja3c4/1296_Divide_Array_in_Sets_of_K_Consecutive_Numbers.swift.swift)| [Art 1](https://tinyurl.com/ybwhyztk) | Medium | --- |
 
 </p>
 </details>
