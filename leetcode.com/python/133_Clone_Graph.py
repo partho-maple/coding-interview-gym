@@ -56,3 +56,50 @@ class Solution(object):
                 visitedNodes[currentNode].neighbors.append(visitedNodes[neighbour])
         return visitedNodes[node]
 
+
+
+
+
+# My solution during Mock test
+class Solution(object):
+    def cloneGraph(self, node):
+        """
+        :type node: Node
+        :rtype: Node
+        """
+        if not node:
+            return None
+        nodeMap = {}
+        clonedNode = self.cloneGraphHelper(node, nodeMap)
+        return clonedNode
+
+    def cloneGraphHelper(self, node, nodeMap):
+        if node.val in nodeMap:
+            return nodeMap[node.val]
+        clonedNode = Node(node.val)
+        nodeMap[node.val] = clonedNode
+        for neighbor in node.neighbors:
+            clonedNeighbor = self.cloneGraphHelper(neighbor, nodeMap)
+            nodeMap[node.val].neighbors.append(clonedNeighbor)
+        return clonedNode
+
+
+"""
+input: Node
+out: colned Node
+                val
+                nei - <Node>
+ map = 1: node             
+ //while quiue:
+    given node
+    new node
+    for nei
+        ne
+        new ne
+        call recursive with new ne
+        add neigh
+return new node
+"""
+
+
+
