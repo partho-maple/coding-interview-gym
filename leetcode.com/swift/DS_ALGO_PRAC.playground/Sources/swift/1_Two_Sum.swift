@@ -1,18 +1,4 @@
-//: Playground - noun: a place where people can play
-
-//: Problem Link:   https://leetcode.com/problems/two-sum/
-
-import UIKit
-
-
-
-public class Solution_1 {
-    
-    public init() {
-    
-    }
-    
-    
+public class Solution {
     public func twoSum(_ nums: [Int], _ target: Int) -> [Int] {
         var firstIndex = 0
         var secondIndex = 0
@@ -33,8 +19,6 @@ public class Solution_1 {
                 }
             }
         }
-        
-        
         return resultArr
     }
 }

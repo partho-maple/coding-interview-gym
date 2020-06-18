@@ -22,19 +22,4 @@ class Solution {
         return true
     }
 }
-
-
-/*
-nums = [1,2,3,3,4,4,5,6], k = 4
-counter = [
-1:1
-2:1
-3:2
-4:2
-5:1
-6:1
-]
-
-nums.sort
-
-*/
+ 

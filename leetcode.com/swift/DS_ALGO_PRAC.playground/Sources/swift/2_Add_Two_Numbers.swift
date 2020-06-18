@@ -1,12 +1,3 @@
-//: Playground - noun: a place where people can play
-
-import UIKit
-
-//: Problem:    https://leetcode.com/problems/add-two-numbers/
-
-
-
-
 // Definition for singly-linked list.
 public class ListNode {
     public var val: Int
@@ -19,12 +10,6 @@ public class ListNode {
 
 
 public class Solution_2 {
-    
-    public init() {
-        
-    }
-    
-    
     public func addTwoNumbers(_ l1: ListNode?, _ l2: ListNode?) -> ListNode? {
         var dummyHead = ListNode(0)
         var p:ListNode? = l1

@@ -1,11 +1,4 @@
-//: Playground - noun: a place where people can play
-
-import UIKit
-
-//: Problem:    https://leetcode.com/problems/longest-substring-without-repeating-characters/
-
 extension Array where Element: Equatable {
-    
     // Remove first collection element that is equal to the given `object`:
     mutating func remove(object: Element) {
         if let index = index(of: object) {
@@ -15,12 +8,6 @@ extension Array where Element: Equatable {
 }
 
 public class Solution_3 {
-    
-    public init() {
-        
-    }
-    
-    
     public func lengthOfLongestSubstring(_ s: String) -> Int {
         let length = s.characters.count
         var stringArray:[Character] = Array(s.characters) as [Character]

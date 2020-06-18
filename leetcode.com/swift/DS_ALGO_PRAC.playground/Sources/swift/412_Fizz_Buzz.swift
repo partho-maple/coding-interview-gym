@@ -1,10 +1,5 @@
-import Foundation
 
-
-
-
-
-class Solution_412 {
+class Solution {
     func fizzBuzz(_ n: Int) -> [String] {
         var stringArr: [String] = []
         

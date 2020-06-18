@@ -1,11 +1,5 @@
-import Foundation
-
-
-
-
-class Solution_476 {
+class Solution {
     func findComplement(_ num: Int) -> Int {
-        
         var strNum = String(num, radix: 2)
         var strComplement = ""
         
@@ -19,10 +13,7 @@ class Solution_476 {
                 strComplement.append("0")
             }
         }
-        
-        
         let complement = Int(String(strComplement), radix: 2)!
-        
         return complement
     }
 }
