@@ -1,4 +1,3 @@
-
 class Solution {
     func fizzBuzz(_ n: Int) -> [String] {
         var stringArr: [String] = []
