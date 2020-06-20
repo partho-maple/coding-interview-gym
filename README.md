@@ -611,6 +611,7 @@ BFS, DFS, Dijkstra, Floyd–Warshall, Bellman-Ford, Kruskal, Prim's, Minimum Spa
 |20| [1088. Confusing Number II](https://tinyurl.com/tb7w75j)| [Python](https://tinyurl.com/wu6rdaw/1088_Confusing_Number_II.py), [Swift](https://tinyurl.com/wuja3c4/1088_Confusing_Number_II.swift) | [Art 1](https://tinyurl.com/wby5h93), [Ref 1](https://tinyurl.com/w54thz5) | Hard | Very interesting |
 |21| [465. Optimal Account Balancing](https://tinyurl.com/smsbk4t)| [Python](https://tinyurl.com/wu6rdaw/465_Optimal_Account_Balancing.py), [Swift](https://tinyurl.com/wuja3c4/465_Optimal_Account_Balancing.swift) | **[Art 1](https://tinyurl.com/txuvptu)** | Hard | Loved the question, awsome real life description |
 |22| [1079. Letter Tile Possibilities](https://tinyurl.com/r5xjymk) | [Python](https://tinyurl.com/wu6rdaw/1079_Letter_Tile_Possibilities.py), [Swift](https://tinyurl.com/wuja3c4/1079_Letter_Tile_Possibilities.swift) | --- | Medium |📌 Could be done using DFS, backtracking |
+|23| **[60. Permutation Sequence](https://tinyurl.com/yz98ms7h)** | [Python](https://tinyurl.com/wu6rdaw/60_Permutation_Sequence.py), [Swift](https://tinyurl.com/wuja3c4/60_Permutation_Sequence.swift) | **[Art 1](https://tinyurl.com/ybvcswyd)** | Medium | 📌 What an awesome question and smart solution. loved it. |
 
 </p>
 </details>
