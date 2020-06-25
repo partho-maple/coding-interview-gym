@@ -303,7 +303,7 @@ I have solved quite a number of problems from several topics. See the below tabl
 |13| **[862. Shortest Subarray with Sum at Least K](https://tinyurl.com/wzdraag)** | [Python](https://tinyurl.com/wu6rdaw/862_Shortest_Subarray_with_Sum_at_Least_K.py), [Swift](https://tinyurl.com/wuja3c4/862_Shortest_Subarray_with_Sum_at_Least_K.swift)| **[Art 1](https://tinyurl.com/rn7rsnf)**, **[Art 2](https://tinyurl.com/ra3ttcg)**, **[Art 3](https://tinyurl.com/swqs6cq)**, **[Art 4](https://tinyurl.com/t8tjjk2)** | Hard | Learned Monotonic Queue. Very interesting problem |
 |14| [346. Moving Average from Data Stream](https://tinyurl.com/sfmwtr5) | [Python](https://tinyurl.com/wu6rdaw/346_Moving_Average_from_Data_Stream.py), [Swift](https://tinyurl.com/wuja3c4/346_Moving_Average_from_Data_Stream.swift)|  | Easy |  |
 |15| **[71. Simplify Path](https://tinyurl.com/y9eqaxkh)** | [Python](https://tinyurl.com/wu6rdaw/71_Simplify_Path.py), [Swift](https://tinyurl.com/wuja3c4/71_Simplify_Path.swift)|  | Medium |  |
-|16| **[1249. Minimum Remove to Make Valid Parentheses](https://tinyurl.com/y73258qd)** | [Python](https://tinyurl.com/wu6rdaw/1249_Minimum_Remove_to_Make_Valid_Parentheses.py), [Swift](https://tinyurl.com/wuja3c4/1249_Minimum_Remove_to_Make_Valid_Parentheses.swift)|  | Medium | Must check |
+|16| **[1249. Minimum Remove to Make Valid Parentheses](https://tinyurl.com/y73258qd)** | [Python](https://tinyurl.com/wu6rdaw/1249_Minimum_Remove_to_Make_Valid_Parentheses.py), [Swift](https://tinyurl.com/wuja3c4/1249_Minimum_Remove_to_Make_Valid_Parentheses.swift)| [Official](https://tinyurl.com/ycku9nbn) | Medium | Must check |
 
 </p>
 </details>
