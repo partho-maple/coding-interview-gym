@@ -304,6 +304,7 @@ I have solved quite a number of problems from several topics. See the below tabl
 |14| [346. Moving Average from Data Stream](https://tinyurl.com/sfmwtr5) | [Python](https://tinyurl.com/wu6rdaw/346_Moving_Average_from_Data_Stream.py), [Swift](https://tinyurl.com/wuja3c4/346_Moving_Average_from_Data_Stream.swift)|  | Easy |  |
 |15| **[71. Simplify Path](https://tinyurl.com/y9eqaxkh)** | [Python](https://tinyurl.com/wu6rdaw/71_Simplify_Path.py), [Swift](https://tinyurl.com/wuja3c4/71_Simplify_Path.swift)|  | Medium |  |
 |16| **[1249. Minimum Remove to Make Valid Parentheses](https://tinyurl.com/y73258qd)** | [Python](https://tinyurl.com/wu6rdaw/1249_Minimum_Remove_to_Make_Valid_Parentheses.py), [Swift](https://tinyurl.com/wuja3c4/1249_Minimum_Remove_to_Make_Valid_Parentheses.swift)| [Official](https://tinyurl.com/ycku9nbn) | Medium | Must check |
+|17| **[636. Exclusive Time of Functions](https://tinyurl.com/y7fkfomp)** | [Python](https://tinyurl.com/wu6rdaw/636_Exclusive_Time_of_Functions.py), [Swift](https://tinyurl.com/wuja3c4/636_Exclusive_Time_of_Functions.swift)| [Art 1](https://tinyurl.com/yd5rtdkl) | Medium | Must check |
 
 </p>
 </details>
