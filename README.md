@@ -238,6 +238,7 @@ I have solved quite a number of problems from several topics. See the below tabl
 |37| **[763. Partition Labels](https://tinyurl.com/yapt4n6v)** | [Python](https://tinyurl.com/wu6rdaw/763_Partition_Labels.py), [Swift](https://tinyurl.com/wuja3c4/763_Partition_Labels.swift) |  | Medium |  |
 |38| [819. Most Common Word](https://tinyurl.com/ydhwgc33) | [Python](https://tinyurl.com/wu6rdaw/819_Most_Common_Word.py), [Swift](https://tinyurl.com/wuja3c4/819_Most_Common_Word.swift) | [Art 1](https://tinyurl.com/y7u4pzeu) | Easy |  |
 |39| [350. Intersection of Two Arrays II](https://tinyurl.com/y9kdrubz) | [Python](https://tinyurl.com/wu6rdaw/350_Intersection_of_Two_Arrays_II.py), [Swift](https://tinyurl.com/wuja3c4/350_Intersection_of_Two_Arrays_II.swift) | --- | Easy | Check the follow-ups |
+|40| **[249. Group Shifted Strings](https://tinyurl.com/jsfd4l3)** | [Python](https://tinyurl.com/wu6rdaw/249_Group_Shifted_Strings.py), [Swift](https://tinyurl.com/wuja3c4/249_Group_Shifted_Strings.swift) | [Art 1](https://tinyurl.com/yd4ckev2) | Medium | Tricky one |
 
 
 </p>
@@ -716,6 +717,7 @@ BFS, DFS, Dijkstra, Floyd–Warshall, Bellman-Ford, Kruskal, Prim's, Minimum Spa
 |52| **[304. Range Sum Query 2D - Immutable](https://tinyurl.com/ybhblo57)** | [Python](https://tinyurl.com/wu6rdaw/304_Range_Sum_Query_2D_Immutable.py), [Swift](https://tinyurl.com/wuja3c4/304_Range_Sum_Query_2D_Immutable.swift)| [Art 1](https://tinyurl.com/ycto2x5o), [Art 2](https://tinyurl.com/yab7byj5) | Medium | **very good question, classical** |
 |53| **[1477. Find Two Non-overlapping Sub-arrays Each With Target Sum](https://tinyurl.com/ybte7ydl)** | [Python](https://tinyurl.com/wu6rdaw/1477_Find_Two_Non_overlapping_Sub_arrays_Each_With_Target_Sum.py), [Swift](https://tinyurl.com/wuja3c4/1477_Find_Two_Non_overlapping_Sub_arrays_Each_With_Target_Sum.swift)| [Art 1](https://tinyurl.com/y7rshs2j), [Art 2](https://tinyurl.com/y8x7cgxl) | Medium | **Very interesting and deceiving and tricky problem. An unique combination of sliding window and DP** |
 |54| **[368. Largest Divisible Subset](https://tinyurl.com/ya8sv5jr)** | [Python](https://tinyurl.com/wu6rdaw/368_Largest_Divisible_Subset.py), [Swift](https://tinyurl.com/wuja3c4/368_Largest_Divisible_Subset.swift)| Official Solution | Medium | **Interesting problem.** |
+|55| **[523. Continuous Subarray Sum](https://tinyurl.com/y6ce49ln)** | [Python](https://tinyurl.com/wu6rdaw/523_Continuous_Subarray_Sum.py), [Swift](https://tinyurl.com/wuja3c4/523_Continuous_Subarray_Sum.swift)| []() | Medium | **Tricky to see the DP** |
 
 
 </p>
