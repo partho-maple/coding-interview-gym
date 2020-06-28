@@ -186,6 +186,7 @@ I have solved quite a number of problems from several topics. See the below tabl
 |73| **[953. Verifying an Alien Dictionary](https://tinyurl.com/y8j8e4jo)** | [Python](https://tinyurl.com/wu6rdaw/953_Verifying_an_Alien_Dictionary.py), [Swift](https://tinyurl.com/wuja3c4/953_Verifying_an_Alien_Dictionary.swift) |  | Easy(REALLY!!!) | Don't be fooled by the difficulty label |
 |74| **[463. Island Perimeter](https://tinyurl.com/yapqj2yd)** | [Python](https://tinyurl.com/wu6rdaw/463_Island_Perimeter.py), [Swift](https://tinyurl.com/wuja3c4/463_Island_Perimeter.swift) |  | Easy | It's very deceiving, to think it as a grapy ad DFS problem, but it's not. Think simply  |
 |75| **[166. Fraction to Recurring Decimal](https://tinyurl.com/ycweccew)** | [Python](https://tinyurl.com/wu6rdaw/166_Fraction_to_Recurring_Decimal.py), [Swift](https://tinyurl.com/wuja3c4/166_Fraction_to_Recurring_Decimal.swift) | [Art 1](https://tinyurl.com/ycuah9vj) | Medium | Hate this problem. Why do companies ask this shit!!!  |
+|75| **[311. Sparse Matrix Multiplication](https://tinyurl.com/ycweccew)** | [Python](https://tinyurl.com/wu6rdaw/311_Sparse_Matrix_Multiplication.py), [Swift](https://tinyurl.com/wuja3c4/311_Sparse_Matrix_Multiplication.swift) | [Art 1](https://tinyurl.com/ycv24vc4), [Art 2](https://tinyurl.com/ycmqcfw9), [Art 3](https://tinyurl.com/y9az7nef), **[Art 4](https://tinyurl.com/y84lwkya)** | Medium | Very tricky  |
 
 
 </p>
@@ -437,6 +438,7 @@ Check this [golden](https://tinyurl.com/ujopecz) post.
 |38| **[865. Smallest Subtree with all the Deepest Nodes](https://tinyurl.com/y8cbxe4f)**| [Python](https://tinyurl.com/wu6rdaw/865_Smallest_Subtree_with_all_the_Deepest_Nodes.py), [Swift](https://tinyurl.com/wuja3c4/865_Smallest_Subtree_with_all_the_Deepest_Nodes.swift) | [Art 1](https://tinyurl.com/y9vq89jq), [Art 2](https://tinyurl.com/ydhfjr8t), [Art 3](https://tinyurl.com/y8z5p8u2), [Art 4](https://tinyurl.com/y8jm985p) | Medium | Vary ambigious question |
 |39| [1315. Sum of Nodes with Even-Valued Grandparent](https://tinyurl.com/y72q6hfn) | [Python](https://tinyurl.com/wu6rdaw/1315_Sum_of_Nodes_with_Even_Valued_Grandparent.py), [Swift](https://tinyurl.com/wuja3c4/1315_Sum_of_Nodes_with_Even_Valued_Grandparent.swift) | -- | Medium | -- |
 |40| [129. Sum Root to Leaf Numbers](https://tinyurl.com/yaxakdfs) | [Python](https://tinyurl.com/wu6rdaw/129_Sum_Root_to_Leaf_Numbers.py), [Swift](https://tinyurl.com/wuja3c4/129_Sum_Root_to_Leaf_Numbers.swift) | -- | Medium | -- |
+|41| [938. Range Sum of BST](https://tinyurl.com/r43zu3p) | [Python](https://tinyurl.com/wu6rdaw/938_Range_Sum_of_BST.py), [Swift](https://tinyurl.com/wuja3c4/938_Range_Sum_of_BST.swift) | -- | Medium | -- |
 
 </p>
 </details>
