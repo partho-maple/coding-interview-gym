@@ -240,6 +240,7 @@ I have solved quite a number of problems from several topics. See the below tabl
 |38| [819. Most Common Word](https://tinyurl.com/ydhwgc33) | [Python](https://tinyurl.com/wu6rdaw/819_Most_Common_Word.py), [Swift](https://tinyurl.com/wuja3c4/819_Most_Common_Word.swift) | [Art 1](https://tinyurl.com/y7u4pzeu) | Easy |  |
 |39| [350. Intersection of Two Arrays II](https://tinyurl.com/y9kdrubz) | [Python](https://tinyurl.com/wu6rdaw/350_Intersection_of_Two_Arrays_II.py), [Swift](https://tinyurl.com/wuja3c4/350_Intersection_of_Two_Arrays_II.swift) | --- | Easy | Check the follow-ups |
 |40| **[249. Group Shifted Strings](https://tinyurl.com/jsfd4l3)** | [Python](https://tinyurl.com/wu6rdaw/249_Group_Shifted_Strings.py), [Swift](https://tinyurl.com/wuja3c4/249_Group_Shifted_Strings.swift) | [Art 1](https://tinyurl.com/yd4ckev2) | Medium | Tricky one |
+|41| **[158. Read N Characters Given Read4 II - Call multiple times](https://tinyurl.com/y6snjozr)** | [Python](https://tinyurl.com/wu6rdaw/158_Read_N_Characters_Given_Read4_II_Call_multiple_times.py), [Swift](https://tinyurl.com/wuja3c4/158_Read_N_Characters_Given_Read4_II_Call_multiple_times.swift) | [Art 1](https://tinyurl.com/y5qu5dgz) | Hard | Good one |
 
 
 </p>
