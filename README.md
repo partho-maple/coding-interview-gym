@@ -384,6 +384,7 @@ I have solved quite a number of problems from several topics. See the below tabl
 |31| **[1231. Divide Chocolate](https://tinyurl.com/rduxzj3)** | [Python](https://tinyurl.com/wu6rdaw/1231_Divide_Chocolate.py), [Swift](https://tinyurl.com/wuja3c4/1231_Divide_Chocolate.swift) | [Art 1](https://tinyurl.com/sl7w7cb), [Art 2](https://tinyurl.com/w9wbcyl), [Art 3](https://tinyurl.com/te6wq5e) | Hard | I loved this problem. Very important |
 |32| **[1268. Search Suggestions System](https://tinyurl.com/ybwcd5nx)** | [Python](https://tinyurl.com/wu6rdaw/1268_Search_Suggestions_System.py), [Swift](https://tinyurl.com/wuja3c4/1268_Search_Suggestions_System.swift) | [Art 1](https://tinyurl.com/yac3kvrp), [Art 2](https://tinyurl.com/y9u3g66q), [Art 3](https://tinyurl.com/yc2u3mrx) | Medium | I loved this problem. Very versatile, ca be solved in a lot of different ways |
 |33| **[540. Single Element in a Sorted Array](https://tinyurl.com/y78xdorh)** | [Python](https://tinyurl.com/wu6rdaw/540_Single_Element_in_a_Sorted_Array.py), [Swift](https://tinyurl.com/wuja3c4/1268_Search_Suggestions_System.swift) |  | Medium | --- |
+|34| **[441. Arranging Coins](https://tinyurl.com/yaj6labj)** | [Python](https://tinyurl.com/wu6rdaw/441_Arranging_Coins.py), [Swift](https://tinyurl.com/wuja3c4/441_Arranging_Coins.swift) |  | Easy | --- |
 
 
 </p>
