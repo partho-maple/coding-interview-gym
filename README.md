@@ -570,6 +570,7 @@ BFS, DFS, Dijkstra, Floyd–Warshall, Bellman-Ford, Kruskal, Prim's, Minimum Spa
 |35| [997. Find the Town Judge](https://tinyurl.com/y7875kls) | [Python](https://tinyurl.com/wu6rdaw/997_Find_the_Town_Judge.py), [Swift](https://tinyurl.com/wuja3c4/997_Find_the_Town_Judge.swift) | --- | Easy |📌  |
 |36| [733. Flood Fill](https://tinyurl.com/y9pecfd8) | [Python](https://tinyurl.com/wu6rdaw/733_Flood_Fill.py), [Swift](https://tinyurl.com/wuja3c4/733_Flood_Fill.swift) | --- | Easy |📌  |
 |37| [339. Nested List Weight Sum](https://tinyurl.com/y53lt8ad) | [Python](https://tinyurl.com/wu6rdaw/339_Nested_List_Weight_Sum.py), [Swift](https://tinyurl.com/wuja3c4/339_Nested_List_Weight_Sum.swift) | --- | Easy |📌  |
+|38| [1026. Maximum Difference Between Node and Ancestor](https://tinyurl.com/y53lt8ad) | [Python](https://tinyurl.com/wu6rdaw/1026_Maximum_Difference_Between_Node_and_Ancestor.py), [Swift](https://tinyurl.com/wuja3c4/1026_Maximum_Difference_Between_Node_and_Ancestor.swift) | --- | Medium |📌  |
 
 
 </p>
