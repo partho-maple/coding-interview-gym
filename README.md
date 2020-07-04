@@ -572,6 +572,7 @@ BFS, DFS, Dijkstra, Floyd–Warshall, Bellman-Ford, Kruskal, Prim's, Minimum Spa
 |36| [733. Flood Fill](https://tinyurl.com/y9pecfd8) | [Python](https://tinyurl.com/wu6rdaw/733_Flood_Fill.py), [Swift](https://tinyurl.com/wuja3c4/733_Flood_Fill.swift) | --- | Easy |📌  |
 |37| [339. Nested List Weight Sum](https://tinyurl.com/y53lt8ad) | [Python](https://tinyurl.com/wu6rdaw/339_Nested_List_Weight_Sum.py), [Swift](https://tinyurl.com/wuja3c4/339_Nested_List_Weight_Sum.swift) | --- | Easy |📌  |
 |38| [1026. Maximum Difference Between Node and Ancestor](https://tinyurl.com/y53lt8ad) | [Python](https://tinyurl.com/wu6rdaw/1026_Maximum_Difference_Between_Node_and_Ancestor.py), [Swift](https://tinyurl.com/wuja3c4/1026_Maximum_Difference_Between_Node_and_Ancestor.swift) | --- | Medium |📌  |
+|39| [721. Accounts Merge](https://tinyurl.com/yaxzzqf9) | [Python](https://tinyurl.com/wu6rdaw/721_Accounts_Merge.py), [Swift](https://tinyurl.com/wuja3c4/721_Accounts_Merge.swift) | --- | Medium |📌 Loved it and hated it. Learned a lot. Very insightfull and tricky, deceiving problem. Be very carefull with your choice |
 
 
 </p>
