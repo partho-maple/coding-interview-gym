@@ -188,7 +188,7 @@ I have solved quite a number of problems from several topics. See the below tabl
 |75| **[166. Fraction to Recurring Decimal](https://tinyurl.com/ycweccew)** | [Python](https://tinyurl.com/wu6rdaw/166_Fraction_to_Recurring_Decimal.py), [Swift](https://tinyurl.com/wuja3c4/166_Fraction_to_Recurring_Decimal.swift) | [Art 1](https://tinyurl.com/ycuah9vj) | Medium | Hate this problem. Why do companies ask this shit!!!  |
 |75| **[311. Sparse Matrix Multiplication](https://tinyurl.com/y9lapcjx)** | [Python](https://tinyurl.com/wu6rdaw/311_Sparse_Matrix_Multiplication.py), [Swift](https://tinyurl.com/wuja3c4/311_Sparse_Matrix_Multiplication.swift) | [Art 1](https://tinyurl.com/ycv24vc4), [Art 2](https://tinyurl.com/ycmqcfw9), [Art 3](https://tinyurl.com/y9az7nef), **[Art 4](https://tinyurl.com/y84lwkya)** | Medium | Very tricky  |
 |76| **[896. Monotonic Array](https://tinyurl.com/y8a95fb6)** | [Python](https://tinyurl.com/wu6rdaw/896_Monotonic_Array.py), [Swift](https://tinyurl.com/wuja3c4/896_Monotonic_Array.swift) | --- | Eassy |  |
-|77| **[670. Maximum Swap](https://tinyurl.com/y2zhdd33)** | [Python](https://tinyurl.com/wu6rdaw/670_Maximum_Swap.py), [Swift](https://tinyurl.com/wuja3c4/670_Maximum_Swap.swift) | --- | Medium |  |
+|77| **[670. Maximum Swap](https://tinyurl.com/y2zhdd33)** | [Python](https://tinyurl.com/wu6rdaw/670_Maximum_Swap.py), [Swift](https://tinyurl.com/wuja3c4/670_Maximum_Swap.swift) | [Art 1](https://tinyurl.com/y8vqklj3) | Medium |  |
 
 
 </p>
