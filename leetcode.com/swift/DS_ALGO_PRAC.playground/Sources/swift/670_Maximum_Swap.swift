@@ -1,4 +1,5 @@
 import Foundation
+// Time: O(nlogn)
 class Solution {
     func maximumSwap(_ num: Int) -> Int {
         var digits: [Int] = String(num).compactMap{ $0.wholeNumberValue }
