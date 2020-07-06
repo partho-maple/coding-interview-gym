@@ -13,18 +13,12 @@ class Solution {
         while swapIdx < digits.count {
             if digits[swapIdx] != sortedDigits[swapIdx] {
                 let targetIdx = numIdxMap[sortedDigits[swapIdx]]!
-                print("targetIdx: \(targetIdx), swapIdx: \(targetIdx)")
-                digits.swapAt(targetIdx, targetIdx)
-//                (digits[swapIdx], digits[swapIdx]) = (digits[targetIdx], digits[swapIdx])
+                print("targetIdx: \(targetIdx), swapIdx: \(swapIdx)")
+                digits.swapAt(targetIdx, swapIdx)
                 break
             }
+            swapIdx += 1
         }
-        print("Digits: \(digits)")
         return Int(digits.reduce("") { $0 + String($1) }) ?? num
     }
 }
-
-/*
- 
- 12345678
- */

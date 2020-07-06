@@ -188,6 +188,7 @@ I have solved quite a number of problems from several topics. See the below tabl
 |75| **[166. Fraction to Recurring Decimal](https://tinyurl.com/ycweccew)** | [Python](https://tinyurl.com/wu6rdaw/166_Fraction_to_Recurring_Decimal.py), [Swift](https://tinyurl.com/wuja3c4/166_Fraction_to_Recurring_Decimal.swift) | [Art 1](https://tinyurl.com/ycuah9vj) | Medium | Hate this problem. Why do companies ask this shit!!!  |
 |75| **[311. Sparse Matrix Multiplication](https://tinyurl.com/y9lapcjx)** | [Python](https://tinyurl.com/wu6rdaw/311_Sparse_Matrix_Multiplication.py), [Swift](https://tinyurl.com/wuja3c4/311_Sparse_Matrix_Multiplication.swift) | [Art 1](https://tinyurl.com/ycv24vc4), [Art 2](https://tinyurl.com/ycmqcfw9), [Art 3](https://tinyurl.com/y9az7nef), **[Art 4](https://tinyurl.com/y84lwkya)** | Medium | Very tricky  |
 |76| **[896. Monotonic Array](https://tinyurl.com/y8a95fb6)** | [Python](https://tinyurl.com/wu6rdaw/896_Monotonic_Array.py), [Swift](https://tinyurl.com/wuja3c4/896_Monotonic_Array.swift) | --- | Eassy |  |
+|77| **[670. Maximum Swap](https://tinyurl.com/y2zhdd33)** | [Python](https://tinyurl.com/wu6rdaw/670_Maximum_Swap.py), [Swift](https://tinyurl.com/wuja3c4/670_Maximum_Swap.swift) | --- | Medium |  |
 
 
 </p>
@@ -726,6 +727,7 @@ BFS, DFS, Dijkstra, Floyd–Warshall, Bellman-Ford, Kruskal, Prim's, Minimum Spa
 |53| **[1477. Find Two Non-overlapping Sub-arrays Each With Target Sum](https://tinyurl.com/ybte7ydl)** | [Python](https://tinyurl.com/wu6rdaw/1477_Find_Two_Non_overlapping_Sub_arrays_Each_With_Target_Sum.py), [Swift](https://tinyurl.com/wuja3c4/1477_Find_Two_Non_overlapping_Sub_arrays_Each_With_Target_Sum.swift)| [Art 1](https://tinyurl.com/y7rshs2j), [Art 2](https://tinyurl.com/y8x7cgxl) | Medium | **Very interesting and deceiving and tricky problem. An unique combination of sliding window and DP** |
 |54| **[368. Largest Divisible Subset](https://tinyurl.com/ya8sv5jr)** | [Python](https://tinyurl.com/wu6rdaw/368_Largest_Divisible_Subset.py), [Swift](https://tinyurl.com/wuja3c4/368_Largest_Divisible_Subset.swift)| Official Solution | Medium | **Interesting problem.** |
 |55| **[523. Continuous Subarray Sum](https://tinyurl.com/y6ce49ln)** | [Python](https://tinyurl.com/wu6rdaw/523_Continuous_Subarray_Sum.py), [Swift](https://tinyurl.com/wuja3c4/523_Continuous_Subarray_Sum.swift)| **[Art 1](https://tinyurl.com/yb3ya47s)** | Medium | **Tricky to see the DP** |
+|56| **[689. Maximum Sum of 3 Non-Overlapping Subarrays](https://tinyurl.com/y9nlm8tg)** | [Python](https://tinyurl.com/wu6rdaw/689_Maximum_Sum_of_3_Non_Overlapping_Subarrays.py), [Swift](https://tinyurl.com/wuja3c4/689_Maximum_Sum_of_3_Non_Overlapping_Subarrays.swift)| **[Art 1](https://tinyurl.com/__)** | Hard | **Mainly, tricly array index manipulation. TODO: need to solve it in DP and sliding window approach** |
 
 
 </p>
