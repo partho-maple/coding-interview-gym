@@ -245,6 +245,7 @@ I have solved quite a number of problems from several topics. See the below tabl
 |40| **[249. Group Shifted Strings](https://tinyurl.com/jsfd4l3)** | [Python](https://tinyurl.com/wu6rdaw/249_Group_Shifted_Strings.py), [Swift](https://tinyurl.com/wuja3c4/249_Group_Shifted_Strings.swift) | [Art 1](https://tinyurl.com/yd4ckev2) | Medium | Tricky one |
 |41| **[158. Read N Characters Given Read4 II - Call multiple times](https://tinyurl.com/y6snjozr)** | [Python](https://tinyurl.com/wu6rdaw/158_Read_N_Characters_Given_Read4_II_Call_multiple_times.py), [Swift](https://tinyurl.com/wuja3c4/158_Read_N_Characters_Given_Read4_II_Call_multiple_times.swift) | [Art 1](https://tinyurl.com/y5qu5dgz) | Hard | Good one |
 |42| [415. Add Strings](https://tinyurl.com/y7cbq62x) | [Python](https://tinyurl.com/wu6rdaw/415_Add_Strings.py), [Swift](https://tinyurl.com/wuja3c4/415_Add_Strings.swift) | [Art 1](https://tinyurl.com/y6v9uj9o) | Easy | --- |
+|43| **[65. Valid Number](https://tinyurl.com/yb6zsj3b)** | [Python](https://tinyurl.com/wu6rdaw/65_Valid_Number.py), [Swift](https://tinyurl.com/wuja3c4/65_Valid_Number.swift) | [Art 1](https://tinyurl.com/ycotov9v) | HARD | A fucking difficult but important problem. Chack DFA approach |
 
 
 </p>
