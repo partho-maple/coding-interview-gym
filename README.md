@@ -191,6 +191,7 @@ I have solved quite a number of problems from several topics. See the below tabl
 |77| **[670. Maximum Swap](https://tinyurl.com/y2zhdd33)** | [Python](https://tinyurl.com/wu6rdaw/670_Maximum_Swap.py), [Swift](https://tinyurl.com/wuja3c4/670_Maximum_Swap.swift) | [Art 1](https://tinyurl.com/y8vqklj3) | Medium |  |
 |78| **[825. Friends Of Appropriate Ages](https://tinyurl.com/ycgnqxb8)** | [Python](https://tinyurl.com/wu6rdaw/825_Friends_Of_Appropriate_Ages.py), [Swift](https://tinyurl.com/wuja3c4/825_Friends_Of_Appropriate_Ages.swift) | [Art 1](https://tinyurl.com/yd4oal3l) | Medium | Think differently from a different angle. Loved this problem |
 |79| **[189. Rotate Array](https://tinyurl.com/yalocp9r)** | [Python](https://tinyurl.com/wu6rdaw/189_Rotate_Array.py), [Swift](https://tinyurl.com/wuja3c4/189_Rotate_Array.swift) | --- | Easy | Getting to inplace (O(n) time and O(1) space) solution is tricky. |
+|80| **[1004. Max Consecutive Ones III](https://tinyurl.com/ty23c3s)** | [Python](https://tinyurl.com/wu6rdaw/1004_Max_Consecutive_Ones_III.py), [Swift](https://tinyurl.com/wuja3c4/1004_Max_Consecutive_Ones_III.swift) | --- | Medium | Solution is tricky. |
 
 
 </p>
