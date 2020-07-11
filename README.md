@@ -582,6 +582,7 @@ BFS, DFS, Dijkstra, Floyd–Warshall, Bellman-Ford, Kruskal, Prim's, Minimum Spa
 |37| [339. Nested List Weight Sum](https://tinyurl.com/y53lt8ad) | [Python](https://tinyurl.com/wu6rdaw/339_Nested_List_Weight_Sum.py), [Swift](https://tinyurl.com/wuja3c4/339_Nested_List_Weight_Sum.swift) | --- | Easy |📌  |
 |38| [1026. Maximum Difference Between Node and Ancestor](https://tinyurl.com/y53lt8ad) | [Python](https://tinyurl.com/wu6rdaw/1026_Maximum_Difference_Between_Node_and_Ancestor.py), [Swift](https://tinyurl.com/wuja3c4/1026_Maximum_Difference_Between_Node_and_Ancestor.swift) | --- | Medium |📌  |
 |39| [721. Accounts Merge](https://tinyurl.com/yaxzzqf9) | [Python](https://tinyurl.com/wu6rdaw/721_Accounts_Merge.py), [Swift](https://tinyurl.com/wuja3c4/721_Accounts_Merge.swift) | --- | Medium |📌 Loved it and hated it. Learned a lot. Very insightfull and tricky, deceiving problem. Be very carefull with your choice |
+|40| [1123. Lowest Common Ancestor of Deepest Leaves](https://tinyurl.com/ybn3fg7l) | [Python](https://tinyurl.com/wu6rdaw/1123_Lowest_Common_Ancestor_of_Deepest_Leaves.py), [Swift](https://tinyurl.com/wuja3c4/1123_Lowest_Common_Ancestor_of_Deepest_Leaves.swift) | --- | Medium |📌 Loved it and hated it. |
 
 
 </p>
