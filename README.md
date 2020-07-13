@@ -193,6 +193,7 @@ I have solved quite a number of problems from several topics. See the below tabl
 |79| **[189. Rotate Array](https://tinyurl.com/yalocp9r)** | [Python](https://tinyurl.com/wu6rdaw/189_Rotate_Array.py), [Swift](https://tinyurl.com/wuja3c4/189_Rotate_Array.swift) | --- | Easy | Getting to inplace (O(n) time and O(1) space) solution is tricky. |
 |80| **[1004. Max Consecutive Ones III](https://tinyurl.com/ty23c3s)** | [Python](https://tinyurl.com/wu6rdaw/1004_Max_Consecutive_Ones_III.py), [Swift](https://tinyurl.com/wuja3c4/1004_Max_Consecutive_Ones_III.swift) | --- | Medium | Solution is tricky. |
 |81| **[498. Diagonal Traverse](https://tinyurl.com/yccvh3rq)** | [Python](https://tinyurl.com/wu6rdaw/498_Diagonal_Traverse.py), [Swift](https://tinyurl.com/wuja3c4/498_Diagonal_Traverse.swift) | --- | Medium | --- |
+|82| **[766. Toeplitz Matrix](https://tinyurl.com/s3z4lem)** | [Python](https://tinyurl.com/wu6rdaw/766_Toeplitz_Matrix.py), [Swift](https://tinyurl.com/wuja3c4/766_Toeplitz_Matrix.swift) | --- | Easy | --- |
 
 
 </p>
@@ -317,6 +318,7 @@ I have solved quite a number of problems from several topics. See the below tabl
 |15| **[71. Simplify Path](https://tinyurl.com/y9eqaxkh)** | [Python](https://tinyurl.com/wu6rdaw/71_Simplify_Path.py), [Swift](https://tinyurl.com/wuja3c4/71_Simplify_Path.swift)|  | Medium |  |
 |16| **[1249. Minimum Remove to Make Valid Parentheses](https://tinyurl.com/y73258qd)** | [Python](https://tinyurl.com/wu6rdaw/1249_Minimum_Remove_to_Make_Valid_Parentheses.py), [Swift](https://tinyurl.com/wuja3c4/1249_Minimum_Remove_to_Make_Valid_Parentheses.swift)| [Official](https://tinyurl.com/ycku9nbn) | Medium | Must check |
 |17| **[636. Exclusive Time of Functions](https://tinyurl.com/y7fkfomp)** | [Python](https://tinyurl.com/wu6rdaw/636_Exclusive_Time_of_Functions.py), [Swift](https://tinyurl.com/wuja3c4/636_Exclusive_Time_of_Functions.swift)| [Art 1](https://tinyurl.com/yd5rtdkl) | Medium | Must check |
+|18| **[921. Minimum Add to Make Parentheses Valid](https://tinyurl.com/wjv6txp)** | [Python](https://tinyurl.com/wu6rdaw/921_Minimum_Add_to_Make_Parentheses_Valid.py), [Swift](https://tinyurl.com/wuja3c4/921_Minimum_Add_to_Make_Parentheses_Valid.swift)| --- | Medium | --- |
 
 </p>
 </details>
