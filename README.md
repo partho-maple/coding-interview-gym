@@ -586,6 +586,7 @@ BFS, DFS, Dijkstra, Floyd–Warshall, Bellman-Ford, Kruskal, Prim's, Minimum Spa
 |39| [721. Accounts Merge](https://tinyurl.com/yaxzzqf9) | [Python](https://tinyurl.com/wu6rdaw/721_Accounts_Merge.py), [Swift](https://tinyurl.com/wuja3c4/721_Accounts_Merge.swift) | --- | Medium |📌 Loved it and hated it. Learned a lot. Very insightfull and tricky, deceiving problem. Be very carefull with your choice |
 |40| [1123. Lowest Common Ancestor of Deepest Leaves](https://tinyurl.com/ybn3fg7l) | [Python](https://tinyurl.com/wu6rdaw/1123_Lowest_Common_Ancestor_of_Deepest_Leaves.py), [Swift](https://tinyurl.com/wuja3c4/1123_Lowest_Common_Ancestor_of_Deepest_Leaves.swift) | --- | Medium |📌 Loved it and hated it. |
 |41| [419. Battleships in a Board](https://tinyurl.com/y9ag7c2o) | [Python](https://tinyurl.com/wu6rdaw/419_Battleships_in_a_Board.py), [Swift](https://tinyurl.com/wuja3c4/419_Battleships_in_a_Board.swift) | --- | Medium |📌 Union FInd and or DFS. |
+|42| [934. Shortest Bridge](https://tinyurl.com/yd2m8jn9) | [Python](https://tinyurl.com/wu6rdaw/934_Shortest_Bridge.py), [Swift](https://tinyurl.com/wuja3c4/934_Shortest_Bridge.swift) | [Art 1](https://tinyurl.com/ybwcd7fm) | Medium |📌 DFS and BFS |
 
 
 </p>
