@@ -528,6 +528,7 @@ Check this [golden](https://tinyurl.com/ujopecz) post.
 |04| [472. Concatenated Words](https://tinyurl.com/y9cv6dk5)| [Python](https://tinyurl.com/wu6rdaw/472_Concatenated_Words.py)| [Art 01](https://tinyurl.com/ycjm6fuo), [Art 02](https://tinyurl.com/ybvl3kbv)| Hard | Very important |
 |05| **[588. Design In-Memory File System](https://tinyurl.com/ya238cp4)** | [Python](https://tinyurl.com/wu6rdaw/588_Design_In_Memory_File_System.py)| --- | Hard | --- |
 |06| **[212. Word Search II](https://tinyurl.com/y8vcw472)** | [Python](https://tinyurl.com/wu6rdaw/212_Word_Search_II.py), [Swift](https://tinyurl.com/wuja3c4/212_Word_Search_II.swift) | [Art 1](https://tinyurl.com/y7td7eag) | Hard | --- |
+|07| **[1233. Remove Sub-Folders from the Filesystem](https://tinyurl.com/ybltz57l)** | [Python](https://tinyurl.com/wu6rdaw/1233_Remove_Sub_Folders_from_the_Filesystem.py), [Swift](https://tinyurl.com/wuja3c4/1233_Remove_Sub_Folders_from_the_Filesystem.swift) | [Art 1](https://tinyurl.com/ybae3tnm) | Medium | Didn't think of it as a trie. Good problem |
 
 </p>
 </details>
