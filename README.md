@@ -748,6 +748,7 @@ BFS, DFS, Dijkstra, Floyd–Warshall, Bellman-Ford, Kruskal, Prim's, Minimum Spa
 |54| **[368. Largest Divisible Subset](https://tinyurl.com/ya8sv5jr)** | [Python](https://tinyurl.com/wu6rdaw/368_Largest_Divisible_Subset.py), [Swift](https://tinyurl.com/wuja3c4/368_Largest_Divisible_Subset.swift)| Official Solution | Medium | **Interesting problem.** |
 |55| **[523. Continuous Subarray Sum](https://tinyurl.com/y6ce49ln)** | [Python](https://tinyurl.com/wu6rdaw/523_Continuous_Subarray_Sum.py), [Swift](https://tinyurl.com/wuja3c4/523_Continuous_Subarray_Sum.swift)| **[Art 1](https://tinyurl.com/yb3ya47s)** | Medium | **Tricky to see the DP** |
 |56| **[689. Maximum Sum of 3 Non-Overlapping Subarrays](https://tinyurl.com/y9nlm8tg)** | [Python](https://tinyurl.com/wu6rdaw/689_Maximum_Sum_of_3_Non_Overlapping_Subarrays.py), [Swift](https://tinyurl.com/wuja3c4/689_Maximum_Sum_of_3_Non_Overlapping_Subarrays.swift)| **[Art 1](https://tinyurl.com/__)** | Hard | **Mainly, tricly array index manipulation. TODO: need to solve it in DP and sliding window approach** |
+|57| **[338. Counting Bits](https://tinyurl.com/y5ly38nj)** | [Python](https://tinyurl.com/wu6rdaw/338_Counting_Bits.py), [Swift](https://tinyurl.com/wuja3c4/338_Counting_Bits.swift)|  | Medium | --- |
 
 
 </p>
