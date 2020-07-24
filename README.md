@@ -594,6 +594,7 @@ BFS, DFS, Dijkstra, Floyd–Warshall, Bellman-Ford, Kruskal, Prim's, Minimum Spa
 |43| [317. Shortest Distance from All Buildings](https://tinyurl.com/ybx7nqfu) | [Python](https://tinyurl.com/wu6rdaw/317_Shortest_Distance_from_All_Buildings.py), [Swift](https://tinyurl.com/wuja3c4/317_Shortest_Distance_from_All_Buildings.swift) | [Art 1](https://tinyurl.com/y6wxhuj8) | Hard |📌 BFS, a must do problem |
 |44| [93. Restore IP Addresses](https://tinyurl.com/y554o9ej) | [Python](https://tinyurl.com/wu6rdaw/93_Restore_IP_Addresses.py), [Swift](https://tinyurl.com/wuja3c4/93_Restore_IP_Addresses.swift) | --- | Medium |📌 A must do problem. Backtracking |
 |45| [1424. Diagonal Traverse II](https://tinyurl.com/y3n5k6e9) | [Python](https://tinyurl.com/wu6rdaw/1424_Diagonal_Traverse_II.py), [Swift](https://tinyurl.com/wuja3c4/1424_Diagonal_Traverse_II.swift) | --- | Medium |📌 Very interesting one. |
+|46| [364_Nested_List_Weight_Sum_II](https://tinyurl.com/w5d2ff4) | [Python](https://tinyurl.com/wu6rdaw/364_Nested_List_Weight_Sum_II.py), [Swift](https://tinyurl.com/wuja3c4/364_Nested_List_Weight_Sum_II.swift) | --- | Medium |📌 Hidden DFS |
 
 
 </p>
