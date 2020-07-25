@@ -400,6 +400,7 @@ I have solved quite a number of problems from several topics. See the below tabl
 |32| **[1268. Search Suggestions System](https://tinyurl.com/ybwcd5nx)** | [Python](https://tinyurl.com/wu6rdaw/1268_Search_Suggestions_System.py), [Swift](https://tinyurl.com/wuja3c4/1268_Search_Suggestions_System.swift) | [Art 1](https://tinyurl.com/yac3kvrp), [Art 2](https://tinyurl.com/y9u3g66q), [Art 3](https://tinyurl.com/yc2u3mrx) | Medium | I loved this problem. Very versatile, ca be solved in a lot of different ways |
 |33| **[540. Single Element in a Sorted Array](https://tinyurl.com/y78xdorh)** | [Python](https://tinyurl.com/wu6rdaw/540_Single_Element_in_a_Sorted_Array.py), [Swift](https://tinyurl.com/wuja3c4/1268_Search_Suggestions_System.swift) |  | Medium | --- |
 |34| **[441. Arranging Coins](https://tinyurl.com/yaj6labj)** | [Python](https://tinyurl.com/wu6rdaw/441_Arranging_Coins.py), [Swift](https://tinyurl.com/wuja3c4/441_Arranging_Coins.swift) |  | Easy | --- |
+|35| **[154. Find Minimum in Rotated Sorted Array II](https://tinyurl.com/y2tx3mow)** | [Python](https://tinyurl.com/wu6rdaw/154_Find_Minimum_in_Rotated_Sorted_Array_II.py), [Swift](https://tinyurl.com/wuja3c4/154_Find_Minimum_in_Rotated_Sorted_Array_II.swift) | [Art 1](https://tinyurl.com/y5on59nn) | Medium | **VERY IMPORTANT** |
 
 
 </p>
