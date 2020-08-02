@@ -783,7 +783,7 @@ BFS, DFS, Dijkstra, Floyd–Warshall, Bellman-Ford, Kruskal, Prim's, Minimum Spa
 |12| [260. Single Number III](https://tinyurl.com/y4hgvu2y)| [Python](https://tinyurl.com/wu6rdaw/260_Single_Number_III.py)| **[Educative.io](https://tinyurl.com/tdhj9eh)** | Medium | ⭐ Check again, very important  |
 |13| [476. Number Complement](https://tinyurl.com/tadg5uf)| [Python](https://tinyurl.com/wu6rdaw/476_Number_Complement.py)| **[Educative.io](https://tinyurl.com/ucwmq5n)** | Easy | ⭐ Check again  |
 |14| [832. Flipping an Image](https://tinyurl.com/uog7h9f)| [Python](https://tinyurl.com/wu6rdaw/832_Flipping_an_Image.py)| **[Educative.io](https://tinyurl.com/wyd8c4g)** | Easy | ⭐ Check again  |
-|15| [67. Add Binary](https://tinyurl.com/y6hbtal7)| [Python](https://tinyurl.com/wu6rdaw/67_Add_Binary.py), [Swift](https://tinyurl.com/wuja3c4/67_Add_Binary.swift) | **[Official](https://tinyurl.com/y7w7ry8e)**, [Art 1](https://tinyurl.com/yaxg48ag), [Art 2](https://tinyurl.com/y77e2ylc) | Easy | ⭐ Check again  |
+|15| [67. Add Binary](https://tinyurl.com/y6hbtal7)| [Python](https://tinyurl.com/wu6rdaw/67_Add_Binary.py), [Swift](https://tinyurl.com/wuja3c4/67_Add_Binary.swift) | **[Official](https://tinyurl.com/y7w7ry8e)**, [Art 1](https://tinyurl.com/yaxg48ag), [Art 2](https://tinyurl.com/y77e2ylc), [Vid 1](https://www.youtube.com/watch?v=NLKQEOgBAnw), [Vid 2](https://www.youtube.com/watch?v=qq64FrA2UXQ&feature=emb_title) | Easy (FUCK NO) | ⭐ Check again  |
 
 </p>
 </details>
@@ -1291,6 +1291,7 @@ Learn the following modules by heart. Just knowing all of the following items wi
 20. [Hacker’s Delight - BOOK](http://93.174.95.29/_ads/34DCB990FEBE54887C83E5F9534F1957)
 21. [Bitwise operators — Facts and Hacks](https://medium.com/@shashankmohabia/bitwise-operators-facts-and-hacks-903ca516f28c)
 22. [Signed number representations](https://en.wikipedia.org/wiki/Signed_number_representations)
+23. **[Vid 1](https://www.youtube.com/watch?v=NLKQEOgBAnw), [Vid 2](https://www.youtube.com/watch?v=qq64FrA2UXQ&feature=emb_title)**
 
 </p>
 </details>
