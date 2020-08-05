@@ -323,6 +323,7 @@ I have solved quite a number of problems from several topics. See the below tabl
 |16| **[1249. Minimum Remove to Make Valid Parentheses](https://tinyurl.com/y73258qd)** | [Python](https://tinyurl.com/wu6rdaw/1249_Minimum_Remove_to_Make_Valid_Parentheses.py), [Swift](https://tinyurl.com/wuja3c4/1249_Minimum_Remove_to_Make_Valid_Parentheses.swift)| [Official](https://tinyurl.com/ycku9nbn) | Medium | Must check |
 |17| **[636. Exclusive Time of Functions](https://tinyurl.com/y7fkfomp)** | [Python](https://tinyurl.com/wu6rdaw/636_Exclusive_Time_of_Functions.py), [Swift](https://tinyurl.com/wuja3c4/636_Exclusive_Time_of_Functions.swift)| [Art 1](https://tinyurl.com/yd5rtdkl) | Medium | Must check |
 |18| **[921. Minimum Add to Make Parentheses Valid](https://tinyurl.com/wjv6txp)** | [Python](https://tinyurl.com/wu6rdaw/921_Minimum_Add_to_Make_Parentheses_Valid.py), [Swift](https://tinyurl.com/wuja3c4/921_Minimum_Add_to_Make_Parentheses_Valid.swift)| --- | Medium | --- |
+|19| **[1209. Remove All Adjacent Duplicates in String II](https://tinyurl.com/y3e4gsgv)** | [Python](https://tinyurl.com/wu6rdaw/1209_Remove_All_Adjacent_Duplicates_in_String_II.py), [Swift](https://tinyurl.com/wuja3c4/1209_Remove_All_Adjacent_Duplicates_in_String_II.swift)| --- | Medium | --- |
 
 </p>
 </details>
