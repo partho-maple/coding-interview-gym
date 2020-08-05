@@ -1,4 +1,4 @@
-// brute force
+// Brute force
 // Time O((m+n)log(m+n)) | Space O(m+n)
 class Solution {
     func intervalIntersection(_ A: [[Int]], _ B: [[Int]]) -> [[Int]] {
@@ -7,7 +7,6 @@ class Solution {
             return mergedIntervals
         }
         mergedIntervals.sort(by: { $0[0] < $1[0] })
-        print(mergedIntervals)
         var intersections = [[Int]]()
         for i in 0..<(mergedIntervals.count - 1) {
             let currentInterval = mergedIntervals[i]
@@ -23,5 +22,27 @@ class Solution {
 }
 
 
-
-
+// Improved linear
+// Time O(m+n) | Space O(1)
+class Solution {
+    func intervalIntersection(_ A: [[Int]], _ B: [[Int]]) -> [[Int]] {
+        var intersactions = [[Int]]()
+        var (aIdx, bIdx) = (0, 0)
+        while aIdx < A.count && bIdx < B.count {
+            let (aInterval, bInterval) = (A[aIdx], B[bIdx])
+            if (aInterval[1] >= bInterval[0]) && (aInterval[0] <= bInterval[1]) {
+                let intersection = [max(aInterval[0], bInterval[0]), min(aInterval[1], bInterval[1])]
+                intersactions.append(intersection)
+            }
+            if aInterval[1] < bInterval[1] {
+                aIdx += 1
+            } else if aInterval[1] > bInterval[1] {
+                bIdx += 1
+            } else {
+                aIdx += 1
+                bIdx += 1
+            }
+        }
+        return intersactions
+    }
+}
