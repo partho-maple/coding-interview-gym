@@ -212,7 +212,7 @@ I have solved quite a number of problems from several topics. See the below tabl
 |03| [929. Unique Email Addresses](https://leetcode.com/problems/unique-email-addresses/)| [Python](https://tinyurl.com/wu6rdaw/929_Unique_Email_Addresses.py)|
 |04| [7. Reverse Integer](https://leetcode.com/problems/reverse-integer/)| [Python](https://tinyurl.com/wu6rdaw/7_Reverse_Integer.py)|
 |05| [13. Roman to Integer](https://leetcode.com/problems/roman-to-integer/)| [Python](https://tinyurl.com/wu6rdaw/13_Roman_to_Integer.py)|
-|06| [125. Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)| [Python](https://tinyurl.com/wu6rdaw/125_Valid_Palindrome.py)|
+|06| [125. Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)| [Python](https://tinyurl.com/wu6rdaw/125_Valid_Palindrome.py), [Swift](https://tinyurl.com/wuja3c4/125_Valid_Palindrome.swift) |
 |07| [161. One Edit Distance](https://leetcode.com/problems/one-edit-distance/)| [Python](https://tinyurl.com/wu6rdaw/161_One_Edit_Distance.py)|
 |08| [1119. Remove Vowels from a String](https://leetcode.com/problems/remove-vowels-from-a-string/)| [Python](https://tinyurl.com/wu6rdaw/1119_Remove_Vowels_from_a_String.py)|
 |09| [344. Reverse String](https://leetcode.com/problems/reverse-string/)| [Python](https://tinyurl.com/wu6rdaw/344_Reverse_String.py)|
