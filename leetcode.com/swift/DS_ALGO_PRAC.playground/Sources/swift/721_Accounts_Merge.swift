@@ -5,12 +5,7 @@ class Solution {
         var graph = [String: Set<String>]()
         for account in accounts {
             let (name, emails) = (account[0], account[1...])
-            // print("name: \(name)")
-            // print("emails: \(emails)")
             for email in emails {
-                // print("emails.first: \(emails.first!)")
-                // print("email: \(email)")
-                
                 if graph[emails.first!] == nil {
                     graph[emails.first!] = Set<String>()
                 }
@@ -22,10 +17,6 @@ class Solution {
                 emailToNameMap[email] = name
             }
         }
-        
-        // print("Graph: \(graph)")
-        // print("emailToNameMap: \(emailToNameMap)")
-        
         var seen = Set<String>()
         var result = [[String]]()
         for (node, _) in graph {
