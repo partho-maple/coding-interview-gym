@@ -1,4 +1,4 @@
-/*
+
 // Initial solution. Time complexity: O(n^2)
 class Solution {
     func checkSubarraySum(_ nums: [Int], _ k: Int) -> Bool {
@@ -24,34 +24,31 @@ class Solution {
         return false
     }
 }
- */
+
+
+
+// Time: O(n)
 // https://tinyurl.com/yb3ya47s
 class Solution {
     func checkSubarraySum(_ nums: [Int], _ k: Int) -> Bool {
-        guard nums.count > 1 else {return false}
-        
-        var prefixSum = 0
-        var remainderMap = [-1:0] // <index:remainder>, here remainder = prefixSum % k
-        for (endIdx, item) in nums.enumerated() {
-            prefixSum += item
+        var modMap = [Int:Int]()
+        var runningSum = 0
+        modMap[runningSum] = -1
+        for i in 0..<nums.count {
+            let num = nums[i]
+            runningSum += num
             if k != 0 {
-                prefixSum = prefixSum % abs(k)
+                runningSum %= k
+            }
+            if let prevIdx = modMap[runningSum] {
+                if i - prevIdx > 1 {
+                    return true
+                }
             } else {
-                if (prefixSum == 0) && (endIdx) >= 1 {
-                    return true
-                }
+                modMap[runningSum] = i
             }
-            
-            if let startIdx = remainderMap[prefixSum] {
-                if (endIdx - startIdx) > 1 {
-                    return true
-                }
-                if (k == 0) && (prefixSum == 0) && (endIdx - startIdx) > 1 {
-                    return true
-                }
-            }
-            remainderMap[prefixSum] = endIdx
         }
+        print(modMap)
         return false
     }
 }
