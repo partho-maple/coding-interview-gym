@@ -1,22 +1,16 @@
-import Foundation
-
-extension String {
-    var patternKey: String {
-        let asciiValue = self.unicodeScalars.map {Int($0.value)}
-        let diffValue = asciiValue.map {(26 + $0 - asciiValue[0]) % 26}
-        print("Diff Valets: \(diffValue)")
-        return diffValue.reduce("", {$0 + " \($1)"})
-    }
-}
-
 class Solution {
     func groupStrings(_ strings: [String]) -> [[String]] {
-        var groupMap = [Int:[String]]()
+        var groupMap = [String:[String]]()
         strings.forEach { string in
-            let patttern = string.patternKey
-            print(patttern)
-            groupMap[patttern] = (groupMap[patttern] ?? [String]()) + [string]
+            let patttern = getPatternKey(string)
+            groupMap[patttern, default: [String]()] += [string]
         }
         return Array(groupMap.values)
+    }
+    
+    func getPatternKey(_ string: String) -> String {
+        let asciiValues = string.unicodeScalars.map({ Int($0.value) })
+        let diffValue = asciiValues.map({ (26 + $0 - asciiValues[0]) % 26 })
+        return diffValue.reduce("", { $0 + " \($1)" })
     }
 }
