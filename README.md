@@ -602,6 +602,7 @@ BFS, DFS, Dijkstra, Floyd–Warshall, Bellman-Ford, Kruskal, Prim's, Minimum Spa
 |45| [1424. Diagonal Traverse II](https://tinyurl.com/y3n5k6e9) | [Python](https://tinyurl.com/wu6rdaw/1424_Diagonal_Traverse_II.py), [Swift](https://tinyurl.com/wuja3c4/1424_Diagonal_Traverse_II.swift) | --- | Medium |📌 Very interesting one. |
 |46| [364_Nested_List_Weight_Sum_II](https://tinyurl.com/w5d2ff4) | [Python](https://tinyurl.com/wu6rdaw/364_Nested_List_Weight_Sum_II.py), [Swift](https://tinyurl.com/wuja3c4/364_Nested_List_Weight_Sum_II.swift) | --- | Medium |📌 Hidden DFS |
 |47| [1245. Tree Diameter](https://tinyurl.com/yxq4uykv) | [Python](https://tinyurl.com/wu6rdaw/1245_Tree_Diameter.py), [Swift](https://tinyurl.com/wuja3c4/1245_Tree_Diameter.swift) | [Art 1](https://www.geeksforgeeks.org/longest-path-undirected-tree/) | Medium |📌 Learned, 2 BFS. Important and interesting |
+|48| [1376. Time Needed to Inform All Employees](https://tinyurl.com/y3e5bb22) | [Python](https://tinyurl.com/wu6rdaw/1376_Time_Needed_to_Inform_All_Employees.py), [Swift](https://tinyurl.com/wuja3c4/1376_Time_Needed_to_Inform_All_Employees.swift) | [Art 1](https://tinyurl.com/y2lw6s4j) | Medium |📌 BFS, DFS |
 
 
 </p>
