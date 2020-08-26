@@ -195,6 +195,7 @@ I have solved quite a number of problems from several topics. See the below tabl
 |81| **[498. Diagonal Traverse](https://tinyurl.com/yccvh3rq)** | [Python](https://tinyurl.com/wu6rdaw/498_Diagonal_Traverse.py), [Swift](https://tinyurl.com/wuja3c4/498_Diagonal_Traverse.swift) | --- | Medium | --- |
 |82| **[766. Toeplitz Matrix](https://tinyurl.com/s3z4lem)** | [Python](https://tinyurl.com/wu6rdaw/766_Toeplitz_Matrix.py), [Swift](https://tinyurl.com/wuja3c4/766_Toeplitz_Matrix.swift) | --- | Easy | --- |
 |83| **[1031. Maximum Sum of Two Non-Overlapping Subarrays](https://tinyurl.com/y3x46a5t)** | [Python](https://tinyurl.com/wu6rdaw/1031_Maximum_Sum_of_Two_Non_Overlapping_Subarrays.py), [Swift](https://tinyurl.com/wuja3c4/1031_Maximum_Sum_of_Two_Non_Overlapping_Subarrays.swift) | --- | Medium | PrefixSum |
+|84| **[1438. Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit](https://tinyurl.com/yysmvobr)** | [Python](https://tinyurl.com/wu6rdaw/1438_Longest_Continuous_Subarray_With_Absolute_Diff_Less_Than_or_Equal_to_Limit.py), [Swift](https://tinyurl.com/wuja3c4/1438_Longest_Continuous_Subarray_With_Absolute_Diff_Less_Than_or_Equal_to_Limit.swift) | (Art 1)[https://tinyurl.com/y69hjhjp], (Art 2)[https://tinyurl.com/y3h2fj2m] | Medium | Sliding window |
 
 
 </p>
