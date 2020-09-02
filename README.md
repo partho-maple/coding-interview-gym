@@ -253,6 +253,7 @@ I have solved quite a number of problems from several topics. See the below tabl
 |42| [415. Add Strings](https://tinyurl.com/y7cbq62x) | [Python](https://tinyurl.com/wu6rdaw/415_Add_Strings.py), [Swift](https://tinyurl.com/wuja3c4/415_Add_Strings.swift) | [Art 1](https://tinyurl.com/y6v9uj9o) | Easy | --- |
 |43| **[65. Valid Number](https://tinyurl.com/yb6zsj3b)** | [Python](https://tinyurl.com/wu6rdaw/65_Valid_Number.py), [Swift](https://tinyurl.com/wuja3c4/65_Valid_Number.swift) | [Art 1](https://tinyurl.com/ycotov9v) | HARD | A fucking difficult but important problem. Chack DFA approach |
 |44| **[791. Custom Sort String](https://tinyurl.com/yag8mcfd)** | [Python](https://tinyurl.com/wu6rdaw/791_Custom_Sort_String.py), [Swift](https://tinyurl.com/wuja3c4/791_Custom_Sort_String.swift) | --- | Medium | Loved this problem |
+|45| **[157. Read N Characters Given Read4](https://tinyurl.com/y5g49nqt)** | [Python](https://tinyurl.com/wu6rdaw/157_Read_N_Characte_Given_Read4.py), [Swift](https://tinyurl.com/wuja3c4/157_Read_N_Characte_Given_Read4.swift) | --- | Easy (Not So!) | Loved this problem |
 
 
 </p>
