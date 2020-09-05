@@ -463,6 +463,7 @@ Check this [golden](https://tinyurl.com/ujopecz) post.
 |39| [1315. Sum of Nodes with Even-Valued Grandparent](https://tinyurl.com/y72q6hfn) | [Python](https://tinyurl.com/wu6rdaw/1315_Sum_of_Nodes_with_Even_Valued_Grandparent.py), [Swift](https://tinyurl.com/wuja3c4/1315_Sum_of_Nodes_with_Even_Valued_Grandparent.swift) | -- | Medium | -- |
 |40| [129. Sum Root to Leaf Numbers](https://tinyurl.com/yaxakdfs) | [Python](https://tinyurl.com/wu6rdaw/129_Sum_Root_to_Leaf_Numbers.py), [Swift](https://tinyurl.com/wuja3c4/129_Sum_Root_to_Leaf_Numbers.swift) | -- | Medium | -- |
 |41| [938. Range Sum of BST](https://tinyurl.com/r43zu3p) | [Python](https://tinyurl.com/wu6rdaw/938_Range_Sum_of_BST.py), [Swift](https://tinyurl.com/wuja3c4/938_Range_Sum_of_BST.swift) | -- | Medium | -- |
+|42| [1305. All Elements in Two Binary Search Trees](https://tinyurl.com/undhmra) | [Python](https://tinyurl.com/wu6rdaw/1305_All_Elements_in_Two_Binary_Search_Trees.py), [Swift](https://tinyurl.com/wuja3c4/1305_All_Elements_in_Two_Binary_Search_Trees.swift) | -- | Medium | -- |
 
 </p>
 </details>
