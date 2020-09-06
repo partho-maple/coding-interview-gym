@@ -464,6 +464,7 @@ Check this [golden](https://tinyurl.com/ujopecz) post.
 |40| [129. Sum Root to Leaf Numbers](https://tinyurl.com/yaxakdfs) | [Python](https://tinyurl.com/wu6rdaw/129_Sum_Root_to_Leaf_Numbers.py), [Swift](https://tinyurl.com/wuja3c4/129_Sum_Root_to_Leaf_Numbers.swift) | -- | Medium | -- |
 |41| [938. Range Sum of BST](https://tinyurl.com/r43zu3p) | [Python](https://tinyurl.com/wu6rdaw/938_Range_Sum_of_BST.py), [Swift](https://tinyurl.com/wuja3c4/938_Range_Sum_of_BST.swift) | -- | Medium | -- |
 |42| [1305. All Elements in Two Binary Search Trees](https://tinyurl.com/undhmra) | [Python](https://tinyurl.com/wu6rdaw/1305_All_Elements_in_Two_Binary_Search_Trees.py), [Swift](https://tinyurl.com/wuja3c4/1305_All_Elements_in_Two_Binary_Search_Trees.swift) | -- | Medium | -- |
+|43| [536. Construct Binary Tree from String](https://tinyurl.com/yyl5vuh7) | [Python](https://tinyurl.com/wu6rdaw/536_Construct_Binary_Tree_from_String.py), [Swift](https://tinyurl.com/wuja3c4/536_Construct_Binary_Tree_from_String.swift) | -- | Medium | -- |
 
 </p>
 </details>
