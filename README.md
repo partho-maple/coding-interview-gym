@@ -16,8 +16,6 @@
 [![leetcode badge](https://leetcode-badge.chyroc.cn/?name=ParthoBiswas007&leetcode_badge_style=leetcode%20|%20submission-{{.accepted_submission_rate}}-{{%20if%20le%20.accepted_submission_rate_float%200.3}}red{{%20else%20if%20le%20.solved_question_rate_float%200.6}}green{{%20else%20}}yellow{{%20end%20}}.svg&refresh=true)](https://leetcode.com/ParthoBiswas007/)
 [![Travis](https://img.shields.io/badge/language-Swift-green.svg)]()
 [![Travis](https://img.shields.io/badge/language-Python-red.svg)]()
-![Total visitor](https://visitor-count-badge.herokuapp.com/total.svg?repo_id=69802909)
-![Visitors in today](https://visitor-count-badge.herokuapp.com/today.svg?repo_id=az69802909)
 
 
 <h4 align="center">This repo contains around 600 (500 Leetcode.com and 100 Algoexpert.io) problems in total, with solutions using Swift and Python</h4>
