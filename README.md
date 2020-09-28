@@ -607,6 +607,7 @@ BFS, DFS, Dijkstra, Floyd–Warshall, Bellman-Ford, Kruskal, Prim's, Minimum Spa
 |46| [364_Nested_List_Weight_Sum_II](https://tinyurl.com/w5d2ff4) | [Python](https://tinyurl.com/wu6rdaw/364_Nested_List_Weight_Sum_II.py), [Swift](https://tinyurl.com/wuja3c4/364_Nested_List_Weight_Sum_II.swift) | --- | Medium |📌 Hidden DFS |
 |47| [1245. Tree Diameter](https://tinyurl.com/yxq4uykv) | [Python](https://tinyurl.com/wu6rdaw/1245_Tree_Diameter.py), [Swift](https://tinyurl.com/wuja3c4/1245_Tree_Diameter.swift) | [Art 1](https://www.geeksforgeeks.org/longest-path-undirected-tree/) | Medium |📌 Learned, 2 BFS. Important and interesting |
 |48| [1376. Time Needed to Inform All Employees](https://tinyurl.com/y3e5bb22) | [Python](https://tinyurl.com/wu6rdaw/1376_Time_Needed_to_Inform_All_Employees.py), [Swift](https://tinyurl.com/wuja3c4/1376_Time_Needed_to_Inform_All_Employees.swift) | [Art 1](https://tinyurl.com/y2lw6s4j) | Medium |📌 BFS, DFS |
+|49| [286. Walls and Gates](https://tinyurl.com/y3ollzsl) | [Python](https://tinyurl.com/wu6rdaw/286_Walls_and_Gates.py), [Swift](https://tinyurl.com/wuja3c4/286_Walls_and_Gates.swift) | --- | Medium |📌 BFS, DFS |
 
 
 </p>
@@ -1135,6 +1136,8 @@ Check this **[Golden](https://tinyurl.com/uboo399)** posts first.
 15. [Amazon ও Google এ চাকরির সুযোগ পাওয়ার প্রস্তুতি পর্ব](https://tinyurl.com/t7dnzs8)
 16. [Coding Interviews](https://tinyurl.com/rofaykt)
 17. **[Tech Interview Handbook](https://tinyurl.com/rofaykt)**
+18. [Complete Introduction to the 30 Most Essential Data Structures & Algorithms](https://tinyurl.com/y6e8klgj)
+19. [How to Solve Any Code Challenge or Algorithm](https://tinyurl.com/y3staja5)
 
 </p>
 </details>
