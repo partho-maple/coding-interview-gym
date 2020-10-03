@@ -198,6 +198,7 @@ I have solved quite a number of problems from several topics. See the below tabl
 |86| **[914. X of a Kind in a Deck of Cards](https://tinyurl.com/y39y2k32)** | [Python](https://tinyurl.com/wu6rdaw/914_X_of_a_Kind_in_a_Deck_of_Cards.py), [Swift](https://tinyurl.com/wuja3c4/914_X_of_a_Kind_in_a_Deck_of_Cards.swift) | --- | Easy (Not So) |  |
 |87| **[1275. Find Winner on a Tic Tac Toe Game](https://tinyurl.com/y323arde)** | [Python](https://tinyurl.com/wu6rdaw/1275_Find_Winner_on_a_Tic_Tac_Toe_Game.py), [Swift](https://tinyurl.com/wuja3c4/1275_Find_Winner_on_a_Tic_Tac_Toe_Game.swift) | [Art 1](https://tinyurl.com/yyc54qj5) | Easy (Not So) |  |
 |88| **[532. K-diff Pairs in an Array](https://tinyurl.com/yyrhmynd)** | [Python](https://tinyurl.com/wu6rdaw/532_K-diff_Pairs_in_an_Array.py), [Swift](https://tinyurl.com/wuja3c4/532_K-diff_Pairs_in_an_Array.swift) | [Art 1](https://tinyurl.com/y5tg5aqd) | Medium |  |
+|89| **[128. Longest Consecutive Sequence](https://tinyurl.com/yxzab8pw)** | [Python](https://tinyurl.com/wu6rdaw/128_Longest_Consecutive_Sequence.py), [Swift](https://tinyurl.com/wuja3c4/128_Longest_Consecutive_Sequence.swift) | [Art 1](https://tinyurl.com/y5e34662) | Hard |  |
 
 
 </p>
