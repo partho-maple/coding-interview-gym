@@ -199,6 +199,7 @@ I have solved quite a number of problems from several topics. See the below tabl
 |87| **[1275. Find Winner on a Tic Tac Toe Game](https://tinyurl.com/y323arde)** | [Python](https://tinyurl.com/wu6rdaw/1275_Find_Winner_on_a_Tic_Tac_Toe_Game.py), [Swift](https://tinyurl.com/wuja3c4/1275_Find_Winner_on_a_Tic_Tac_Toe_Game.swift) | [Art 1](https://tinyurl.com/yyc54qj5) | Easy (Not So) |  |
 |88| **[532. K-diff Pairs in an Array](https://tinyurl.com/yyrhmynd)** | [Python](https://tinyurl.com/wu6rdaw/532_K-diff_Pairs_in_an_Array.py), [Swift](https://tinyurl.com/wuja3c4/532_K-diff_Pairs_in_an_Array.swift) | [Art 1](https://tinyurl.com/y5tg5aqd) | Medium |  |
 |89| **[128. Longest Consecutive Sequence](https://tinyurl.com/yxzab8pw)** | [Python](https://tinyurl.com/wu6rdaw/128_Longest_Consecutive_Sequence.py), [Swift](https://tinyurl.com/wuja3c4/128_Longest_Consecutive_Sequence.swift) | [Art 1](https://tinyurl.com/y5e34662) | Hard |  |
+|90| **[1423. Maximum Points You Can Obtain from Cards](https://tinyurl.com/yxry5n5b)** | [Python](https://tinyurl.com/wu6rdaw/1423_Maximum_Points_You_Can_Obtain_from_Cards.py), [Swift](https://tinyurl.com/wuja3c4/1423_Maximum_Points_You_Can_Obtain_from_Cards.swift) | [Art 1](https://tinyurl.com/y5mohcl3), [Art 2](https://tinyurl.com/y4d7p6wh) | Medium | Very important. Learned new ways of sliding window |
 
 
 </p>
