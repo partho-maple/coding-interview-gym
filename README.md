@@ -613,6 +613,7 @@ BFS, DFS, Dijkstra, Floyd–Warshall, Bellman-Ford, Kruskal, Prim's, Minimum Spa
 |47| [1245. Tree Diameter](https://tinyurl.com/yxq4uykv) | [Python](https://tinyurl.com/wu6rdaw/1245_Tree_Diameter.py), [Swift](https://tinyurl.com/wuja3c4/1245_Tree_Diameter.swift) | [Art 1](https://www.geeksforgeeks.org/longest-path-undirected-tree/) | Medium |📌 Learned, 2 BFS. Important and interesting |
 |48| [1376. Time Needed to Inform All Employees](https://tinyurl.com/y3e5bb22) | [Python](https://tinyurl.com/wu6rdaw/1376_Time_Needed_to_Inform_All_Employees.py), [Swift](https://tinyurl.com/wuja3c4/1376_Time_Needed_to_Inform_All_Employees.swift) | [Art 1](https://tinyurl.com/y2lw6s4j) | Medium |📌 BFS, DFS |
 |49| [286. Walls and Gates](https://tinyurl.com/y3ollzsl) | [Python](https://tinyurl.com/wu6rdaw/286_Walls_and_Gates.py), [Swift](https://tinyurl.com/wuja3c4/286_Walls_and_Gates.swift) | --- | Medium |📌 BFS, DFS |
+|50| [286. Walls and Gates](https://tinyurl.com/y2xk6r98) | [Python](https://tinyurl.com/wu6rdaw/1138_Alphabet_Board_Path.py), [Swift](https://tinyurl.com/wuja3c4/1138_Alphabet_Board_Path.swift) | --- | Medium |📌 BFS |
 
 
 </p>
