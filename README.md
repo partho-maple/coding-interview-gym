@@ -836,6 +836,7 @@ BFS, DFS, Dijkstra, Floyd–Warshall, Bellman-Ford, Kruskal, Prim's, Minimum Spa
 |13| **[319. Bulb Switcher](https://tinyurl.com/ycygg2ju)** | [Python](https://tinyurl.com/wu6rdaw/319_Bulb_Switcher.py)| [Art 1](https://tinyurl.com/y886rzfe), [Art 2](https://tinyurl.com/y9n7vo2x), [Art 3](https://tinyurl.com/ya3fookw) | Medium (Really!!??) | Are you fucking kidding me!! We are programmers, not math wizard. |
 |14| **[1344. Angle Between Hands of a Clock](https://tinyurl.com/yy3g8mg6)** | [Python](https://tinyurl.com/wu6rdaw/1344_Angle_Between_Hands_of_a_Clock.py), [Swift](https://tinyurl.com/wuja3c4/1344_Angle_Between_Hands_of_a_Clock.swift)| --- | Medium | FB really likes to ask tricky question. |
 |15| **[1276. Number of Burgers with No Waste of Ingredients](https://tinyurl.com/y4dl7mne)** | [Python](https://tinyurl.com/wu6rdaw/1276_Number_of_Burgers_with_No_Waste_of_Ingredients.py), [Swift](https://tinyurl.com/wuja3c4/1276_Number_of_Burgers_with_No_Waste_of_Ingredients.swift)| [Art 1](https://tinyurl.com/y2u668aa), [Art 2](https://tinyurl.com/y2u9nvre), [Art 3](https://tinyurl.com/yxdzbp9s) | Medium | Pure math |
+|16| **[777. Swap Adjacent in LR String](https://tinyurl.com/y2syu722)** | [Python](https://tinyurl.com/wu6rdaw/777_Swap_Adjacent_in_LR_String.py), [Swift](https://tinyurl.com/wuja3c4/777_Swap_Adjacent_in_LR_String.swift)| [Art 1](https://tinyurl.com/y6cfe8gy) | Medium | Brainteser |
 
 </p>
 </details>
