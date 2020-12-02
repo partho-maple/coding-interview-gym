@@ -619,6 +619,7 @@ BFS, DFS, Dijkstra, Floyd–Warshall, Bellman-Ford, Kruskal, Prim's, Minimum Spa
 |50| [1138. Alphabet Board Path](https://tinyurl.com/y2xk6r98) | [Python](https://tinyurl.com/wu6rdaw/1138_Alphabet_Board_Path.py), [Swift](https://tinyurl.com/wuja3c4/1138_Alphabet_Board_Path.swift) | --- | Medium |📌 BFS |
 |51| [690. Employee Importance](https://tinyurl.com/yyweuk43) | [Python](https://tinyurl.com/wu6rdaw/690_Employee_Importance.py), [Swift](https://tinyurl.com/wuja3c4/690_Employee_Importance.swift) | --- | Easy |📌 BFS |
 |52| **[1631. Path With Minimum Effort](https://tinyurl.com/y3nh25d9) **| [Python](https://tinyurl.com/wu6rdaw/1631_Path_With_Minimum_Effort.py), [Swift](https://tinyurl.com/wuja3c4/1631_Path_With_Minimum_Effort.swift) | --- | Medium |📌 BFS, DFS, Binary search |
+|53| **[547. Friend Circles](https://tinyurl.com/r39pov7) **| [Python](https://tinyurl.com/wu6rdaw/547_Friend_Circles.py), [Swift](https://tinyurl.com/wuja3c4/547_Friend_Circles.swift) | [Art 1](https://tinyurl.com/y6qm62wq), [Art 2](https://tinyurl.com/y2gk7dq4) | Medium |📌 BFS, DFS, Union Find |
 
 
 </p>
