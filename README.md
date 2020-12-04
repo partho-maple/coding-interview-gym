@@ -18,7 +18,7 @@
 [![Travis](https://img.shields.io/badge/language-Python-red.svg)]()
 
 
-<h4 align="center">This repo contains around 600 (500 Leetcode.com and 100 Algoexpert.io) problems in total, with solutions using Swift and Python</h4>
+<h4 align="center">This repo contains around 700 (600 Leetcode.com and 100 Algoexpert.io) problems in total, with solutions using Swift and Python</h4>
 
 <p align="center">
   This repo contains my solutions to algorithmic problems in <a href="https://leetcode.com/parthobiswas007/">leetcode.com</a> and <a href="https://www.algoexpert.io/questions">algoexpert.io</a> written in <b>Swift</b> and <b>Python</b>.
