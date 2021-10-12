@@ -12,8 +12,6 @@
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
-[![leetcode badge](https://leetcode-badge.chyroc.cn/?name=ParthoBiswas007&leetcode_badge_style=leetcode%20|%20solved/total-{{.solved_question}}/{{.all_question}}-{{if%20le%20.solved_question_rate_float%200.3}}red.svg{{else%20if%20le%20.solved_question_rate_float%200.5}}yellow.svg{{else}}green.svg{{end}}&refresh=true)](https://leetcode.com/ParthoBiswas007/)
-[![leetcode badge](https://leetcode-badge.chyroc.cn/?name=ParthoBiswas007&leetcode_badge_style=leetcode%20|%20submission-{{.accepted_submission_rate}}-{{%20if%20le%20.accepted_submission_rate_float%200.3}}red{{%20else%20if%20le%20.solved_question_rate_float%200.6}}green{{%20else%20}}yellow{{%20end%20}}.svg&refresh=true)](https://leetcode.com/ParthoBiswas007/)
 [![Travis](https://img.shields.io/badge/language-Swift-green.svg)]()
 [![Travis](https://img.shields.io/badge/language-Python-red.svg)]()
 
@@ -1458,5 +1456,5 @@ Learn the following modules by heart. Just knowing all of the following items wi
 [license-shield]: https://img.shields.io/github/license/partho-maple/coding-interview-gym.svg?style=flat
 [license-url]: https://github.com/partho-maple/coding-interview-gym/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg??style=flat&logo=linkedin&colorB=555
-[linkedin-url]: https://www.linkedin.com/in/partho-maple/
+[linkedin-url]: https://www.linkedin.com/in/partho-biswas/
 [product-screenshot]: images/screenshot.png
