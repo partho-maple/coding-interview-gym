@@ -336,6 +336,7 @@ I have solved quite a number of problems from several topics. See the below tabl
 |18| **[921. Minimum Add to Make Parentheses Valid](https://tinyurl.com/wjv6txp)** | [Python](https://tinyurl.com/wu6rdaw/921_Minimum_Add_to_Make_Parentheses_Valid.py), [Swift](https://tinyurl.com/wuja3c4/921_Minimum_Add_to_Make_Parentheses_Valid.swift)| --- | Medium | --- |
 |19| **[1209. Remove All Adjacent Duplicates in String II](https://tinyurl.com/y3e4gsgv)** | [Python](https://tinyurl.com/wu6rdaw/1209_Remove_All_Adjacent_Duplicates_in_String_II.py), [Swift](https://tinyurl.com/wuja3c4/1209_Remove_All_Adjacent_Duplicates_in_String_II.swift)| --- | Medium | --- |
 |20| **[227. Basic Calculator II](https://tinyurl.com/y5g4u5by)** | [Python](https://tinyurl.com/wu6rdaw/227_Basic_Calculator_II.py), [Swift](https://tinyurl.com/wuja3c4/227_Basic_Calculator_II.swift)| [Art 1](https://tinyurl.com/y3dnn3zl) | Medium | --- |
+|21| **[735. Asteroid Collision](https://tinyurl.com/y2dvawxw)** | [Swift](https://tinyurl.com/wuja3c4/735_Asteroid_Collision.swift)| [Vid 1](https://tinyurl.com/yf8s4ok7), [Art 1](https://tinyurl.com/yzkbhhh6), [Art 1](https://tinyurl.com/yja9dyz4) | Medium | --- |
 
 </p>
 </details>
