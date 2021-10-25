@@ -259,6 +259,7 @@ I have solved quite a number of problems from several topics. See the below tabl
 |45| **[157. Read N Characters Given Read4](https://tinyurl.com/y5g49nqt)** | [Python](https://tinyurl.com/wu6rdaw/157_Read_N_Characte_Given_Read4.py), [Swift](https://tinyurl.com/wuja3c4/157_Read_N_Characte_Given_Read4.swift) | --- | Easy (Not So!) | Loved this problem |
 |46| **[722. Remove Comments](https://tinyurl.com/y288v3lv)** | [Python](https://tinyurl.com/wu6rdaw/722_Remove_Comments.py), [Swift](https://tinyurl.com/wuja3c4/722_Remove_Comments.swift) | [Art 1](https://tinyurl.com/y56j4p76) | Medium |  |
 |47| **[443. String Compression](https://tinyurl.com/ybll48vn)** | [Python](https://tinyurl.com/wu6rdaw/443_String_Compression.py), [Swift](https://tinyurl.com/wuja3c4/443_String_Compression.swift) | [Art 1](https://tinyurl.com/y5knbkcd) | Medium |  |
+|48| **[1525_Number_of_Good_Ways_to_Split_a_String](https://tinyurl.com/yzree7us)** | [Swift](https://tinyurl.com/wuja3c4/1525_Number_of_Good_Ways_to_Split_a_String.swift) | --- | Medium |  |
 
 
 </p>
