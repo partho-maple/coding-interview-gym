@@ -474,6 +474,7 @@ Check this [golden](https://tinyurl.com/ujopecz) post.
 |42| [1305. All Elements in Two Binary Search Trees](https://tinyurl.com/undhmra) | [Python](https://tinyurl.com/wu6rdaw/1305_All_Elements_in_Two_Binary_Search_Trees.py), [Swift](https://tinyurl.com/wuja3c4/1305_All_Elements_in_Two_Binary_Search_Trees.swift) | -- | Medium | -- |
 |43| [536. Construct Binary Tree from String](https://tinyurl.com/yyl5vuh7) | [Python](https://tinyurl.com/wu6rdaw/536_Construct_Binary_Tree_from_String.py), [Swift](https://tinyurl.com/wuja3c4/536_Construct_Binary_Tree_from_String.swift) | -- | Medium | -- |
 |44| [652. Find Duplicate Subtrees](https://tinyurl.com/y5zt6392) | [Python](https://tinyurl.com/wu6rdaw/652_Find_Duplicate_Subtrees.py), [Swift](https://tinyurl.com/wuja3c4/652_Find_Duplicate_Subtrees.swift) | -- | Medium | -- |
+|45| [366. Find Leaves of Binary Tree](https://tinyurl.com/yjaqjjyc) | [Swift](https://tinyurl.com/wuja3c4/366_Find_Leaves_of_Binary_Tree.swift) | -- | Medium | -- |
 
 </p>
 </details>
