@@ -781,6 +781,7 @@ BFS, DFS, Dijkstra, Floyd–Warshall, Bellman-Ford, Kruskal, Prim's, Minimum Spa
 |57| **[338. Counting Bits](https://tinyurl.com/y5ly38nj)** | [Python](https://tinyurl.com/wu6rdaw/338_Counting_Bits.py), [Swift](https://tinyurl.com/wuja3c4/338_Counting_Bits.swift)|  | Medium | --- |
 |58| **[1269. Number of Ways to Stay in the Same Place After Some Steps](https://tinyurl.com/y43jo8j3)** | [Python](https://tinyurl.com/wu6rdaw/1269_Number_of_Ways_to_Stay_in_the_Same_Place_After_Some_Steps.py), [Swift](https://tinyurl.com/wuja3c4/1269_Number_of_Ways_to_Stay_in_the_Same_Place_After_Some_Steps.swift)| [Art 1](https://tinyurl.com/yynv9xe2) | Hard | Loved the problem. Very versatile |
 |59| **[1277. Count Square Submatrices with All Ones](https://tinyurl.com/y6a82a9r)** | [Python](https://tinyurl.com/wu6rdaw/1277_Count_Square_Submatrices_with_All_Ones.py), [Swift](https://tinyurl.com/wuja3c4/1277_Count_Square_Submatrices_with_All_Ones.swift)| [Must](https://tinyurl.com/y4sa8zgk) | Medium | --- |
+|59| [418. Sentence Screen Fitting](https://tinyurl.com/yhtu7lld) | [Swift](https://tinyurl.com/wuja3c4/418_Sentence_Screen_Fitting.swift)| [Art 1](https://tinyurl.com/yh4xt84c) | Medium | --- |
 
 
 </p>
