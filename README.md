@@ -20,10 +20,6 @@
 
 <p align="center">
   This repo contains my solutions to algorithmic problems in <a href="https://leetcode.com/parthobiswas007/">leetcode.com</a> and <a href="https://www.algoexpert.io/questions">algoexpert.io</a> written in <b>Swift</b> and <b>Python</b>.
-  </br>
-  Here is my <a href="https://leetcode.com/parthobiswas007/">leetcode profile</a>
-  </br>
-  <a href="https://certificate.algoexpert.io/AE-ea0a67c587">And my Algoexpert.io certificate of completion</a>
 </p>
 
 <h4 align="center">Show your support by giving it a STAR</h4>
@@ -68,9 +64,6 @@ I have solved quite a number of problems from several topics. See the below tabl
 
 - [Leetcode](https://leetcode.com)
 - [Algoexpert.io](Algoexpert.io)
-- Glassdoor
-- Interviews
-- ...
 
 ## My other related repos
 
@@ -90,7 +83,6 @@ I have solved quite a number of problems from several topics. See the below tabl
 - Check this **[Golden](https://tinyurl.com/uboo399)** post first.
 - Whenever you solve a new question with some new techniques/algorithms, try to solve atleast 2 similar problem in a row. This way, your understanding to the new techniques/algorithms will be better.
 - Solve all [leetcode cards](https://leetcode.com/explore/learn/)
-- ...
 
 
 ---
