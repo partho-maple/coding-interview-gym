@@ -192,6 +192,7 @@ I have solved quite a number of problems from several topics. See the below tabl
 |90| **[1423. Maximum Points You Can Obtain from Cards](https://tinyurl.com/yxry5n5b)** | [Python](https://tinyurl.com/wu6rdaw/1423_Maximum_Points_You_Can_Obtain_from_Cards.py), [Swift](https://tinyurl.com/wuja3c4/1423_Maximum_Points_You_Can_Obtain_from_Cards.swift) | [Art 1](https://tinyurl.com/y5mohcl3), [Art 2](https://tinyurl.com/y4d7p6wh) | Medium | Very important. Learned new ways of sliding window |
 |91| [900. RLE Iterator](https://tinyurl.com/yxry5n5b) | [Python](https://tinyurl.com/wu6rdaw/900_RLE_Iterator.py), [Swift](https://tinyurl.com/wuja3c4/900_RLE_Iterator.swift) | --- | Medium | - |
 |92| [954. Array of Doubled Pairs](https://tinyurl.com/yftjpl7m) | [Swift](https://tinyurl.com/wuja3c4/954_Array_of_Doubled_Pairs.swift) | --- | Medium | - |
+|93| [853. Car Fleet](https://tinyurl.com/y5h6ggg9) | [Swift](https://tinyurl.com/wuja3c4/853_Car_Fleet.swift) | [Vid 1](https://tinyurl.com/yh628kc9), [Art 1](https://tinyurl.com/ykyq2os5) ] | Medium | - |
 
 
 </p>
