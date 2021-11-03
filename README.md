@@ -191,6 +191,7 @@ I have solved quite a number of problems from several topics. See the below tabl
 |89| **[128. Longest Consecutive Sequence](https://tinyurl.com/yxzab8pw)** | [Python](https://tinyurl.com/wu6rdaw/128_Longest_Consecutive_Sequence.py), [Swift](https://tinyurl.com/wuja3c4/128_Longest_Consecutive_Sequence.swift) | [Art 1](https://tinyurl.com/y5e34662) | Hard |  |
 |90| **[1423. Maximum Points You Can Obtain from Cards](https://tinyurl.com/yxry5n5b)** | [Python](https://tinyurl.com/wu6rdaw/1423_Maximum_Points_You_Can_Obtain_from_Cards.py), [Swift](https://tinyurl.com/wuja3c4/1423_Maximum_Points_You_Can_Obtain_from_Cards.swift) | [Art 1](https://tinyurl.com/y5mohcl3), [Art 2](https://tinyurl.com/y4d7p6wh) | Medium | Very important. Learned new ways of sliding window |
 |91| [900. RLE Iterator](https://tinyurl.com/yxry5n5b) | [Python](https://tinyurl.com/wu6rdaw/900_RLE_Iterator.py), [Swift](https://tinyurl.com/wuja3c4/900_RLE_Iterator.swift) | --- | Medium | - |
+|92| [954. Array of Doubled Pairs](https://tinyurl.com/yftjpl7m) | [Swift](https://tinyurl.com/wuja3c4/954_Array_of_Doubled_Pairs.swift) | --- | Medium | - |
 
 
 </p>
