@@ -362,6 +362,7 @@ I have solved quite a number of problems from several topics. See the below tabl
 |17| **[846. Hand of Straights](https://tinyurl.com/y2hfqqsv)** | [Python](https://tinyurl.com/wu6rdaw/846_Hand_of_Straights.py)| **[Art 1](https://tinyurl.com/w8pkf55)** | Medium | 📌 TODO: Check again. Very important |
 |18| **[1167. Minimum Cost to Connect Sticks](https://tinyurl.com/y8s5s8pq)** | [Python](https://tinyurl.com/wu6rdaw/1167_Minimum_Cost_to_Connect_Sticks.py)| [Art 1](https://tinyurl.com/ycedphuh) | Medium |  |
 |19| **[1102. Path With Maximum Minimum Value](https://tinyurl.com/y7zqxqpq)** | [Python](https://tinyurl.com/wu6rdaw/1102_Path_With_Maximum_Minimum_Value.py)| [Art 1](https://tinyurl.com/yb7p48lk), [Art 2](https://tinyurl.com/ya34o3z2), [Art 3](https://tinyurl.com/y99bhurp) | Medium | Dijekstra |
+|20| **[1834. Single-Threaded CPU](https://tinyurl.com/yk66fo4v)** | [Swift](https://tinyurl.com/wuja3c4/1834_Single_Threaded_CPU.swift) | [Art 1](https://tinyurl.com/yjbn9uzs) | Medium | --- |
 
 </p>
 </details>
