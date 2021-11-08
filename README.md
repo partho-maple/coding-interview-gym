@@ -193,6 +193,7 @@ I have solved quite a number of problems from several topics. See the below tabl
 |91| [900. RLE Iterator](https://tinyurl.com/yxry5n5b) | [Python](https://tinyurl.com/wu6rdaw/900_RLE_Iterator.py), [Swift](https://tinyurl.com/wuja3c4/900_RLE_Iterator.swift) | --- | Medium | - |
 |92| [954. Array of Doubled Pairs](https://tinyurl.com/yftjpl7m) | [Swift](https://tinyurl.com/wuja3c4/954_Array_of_Doubled_Pairs.swift) | --- | Medium | - |
 |93| [853. Car Fleet](https://tinyurl.com/y5h6ggg9) | [Swift](https://tinyurl.com/wuja3c4/853_Car_Fleet.swift) | [Vid 1](https://tinyurl.com/yh628kc9), [Art 1](https://tinyurl.com/ykyq2os5) ] | Medium | - |
+|94| [1877. Minimize Maximum Pair Sum in Array](https://tinyurl.com/yj2fbqu3) | [Swift](https://tinyurl.comz/wuja3c4/1877_Minimize_Maximum_Pair_Sum_in_Array.swift) | [Art 1](https://tinyurl.com/ygbnautj) ] | Medium | - |
 
 
 </p>
@@ -617,7 +618,7 @@ BFS, DFS, Dijkstra, Floyd–Warshall, Bellman-Ford, Kruskal, Prim's, Minimum Spa
 |51| [690. Employee Importance](https://tinyurl.com/yyweuk43) | [Python](https://tinyurl.com/wu6rdaw/690_Employee_Importance.py), [Swift](https://tinyurl.com/wuja3c4/690_Employee_Importance.swift) | --- | Easy |📌 BFS |
 |52| **[1631. Path With Minimum Effort](https://tinyurl.com/y3nh25d9)** | [Python](https://tinyurl.com/wu6rdaw/1631_Path_With_Minimum_Effort.py), [Swift](https://tinyurl.com/wuja3c4/1631_Path_With_Minimum_Effort.swift) | --- | Medium |📌 BFS, DFS, Binary search |
 |53| **[547. Friend Circles](https://tinyurl.com/r39pov7)** | [Python](https://tinyurl.com/wu6rdaw/547_Friend_Circles.py), [Swift](https://tinyurl.com/wuja3c4/547_Friend_Circles.swift) | [Art 1](https://tinyurl.com/y6qm62wq), [Art 2](https://tinyurl.com/y2gk7dq4) | Medium |📌 BFS, DFS, Union Find |
-|53| **[1254. Number of Closed Islands](https://tinyurl.com/r39pov7)** | [Swift](https://tinyurl.com/wuja3c4/1254_Number_of_Closed_Islands.swift) | [Art 1](https://tinyurl.com/y6qm62wq), [Art 2](https://tinyurl.com/y2gk7dq4) | Medium |📌 BFS, DFS, Union Find |
+|53| **[1254. Number of Closed Islands](https://tinyurl.com/r39pov7)** | [Swift](https://tinyurl.com/wuja3c4/1254_Number_of_Closed_Islands.swift) | [Art 1](https://tinyurl.com/yzedwp3y), [Art 2](https://tinyurl.com/ye5jolg7) | Medium |📌 BFS, DFS, Union Find |
 
 
 </p>
