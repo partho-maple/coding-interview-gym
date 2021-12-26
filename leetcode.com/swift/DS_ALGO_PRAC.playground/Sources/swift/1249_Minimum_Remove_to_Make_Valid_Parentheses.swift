@@ -28,3 +28,43 @@ class Solution {
         return resultString
     }
 }
+
+
+
+class Solution {
+    func minRemoveToMakeValid(_ s: String) -> String {
+        var sArray = Array(s), stack = [Character](), leftCount = 0, rightCount = 0
+
+        for item in sArray {
+            if item == "(" {
+                stack.append(item)
+                leftCount += 1
+            } else if item == ")" {
+                if leftCount > 0 {
+                    stack.append(item)
+                    leftCount -= 1
+                }
+            } else {
+                stack.append(item)
+            }
+        }
+        
+        sArray = stack
+        stack.removeAll()
+        
+        for item in sArray.reversed() {
+            if item == "(" {
+                if rightCount > 0 {
+                    stack.append(item)
+                    rightCount -= 1
+                }
+            } else if item == ")" {
+                stack.append(item)
+                rightCount += 1
+            } else {
+                stack.append(item)
+            }
+        }
+        return stack.reversed().reduce("") { $0 + String($1) }
+    }
+}

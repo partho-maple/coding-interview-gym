@@ -16,3 +16,22 @@ class Solution {
         return stack.count
     }
 }
+
+
+class Solution {
+    func minAddToMakeValid(_ s: String) -> Int {
+        var stack = [Character](), count = 0
+        for char in s {
+            if char == Character("(") {
+                stack.append(char)
+            } else if char == Character(")") {
+                if !stack.isEmpty && stack.last! == Character("(") {
+                    stack.removeLast()
+                } else {
+                    count += 1
+                }
+            }
+        }
+        return count + stack.count
+    }
+}

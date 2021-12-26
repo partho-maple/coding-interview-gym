@@ -12,7 +12,6 @@ public class Node {
     }
 }
 
-import Foundation
 class Solution {
     func treeToDoublyList(_ root: Node?) -> Node? {
         guard let rootNode = root else {
@@ -40,4 +39,33 @@ class Solution {
         listTail = rootNode
         treeToDoublyListInorderDFSHelper(rootNode.right, &listHead, &listTail)
      }
+}
+
+// More cleaner version than the above
+class Solution {
+    func treeToDoublyList(_ root: Node?) -> Node? {
+        guard let root = root else {
+            return nil
+        }
+        var first: Node? = nil, last: Node? = nil // first is the smallest and last is the largest
+        treeToDoublyListInorderDFSHelper(root, &first, &last)
+        first!.left = last
+        last!.right = first
+        return first
+    }
+    
+    func treeToDoublyListInorderDFSHelper(_ root: Node?, _ first: inout Node?, _ last: inout Node?) {
+        guard let root = root else {
+            return
+        }
+        treeToDoublyListInorderDFSHelper(root.left, &first, &last)
+        if last != nil {
+            root.left = last
+            last!.right = root
+        } else {
+            first = root
+        }
+        last = root
+        treeToDoublyListInorderDFSHelper(root.right, &first, &last)
+    }
 }
