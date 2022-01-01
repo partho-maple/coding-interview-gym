@@ -1,6 +1,6 @@
-
 import Foundation
 
+// My first attempt
 class Solution {
     func nextPermutation(_ nums: inout [Int]) {
         guard nums.count >= 2 else {
@@ -8,8 +8,7 @@ class Solution {
         }
         
         for leftIdx in stride(from:(nums.count - 2), through:0, by:-1) {
-            var leftNum = nums[leftIdx]
-            var rightNum = nums[leftIdx + 1]
+            let leftNum = nums[leftIdx], rightNum = nums[leftIdx + 1]
             if leftNum < rightNum {
                 var swapIdx = leftIdx + 1
                 for i in (swapIdx..<nums.count) {
@@ -23,5 +22,31 @@ class Solution {
             }
         }
         nums.reverse()
+    }
+}
+
+
+// My second attempt
+class Solution {
+    func nextPermutation(_ nums: inout [Int]) {
+        guard nums.count > 1 else {
+            return
+        }
+        for rightIdx in stride(from: nums.count - 1, through: 1, by: -1) {
+            let rightNum = nums[rightIdx], leftNum = nums[rightIdx - 1]
+            if rightNum > leftNum {
+                var swapIdx = rightIdx, nextGraterNum = rightNum
+                for j in swapIdx..<nums.count {
+                    if leftNum < nums[j] && nums[j] < nextGraterNum  {
+                        swapIdx = j
+                        nextGraterNum = nums[j]
+                    }
+                }
+                nums.swapAt(rightIdx - 1, swapIdx)
+                nums[rightIdx..<nums.count].sort()
+                return
+            }
+        }
+        nums.sort()
     }
 }

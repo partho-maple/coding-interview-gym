@@ -14,6 +14,8 @@ import Foundation
  *     }
  * }
  */
+
+// DFS
 class Solution {
     func rightSideView(_ root: TreeNode?) -> [Int] {
         guard var root = root else {
@@ -35,5 +37,33 @@ class Solution {
         }
         rightSideViewDFSHelper(root.right, currentDepth + 1, &maxDepthSoFar, &rightView)
         rightSideViewDFSHelper(root.left, currentDepth + 1, &maxDepthSoFar, &rightView)
+    }
+}
+
+
+// BFS with level size measurement
+class Solution {
+    func rightSideView(_ root: TreeNode?) -> [Int] {
+        guard let root = root else {
+            return []
+        }
+        var result = [Int](), queue = [TreeNode](), currentLevelLength = 1
+        queue.append(root)
+        while !queue.isEmpty {
+            var rightMostNode = Int.min, currentLevelLength = queue.count
+            while currentLevelLength > 0 {
+                let node = queue.removeFirst()
+                rightMostNode = node.val
+                currentLevelLength -= 1
+                if let left = node.left {
+                    queue.append(left)
+                }
+                if let right = node.right {
+                    queue.append(right)
+                }
+            }
+            result.append(rightMostNode)
+        }
+        return result
     }
 }
