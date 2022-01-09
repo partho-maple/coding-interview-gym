@@ -54,3 +54,32 @@ class Solution {
         return node.left == nil && node.right == nil
     }
 }
+
+
+// Second try
+class Solution {
+    func sumNumbers(_ root: TreeNode?) -> Int {
+        var currentPath = [Int](), currentSum = 0
+        sumNumbersDFSHelper(root, currentPath, &currentSum)
+        return currentSum
+    }
+
+    func sumNumbersDFSHelper(_ root: TreeNode?, _ currentPath: [Int], _ currentSum: inout Int) {
+        guard let root = root else {
+            return
+        }
+
+        if root.left == nil && root.right == nil {
+            let currentPath = currentPath + [root.val]
+            let currentNumStr = currentPath.reduce("") { $0 + String($1) }
+            let currentNum = Int(currentNumStr)
+            currentSum += currentNum!
+        }
+        if let left = root.left {
+            sumNumbersDFSHelper(left, currentPath + [root.val], &currentSum)
+        }
+        if let right = root.right {
+            sumNumbersDFSHelper(right, currentPath + [root.val], &currentSum)
+        }
+    }
+}

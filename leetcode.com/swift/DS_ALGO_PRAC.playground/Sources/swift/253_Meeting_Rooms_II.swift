@@ -46,3 +46,23 @@ class Solution {
         return occupiedRooms.count
     }
 }
+
+
+
+// Improved Code
+class Solution {
+    func minMeetingRooms(_ intervals: [[Int]]) -> Int {
+        guard intervals.count > 1 else {
+            return 1
+        }
+        let sortedInterval = intervals.sorted { $0[0] < $1[0] }
+        var minHeap: Heap<Int> = Heap<Int>(sort: <)
+        for i in 0..<sortedInterval.count {
+            if let peak = minHeap.peek(), peak <= sortedInterval[i][0] {
+                minHeap.remove()
+            }
+            minHeap.insert(sortedInterval[i][1])
+        }
+        return minHeap.count
+    }
+}
