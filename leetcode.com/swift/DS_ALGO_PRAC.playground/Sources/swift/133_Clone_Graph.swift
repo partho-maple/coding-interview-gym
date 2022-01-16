@@ -15,27 +15,23 @@ import Foundation
 
 class Solution {
     func cloneGraph(_ node: Node?) -> Node? {
-        guard let unWrappedNode = node else { return node}
-        
-        var nodeDict = [Int: Node]()
-        let clonedNode = self.cloneGraphHelper(unWrappedNode, &nodeDict)
-        return clonedNode
+        guard let node = node else { return node}
+        var visited = [Int: Node]()
+        return cloneGraphHelper(node, &visited)
     }
     
-    func cloneGraphHelper(_ node: Node, _ nodeDict: inout [Int: Node]) -> Node {
-        if let existingNode = nodeDict[node.val] {
+    func cloneGraphHelper(_ node: Node, _ visited: inout [Int: Node]) -> Node {
+        if let existingNode = visited[node.val] {
             return existingNode
         }
         
-        var clonedNode = Node(node.val)
-        nodeDict[node.val] = clonedNode
-        node.neighbors.forEach {neighbor in
+        visited[node.val] = Node(node.val)
+        node.neighbors.forEach { neighbor in
             if let unWrappedNeighbor = neighbor {
-                let clonedNeighbour = self.cloneGraphHelper(unWrappedNeighbor, &nodeDict)
-                nodeDict[node.val]?.neighbors.append(clonedNeighbour)
+                visited[node.val]?.neighbors.append(self.cloneGraphHelper(unWrappedNeighbor, &visited))
             }
         }
-        return clonedNode
+        return visited[node.val]!
     }
 }
 

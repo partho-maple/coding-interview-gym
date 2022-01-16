@@ -22,6 +22,8 @@ import Foundation
  *     public func getList() -> [NestedInteger]
  * }
  */
+
+// Old solution
 class Solution {
     func depthSum(_ nestedList: [NestedInteger]) -> Int {
         var wrightSum = 0
@@ -42,10 +44,23 @@ class Solution {
     }
 }
 
-/*
-[[1,1],2,[1,1]]
 
-1*2 + 1*2 + 1*2 +1*2 + 2*1
 
-[[1,1],2,[1,1]]
-*/
+// New solution
+class Solution {
+    func depthSum(_ nestedList: [NestedInteger]) -> Int {
+        return depthSumDFSHelper(nestedList, 1)
+    }
+
+    func depthSumDFSHelper(_ nestedList: [NestedInteger], _ currentDepth: Int) -> Int {
+        var currentSum = 0
+        for nInt in nestedList {
+            if nInt.isInteger() {
+                currentSum += (nInt.getInteger() * currentDepth)
+            } else {
+                currentSum += (depthSumDFSHelper(nInt.getList(), currentDepth + 1))
+            }
+        }
+        return currentSum
+    }
+}
