@@ -21,7 +21,7 @@ def get_Nth_fibonacci(n, memoize = {1: 0, 2: 1}):
         return memoize[n]
 
 # Solution 3: iterative
-# O(2^n) time | O(1) space
+# O(n) time | O(1) space
 def get_Nth_fibonacci(n):
     last_two = [0, 1]
     counter = 3
