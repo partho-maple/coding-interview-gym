@@ -118,7 +118,7 @@ I have solved quite a number of problems from several topics. See the below tabl
 |16| [724. Find Pivot Index](https://leetcode.com/problems/find-pivot-index/)| [Python](https://tinyurl.com/wu6rdaw/724_Find_Pivot_Index.py)| |
 |17| [747. Largest Number At Least Twice of Others](https://leetcode.com/problems/largest-number-at-least-twice-of-others/)| [Python](https://tinyurl.com/wu6rdaw/747_Largest_Number_At_Least_Twice_of_Others.py)| |
 |18| [581. Shortest Unsorted Continuous Subarray](https://leetcode.com/problems/shortest-unsorted-continuous-subarray/solution/)| [Python](https://tinyurl.com/wu6rdaw/581_Shortest_Unsorted_Continuous_Subarray.py)| |
-|19| [904. Fruit Into Baskets](https://leetcode.com/problems/fruit-into-baskets/solution/)| [Python](https://tinyurl.com/wu6rdaw/904_Fruit_Into_Baskets.py)| [Article](https://www.educative.io/courses/grokking-the-coding-interview/Bn2KLlOR0lQ), [Video 1](https://www.youtube.com/watch?v=s_zu2dOkq80), [Video 2](https://www.youtube.com/watch?v=za2YuucS0tw)| Medium | [Sliding Window, Two Pointer](https://github.com/partho-maple/coding-interview-patterns) |
+|19| [904. Fruit Into Baskets](https://leetcode.com/problems/fruit-into-baskets/solution/)| [Python](https://tinyurl.com/wu6rdaw/904_Fruit_Into_Baskets.py)| [Article](https://www.designgurus.io/course-play/grokking-the-coding-interview/doc/fruits-into-baskets-medium), [Video 1](https://www.youtube.com/watch?v=s_zu2dOkq80), [Video 2](https://www.youtube.com/watch?v=za2YuucS0tw)| Medium | [Sliding Window, Two Pointer](https://github.com/partho-maple/coding-interview-patterns) |
 |20| [56. Merge Intervals](https://leetcode.com/problems/merge-intervals/)| [Python](https://tinyurl.com/wu6rdaw/56_Merge_Intervals.py)| [Article](https://leetcode.com/problems/merge-intervals/discuss/21227/7-lines-easy-Python), [Swift](https://tinyurl.com/wuja3c4/56_Merge_Intervals.swift) |
 |21| [334. Increasing Triplet Subsequence](https://leetcode.com/problems/increasing-triplet-subsequence/)| [Python](https://tinyurl.com/wu6rdaw/334_Increasing_Triplet_Subsequence.py)| --- | Medium | --- |
 |22| [792. Number of Matching Subsequences](https://leetcode.com/problems/number-of-matching-subsequences/)| [Python](https://tinyurl.com/wu6rdaw/792_Number_of_Matching_Subsequences.py)| **[Official](https://leetcode.com/problems/number-of-matching-subsequences/discuss/117634/Efficient-and-simple-go-through-words-in-parallel-with-explanation/)** | Medium | **Very tricky. Check again** |
@@ -710,7 +710,7 @@ BFS, DFS, Dijkstra, Floyd–Warshall, Bellman-Ford, Kruskal, Prim's, Minimum Spa
 
 
 
-### 16. [Dynamic Programming](https://www.educative.io/courses/grokking-dynamic-programming-patterns-for-coding-interviews)
+### 16. [Dynamic Programming](https://www.designgurus.io/course/grokking-dynamic-programming)
 
 **Follow [this](https://tinyurl.com/vmmaxbe) golden rule to approach any DP problem.**
 
@@ -1166,8 +1166,8 @@ Check this **[Golden](https://tinyurl.com/uboo399)** posts first.
 <p>
 
 01. [Data Structures in Python: An Interview Refresher](https://www.educative.io/courses/data-structures-in-python-an-interview-refresher)
-02. [Grokking the Coding Interview: Patterns for Coding Questions](https://www.educative.io/courses/grokking-the-coding-interview)
-03. [Grokking Dynamic Programming Patterns for Coding Interviews](https://www.educative.io/courses/grokking-dynamic-programming-patterns-for-coding-interviews)
+02. [Grokking the Coding Interview: Patterns for Coding Questions](https://www.designgurus.io/course/grokking-the-coding-interview)
+03. [Grokking Dynamic Programming Patterns for Coding Interviews](https://www.designgurus.io/course/grokking-dynamic-programming)
 04. [Coding Interview Class](https://codinginterviewclass.com/)
 05. [Competitive Programmer’s Handbook](https://cses.fi/book/book.pdf)
 
