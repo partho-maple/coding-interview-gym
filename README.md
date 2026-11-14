@@ -63,15 +63,15 @@ I have solved quite a number of problems from several topics. See the below tabl
 ## Questions from
 
 - [Leetcode](https://leetcode.com)
-- [Algoexpert.io](Algoexpert.io)
+- [Algoexpert.io](https://www.algoexpert.io/questions)
 
-## My other related repos
+## Other related repos
 
-- [Coding Interview Patterns](https://tinyurl.com/wluap5j)
+- [Coding Interview Patterns](https://tinyurl.com/2p8vd9uv)
 - [Coding Interview Gym](https://tinyurl.com/wt2dbym)
-- [iOS Interview Gym](https://tinyurl.com/wt5vyzq)
-- [Behavioural Interview Gym](https://tinyurl.com/v65wlwf)
-- [System Design Interview Gym](https://tinyurl.com/tr2xkze)
+- [iOS Interview Gym](https://tinyurl.com/2un42c8r)
+- [Behavioural Interview Gym](https://tinyurl.com/f768pyp3)
+- [System Design Interview Gym](https://tinyurl.com/2h8aparb)
 - [Object Oriented Design Interview Gym](https://tinyurl.com/uhlp9sc)
 
 ## My leetcode account
@@ -820,7 +820,7 @@ BFS, DFS, Dijkstra, Floyd–Warshall, Bellman-Ford, Kruskal, Prim's, Minimum Spa
 
 
 
-### 18. Miscellaneous ([Line Swap](https://tinyurl.com/yx5pwdao), [Binary Indexed Tree](), [Segment Tree](https://tinyurl.com/w6jxpcg), [Minimax](https://tinyurl.com/twgbp6n), [Math](https://tinyurl.com/wb2h2mo), AVL Tree, Red-Black Tree, Interval Tree etc)
+### 18. Miscellaneous ([Line Swap](https://tinyurl.com/yx5pwdao), [Binary Indexed Tree](https://tinyurl.com/2p8afnea), [Segment Tree](https://tinyurl.com/w6jxpcg), [Minimax](https://tinyurl.com/twgbp6n), [Math](https://tinyurl.com/wb2h2mo), AVL Tree, Red-Black Tree, Interval Tree etc)
 <details><summary>Leetcode problems with solutions and tutorials/videos</summary>
 <p>
 
